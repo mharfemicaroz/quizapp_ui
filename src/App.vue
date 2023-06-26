@@ -5,7 +5,7 @@
       <form @submit.prevent="loginUser">
         <div class="form-group">
           <label for="username">Username</label>
-          <input type="text" id="username" v-model="login.username" class="form-control" required>
+          <input type="email" id="username" v-model="login.username" class="form-control" required>
         </div>
         <div class="form-group">
           <label for="password">Password</label>
@@ -34,7 +34,8 @@
         </div>
       </div>
       <div v-else-if="loading" class="text-center mt-4">
-        <img src="https://i.pinimg.com/originals/07/24/88/0724884440e8ddd0896ff557b75a222a.gif" width="600" height="600"/>
+        <img src="https://i.pinimg.com/originals/07/24/88/0724884440e8ddd0896ff557b75a222a.gif" width="600"
+          height="600" />
       </div>
       <div v-else>
         <div class="card-lg" v-if="!showAnswers">
@@ -144,14 +145,14 @@ export default {
       return (this.correctAnswers / this.questions.length) * 100;
     },
   },
-  created(){
+  created() {
     this.userdata = userdata;
   },
   methods: {
     loginUser() {
       const matchedUser = this.userdata.find(
         (user) =>
-          user.username === this.login.username && user.password === this.login.password
+          user.email === this.login.username && user.password === this.login.password
       );
 
       if (matchedUser) {
@@ -279,8 +280,15 @@ export default {
         this.selectedSubcategory = null;
       }
     },
-
+    handleContextMenu(event) {
+    event.preventDefault();
   },
+  },
+  mounted() {
+    this.$nextTick(() => {
+      document.body.addEventListener('contextmenu', this.handleContextMenu);
+    });
+  }
 
 };
 </script>
