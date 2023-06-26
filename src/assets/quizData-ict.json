@@ -1,0 +1,482 @@
+[
+    {
+        "question": "What symbol is used to print document?",
+        "choice1": "Ctrl + R",
+        "choice2": "Ctrl + C",
+        "choice3": "Ctrl + P",
+        "choice4": "Ctrl + U",
+        "answerKey": "Ctrl + P"
+    },
+    {
+        "question": "A teacher asks the consistency of material taken from the internet with other available materials. What is he/she concerned about?",
+        "choice1": "coverage",
+        "choice2": "accuracy",
+        "choice3": "currency",
+        "choice4": "relevance",
+        "answerKey": "accuracy"
+    },
+    {
+        "question": "This is modern technology’s response to message previously sent over couriers or post offices",
+        "choice1": "E-Mail",
+        "choice2": "E-Registry",
+        "choice3": "Frailocracia",
+        "choice4": "E-shopping",
+        "answerKey": "E-Mail"
+    },
+    {
+        "question": "\"Environmental and ICT: Enemies or Friends?\" is a title of an article published in a journal. What does the title suggest?",
+        "choice1": "The positive impact of ICT on the environmental is high.",
+        "choice2": "The positive environmental impact of ICT outweighs its potentially negative impact.",
+        "choice3": "ICT can play both positive and negative roles in environmental sustainability.",
+        "choice4": "Either we go for ICT and ruin our environment or sustain our environment and do way with ICT.",
+        "answerKey": "ICT can play both positive and negative roles in environmental sustainability."
+    },
+    {
+        "question": "To reduce electronic waste, implement a recycling system. Which belong to an e-waste recycling system?\n      I. Repair\n      II. Reuse\n      III. Upgrading of existing equipment",
+        "choice1": "II only",
+        "choice2": "I, II and III",
+        "choice3": "I only",
+        "choice4": "I and II",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Social network service available through the computer is",
+        "choice1": "i-pad",
+        "choice2": "Google",
+        "choice3": "Facebook",
+        "choice4": "Wikipedia",
+        "answerKey": "Wikipedia"
+    },
+    {
+        "question": "What is the \"brain\" of a computer?",
+        "choice1": "Software",
+        "choice2": "RAM",
+        "choice3": "Peripheral",
+        "choice4": "CPU",
+        "answerKey": "CPU"
+    },
+    {
+        "question": "Mr. Rico carefully studies the materials he acquired from the internet. He always examines if the author is qualified to present the material. This practice is?",
+        "choice1": "unethical because he does not trust the author.",
+        "choice2": "necessary to ensure that the materials are reliable.",
+        "choice3": "unnecessary because all resources from the internet are dependable.",
+        "choice4": "just a waste of time.",
+        "answerKey": "necessary to ensure that the materials are reliable."
+    },
+    {
+        "question": "When a teacher asks the consistency of a material taken from the internet with other available materials, he/she is concerned with its?",
+        "choice1": "currency",
+        "choice2": "accuracy",
+        "choice3": "coverage",
+        "choice4": "relevance",
+        "answerKey": "accuracy"
+    },
+    {
+        "question": "Someone wrote: \"Environment relates to the profound relationship between matter, nature, and society, and in such a context ICTs bring new ways of living in a more interconnected society, all of which reduces our dependency on matter and effects our relationship with nature\". What do these sentences convey?",
+        "choice1": "Environment affects ICT",
+        "choice2": "ICT impacts on environment.",
+        "choice3": "ICT brings us away from an interconnected society",
+        "choice4": "Environment and ICT are poles apart.",
+        "answerKey": "ICT impacts on environment."
+    },
+    {
+        "question": "A secret word that must be entered into the computer before a person is allowed to get or change information is called____.",
+        "choice1": "password",
+        "choice2": "input",
+        "choice3": "statement",
+        "choice4": "program",
+        "answerKey": "password"
+    },
+    {
+        "question": "Face-to-face communication is made possible via the computer through",
+        "choice1": "twitter",
+        "choice2": "skype",
+        "choice3": "e-mail",
+        "choice4": "google",
+        "answerKey": "skype"
+    },
+    {
+        "question": "Activities connected by a computer system is described as ____________________.",
+        "choice1": "Virtual",
+        "choice2": "Distance",
+        "choice3": "Online",
+        "choice4": "Network",
+        "answerKey": "Network"
+    },
+    {
+        "question": "Like the typewriter, the computer has a ______________.",
+        "choice1": "Cursor",
+        "choice2": "Screen",
+        "choice3": "disk drive",
+        "choice4": "Keyboard",
+        "answerKey": "Keyboard"
+    },
+    {
+        "question": "What do you call the worldwide system if computer networks – network of networks in which users at any one computer can, if they have permission, get information from another computer?",
+        "choice1": "Intranet",
+        "choice2": "WAN",
+        "choice3": "Internet",
+        "choice4": "LAN",
+        "answerKey": "Internet"
+    },
+    {
+        "question": "When is it most important to scan a computer's drives for viruses Immediately after ____.",
+        "choice1": "downloading a text file from a government website",
+        "choice2": "Shutting down a computer improperly",
+        "choice3": "defragmenting a computer's hard disk",
+        "choice4": "installing software from a disk created by a friend",
+        "answerKey": "installing software from a disk created by a friend"
+    },
+    {
+        "question": "It is a term to denote a whole range of technologies associated with processing information and with sending and receiving messages.",
+        "choice1": "Instructional Systems Design",
+        "choice2": "Information and Communication Technology",
+        "choice3": "Media Technology",
+        "choice4": "Educational Technology",
+        "answerKey": "Information and Communication Technology"
+    },
+    {
+        "question": "Which is the standard input device that accepts letters, numbers and commands from the user?",
+        "choice1": "Lightpen",
+        "choice2": "Trackpad",
+        "choice3": "Mouse",
+        "choice4": "Keyboard",
+        "answerKey": "Keyboard"
+    },
+    {
+        "question": "This is considered to be the first manual data processing device developed in China in the 12th century A.D.",
+        "choice1": "Printing Press",
+        "choice2": "Hieroglyphics",
+        "choice3": "Papyrus",
+        "choice4": "Abacus",
+        "answerKey": "Abacus"
+    },
+    {
+        "question": "Like the typewriter, the computer has a _____.",
+        "choice1": "disk drive",
+        "choice2": "keyboard",
+        "choice3": "cursor",
+        "choice4": "screen",
+        "answerKey": "keyboard"
+    },
+    {
+        "question": "Which enables the computer to communicate with other computers over the telephone?",
+        "choice1": "Hypermedia",
+        "choice2": "Modem",
+        "choice3": "Network",
+        "choice4": "Internet",
+        "answerKey": "Modem"
+    },
+    {
+        "question": "Virtual face-to-face communication is made possible by this software.",
+        "choice1": "Twitter",
+        "choice2": "Skype",
+        "choice3": "Google",
+        "choice4": "Facebook",
+        "answerKey": "Skype"
+    },
+    {
+        "question": "In writing a letter, which productivity tool is used?",
+        "choice1": "PageMaker",
+        "choice2": "Publisher",
+        "choice3": "Spreadsheet",
+        "choice4": "Word processing",
+        "answerKey": "Word processing"
+    },
+    {
+        "question": "Messages are easily transported anywhere in the world through the _____________.",
+        "choice1": "E-mail",
+        "choice2": "E-registry",
+        "choice3": "E-learning",
+        "choice4": "E-shopping",
+        "answerKey": "E-mail"
+    },
+    {
+        "question": "What does digital divide refer to?\n     I. The gap between people with effective access to digital and information technology and those with very limited or no \n         access at all\n     II. The imbalance both in physical access to Technology and the resources and skills needed to for effective \n         participation  \n     III. The gap in the ages of ICT users",
+        "choice1": "II only",
+        "choice2": "III only",
+        "choice3": "I and II",
+        "choice4": "III only",
+        "answerKey": "I and II"
+    },
+    {
+        "question": "Which desktop icon can be used to access the files and programs in the computer?",
+        "choice1": "My Computer",
+        "choice2": "Taskbar",
+        "choice3": "My Briefcase",
+        "choice4": "My Documents",
+        "answerKey": "My Computer"
+    },
+    {
+        "question": "It is with sending and receiving messages.",
+        "choice1": "Media Technology",
+        "choice2": "Educational Technology",
+        "choice3": "Instructional Systems Design",
+        "choice4": "Information and Communication Technology",
+        "answerKey": "Information and Communication Technology"
+    },
+    {
+        "question": "The search for related literature by accessing several data bases by the use of a telephone line to connect a computer library with other computers that have database is termed_____.",
+        "choice1": "on-line search",
+        "choice2": "manual search",
+        "choice3": "computer search",
+        "choice4": "compact disc search",
+        "answerKey": "on-line search"
+    },
+    {
+        "question": "ALT is the symbol for ________________.",
+        "choice1": "Control key",
+        "choice2": "Enter key",
+        "choice3": "Alter key",
+        "choice4": "Back space",
+        "answerKey": "Alter key"
+    },
+    {
+        "question": "In line with the Green Use of ICT and Disposal, which should be done when a device breaks down?\n      I. Refurbish them\n      II. Break it apart in order to use the components and parts \n      III. Use parts a spare",
+        "choice1": "I, II and III",
+        "choice2": "II only",
+        "choice3": "I and II",
+        "choice4": "I only",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Social network service available through the computer is",
+        "choice1": "i-pad",
+        "choice2": "Facebook",
+        "choice3": "Wikipedia",
+        "choice4": "Google",
+        "answerKey": "Wikipedia"
+    },
+    {
+        "question": "It is with sending and receiving messages.",
+        "choice1": "Educational Technology",
+        "choice2": "Media Technology",
+        "choice3": "Instructional Systems Design",
+        "choice4": "Information and Communication Technology",
+        "answerKey": "Information and Communication Technology"
+    },
+    {
+        "question": "Someone wrote: \"Environment relates to the profound relationship between matter, nature, and society, and in such a context ICTs bring new ways of living in a more interconnected society, all of which reduces our dependency on matter and effects our relationship with nature\". What do these sentences convey?",
+        "choice1": "ICT brings us away from an interconnected society",
+        "choice2": "Environment and ICT are poles apart.",
+        "choice3": "ICT impacts on environment.",
+        "choice4": "Environment affects ICT",
+        "answerKey": "ICT impacts on environment."
+    },
+    {
+        "question": "What symbol is used to print document?",
+        "choice1": "Ctrl + U",
+        "choice2": "Ctrl + R",
+        "choice3": "Ctrl + C",
+        "choice4": "Ctrl + P",
+        "answerKey": "Ctrl + P"
+    },
+    {
+        "question": "\"Environmental and ICT: Enemies or Friends?\" is a title of an article published in a journal. What does the title suggest?",
+        "choice1": "The positive environmental impact of ICT outweighs its potentially negative impact.",
+        "choice2": "Either we go for ICT and ruin our environment or sustain our environment and do way with ICT.",
+        "choice3": "ICT can play both positive and negative roles in environmental sustainability.",
+        "choice4": "The positive impact of ICT on the environmental is high.",
+        "answerKey": "ICT can play both positive and negative roles in environmental sustainability."
+    },
+    {
+        "question": "When a teacher asks the consistency of a material taken from the internet with other available materials, he/she is concerned with its?",
+        "choice1": "currency",
+        "choice2": "relevance",
+        "choice3": "accuracy",
+        "choice4": "coverage",
+        "answerKey": "accuracy"
+    },
+    {
+        "question": "ALT is the symbol for ________________.",
+        "choice1": "Control key",
+        "choice2": "Enter key",
+        "choice3": "Back space",
+        "choice4": "Alter key",
+        "answerKey": "Alter key"
+    },
+    {
+        "question": "Which desktop icon can be used to access the files and programs in the computer?",
+        "choice1": "My Briefcase",
+        "choice2": "My Documents",
+        "choice3": "My Computer",
+        "choice4": "Taskbar",
+        "answerKey": "My Computer"
+    },
+    {
+        "question": "Which enables the computer to communicate with other computers over the telephone?",
+        "choice1": "Hypermedia",
+        "choice2": "Modem",
+        "choice3": "Internet",
+        "choice4": "Network",
+        "answerKey": "Modem"
+    },
+    {
+        "question": "Virtual face-to-face communication is made possible by this software.",
+        "choice1": "Google",
+        "choice2": "Twitter",
+        "choice3": "Facebook",
+        "choice4": "Skype",
+        "answerKey": "Skype"
+    },
+    {
+        "question": "The search for related literature by accessing several data bases by the use of a telephone line to connect a computer library with other computers that have database is termed_____.",
+        "choice1": "on-line search",
+        "choice2": "computer search",
+        "choice3": "compact disc search",
+        "choice4": "manual search",
+        "answerKey": "on-line search"
+    },
+    {
+        "question": "This is modern technology’s response to message previously sent over couriers or post offices",
+        "choice1": "E-Mail",
+        "choice2": "E-Registry",
+        "choice3": "Frailocracia",
+        "choice4": "E-shopping",
+        "answerKey": "E-Mail"
+    },
+    {
+        "question": "What do you call the worldwide system if computer networks – network of networks in which users at any one computer can, if they have permission, get information from another computer?",
+        "choice1": "LAN",
+        "choice2": "Internet",
+        "choice3": "WAN",
+        "choice4": "Intranet",
+        "answerKey": "Internet"
+    },
+    {
+        "question": "A teacher asks the consistency of material taken from the internet with other available materials. What is he/she concerned about?",
+        "choice1": "coverage",
+        "choice2": "currency",
+        "choice3": "accuracy",
+        "choice4": "relevance",
+        "answerKey": "accuracy"
+    },
+    {
+        "question": "In line with the Green Use of ICT and Disposal, which should be done when a device breaks down?\n      I. Refurbish them\n      II. Break it apart in order to use the components and parts \n      III. Use parts a spare",
+        "choice1": "I and II",
+        "choice2": "I, II and III",
+        "choice3": "II only",
+        "choice4": "I only",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Face-to-face communication is made possible via the computer through",
+        "choice1": "e-mail",
+        "choice2": "twitter",
+        "choice3": "skype",
+        "choice4": "google",
+        "answerKey": "skype"
+    },
+    {
+        "question": "Messages are easily transported anywhere in the world through the _____________.",
+        "choice1": "E-mail",
+        "choice2": "E-registry",
+        "choice3": "E-learning",
+        "choice4": "E-shopping",
+        "answerKey": "E-mail"
+    },
+    {
+        "question": "This is considered to be the first manual data processing device developed in China in the 12th century A.D.",
+        "choice1": "Papyrus",
+        "choice2": "Printing Press",
+        "choice3": "Abacus",
+        "choice4": "Hieroglyphics",
+        "answerKey": "Abacus"
+    },
+    {
+        "question": "To reduce electronic waste, implement a recycling system. Which belong to an e-waste recycling system?\n      I. Repair\n      II. Reuse\n      III. Upgrading of existing equipment",
+        "choice1": "II only",
+        "choice2": "I only",
+        "choice3": "I, II and III",
+        "choice4": "I and II",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Mr. Rico carefully studies the materials he acquired from the internet. He always examines if the author is qualified to present the material. This practice is?",
+        "choice1": "unnecessary because all resources from the internet are dependable.",
+        "choice2": "unethical because he does not trust the author.",
+        "choice3": "just a waste of time.",
+        "choice4": "necessary to ensure that the materials are reliable.",
+        "answerKey": "necessary to ensure that the materials are reliable."
+    },
+    {
+        "question": "Like the typewriter, the computer has a _____.",
+        "choice1": "screen",
+        "choice2": "cursor",
+        "choice3": "keyboard",
+        "choice4": "disk drive",
+        "answerKey": "keyboard"
+    },
+    {
+        "question": "What is the \"brain\" of a computer?",
+        "choice1": "Software",
+        "choice2": "Peripheral",
+        "choice3": "RAM",
+        "choice4": "CPU",
+        "answerKey": "CPU"
+    },
+    {
+        "question": "Like the typewriter, the computer has a ______________.",
+        "choice1": "Keyboard",
+        "choice2": "disk drive",
+        "choice3": "Cursor",
+        "choice4": "Screen",
+        "answerKey": "Keyboard"
+    },
+    {
+        "question": "It is a term to denote a whole range of technologies associated with processing information and with sending and receiving messages.",
+        "choice1": "Educational Technology",
+        "choice2": "Instructional Systems Design",
+        "choice3": "Information and Communication Technology",
+        "choice4": "Media Technology",
+        "answerKey": "Information and Communication Technology"
+    },
+    {
+        "question": "Activities connected by a computer system is described as ____________________.",
+        "choice1": "Network",
+        "choice2": "Online",
+        "choice3": "Distance",
+        "choice4": "Virtual",
+        "answerKey": "Network"
+    },
+    {
+        "question": "Which is the standard input device that accepts letters, numbers and commands from the user?",
+        "choice1": "Mouse",
+        "choice2": "Lightpen",
+        "choice3": "Keyboard",
+        "choice4": "Trackpad",
+        "answerKey": "Keyboard"
+    },
+    {
+        "question": "In writing a letter, which productivity tool is used?",
+        "choice1": "Word processing",
+        "choice2": "Publisher",
+        "choice3": "PageMaker",
+        "choice4": "Spreadsheet",
+        "answerKey": "Word processing"
+    },
+    {
+        "question": "A secret word that must be entered into the computer before a person is allowed to get or change information is called____.",
+        "choice1": "program",
+        "choice2": "password",
+        "choice3": "statement",
+        "choice4": "input",
+        "answerKey": "password"
+    },
+    {
+        "question": "When is it most important to scan a computer's drives for viruses Immediately after ____.",
+        "choice1": "defragmenting a computer's hard disk",
+        "choice2": "installing software from a disk created by a friend",
+        "choice3": "Shutting down a computer improperly",
+        "choice4": "downloading a text file from a government website",
+        "answerKey": "installing software from a disk created by a friend"
+    },
+    {
+        "question": "What does digital divide refer to?\n     I. The gap between people with effective access to digital and information technology and those with very limited or no \n         access at all\n     II. The imbalance both in physical access to Technology and the resources and skills needed to for effective \n         participation  \n     III. The gap in the ages of ICT users",
+        "choice1": "I and II",
+        "choice2": "III only",
+        "choice3": "III only",
+        "choice4": "II only",
+        "answerKey": "I and II"
+    }
+]

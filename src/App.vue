@@ -116,7 +116,7 @@ export default {
       categories: [
         {
           name: 'General Education',
-          subcategories: ['English', 'Filipino', 'Science', 'Math'],
+          subcategories: ['English', 'Filipino', 'Science', 'Math', 'ICT'],
         },
         {
           name: 'Professional Education',
@@ -212,6 +212,11 @@ export default {
           break;
         case 'Math':
           import('./assets/quizData-math.json').then((module) => {
+            this.initializeQuiz(module.default);
+          });
+          break;
+        case 'ICT':
+          import('./assets/quizData-ict.json').then((module) => {
             this.initializeQuiz(module.default);
           });
           break;
