@@ -16,7 +16,7 @@
     </div>
     <div v-else>
       <div v-if="!selectedCategory">
-        <h2>Select a Category</h2>
+        <h2 style="margin-bottom: 25px;">Select a Category</h2>
         <div class="categories">
           <button v-for="category in categories" :key="category.name" @click="selectCategory(category)"
             class="btn btn-primary btn-lg category">
@@ -39,7 +39,7 @@
       <div v-else>
         <div class="card-lg" v-if="!showAnswers">
           <div class="card-body">
-            <h4 class="card-title question">{{ currentQuestion.question }}</h4>
+            <h4 class="card-title question" style="margin-bottom: 60px;">{{ currentQuestion.question }}</h4>
             <div class="choices-container">
               <button v-for="choice in shuffledChoices" :key="choice" @click="selectChoice(choice)"
                 class="btn btn-primary" :disabled="quizFinished">
@@ -89,6 +89,7 @@
 <script>
 import Swal from 'sweetalert2';
 import axios from 'axios';
+import userdata from './assets/userdata.json'
 
 export default {
   data() {
@@ -143,16 +144,12 @@ export default {
       return (this.correctAnswers / this.questions.length) * 100;
     },
   },
+  created(){
+    this.userdata = userdata;
+  },
   methods: {
     loginUser() {
-      // Check if the username and password match the record in jsonUserData
-      // Replace this logic with your own implementation
-      const jsonUserData = [
-        { username: 'su', password: '0' },
-        { username: 'user', password: '0' },
-      ];
-
-      const matchedUser = jsonUserData.find(
+      const matchedUser = this.userdata.find(
         (user) =>
           user.username === this.login.username && user.password === this.login.password
       );
@@ -243,9 +240,6 @@ export default {
         category: this.selectedCategory.name,
         subcategory: this.selectedSubcategory,
       };
-
-
-
       axios
         .post('https://api.knp.edu.ph/api/public/api/results', resultData)
         .then(() => {
