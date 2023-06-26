@@ -1,0 +1,4282 @@
+[
+  {
+    "question": "\"Ang iyong mga mata ay waring mga bituin sa kalangitan.\" Anong tayutay ang ginamit dito?",
+    "choice1": "Pang-uyam",
+    "choice2": "Aktor",
+    "choice3": "Pagtutulad",
+    "choice4": "Pagwawangis",
+    "answerKey": "Pagtutulad"
+  },
+  {
+    "question": "Aling pamaraan ang ginagamit ng guro na nagsisimula sa mga halimbawa patungo sa paglalahat?",
+    "choice1": "Pabalak",
+    "choice2": "Patuklas",
+    "choice3": "Pasaklaw",
+    "choice4": "Pabuod",
+    "answerKey": "Pabuod"
+  },
+  {
+    "question": "Ang ABRIGO na ibinigay sa may kaarawan ay makulay.",
+    "choice1": "Balabal",
+    "choice2": "Pamaypay",
+    "choice3": "Tela",
+    "choice4": "Banig",
+    "answerKey": "Balabal"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang pang akademikong gamit ng wika?",
+    "choice1": "Pagtanaw",
+    "choice2": "Pagsasaliksik",
+    "choice3": "Kwentuhan",
+    "choice4": "Pagaalinlangan",
+    "answerKey": "Pagsasaliksik"
+  },
+  {
+    "question": "Alin ang may wastong baybay ?",
+    "choice1": "kurokuro",
+    "choice2": "Iba’t-iba",
+    "choice3": "Gamugamo",
+    "choice4": "Paru-paro",
+    "answerKey": "Gamugamo"
+  },
+  {
+    "question": "Alin sa m sumusunod ang salitang Pambansa ?",
+    "choice1": "Pinoy",
+    "choice2": "kamusta",
+    "choice3": "Nagdadalantao",
+    "choice4": "Mapagkumbaba",
+    "answerKey": "Mapagkumbaba"
+  },
+  {
+    "question": "Alin ang naganap na pagbabagong morpoponemiko sa salitang Tagalog ?",
+    "choice1": "Pag-aangkop",
+    "choice2": "Asimilasyon",
+    "choice3": "Pagpapalit",
+    "choice4": "Metatesis",
+    "answerKey": "Pag-aangkop"
+  },
+  {
+    "question": "Ang akdang hindi nauukol sa relihiyon noong panahon ng Kastila",
+    "choice1": "Alay",
+    "choice2": "Senakulo",
+    "choice3": "Panubong",
+    "choice4": "Dalit",
+    "answerKey": "Panubong"
+  },
+  {
+    "question": "Ang isang maliit na pangkat ng formal o makabuluhang katangian na nauugnay sa partikular na uri ng katangiang sosyo-sitwasyonal",
+    "choice1": "idyolek",
+    "choice2": "varayti",
+    "choice3": "mode",
+    "choice4": "rehistro",
+    "answerKey": "varayti"
+  },
+  {
+    "question": "Ang katawagan sa pangngalan, pang-abay, pang-uri at pandiwa ay",
+    "choice1": "Pangnilalaman",
+    "choice2": "Pangkayarian",
+    "choice3": "Palabuuan",
+    "choice4": "Palaugnayan",
+    "answerKey": "Pangnilalaman"
+  },
+  {
+    "question": "Alin sa mga sumusunod ay halimbawa ng pangungusap na walang paksa?",
+    "choice1": "Grabe!",
+    "choice2": "Ang pagkatalo ng Warriors sa Raptors",
+    "choice3": "Sa palagay ko",
+    "choice4": "Ang nahanap kagabi",
+    "answerKey": "Grabe!"
+  },
+  {
+    "question": "Kunin mo ang walis at ________ at maglilinis ako.",
+    "choice1": "Pang-dakot",
+    "choice2": "Pangdakot",
+    "choice3": "Pandakot",
+    "choice4": "Pamdakot",
+    "answerKey": "Pandakot"
+  },
+  {
+    "question": "\"Malalim ang bulsa ,” ng kanyang nanay . Ang ibig sabihin nito ay _________________.",
+    "choice1": "walang pera",
+    "choice2": "Kuripot",
+    "choice3": "mapera",
+    "choice4": "mapagbigay",
+    "answerKey": "Kuripot"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang may wastong gamit ng tinig ng pandiwa?",
+    "choice1": "Kinuha ni Marie ang hinog na papaya sa puno.",
+    "choice2": "Ang hinog na papaya na kinuha sa puno ni Marie.",
+    "choice3": "Kinuha sa puno ang hinog na papaya ni Marie.",
+    "choice4": "Papayang hinog ang kinuha sa puno ni Marie.",
+    "answerKey": "Kinuha ni Marie ang hinog na papaya sa puno."
+  },
+  {
+    "question": "Ang tulang may bilang 5-7-5 na saknong ay tinatawag na_____.",
+    "choice1": "Tanaga",
+    "choice2": "Malaya",
+    "choice3": "Haiku",
+    "choice4": "Duplo",
+    "answerKey": "Haiku"
+  },
+  {
+    "question": "Ang aklat ni Dr. Tinsley Harrison ang ___________ sa pag-aaral na medisina.",
+    "choice1": "sandigan",
+    "choice2": "pundasyon",
+    "choice3": "batayan",
+    "choice4": "saligan",
+    "answerKey": "pundasyon"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang di-mahalag ang salik sa pagtatalumpati?",
+    "choice1": "Paksa",
+    "choice2": "Okasyon",
+    "choice3": "Pagyayabang",
+    "choice4": "Tagapakinig",
+    "answerKey": "Pagyayabang"
+  },
+  {
+    "question": "Aling ang kahulugan ng ampalayang-ampalaya?",
+    "choice1": "Takot",
+    "choice2": "Kuripot",
+    "choice3": "Lokohin",
+    "choice4": "Makulit",
+    "answerKey": "Kuripot"
+  },
+  {
+    "question": "______na ng magaling na barbero ang buhok ni Felix.",
+    "choice1": "Gugupitin",
+    "choice2": "Maggugupit",
+    "choice3": "Hahagupitin",
+    "choice4": "Gugupitan",
+    "answerKey": "Gugupitin"
+  },
+  {
+    "question": "Alin ang pinakamalapit na salin ng “You are the apple of my eye.”",
+    "choice1": "Ikaw ay kasing ganda ng mansanas.",
+    "choice2": "Ibibili kita ng mansanas",
+    "choice3": "Ikaw ay maganda sa aking paningin",
+    "choice4": "Ikaw ang paborito ko",
+    "answerKey": "Ikaw ang paborito ko"
+  },
+  {
+    "question": "Alin dito ang ginagamit sa pagtuturo ng panitikan lalo na sa pagkasunod-sunod ng mga pangyayari sa kwento?",
+    "choice1": "Character web",
+    "choice2": "Decoding",
+    "choice3": "Story frame",
+    "choice4": "Story grammar",
+    "answerKey": "Story frame"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang pinaka tamang pangungusap?",
+    "choice1": "Ang mga kabataan ay naglalaro at nagtatakbuhan sa lansangan kung maliwanag ang gabi.",
+    "choice2": "Ang mga kabataan kung maliwanag ang buwan ay nagtatakbuhan sa lansangan at naglalaro.",
+    "choice3": "Ang mga kabataan sa lansangan ay naglalaro at nag tatakbuhan sa lansangan.",
+    "choice4": "Ang kabataan ay naglalaro kung maliwanag ang buwan at nagtatakbuhan sa lansangan.",
+    "answerKey": "Ang mga kabataan ay naglalaro at nagtatakbuhan sa lansangan kung maliwanag ang gabi."
+  },
+  {
+    "question": "Alin sa mga sumusunod na pangkat ng salita ay magkasalungat?",
+    "choice1": "kanugnog , kalapit , karatig",
+    "choice2": "naguguluhan, nagugulumihan",
+    "choice3": "amok , mahinahon",
+    "choice4": "piging, handaan",
+    "answerKey": "amok , mahinahon"
+  },
+  {
+    "question": "Alin ang wastong paraan ng pagsulat ng dayuhang salitang inuunlapian?",
+    "choice1": "mag-shampoo",
+    "choice2": "rugby-han",
+    "choice3": "magtext",
+    "choice4": "nag-ba-ballet",
+    "answerKey": "mag-shampoo"
+  },
+  {
+    "question": "Alin dito ang gamit sa pagtuturo ng replica na yari sa isang tunay o sintetik na material?",
+    "choice1": "Ispesimen",
+    "choice2": "Papet",
+    "choice3": "Mock-up",
+    "choice4": "Dayorama",
+    "answerKey": "Mock-up"
+  },
+  {
+    "question": "Ang gintong panahon ng mga manunulat noong panahon ng Amerikano ay batid sa uring",
+    "choice1": "Sanaysay",
+    "choice2": "Panulaan",
+    "choice3": "Maikling kwento",
+    "choice4": "Nobela",
+    "answerKey": "Maikling kwento"
+  },
+  {
+    "question": "Alin sa mga ito ang nagpapahayag sa paraang organisado at artistiko maging tuluyan o sa berso na nagmula sa imahinasyon?",
+    "choice1": "Epiko",
+    "choice2": "Sanaysay",
+    "choice3": "Panitikan",
+    "choice4": "Panulaan",
+    "answerKey": "Panitikan"
+  },
+  {
+    "question": "\"Katulad ng wika ang isang samahan. Sa matabang lupa kusang lalago ito kung may sapat na tubig at liwanag.\" Ang pahayag na ito ni Tengonciang ay umaayon sa __________.",
+    "choice1": "puristang paniniwala",
+    "choice2": "intelektwalisasyon",
+    "choice3": "Taglish",
+    "choice4": "dekolonisasyon",
+    "answerKey": "puristang paniniwala"
+  },
+  {
+    "question": "Ang DAMUHO ay may asawa pala.",
+    "choice1": "Kabiyak",
+    "choice2": "Di- mapagkakatiwalaan",
+    "choice3": "Tanga",
+    "choice4": "Salbahe",
+    "answerKey": "Salbahe"
+  },
+  {
+    "question": "Ang alpabeto ng ating mga ninuno noong panahong prekolonyal ay tinatawag na...",
+    "choice1": "Alibaba",
+    "choice2": "Alibata",
+    "choice3": "Baybayin",
+    "choice4": "Abakada",
+    "answerKey": "Baybayin"
+  },
+  {
+    "question": "Ang paniniwala sa Diyos ay susi upang matamo natin ang _______.",
+    "choice1": "kaligtasan",
+    "choice2": "kabutihan",
+    "choice3": "kadakilaan",
+    "choice4": "salbasyon",
+    "answerKey": "kaligtasan"
+  },
+  {
+    "question": "Ang pagkawala ng ilang salita at pagdaragdag ng mga bagong salita ay nagsasaad na ang salita ay _____.",
+    "choice1": "Binibigkas",
+    "choice2": "Arbitraryo",
+    "choice3": "Nagbabago",
+    "choice4": "Mabalangkas",
+    "answerKey": "Nagbabago"
+  },
+  {
+    "question": "Ano ang ibig sabihin ng, “isang kahig, isang tuka”?",
+    "choice1": "Pamumuhay tulad ng mga manok",
+    "choice2": "Matinging pagdarahop",
+    "choice3": "Lubhang karukhaan",
+    "choice4": "Mariwasang pamumuhay",
+    "answerKey": "Lubhang karukhaan"
+  },
+  {
+    "question": "Ang panukalang inihain niya ay lubhang malalim at mahirap arukin.",
+    "choice1": "Unawain",
+    "choice2": "Sukatin",
+    "choice3": "Abutin",
+    "choice4": "Tanggalin",
+    "answerKey": "Unawain"
+  },
+  {
+    "question": "Ang salitang APARTMENT ay binubuo ng dalawang klaster. Tukuyin ito.",
+    "choice1": "Rt at tm",
+    "choice2": "Tm at nt",
+    "choice3": "Rt at nt",
+    "choice4": "Pr at tm",
+    "answerKey": "Rt at nt"
+  },
+  {
+    "question": "Ano ang kahulugan ng tagbising panahon?",
+    "choice1": "Tag-tuyot",
+    "choice2": "Tag-ulan",
+    "choice3": "Tag-init",
+    "choice4": "Tag-lamig",
+    "answerKey": "Tag-tuyot"
+  },
+  {
+    "question": "Ang magkaibigan  ay mag KARATIG pook lamang.",
+    "choice1": "Kabihasnan",
+    "choice2": "Kamasa",
+    "choice3": "Kasing laki",
+    "choice4": "Kalapit",
+    "answerKey": "Kalapit"
+  },
+  {
+    "question": "Ang pagyayabang ay dapat iwasan sa anong uri ng talastasan?",
+    "choice1": "Talumpati",
+    "choice2": "Kwentuhan",
+    "choice3": "Liham",
+    "choice4": "Pagbati",
+    "answerKey": "Talumpati"
+  },
+  {
+    "question": "Ang saging kailanman ay di magbubunga ng santol. Ang salawikain ay nagpapahiwatig na:",
+    "choice1": "Walang bungang di galling sa sariling puno",
+    "choice2": "Walang pagbabago ang anuman",
+    "choice3": "Maaaring magbunga ng bayabas ang isang punong santol",
+    "choice4": "Ang bunga ng isangkahoy ay galling sasarilinglahi",
+    "answerKey": "Walang bungang di galling sa sariling puno"
+  },
+  {
+    "question": "Ang simbolong kumakatawan sa mga bagay at pangyayaring nais ipahayag ng tao sa kanyang kapwa ay ____.",
+    "choice1": "Wika",
+    "choice2": "Tunog",
+    "choice3": "Sining",
+    "choice4": "Bokabularyo",
+    "answerKey": "Wika"
+  },
+  {
+    "question": "Ang pagdadasal at pananlig ay ________ sa tao at mapalapit siya sa Diyos.",
+    "choice1": "nakakatulungan",
+    "choice2": "nakakatulong",
+    "choice3": "mag-tulungan",
+    "choice4": "nakatutulong",
+    "answerKey": "nakatutulong"
+  },
+  {
+    "question": "Ang mga mata ng may matataas  na tungkulin ay maagap sa pagbibigay ng ulat. Ano ang kumakatawan sa salitang nasalungguhitan?",
+    "choice1": "gamit sa paningin",
+    "choice2": "espiya",
+    "choice3": "matitikas",
+    "choice4": "maganda",
+    "answerKey": "espiya"
+  },
+  {
+    "question": "Ang magkaibigan ay mag karatig pook lamang. Ano ang Karatig?",
+    "choice1": "kamasa",
+    "choice2": "Kalapit",
+    "choice3": "Kalaban",
+    "choice4": "Kasama",
+    "answerKey": "Kalapit"
+  },
+  {
+    "question": "Ano ang kayarian ng pangungusap na ito? “Nakipag kita sa Pangulo ang mga senador at kinatawan sa Batasan pambansa.”",
+    "choice1": "Payak",
+    "choice2": "Hugnayan",
+    "choice3": "Tambalan",
+    "choice4": "Langkapan",
+    "answerKey": "Tambalan"
+  },
+  {
+    "question": "Ang paggamit ng PUTTING KALAPATI bilang sagisag ng kapayapaan ay tinatawag na:",
+    "choice1": "Naturalismo",
+    "choice2": "Simbolismo",
+    "choice3": "Imahinismo",
+    "choice4": "Realismo",
+    "answerKey": "Simbolismo"
+  },
+  {
+    "question": "Ang pamilya Yulo ay may MABABANG-LOOB sa mga taong nangangailangan.",
+    "choice1": "Maawain",
+    "choice2": "Mapagpala",
+    "choice3": "Matabil",
+    "choice4": "Mayabang",
+    "answerKey": "Mayabang"
+  },
+  {
+    "question": "Ano ang pokus ng pandiwa sa pahayag na “Bumili ng bagong sasakyan si Angelo”?",
+    "choice1": "Pokus sa aktor",
+    "choice2": "Pokus sa sanhi",
+    "choice3": "Pokus sa direksyon",
+    "choice4": "Pokus sa kagamitan",
+    "answerKey": "Pokus sa aktor"
+  },
+  {
+    "question": "Ano ang bantas na ginagamit sa pagitan ng panlaping ika at tambilang?",
+    "choice1": "Kuwit",
+    "choice2": "Panaklong",
+    "choice3": "Gitling",
+    "choice4": "Tuldok",
+    "answerKey": "Gitling"
+  },
+  {
+    "question": "Ang pagpapalitan ng mga ideya, opinion, salaysay sa pamamagitan ng mga sagisag ay tinatawag na _____.",
+    "choice1": "talastasan",
+    "choice2": "paglalahad",
+    "choice3": "Pakikinig",
+    "choice4": "Pagtuklas",
+    "answerKey": "talastasan"
+  },
+  {
+    "question": "Ang panahong ito ay itinuring na gintong panahon sa panitikan.",
+    "choice1": "Hapon",
+    "choice2": "Amerikano",
+    "choice3": "Aktibismo",
+    "choice4": "Kastila",
+    "answerKey": "Hapon"
+  },
+  {
+    "question": "Ano ang kahulugan ng idyomang ginamit sa pangungusap na “Marami sa mga magsasaka ang INALAT dahil sa patuloy na pagbuhos ng ulan.”",
+    "choice1": "Minalas",
+    "choice2": "Nagalit",
+    "choice3": "Nawalan ng pag-asa",
+    "choice4": "Nanibago",
+    "answerKey": "Minalas"
+  },
+  {
+    "question": "Ang pariralang nalaglag-nahulog ay nagpapakahulugan ng _________________.",
+    "choice1": "Magkasalungat",
+    "choice2": "Magakahawig",
+    "choice3": "Magkapares",
+    "choice4": "Idyoma",
+    "answerKey": "Magakahawig"
+  },
+  {
+    "question": "Ang salin sa blangko para sa blank ay halimbawa ng pagtutumbas na _______.",
+    "choice1": "panghihiram ng salitang katutubo",
+    "choice2": "Panghiram sa Espanyol at pagbaybay sa Filipino",
+    "choice3": "Kung ano ang bigkas siyang sulat",
+    "choice4": "Paggamit ng leksikong Filipino",
+    "answerKey": "Panghiram sa Espanyol at pagbaybay sa Filipino"
+  },
+  {
+    "question": "Ang wastong kahulugan ng: The present problem is only a storm in a tea cup.",
+    "choice1": "Bale-wala",
+    "choice2": "Matagumpay",
+    "choice3": "Buong puso",
+    "choice4": "May galit",
+    "answerKey": "Bale-wala"
+  },
+  {
+    "question": "Ano ang anyo ng salitang may salungguhit sa, “ Ang magtanim ng hangin, bagyo ang aanihin.”",
+    "choice1": "Pangngalan",
+    "choice2": "Pang-abay",
+    "choice3": "Pawatas",
+    "choice4": "Pandiwa",
+    "answerKey": "Pandiwa"
+  },
+  {
+    "question": "Ang pagbibigay ng diploma ay nasa huling bahagi ng__________.",
+    "choice1": "palatuntunan",
+    "choice2": "programa",
+    "choice3": "palabas",
+    "choice4": "bilada",
+    "answerKey": "programa"
+  },
+  {
+    "question": "Ang mga salitang teka, saan, tena, dali ay nagtataglay ng",
+    "choice1": "Asimilasyon",
+    "choice2": "Tono",
+    "choice3": "Metatesis",
+    "choice4": "Pagkaltas",
+    "answerKey": "Pagkaltas"
+  },
+  {
+    "question": "Ang nagsasalaysay sa tulay ay tinatawag na____.",
+    "choice1": "Tauhan",
+    "choice2": "Mananalaysay",
+    "choice3": "Kuwentista",
+    "choice4": "Persona",
+    "answerKey": "Persona"
+  },
+  {
+    "question": "Ang kaugnayan ng pagkakapatay kina Burgos, Gomez at Zamora sa panitikang Pilipino ay",
+    "choice1": "Naimpluwensyahan ang diwang alipin ng mga Pilipino",
+    "choice2": "Nanatiling masigla ang diwang Pilipino",
+    "choice3": "Natutong lumabag sa batas at lumaban sa may kapangyarihan ang mga Pilipino",
+    "choice4": "Nakagising sa damdaming makabayan ng mga Pilipino",
+    "answerKey": "Nakagising sa damdaming makabayan ng mga Pilipino"
+  },
+  {
+    "question": "Ang pagtama sa lotto ay parang isang “suntok sa buwan.” Ano ang kahulugan nito?",
+    "choice1": "Maaabot",
+    "choice2": "Imposible",
+    "choice3": "Maaari",
+    "choice4": "Pangarap",
+    "answerKey": "Imposible"
+  },
+  {
+    "question": "Anong sawikain ang nagpapahalaga sa \"utang na loob\"?",
+    "choice1": "Huli man daw at magagaling ay nahahabol din",
+    "choice2": "Ang hindi marunong lumingon sa pinanggalingan ay di makararating sa paroroonan",
+    "choice3": "Kung may isinuksok , may madudukot",
+    "choice4": "Habang may buhay may pag asa",
+    "answerKey": "Ang hindi marunong lumingon sa pinanggalingan ay di makararating sa paroroonan"
+  },
+  {
+    "question": "“Lumipad patungong Estados Unidos si Rose noong Sabado. Ano ang ____________ mong pasalubong para sa kanila? Tanong ni Juana.",
+    "choice1": "ipinadala",
+    "choice2": "ipinadala",
+    "choice3": "padala",
+    "choice4": "dinala",
+    "answerKey": "ipinadala"
+  },
+  {
+    "question": "“You can count on me” Ang pinakamalapit na salin nito ay",
+    "choice1": "bilangin mo kami",
+    "choice2": "ibilang mo ako",
+    "choice3": "bilangin mo ako",
+    "choice4": "maaasahan mo ako",
+    "answerKey": "maaasahan mo ako"
+  },
+  {
+    "question": "‘‘pinutol mo/ dagkung kahoy/ dahil dito/ gumulong ang mga bato/ ania na, ania na, aniana…’’ Ang\nlinya ng awit ay nagpapatunay ng ____________.",
+    "choice1": "paggamit ng lalawiganing antas",
+    "choice2": "code-switching",
+    "choice3": "diglossic na kalagayan ng wika",
+    "choice4": "intelektwalisasyon",
+    "answerKey": "paggamit ng lalawiganing antas"
+  },
+  {
+    "question": "Anu ang salitang ugat ng PINAGLABANAN?",
+    "choice1": "Labanan",
+    "choice2": "Laban",
+    "choice3": "Paglaban",
+    "choice4": "Ilaban",
+    "answerKey": "Laban"
+  },
+  {
+    "question": "Anong pare ng pahayagan ang magkakatagpo ka ng mga opinion ng manunulat?",
+    "choice1": "Ulo ng mga Balita",
+    "choice2": "Obituaryo",
+    "choice3": "Lathalain",
+    "choice4": "Pangulong Tudling",
+    "answerKey": "Pangulong Tudling"
+  },
+  {
+    "question": "Ano ang pinaka payak na anyo ng salita na walang kahalong panglapi?",
+    "choice1": "Salitang-ugat",
+    "choice2": "Laguhan",
+    "choice3": "Gitlapi",
+    "choice4": "Ponema",
+    "answerKey": "Salitang-ugat"
+  },
+  {
+    "question": "“Heto na, heto na, /wahh! doo bidoo bidoo, bidoo, bidoo”. Alin ang naboung salita o tunog sa linya\nna nabou ayon sa toeryang pooh-pooh ?",
+    "choice1": "Na",
+    "choice2": "Doo bidoo",
+    "choice3": "Heto",
+    "choice4": "wahh",
+    "answerKey": "wahh"
+  },
+  {
+    "question": "Anong bahagi ng pananalita ang nasa malaking titik?\nMalungkot ANG MGA nagtapos na wala pang trabaho.",
+    "choice1": "Pangatnig",
+    "choice2": "Pananda",
+    "choice3": "Pang-ukol",
+    "choice4": "Parirala",
+    "answerKey": "Pang-ukol"
+  },
+  {
+    "question": "“Malalim and bulsa,” ng kanyang Nanay. Ang ibig sabihin nito ay ______________.",
+    "choice1": "Walang pera",
+    "choice2": "kuripot",
+    "choice3": "Mapera",
+    "choice4": "mapagbigay",
+    "answerKey": "kuripot"
+  },
+  {
+    "question": "“Panahon na upang magdilat ng mata at makisangkot sa mga usapin.” Ito’y nagpapahiwatig na:",
+    "choice1": "Idilat ang mga mata",
+    "choice2": "Kalimutan ang usapin",
+    "choice3": "Umiwas sa usapin",
+    "choice4": "Magising sa katotohanan",
+    "answerKey": "Magising sa katotohanan"
+  },
+  {
+    "question": "“Kung anong bukambibig siyang laman ng dibdib.” Ito ay isang uri ng ____.",
+    "choice1": "Bugtong",
+    "choice2": "Tugmaan",
+    "choice3": "Tula",
+    "choice4": "Salawikain",
+    "answerKey": "Salawikain"
+  },
+  {
+    "question": "Ano ang ________ wika sa Cordillera?",
+    "choice1": "katutubông",
+    "choice2": "katutubòng",
+    "choice3": "Katutubóng",
+    "choice4": "Katutúbong",
+    "answerKey": "katutubòng"
+  },
+  {
+    "question": "Ayon kay Balagtas, “ang laki sa layaw, karaniwa’y hubad” kaya ang mga bata ay",
+    "choice1": "nag-aartista",
+    "choice2": "nakapagtatapos sa pag-aaral",
+    "choice3": "jeproks",
+    "choice4": "hindi sumusunod sa magulang",
+    "answerKey": "hindi sumusunod sa magulang"
+  },
+  {
+    "question": "‘‘Mahal kita, mahal kita hindi ‘to bola/ Ngumiti ka man lang sana ako’y nasa langit na‘‘. Ang\nsalitang pampanitkang ginamit sa linya ng kanta nangangahulugang ________.",
+    "choice1": "napakasaya",
+    "choice2": "pakikipagkaibigan",
+    "choice3": "sinisinta",
+    "choice4": "laruan",
+    "answerKey": "napakasaya"
+  },
+  {
+    "question": "Ano ang tuntunin natin ngayon na susundin sa pagtutumbas sa Filipinong rice terraces ?",
+    "choice1": "Kung ano ang bigkas siyang sulat.",
+    "choice2": "Tumbasan sa Espanyol at baybayin sa Filipino.",
+    "choice3": "Gamitin ang katutubong katumbas",
+    "choice4": "hiramin nang ganap.",
+    "answerKey": "Gamitin ang katutubong katumbas"
+  },
+  {
+    "question": "At buhat noon, tinawag na Banahaw ang malaking bundok na yaon sa gitna ng Luzon.\n         Gayon din ang bayan ng Lukban at Tayabas na nagmula sa pangalang\n                Bayabas at Lukban, na ang mga magulang ni Limbas\n \nAng talata sa itaas ay wakas ng isang _____________.",
+    "choice1": "Alamat",
+    "choice2": "Mitolohiya",
+    "choice3": "Kuwentong Bayan",
+    "choice4": "Pabula",
+    "answerKey": "Alamat"
+  },
+  {
+    "question": "“… Kung kinakailangan ang lakas upang maigupo ang isang mapaniil na pamahalaan o ang isang harihariang pinuno, wika ang tambuling tagapukaw sa mga anak ng lahi. Patay ang isang tao kapag walan kaluluwa. Mahigit pa sa patay ang isang bayan kapag walang iisang wika.“ (Rufino Alejandro)\n\nAlin sa mga sumusunod na malalim ang salitang ginamit sa talata ang may kasalungat na pares ?",
+    "choice1": "Maigupo – matalo",
+    "choice2": "Mapaniil – mapagkandali",
+    "choice3": "Tambuli – trumpita",
+    "choice4": "Tagapukaw – tagagising",
+    "answerKey": "Mapaniil – mapagkandali"
+  },
+  {
+    "question": "Ayaw___iwan ng malungkot na alaala si Fe.",
+    "choice1": "Raw",
+    "choice2": "Daw",
+    "choice3": "Kung",
+    "choice4": "Din",
+    "answerKey": "Raw"
+  },
+  {
+    "question": "Anong uri ng pagbigkas ang salitang “dambuhala”?",
+    "choice1": "Maragsa",
+    "choice2": "Malumay",
+    "choice3": "Malumi",
+    "choice4": "Mabilis",
+    "answerKey": "Malumi"
+  },
+  {
+    "question": "Ano ang tamang salin sa Filipino ng \"Bring home the bacon\"?",
+    "choice1": "Bumili ng bacon",
+    "choice2": "Dalhin ang bacon",
+    "choice3": "Mag-uwi ng panalo",
+    "choice4": "Mag-uwi ng bacon",
+    "answerKey": "Mag-uwi ng panalo"
+  },
+  {
+    "question": "Ano ang tawag sa kabuuan ng mga katangian sa pagsasalita ng tao?",
+    "choice1": "mode",
+    "choice2": "sosyolek",
+    "choice3": "register",
+    "choice4": "idyolek",
+    "answerKey": "idyolek"
+  },
+  {
+    "question": "Ano ang tawag sa awit ng pag-ibig?",
+    "choice1": "Ihiman",
+    "choice2": "Tagumpay",
+    "choice3": "Kundiman",
+    "choice4": "Oyayi",
+    "answerKey": "Kundiman"
+  },
+  {
+    "question": "Anong tayutay ang tinutukoy sa pahayag. Durog ang katawang bumagsak sa semento si Miguel.",
+    "choice1": "Pagbibigay katauhan",
+    "choice2": "Pagtutulad",
+    "choice3": "Pagwawangis",
+    "choice4": "Pagmamalabis",
+    "answerKey": "Pagmamalabis"
+  },
+  {
+    "question": "“Walang dapat sisihin sa nangyari kundi siya,” ano ang ayos ng pangungusap?",
+    "choice1": "Karaniwan",
+    "choice2": "Di-karaniwan",
+    "choice3": "Payak",
+    "choice4": "Walang Paksa",
+    "answerKey": "Karaniwan"
+  },
+  {
+    "question": "Ano ang salitang-ugat ng kanluran?",
+    "choice1": "Kanlong",
+    "choice2": "Lunod",
+    "choice3": "Lunan",
+    "choice4": "Kalan",
+    "answerKey": "Lunan"
+  },
+  {
+    "question": "Ano ang pokus ng pandiwang NAGLULUTO?",
+    "choice1": "Sanhi",
+    "choice2": "Tagaganap",
+    "choice3": "Tagatanggap",
+    "choice4": "Layon",
+    "answerKey": "Tagaganap"
+  },
+  {
+    "question": "‘‘Ang babae huwag mong tingnang isang bagayna libangan lamangkundi isang katuwang at karamay\nsa mga kahirapan nitong kabuhayan‘‘. (E. Jacinto) Ang tungkulin ng wika sa linya ay _______.",
+    "choice1": "pang-instrumental",
+    "choice2": "panrgulatori",
+    "choice3": "pang-interaksyonal",
+    "choice4": "pangheuristiko",
+    "answerKey": "panrgulatori"
+  },
+  {
+    "question": "Ano ang salin ng “Bring home the bacon?”",
+    "choice1": "Dalhin ang bacon",
+    "choice2": "Bumili ng bacon",
+    "choice3": "Mag-uwi ng panalo",
+    "choice4": "Mag-uwi ng bacon",
+    "answerKey": "Mag-uwi ng panalo"
+  },
+  {
+    "question": "Ayon sa Saligang Batas (1987), ang wikang pambansa ng Pilipinas ay tatawaging",
+    "choice1": "Filifino",
+    "choice2": "Pilifino",
+    "choice3": "Pilipino",
+    "choice4": "Filipino",
+    "answerKey": "Filipino"
+  },
+  {
+    "question": "“Malalim and bulsa,” ng kanyang Nanay. Ang ibig sabihin nito ay ______________.",
+    "choice1": "mapagbigay",
+    "choice2": "Mapera",
+    "choice3": "Walang pera",
+    "choice4": "kuripot",
+    "answerKey": "kuripot"
+  },
+  {
+    "question": "Ano ang pokus ng pandiwang NAGLULUTO?",
+    "choice1": "Layon",
+    "choice2": "Tagatanggap",
+    "choice3": "Tagaganap",
+    "choice4": "Sanhi",
+    "answerKey": "Tagaganap"
+  },
+  {
+    "question": "Anong tayutay ang tinutukoy sa pahayag. Durog ang katawang bumagsak sa semento si Miguel.",
+    "choice1": "Pagmamalabis",
+    "choice2": "Pagwawangis",
+    "choice3": "Pagtutulad",
+    "choice4": "Pagbibigay katauhan",
+    "answerKey": "Pagmamalabis"
+  },
+  {
+    "question": "Ano ang tawag sa kabuuan ng mga katangian sa pagsasalita ng tao?",
+    "choice1": "idyolek",
+    "choice2": "register",
+    "choice3": "sosyolek",
+    "choice4": "mode",
+    "answerKey": "idyolek"
+  },
+  {
+    "question": "“Kung anong bukambibig siyang laman ng dibdib.” Ito ay isang uri ng ____.",
+    "choice1": "Tula",
+    "choice2": "Bugtong",
+    "choice3": "Tugmaan",
+    "choice4": "Salawikain",
+    "answerKey": "Salawikain"
+  },
+  {
+    "question": "‘‘pinutol mo/ dagkung kahoy/ dahil dito/ gumulong ang mga bato/ ania na, ania na, aniana…’’ Ang\nlinya ng awit ay nagpapatunay ng ____________.",
+    "choice1": "paggamit ng lalawiganing antas",
+    "choice2": "intelektwalisasyon",
+    "choice3": "code-switching",
+    "choice4": "diglossic na kalagayan ng wika",
+    "answerKey": "paggamit ng lalawiganing antas"
+  },
+  {
+    "question": "Ayon sa Saligang Batas (1987), ang wikang pambansa ng Pilipinas ay tatawaging",
+    "choice1": "Pilipino",
+    "choice2": "Filipino",
+    "choice3": "Filifino",
+    "choice4": "Pilifino",
+    "answerKey": "Filipino"
+  },
+  {
+    "question": "Ano ang tamang salin sa Filipino ng \"Bring home the bacon\"?",
+    "choice1": "Bumili ng bacon",
+    "choice2": "Dalhin ang bacon",
+    "choice3": "Mag-uwi ng panalo",
+    "choice4": "Mag-uwi ng bacon",
+    "answerKey": "Mag-uwi ng panalo"
+  },
+  {
+    "question": "“Walang dapat sisihin sa nangyari kundi siya,” ano ang ayos ng pangungusap?",
+    "choice1": "Walang Paksa",
+    "choice2": "Payak",
+    "choice3": "Di-karaniwan",
+    "choice4": "Karaniwan",
+    "answerKey": "Karaniwan"
+  },
+  {
+    "question": "“Lumipad patungong Estados Unidos si Rose noong Sabado. Ano ang ____________ mong pasalubong para sa kanila? Tanong ni Juana.",
+    "choice1": "padala",
+    "choice2": "ipinadala",
+    "choice3": "dinala",
+    "choice4": "ipinadala",
+    "answerKey": "ipinadala"
+  },
+  {
+    "question": "Ano ang salin ng “Bring home the bacon?”",
+    "choice1": "Mag-uwi ng bacon",
+    "choice2": "Bumili ng bacon",
+    "choice3": "Mag-uwi ng panalo",
+    "choice4": "Dalhin ang bacon",
+    "answerKey": "Mag-uwi ng panalo"
+  },
+  {
+    "question": "Ano ang salitang-ugat ng kanluran?",
+    "choice1": "Kalan",
+    "choice2": "Lunod",
+    "choice3": "Kanlong",
+    "choice4": "Lunan",
+    "answerKey": "Lunan"
+  },
+  {
+    "question": "‘‘Ang babae huwag mong tingnang isang bagayna libangan lamangkundi isang katuwang at karamay\nsa mga kahirapan nitong kabuhayan‘‘. (E. Jacinto) Ang tungkulin ng wika sa linya ay _______.",
+    "choice1": "pangheuristiko",
+    "choice2": "pang-instrumental",
+    "choice3": "pang-interaksyonal",
+    "choice4": "panrgulatori",
+    "answerKey": "panrgulatori"
+  },
+  {
+    "question": "Ano ang tuntunin natin ngayon na susundin sa pagtutumbas sa Filipinong rice terraces ?",
+    "choice1": "Kung ano ang bigkas siyang sulat.",
+    "choice2": "Gamitin ang katutubong katumbas",
+    "choice3": "Tumbasan sa Espanyol at baybayin sa Filipino.",
+    "choice4": "hiramin nang ganap.",
+    "answerKey": "Gamitin ang katutubong katumbas"
+  },
+  {
+    "question": "“Panahon na upang magdilat ng mata at makisangkot sa mga usapin.” Ito’y nagpapahiwatig na:",
+    "choice1": "Kalimutan ang usapin",
+    "choice2": "Idilat ang mga mata",
+    "choice3": "Umiwas sa usapin",
+    "choice4": "Magising sa katotohanan",
+    "answerKey": "Magising sa katotohanan"
+  },
+  {
+    "question": "Anu ang salitang ugat ng PINAGLABANAN?",
+    "choice1": "Laban",
+    "choice2": "Labanan",
+    "choice3": "Paglaban",
+    "choice4": "Ilaban",
+    "answerKey": "Laban"
+  },
+  {
+    "question": "Anong uri ng pagbigkas ang salitang “dambuhala”?",
+    "choice1": "Maragsa",
+    "choice2": "Malumay",
+    "choice3": "Malumi",
+    "choice4": "Mabilis",
+    "answerKey": "Malumi"
+  },
+  {
+    "question": "“… Kung kinakailangan ang lakas upang maigupo ang isang mapaniil na pamahalaan o ang isang harihariang pinuno, wika ang tambuling tagapukaw sa mga anak ng lahi. Patay ang isang tao kapag walan kaluluwa. Mahigit pa sa patay ang isang bayan kapag walang iisang wika.“ (Rufino Alejandro)\n\nAlin sa mga sumusunod na malalim ang salitang ginamit sa talata ang may kasalungat na pares ?",
+    "choice1": "Tambuli – trumpita",
+    "choice2": "Tagapukaw – tagagising",
+    "choice3": "Mapaniil – mapagkandali",
+    "choice4": "Maigupo – matalo",
+    "answerKey": "Mapaniil – mapagkandali"
+  },
+  {
+    "question": "‘‘Mahal kita, mahal kita hindi ‘to bola/ Ngumiti ka man lang sana ako’y nasa langit na‘‘. Ang\nsalitang pampanitkang ginamit sa linya ng kanta nangangahulugang ________.",
+    "choice1": "laruan",
+    "choice2": "sinisinta",
+    "choice3": "pakikipagkaibigan",
+    "choice4": "napakasaya",
+    "answerKey": "napakasaya"
+  },
+  {
+    "question": "Ano ang pinaka payak na anyo ng salita na walang kahalong panglapi?",
+    "choice1": "Salitang-ugat",
+    "choice2": "Gitlapi",
+    "choice3": "Laguhan",
+    "choice4": "Ponema",
+    "answerKey": "Salitang-ugat"
+  },
+  {
+    "question": "Ano ang tawag sa awit ng pag-ibig?",
+    "choice1": "Ihiman",
+    "choice2": "Kundiman",
+    "choice3": "Oyayi",
+    "choice4": "Tagumpay",
+    "answerKey": "Kundiman"
+  },
+  {
+    "question": "Ayon kay Balagtas, “ang laki sa layaw, karaniwa’y hubad” kaya ang mga bata ay",
+    "choice1": "jeproks",
+    "choice2": "nakapagtatapos sa pag-aaral",
+    "choice3": "nag-aartista",
+    "choice4": "hindi sumusunod sa magulang",
+    "answerKey": "hindi sumusunod sa magulang"
+  },
+  {
+    "question": "“Heto na, heto na, /wahh! doo bidoo bidoo, bidoo, bidoo”. Alin ang naboung salita o tunog sa linya\nna nabou ayon sa toeryang pooh-pooh ?",
+    "choice1": "wahh",
+    "choice2": "Na",
+    "choice3": "Heto",
+    "choice4": "Doo bidoo",
+    "answerKey": "wahh"
+  },
+  {
+    "question": "Ano ang ________ wika sa Cordillera?",
+    "choice1": "Katutubóng",
+    "choice2": "katutubông",
+    "choice3": "Katutúbong",
+    "choice4": "katutubòng",
+    "answerKey": "katutubòng"
+  },
+  {
+    "question": "“You can count on me” Ang pinakamalapit na salin nito ay",
+    "choice1": "bilangin mo kami",
+    "choice2": "bilangin mo ako",
+    "choice3": "maaasahan mo ako",
+    "choice4": "ibilang mo ako",
+    "answerKey": "maaasahan mo ako"
+  },
+  {
+    "question": "Ayaw___iwan ng malungkot na alaala si Fe.",
+    "choice1": "Daw",
+    "choice2": "Raw",
+    "choice3": "Kung",
+    "choice4": "Din",
+    "answerKey": "Raw"
+  },
+  {
+    "question": "At buhat noon, tinawag na Banahaw ang malaking bundok na yaon sa gitna ng Luzon.\n         Gayon din ang bayan ng Lukban at Tayabas na nagmula sa pangalang\n                Bayabas at Lukban, na ang mga magulang ni Limbas\n \nAng talata sa itaas ay wakas ng isang _____________.",
+    "choice1": "Alamat",
+    "choice2": "Mitolohiya",
+    "choice3": "Pabula",
+    "choice4": "Kuwentong Bayan",
+    "answerKey": "Alamat"
+  },
+  {
+    "question": "Anong bahagi ng pananalita ang nasa malaking titik?\nMalungkot ANG MGA nagtapos na wala pang trabaho.",
+    "choice1": "Pang-ukol",
+    "choice2": "Pananda",
+    "choice3": "Pangatnig",
+    "choice4": "Parirala",
+    "answerKey": "Pang-ukol"
+  },
+  {
+    "question": "Anong pare ng pahayagan ang magkakatagpo ka ng mga opinion ng manunulat?",
+    "choice1": "Obituaryo",
+    "choice2": "Lathalain",
+    "choice3": "Pangulong Tudling",
+    "choice4": "Ulo ng mga Balita",
+    "answerKey": "Pangulong Tudling"
+  },
+  {
+    "question": "Anong sawikain ang nagpapahalaga sa \"utang na loob\"?",
+    "choice1": "Ang hindi marunong lumingon sa pinanggalingan ay di makararating sa paroroonan",
+    "choice2": "Kung may isinuksok , may madudukot",
+    "choice3": "Habang may buhay may pag asa",
+    "choice4": "Huli man daw at magagaling ay nahahabol din",
+    "answerKey": "Ang hindi marunong lumingon sa pinanggalingan ay di makararating sa paroroonan"
+  },
+  {
+    "question": "Ito ay pagbasa ng pansamatala o di palagian. Ginagawa ito kung nais magpalipas ng oras.",
+    "choice1": "Masusi",
+    "choice2": "Kaswal",
+    "choice3": "Scanning",
+    "choice4": "Pre-viewing",
+    "answerKey": "Kaswal"
+  },
+  {
+    "question": "Ibigay ang angkop na damdaming napapaloob sa “Bakit gabi na ay di pa sya dumarating?”",
+    "choice1": "Pagkagalit",
+    "choice2": "Pagkapoot",
+    "choice3": "Pagkatuwa",
+    "choice4": "Pagkatakot",
+    "answerKey": "Pagkatakot"
+  },
+  {
+    "question": "Ito ay binubuo ng dalawang kaisipang pangungusap na pinag-uugnay ng pangatnig.",
+    "choice1": "Hugnayan",
+    "choice2": "Payak",
+    "choice3": "Langkapan",
+    "choice4": "Tambalan",
+    "answerKey": "Tambalan"
+  },
+  {
+    "question": "Isang komunikasyong pampubliko na nagpapaliwanag at nanghihikayat, binibigkas sa harap ng madla.",
+    "choice1": "Talambuhay",
+    "choice2": "Talumpati",
+    "choice3": "Balita",
+    "choice4": "Anekdota",
+    "answerKey": "Talumpati"
+  },
+  {
+    "question": "Bahagi ng pananaliksik kung saan matatagpuan ang panimula, kaligiran ng pag-aaral at konseptuwal framework.",
+    "choice1": "Kabanata I",
+    "choice2": "Kabanata II",
+    "choice3": "Kabanata IV",
+    "choice4": "Kabanata III",
+    "answerKey": "Kabanata I"
+  },
+  {
+    "question": "Ilang ponema ang bumubou sa salitang gusali?",
+    "choice1": "7",
+    "choice2": "4",
+    "choice3": "5",
+    "choice4": "6",
+    "answerKey": "7"
+  },
+  {
+    "question": "Hindi dapat __________ ang mga bagay na pinaghirapan ng iba.",
+    "choice1": "kunan",
+    "choice2": "agawan",
+    "choice3": "kunin",
+    "choice4": "agawin",
+    "answerKey": "agawin"
+  },
+  {
+    "question": "Ipinagmamalaki mo siya, BAHAG naman pala ang kanyang BUNTOT. Ang ibig sabihin ng salitang may malaking titik ay:",
+    "choice1": "Traydor",
+    "choice2": "Kuripot",
+    "choice3": "Mahiyain",
+    "choice4": "Duwag",
+    "answerKey": "Duwag"
+  },
+  {
+    "question": "Gagawin mo lang yan ________ mo ako mahal.",
+    "choice1": "kun di",
+    "choice2": "kung di",
+    "choice3": "kundi",
+    "choice4": "kungdi",
+    "answerKey": "kung di"
+  },
+  {
+    "question": "Hag laki ko, gusto gusto kong maging ________ ng Pilipinas.",
+    "choice1": "pangulo",
+    "choice2": "pa-ngulo",
+    "choice3": "pang-ulo",
+    "choice4": "panggulo",
+    "answerKey": "pangulo"
+  },
+  {
+    "question": "Huwag mong _______ ng kalat ang kama ko.",
+    "choice1": "magpatong",
+    "choice2": "ipatong",
+    "choice3": "patungan",
+    "choice4": "pagpatungan",
+    "answerKey": "patungan"
+  },
+  {
+    "question": "Ito ay uri ng pangungusap na tumutukoy sa pangyayaring pangkalikasan o pangkapaligiran",
+    "choice1": "Temporal",
+    "choice2": "Penomenal",
+    "choice3": "Modal",
+    "choice4": "Eksistensyal",
+    "answerKey": "Penomenal"
+  },
+  {
+    "question": "Isang paraan ng pagkuha ng datos na ginagamitan ng sunod-sunod na tatlong tuldok para ipakita na may mga bahaging hindi na sinipi sa talata.",
+    "choice1": "Abstrak",
+    "choice2": "Sintesis",
+    "choice3": "Synopsis",
+    "choice4": "Ellipsis",
+    "answerKey": "Ellipsis"
+  },
+  {
+    "question": "Hindi totoo ang katapangan na ipinapakita ni Pepot sa harap ni Detz sapagkat BAHAG ANG BUNTOT niya sa harap ng paghihirap.",
+    "choice1": "Tamad",
+    "choice2": "Malikot",
+    "choice3": "Duwag",
+    "choice4": "Masama",
+    "answerKey": "Duwag"
+  },
+  {
+    "question": "Dalawang oras na kaming naghintay. __________________________.",
+    "choice1": "Kumulo ang dugo.",
+    "choice2": "Kumitid ang noo.",
+    "choice3": "Kumati ang kamay.",
+    "choice4": "Namuti ang aming mata.",
+    "answerKey": "Namuti ang aming mata."
+  },
+  {
+    "question": "Hinipan ng pulis ang kanyang _________.",
+    "choice1": "píto-pito",
+    "choice2": "pitó",
+    "choice3": "pítu-pito",
+    "choice4": "píto",
+    "answerKey": "píto"
+  },
+  {
+    "question": "Ito ay isang uri ng Panitikang Pilipino na mula sa impluwensiya ng mga kastila. Binibigkas ito sapamamagitan ng pakantang pagpapahayag ng mga tula",
+    "choice1": "Oda",
+    "choice2": "Epiko",
+    "choice3": "Korido",
+    "choice4": "Soneto",
+    "answerKey": "Korido"
+  },
+  {
+    "question": "Ito ay pag-aaral ng mga ponema ng isang wika. Ito ay:",
+    "choice1": "Sintaks",
+    "choice2": "Monopolohiya",
+    "choice3": "Leksikon",
+    "choice4": "Ponolohiya",
+    "answerKey": "Ponolohiya"
+  },
+  {
+    "question": "Humihingi ako ng tawad. May mga sinabi akong di nararapat.",
+    "choice1": "Nadulas ang dila",
+    "choice2": "Nagdilim ang paningin",
+    "choice3": "Matalas ang dila",
+    "choice4": "Nabilog ang ulo",
+    "answerKey": "Nadulas ang dila"
+  },
+  {
+    "question": "Ito ay kuro-kuro ng patnugot hinggil sa mahalaga at napapanahong isyu sa araw na iyon. Ano ito?",
+    "choice1": "Balita",
+    "choice2": "Lathalain",
+    "choice3": "Editoryal",
+    "choice4": "Pitak",
+    "answerKey": "Editoryal"
+  },
+  {
+    "question": "Isang kwento na naglalahad ng isang katotohanan.",
+    "choice1": "Epiko",
+    "choice2": "Alamat",
+    "choice3": "Pabula",
+    "choice4": "Parabula",
+    "answerKey": "Parabula"
+  },
+  {
+    "question": "Galit na galit ako sa taong nagnakaw ng aking tanghalian.",
+    "choice1": "Mkitid ang noo",
+    "choice2": "mabigat ang dugo",
+    "choice3": "Matalas ang ulo",
+    "choice4": "Kumukulo ang dugo",
+    "answerKey": "Kumukulo ang dugo"
+  },
+  {
+    "question": "Inaabangan ng mga tao ang_________ sa simbahan.",
+    "choice1": "agunyas",
+    "choice2": "kalampag",
+    "choice3": "batingting",
+    "choice4": "kolambeng",
+    "answerKey": "agunyas"
+  },
+  {
+    "question": "Ito ay isang dulang nagsasalaysay ng buhay at kamatayan ng ating Mahal Na Poong Hesukristo at masasabing parang PASKONG itinatanghal sa entablado. Ito ay ang?",
+    "choice1": "Senakulo",
+    "choice2": "Moro-moro",
+    "choice3": "Duplo",
+    "choice4": "Karagatan",
+    "answerKey": "Senakulo"
+  },
+  {
+    "question": "Isang uri ng pamahayagan na nag-uulat ng mga tunay na pangyayari batay sa pag-aaral, pananaliksik, o pakikipanayam at sinusulat sa paraang kawili-wili ay ________________.",
+    "choice1": "Lathalain",
+    "choice2": "Kumento",
+    "choice3": "Pangulong tudling",
+    "choice4": "Editoryal",
+    "answerKey": "Lathalain"
+  },
+  {
+    "question": "Hanapin mo ako sa ________ ng mga sasakyan.",
+    "choice1": "hintayin",
+    "choice2": "pag-abangan",
+    "choice3": "bantayan",
+    "choice4": "abangan",
+    "answerKey": "abangan"
+  },
+  {
+    "question": "Hindi ko sukat akalain na siya pala ay isang BALAKYOT.",
+    "choice1": "Mabaho",
+    "choice2": "Mapanlinlang",
+    "choice3": "Marumi",
+    "choice4": "Makasalanan",
+    "answerKey": "Mapanlinlang"
+  },
+  {
+    "question": "Itoý isang mahabang tulang pang-awit bilang handog sa isang dalaga na may kaarawan. Kilala rin ito sa Katagalugan dahil sa pagpuputong ng koronang bulaklak sa dalaga.",
+    "choice1": "Awit",
+    "choice2": "Balagtasan",
+    "choice3": "Tibag",
+    "choice4": "Panubong",
+    "answerKey": "Panubong"
+  },
+  {
+    "question": "Ginagamitan ng sunud-sunod na tatlong tuldok para ipakita na may mga bahaging hindi na sinipi sa talata?",
+    "choice1": "Elipsis",
+    "choice2": "Abstrak",
+    "choice3": "Sintesis",
+    "choice4": "Sinopsis",
+    "answerKey": "Elipsis"
+  },
+  {
+    "question": "Ito ang rutang dinaraanan ng mensahe ng tagapagsalita.",
+    "choice1": "Pdbak",
+    "choice2": "Tsanel",
+    "choice3": "konteksto",
+    "choice4": "Participant",
+    "answerKey": "Tsanel"
+  },
+  {
+    "question": "Kapapasok pa lang niya sa silid. Ang pandiwa sa pangungusap ay nasa aspetong _____________.",
+    "choice1": "Kontimplatibo",
+    "choice2": "Perpektibo",
+    "choice3": "Imperpektibo",
+    "choice4": "Pangnagdaan",
+    "answerKey": "Pangnagdaan"
+  },
+  {
+    "question": "Matapos ang maghapong gawain siya ay LUGAMI na.",
+    "choice1": "Nalungkot",
+    "choice2": "Lupaypay",
+    "choice3": "Yumaman",
+    "choice4": "Lubog",
+    "answerKey": "Lupaypay"
+  },
+  {
+    "question": "Lumapit si Flo kay Urqs at sinabing, “ __________ mo si Landon ng pagkain sa kusina.”",
+    "choice1": "Kuhaan",
+    "choice2": "Kunan",
+    "choice3": "Kunin",
+    "choice4": "Kuwahan",
+    "answerKey": "Kunan"
+  },
+  {
+    "question": "Kailan nga ba _______ si Mayor dahil sa pangungurakot ?",
+    "choice1": "ikinulong",
+    "choice2": "kinulong",
+    "choice3": "ikinukulong",
+    "choice4": "kinukulong",
+    "answerKey": "ikinulong"
+  },
+  {
+    "question": "Katangian ng mahusay na mananaliksik na marunong tumanggap ng kritisismo para sa ikagaganda ng pananaliksik.",
+    "choice1": "Marunong tumanggi",
+    "choice2": "Malikhain",
+    "choice3": "Maparaan",
+    "choice4": "Bukas ang isipan",
+    "answerKey": "Bukas ang isipan"
+  },
+  {
+    "question": "Madaling lokohin si Blezel",
+    "choice1": "Nagmurang-kamatis",
+    "choice2": "Makitid ang noo",
+    "choice3": "Matuwid at paniwalain",
+    "choice4": "Utak-biya",
+    "answerKey": "Matuwid at paniwalain"
+  },
+  {
+    "question": "Kalabang mortal ng pakikinig.",
+    "choice1": "Ingay",
+    "choice2": "Oras",
+    "choice3": "Salita",
+    "choice4": "Okasyon",
+    "answerKey": "Ingay"
+  },
+  {
+    "question": "Kapag lumaki na ang mga tanim mo, ilipit mo na sila sa malaking _____.",
+    "choice1": "pásong",
+    "choice2": "pasò",
+    "choice3": "pasô",
+    "choice4": "pasó",
+    "answerKey": "pasô"
+  },
+  {
+    "question": "Kailangang _________ ang mga nakatira sa paanan ng bulkang Bulusan.",
+    "choice1": "ilìkas",
+    "choice2": "ilíkas",
+    "choice3": "Ilikâs",
+    "choice4": "Ilikás",
+    "answerKey": "ilíkas"
+  },
+  {
+    "question": "MASALIMUOT ang mga pangyayari sa pagkamatay ni Ramgen.",
+    "choice1": "Mapayapa",
+    "choice2": "Maalalahanin",
+    "choice3": "Magulo",
+    "choice4": "Makulay",
+    "answerKey": "Mapayapa"
+  },
+  {
+    "question": "Mahigpit na ipinagbabawal ang pagmamanipula sa mga _______ ng MERALCO.",
+    "choice1": "mekanismo",
+    "choice2": "makina",
+    "choice3": "Kuntador",
+    "choice4": "metro",
+    "answerKey": "Kuntador"
+  },
+  {
+    "question": "Limang oras na pero hindi ko par in ________ ang nawawalang aklat.",
+    "choice1": "makita",
+    "choice2": "hanapin",
+    "choice3": "mahanap",
+    "choice4": "kitain",
+    "answerKey": "makita"
+  },
+  {
+    "question": "May mga PARAK nanagsidatingan sa lugar ng krimen.",
+    "choice1": "Kolokyal",
+    "choice2": "Pampanitikan",
+    "choice3": "Pambansa",
+    "choice4": "Balbal",
+    "answerKey": "Balbal"
+  },
+  {
+    "question": "Katangian ng mabuting tagapakinig ay",
+    "choice1": "Agad magbigay ng konklusyon",
+    "choice2": "Laging nagbigay ng papuri",
+    "choice3": "Patapusin ang nagsasalita",
+    "choice4": "Di mapakali sa upuan",
+    "answerKey": "Patapusin ang nagsasalita"
+  },
+  {
+    "question": "Kung ang encoder ay sa decoder, ang manunulat kung sa gayon ay sa",
+    "choice1": "Mambabasa",
+    "choice2": "Tagahatid",
+    "choice3": "Panulat",
+    "choice4": "Papel",
+    "answerKey": "Mambabasa"
+  },
+  {
+    "question": "MALABAY na punungkahoy ang makikita sa bakuran ni Mang Baste.",
+    "choice1": "Payat",
+    "choice2": "Mataba",
+    "choice3": "Malusog",
+    "choice4": "Putol",
+    "answerKey": "Payat"
+  },
+  {
+    "question": "Mahusay “maglunid ng buhangin” ang taong gipit. Ano ang ibig sabihin?",
+    "choice1": "Magtali",
+    "choice2": "Magpaikot-ikot",
+    "choice3": "Magsinungaling",
+    "choice4": "Magyabang",
+    "answerKey": "Magsinungaling"
+  },
+  {
+    "question": "Marumi ang baso. Huwag mong ________ yan!",
+    "choice1": "inumin",
+    "choice2": "pag-inuman",
+    "choice3": "inuman",
+    "choice4": "uminom",
+    "answerKey": "inuman"
+  },
+  {
+    "question": "Kabaliwan at paglulustay ang inyong ginagawa taon-taon. Higit na marami ang maralitang nangangailangan ng salapi at dunong. Ang nagsasalita ay",
+    "choice1": "Praktikal",
+    "choice2": "Matipid",
+    "choice3": "Maramot",
+    "choice4": "Kuripot",
+    "answerKey": "Praktikal"
+  },
+  {
+    "question": "Kapag naniwala ka kay Greg, para ka na ring umasa sa wala.",
+    "choice1": "Pumuti ang uwak",
+    "choice2": "kumindat sa dilim",
+    "choice3": "Tumaga sa tubig",
+    "choice4": "Umitim ang tagak",
+    "answerKey": "kumindat sa dilim"
+  },
+  {
+    "question": "Kung bibilangin ang pantig sa bawat taludtod ng tula, ito ang makukuha.",
+    "choice1": "Talinhaga",
+    "choice2": "Tugma",
+    "choice3": "Kariktan",
+    "choice4": "Sukat",
+    "answerKey": "Sukat"
+  },
+  {
+    "question": "Laging UMUUKILKIL sa isipan ng ama ang nasirang pangako ng anak.",
+    "choice1": "Gumugulo",
+    "choice2": "Bumubuhay",
+    "choice3": "Sumasagi",
+    "choice4": "Sumasapi",
+    "answerKey": "Gumugulo"
+  },
+  {
+    "question": "Kinakailangang _______ ang damit sa Huwebes.",
+    "choice1": "mayari",
+    "choice2": "may-ari",
+    "choice3": "magyari",
+    "choice4": "yariin",
+    "answerKey": "mayari"
+  },
+  {
+    "question": "Kailan nagsimula ang pagkakaroon ng modernisasyon ng wikang pambansa?",
+    "choice1": "1997",
+    "choice2": "1974",
+    "choice3": "1988",
+    "choice4": "1987",
+    "answerKey": "1987"
+  },
+  {
+    "question": "May pulong na gaganapin at isinulat na ang lugar, petsa at oras. Isinulat din ang “agenda.” Ano ang maaaring salin nito?",
+    "choice1": "Pagkakaisahan",
+    "choice2": "Pag-uusapan",
+    "choice3": "Paghahandaan",
+    "choice4": "Pagtatalunan",
+    "answerKey": "Pag-uusapan"
+  },
+  {
+    "question": "Malimit magsinungaling ang mga batang hindi pinalaki ng tama.",
+    "choice1": "Namuti ang uwak",
+    "choice2": "Nagdilang kuneho",
+    "choice3": "Naglubid ng buhangin",
+    "choice4": "Nagbuhat ng sariling bangko",
+    "answerKey": "Naglubid ng buhangin"
+  },
+  {
+    "question": "May mga sasakyan sa Pilipinas na kababasahan ng ganito, “Katas ng Saudi” o kayo katas, ako\nutang ’’. Anong katangian ng wika ang tinutukoy dito ?",
+    "choice1": "Nagbabago",
+    "choice2": "Ginagamit",
+    "choice3": "Arbitraryo",
+    "choice4": "May sistema",
+    "answerKey": "Arbitraryo"
+  },
+  {
+    "question": "Magkano ang ________ mo sa lotto kahapon?",
+    "choice1": "tayâ",
+    "choice2": "tayà",
+    "choice3": "táya",
+    "choice4": "tayá",
+    "answerKey": "tayâ"
+  },
+  {
+    "question": "Mag-aalas-singko na _____ umaga _____ magising siya.",
+    "choice1": "nang – kapag",
+    "choice2": "ng – ng",
+    "choice3": "nang – nang",
+    "choice4": "ng – nang",
+    "answerKey": "ng – nang"
+  },
+  {
+    "question": "Kung ang awit ng pag-iibigan ay kundiman, ano naman sa Bisaya?",
+    "choice1": "Talindaw",
+    "choice2": "Sambotani",
+    "choice3": "Kumintang",
+    "choice4": "Diona",
+    "answerKey": "Diona"
+  },
+  {
+    "question": "Orihinal: Mother cooked adobo for kuya Manuel. Salin: Si nanay ay nagluto ng adobo para kay kuya Manuel. Ito ay pagsasaling?",
+    "choice1": "Literal",
+    "choice2": "Adaptasyon",
+    "choice3": "Malaya",
+    "choice4": "Idyomatiko",
+    "answerKey": "Literal"
+  },
+  {
+    "question": "Pag-aaral ng mga tuntunin kung paano inaayos ang mga salita sa loob ng pangungusap.",
+    "choice1": "Syntax",
+    "choice2": "Pragmatika",
+    "choice3": "Semantika",
+    "choice4": "Ortograpiya",
+    "answerKey": "Syntax"
+  },
+  {
+    "question": "Patapos na ang taon. Kailangan ko nang kumunsulta sa aking _________.",
+    "choice1": "bukkiper",
+    "choice2": "kalihim",
+    "choice3": "ingat-yaman",
+    "choice4": "tagatuos",
+    "answerKey": "tagatuos"
+  },
+  {
+    "question": "Nawala ang alahas na __________ mo sa akin.",
+    "choice1": "ipinatago",
+    "choice2": "pinatago",
+    "choice3": "ipinapatago",
+    "choice4": "pinagtago",
+    "answerKey": "ipinatago"
+  },
+  {
+    "question": "Paglaki ko, gusto kong maging ____________ ng Pilipinas.",
+    "choice1": "panggulo",
+    "choice2": "pang-ulo",
+    "choice3": "pa-ngulo",
+    "choice4": "pangulo",
+    "answerKey": "pangulo"
+  },
+  {
+    "question": "NABABANAAGAN na ng bayan ang tagumpay laban sa mga utak \"wang-wang\". Ano ang kahulugan ng salitang nasa malaking titik?",
+    "choice1": "Nakikita",
+    "choice2": "Napapasinayaan",
+    "choice3": "Nararamdaman",
+    "choice4": "Natatanaw",
+    "answerKey": "Natatanaw"
+  },
+  {
+    "question": "Pillin ang angkop sa pagpapakahulugan: Bilang at sukat kung mangusap ang dalaga.",
+    "choice1": "Maingat",
+    "choice2": "Mahirap unawain",
+    "choice3": "Mahina and boses",
+    "choice4": "Madaldal",
+    "answerKey": "Maingat"
+  },
+  {
+    "question": "Kinakailangang _____________ ang damit na Huwebes.",
+    "choice1": "magyari",
+    "choice2": "may-ari",
+    "choice3": "yariin",
+    "choice4": "mayari",
+    "answerKey": "mayari"
+  },
+  {
+    "question": "Paraan ng pagbuo ng salita na ginagamitan ng tatlong uri ng panlapi.",
+    "choice1": "Inunlapian",
+    "choice2": "Laguhan",
+    "choice3": "Hinulapian",
+    "choice4": "Kabilaan",
+    "answerKey": "Laguhan"
+  },
+  {
+    "question": "Pen pen de sarapen/ de cuchillo de almasen/ haw haw de carabao batuten’’. pinatutunayan ng linya\nang paglaganap ng wika dahil sa __________.",
+    "choice1": "pananakop",
+    "choice2": "heaograpiya",
+    "choice3": "pakikipagkalakalan",
+    "choice4": "modernisasyon",
+    "answerKey": "heaograpiya"
+  },
+  {
+    "question": "Noong 1960, itinakda ang kautusan na lahat ng magsisipagtapos sa kolehiyo ay dapat nakakuha ng ilang yunit ng Filipino?",
+    "choice1": "24",
+    "choice2": "12",
+    "choice3": "6",
+    "choice4": "8",
+    "answerKey": "6"
+  },
+  {
+    "question": "Piliin ang gawi ng pagsasalita: Kasiyahan ko nang makitang kayo’y nagmamahalan.",
+    "choice1": "Pangarap",
+    "choice2": "Pagkuha ng impormasyon",
+    "choice3": "Pagbabahagi ng damdamin",
+    "choice4": "Pagkontrol ng kilos",
+    "answerKey": "Pagbabahagi ng damdamin"
+  },
+  {
+    "question": "Naku ! tumutulo na naman ang mga _________ ng NAWASA.",
+    "choice1": "tubó",
+    "choice2": "tubò",
+    "choice3": "tubô",
+    "choice4": "túbo",
+    "answerKey": "túbo"
+  },
+  {
+    "question": "Nakapandidiri ang asong kalye na _______.",
+    "choice1": "dumumi",
+    "choice2": "Ma-dumi",
+    "choice3": "madumi",
+    "choice4": "Dumihan",
+    "answerKey": "madumi"
+  },
+  {
+    "question": "Nagpapahayag lebel ng wika na impormal nanalikha at nabuo sa pagsasama-sama ng mga salitang pinaikli o pinahaba.",
+    "choice1": "Balbal",
+    "choice2": "Kolokyal",
+    "choice3": "Pampanitikan",
+    "choice4": "Lalawigan",
+    "answerKey": "Balbal"
+  },
+  {
+    "question": "Nawala ang lahat kay Ryan nang mamatay ang kanyang mga magulang.",
+    "choice1": "Pinagtampuhan ng langit at lupa",
+    "choice2": "Namangka sa dalawang ilog",
+    "choice3": "Naglubid ng buhangin",
+    "choice4": "Pinagtakluban ng langit at lupa",
+    "answerKey": "Pinagtakluban ng langit at lupa"
+  },
+  {
+    "question": "Naglalaman ng mga butil ng karunungan kina papalooban ng mabuting payo na hango sa tunay na karanasan ng ating mga ninuno.",
+    "choice1": "Palaisipan",
+    "choice2": "talinghaga",
+    "choice3": "Bugtong",
+    "choice4": "Salawikain",
+    "answerKey": "Salawikain"
+  },
+  {
+    "question": "Nawawala ang alahas na __________ mo sa akin.",
+    "choice1": "ipinatago",
+    "choice2": "pinatago",
+    "choice3": "pinagtago",
+    "choice4": "ipinapatago",
+    "answerKey": "ipinatago"
+  },
+  {
+    "question": "Panggagaya sa tunog nanalikha ng tuko ang pinanggagalingan ng pangalan ng nagsasabing hayop ayon sa teorya ng _____.",
+    "choice1": "Pooh-pooh",
+    "choice2": "Tata",
+    "choice3": "Bow-wow",
+    "choice4": "Ding-dong",
+    "answerKey": "Bow-wow"
+  },
+  {
+    "question": "Nasa anong kaganapan ng pandiwa ang pangungusap?\nNaglaro ng basketball sa Rizal Stadium ang koponan ng aming pamantasan.",
+    "choice1": "Ganapan",
+    "choice2": "Tagaganap",
+    "choice3": "Sanhi",
+    "choice4": "Kagamitan",
+    "answerKey": "Ganapan"
+  },
+  {
+    "question": "Nagpapahayag na ang wika ay nauunawaan ng lahat at napagkasunduan ng isang lahi/pangkat.",
+    "choice1": "Dinamiko",
+    "choice2": "Arbitrary",
+    "choice3": "Masistema",
+    "choice4": "Likas",
+    "answerKey": "Arbitrary"
+  },
+  {
+    "question": "Piliin and salitang walang diptonggo.",
+    "choice1": "kasuy",
+    "choice2": "Bahay",
+    "choice3": "Musika",
+    "choice4": "Sisiw",
+    "answerKey": "Musika"
+  },
+  {
+    "question": "Nanligaw ang makisig na _________ sa marikit na dalagita.",
+    "choice1": "binatà",
+    "choice2": "bináta",
+    "choice3": "binatá",
+    "choice4": "binatâ",
+    "answerKey": "binatâ"
+  },
+  {
+    "question": "Nagbasa ______ maayos ang mag-aaral.",
+    "choice1": "ng",
+    "choice2": "sila",
+    "choice3": "nang",
+    "choice4": "siya",
+    "answerKey": "nang"
+  },
+  {
+    "question": "Nagpapahayag na ang wika ay nauunawaan ng lahat at napagkasunduan ng isang lahi/pangkat.",
+    "choice1": "arbitrary",
+    "choice2": "Masistema",
+    "choice3": "dinamiko",
+    "choice4": "likas",
+    "answerKey": "arbitrary"
+  },
+  {
+    "question": "Pangungusap na tumutukoy sa pangyayaring pangkalikasan o pangkapaligiran.",
+    "choice1": "Eksistensyal",
+    "choice2": "Modal",
+    "choice3": "Temporal",
+    "choice4": "Penomenal",
+    "answerKey": "Penomenal"
+  },
+  {
+    "question": "Piliin ang salitang walang diptonggo.",
+    "choice1": "Kulay",
+    "choice2": "Aliwan",
+    "choice3": "Sayaw",
+    "choice4": "Aliw",
+    "answerKey": "Aliwan"
+  },
+  {
+    "question": "Nag-aaral ako ________ mabuti upang makakuha ako ng iskolarship.",
+    "choice1": "ng",
+    "choice2": "mas",
+    "choice3": "lalo",
+    "choice4": "nang",
+    "answerKey": "nang"
+  },
+  {
+    "question": "NAG-ALSA BALUTAN si Juday dahil sa malimit umanong pananakit ni Jake.",
+    "choice1": "Nagalit",
+    "choice2": "Nagmaktol",
+    "choice3": "Lumayas",
+    "choice4": "Nagtampo",
+    "answerKey": "Lumayas"
+  },
+  {
+    "question": "Nagpapahayag na ang wika ay nauunawaan ng lahat at napagkasunduan ng isang pangkat.",
+    "choice1": "Dinamiko",
+    "choice2": "Arbitraryo",
+    "choice3": "Masistema",
+    "choice4": "Likas",
+    "answerKey": "Arbitraryo"
+  },
+  {
+    "question": "Proseso ng paghahatid ng saloobin ,opinion, karunungan sa pamamagitan ng makabuluhang tunog",
+    "choice1": "Pagtatala",
+    "choice2": "Pakikinig",
+    "choice3": "Pagsasalita",
+    "choice4": "Pagbabasa",
+    "answerKey": "Pagsasalita"
+  },
+  {
+    "question": "Pinag-aaralan ng mabuti ng bawat abugado ang ________ ng 1987.",
+    "choice1": "batas pambansa",
+    "choice2": "batas-militar",
+    "choice3": "saligang-batas",
+    "choice4": "saklawang-batas",
+    "answerKey": "saligang-batas"
+  },
+  {
+    "question": "Ponema ang tawag sa makabuluhang tunog ng wika. Ilan ang ponema ng Filipino?",
+    "choice1": "28",
+    "choice2": "31",
+    "choice3": "21",
+    "choice4": "20",
+    "answerKey": "21"
+  },
+  {
+    "question": "Sa pangungusap ayon sa pagkabuo, anong pangungusap ang : \"Si Junjun ay nasa senior high school na baytang\"?",
+    "choice1": "Langkapan",
+    "choice2": "Hugnayan",
+    "choice3": "Payak",
+    "choice4": "Tambalan",
+    "answerKey": "Payak"
+  },
+  {
+    "question": "Sa pagbasa, ang kakayahan sa pagsasama-sama at pag-uugnay-ugnay ng mga nakaraan at ng mga bagong karanasan ay tinatawag na________.",
+    "choice1": "persepsyon o pagkilala",
+    "choice2": "paghawan ng balakid",
+    "choice3": "asimilasyon",
+    "choice4": "pag-unawa",
+    "answerKey": "asimilasyon"
+  },
+  {
+    "question": "Sa pangungusap na \"Malakas ang boses mo\", anong bahagi ng pangungusap ang salitang \"malakas\"?",
+    "choice1": "Pandiwa",
+    "choice2": "Pangatnig",
+    "choice3": "Panghalip",
+    "choice4": "Pang-uri",
+    "answerKey": "Pang-uri"
+  },
+  {
+    "question": "Pinag pipilitan mong hindi ikaw kundi si Julah.",
+    "choice1": "Hindi/ako/ si Julah.",
+    "choice2": "Hindi ako si/Julah.",
+    "choice3": "Hindi/ ako si Julah.",
+    "choice4": "Hindi ako/ si Julah.",
+    "answerKey": "Hindi ako/ si Julah."
+  },
+  {
+    "question": "Sabihin ang gawi ng pananalitang ito: “Bawal tumawid, may namatay na dito!”",
+    "choice1": "Pananakot",
+    "choice2": "Pananakot",
+    "choice3": "Paalala",
+    "choice4": "Babala",
+    "answerKey": "Babala"
+  },
+  {
+    "question": "Pinatawad na kita dahil wala ka namang _______.",
+    "choice1": "Sála",
+    "choice2": "salâ",
+    "choice3": "Salá",
+    "choice4": "salà",
+    "answerKey": "Sála"
+  },
+  {
+    "question": "Pinandirihan ni Mico ang aso niyang ______.",
+    "choice1": "galis-aso",
+    "choice2": "ma-galis",
+    "choice3": "mag-alis",
+    "choice4": "magalis",
+    "answerKey": "magalis"
+  },
+  {
+    "question": "Sistematikong paglalarawan ng mga datos na estatistika.",
+    "choice1": "Talahanayan",
+    "choice2": "Grap",
+    "choice3": "Mapa",
+    "choice4": "Balangkas",
+    "answerKey": "Grap"
+  },
+  {
+    "question": "Sa anong bahagi ng pananaliksik matatagpuan ang mga lugar at babasahing mapagkukunan ng mga literatura at pag-aaral?",
+    "choice1": "Kabanata II",
+    "choice2": "Kabanata V",
+    "choice3": "Kabanata IV",
+    "choice4": "Kabanata I",
+    "answerKey": "Kabanata II"
+  },
+  {
+    "question": "Saan hinango ang mga kwentong tinatawag na parabola?",
+    "choice1": "Bibliya",
+    "choice2": "Kwentong bayan",
+    "choice3": "Mga pinagmulan",
+    "choice4": "Kasabihan",
+    "answerKey": "Bibliya"
+  },
+  {
+    "question": "Sa pangungusapna \"Ikaw PALA and nawawala kong kapatid!\", ang salitang nasa malaking titik ay halimbawa ng paraan ng pagbigkas na:",
+    "choice1": "Maragsa",
+    "choice2": "Malunay",
+    "choice3": "Malumi",
+    "choice4": "Mabilis",
+    "answerKey": "Mabilis"
+  },
+  {
+    "question": "Sino ang nagsabi ng sumusunod, “Ang hindi magmahal sa sariling wika y higit pa ang amoy sa malansang isda?”",
+    "choice1": "Gregorio del Pilar",
+    "choice2": "Apolinario Mabini",
+    "choice3": "Marcelo H. Del Pilar",
+    "choice4": "Jose Rizal",
+    "answerKey": "Jose Rizal"
+  },
+  {
+    "question": "Pinakamahalagang nobelang Pilipino sa maraming taon na nalimbag noong 1906 at tumalakay nang masinsinan sa paksang puhunan laban paggawa at sa sosyalismo ang _____.",
+    "choice1": "Ibong Mandaragit",
+    "choice2": "Banaag at Sikat",
+    "choice3": "Pangginggera",
+    "choice4": "Luha ng Buwaya",
+    "answerKey": "Banaag at Sikat"
+  },
+  {
+    "question": "Punong-puno ng tao ang Dallas Stadium kung saan ginawa ang laban ni Manny Pacquio",
+    "choice1": "Di makabasag pinggan",
+    "choice2": "Di mahulugang karayom",
+    "choice3": "Di maliparang uwak",
+    "choice4": "Di mahapayang gating",
+    "answerKey": "Di mahulugang karayom"
+  },
+  {
+    "question": "Sa pangungusap na, Panahon na upang \"magdilat ng mata at makisangkot sa mga usapin\" ay nagpapahiwatig na",
+    "choice1": "Umiwas sa usapin",
+    "choice2": "Kalimutan ang isyu",
+    "choice3": "Magising sa katotohanan",
+    "choice4": "Dilat ang mga mata",
+    "answerKey": "Magising sa katotohanan"
+  },
+  {
+    "question": "Sa taas ng mga bilihin ngayon, kahit “kahig ka ng kahig” ay wala pa ring maipon. Ano ang ibig sabihin nito?",
+    "choice1": "Bawasan ang bili",
+    "choice2": "Hindi bumili",
+    "choice3": "Hanap ng hanap",
+    "choice4": "Gastos ng gastos",
+    "answerKey": "Hanap ng hanap"
+  },
+  {
+    "question": "Pinaaalahanan ako namagsikap__mabuti sapag-aaral.",
+    "choice1": "Tunay",
+    "choice2": "Ng",
+    "choice3": "Higit",
+    "choice4": "Nang",
+    "answerKey": "Nang"
+  },
+  {
+    "question": "Si Heneral Gregorio Del Pillar ay nagapi sa _______ Tirad.",
+    "choice1": "Pasòng",
+    "choice2": "Pasóng",
+    "choice3": "Pásong",
+    "choice4": "Pasông",
+    "answerKey": "Pásong"
+  },
+  {
+    "question": "Si Lope K. Santos ay tinaguriang “_____________________” sa dahilang siya ang kauna-unahang sumulat ng Balarila ng Wikang Pambansa na batay sa Tagalog.",
+    "choice1": "Ama ng Wikang Pambansa",
+    "choice2": "Ama ng Wikang Pilipino",
+    "choice3": "Ama ng Balarilang Pilipino",
+    "choice4": "Ama ng Panitikang Pilipino",
+    "answerKey": "Ama ng Balarilang Pilipino"
+  },
+  {
+    "question": "Sa wakas, nagpakasal na si Crisostomo kay Leonora.",
+    "choice1": "Nagmahabang dula",
+    "choice2": "Nagsampay-bakod",
+    "choice3": "Nagpalapad ng papel",
+    "choice4": "Namangka sa dalawang ilog",
+    "answerKey": "Nagmahabang dula"
+  },
+  {
+    "question": "Sa ________ ng gabi gaganapin ang pulong sa mga manunulat.",
+    "choice1": "Ika-8",
+    "choice2": "Ikawalo",
+    "choice3": "Ika-walo",
+    "choice4": "Ika 8",
+    "answerKey": "Ika-8"
+  },
+  {
+    "question": "Pinaka payak na anyo ng salita na walang kahalong panlapi.",
+    "choice1": "Gitlapi",
+    "choice2": "Laguhan",
+    "choice3": "Ponema",
+    "choice4": "Salitang ugat",
+    "answerKey": "Salitang ugat"
+  },
+  {
+    "question": "Siya ay may kutsarang pilak ng ipinanganak. Ito ay nangangahulugang:",
+    "choice1": "Mayaman",
+    "choice2": "Tahimik",
+    "choice3": "Mahirap",
+    "choice4": "Masalita",
+    "answerKey": "Mayaman"
+  },
+  {
+    "question": "Sa aling salita magkakaroon ng saglit na paghinto kung pinagpipilitang si Rose ang nakabasag ng pinggan?\n\nHindi si Rose ang nakabasag ng pinggan.",
+    "choice1": "Nakabasag",
+    "choice2": "Pinggan",
+    "choice3": "Rose",
+    "choice4": "Hindi",
+    "answerKey": "Hindi"
+  },
+  {
+    "question": "Siya ang lumagda sa Kautusang Tagapagpaganap (Blg . 96) na nag tatadhana sa lahat ng gusali , edipisyo at tanggapan ng pamahalaan na pangangalanan sa Filipino.",
+    "choice1": "Ferdinand Marcos",
+    "choice2": "Ramon Magsaysay",
+    "choice3": "Fidel Ramos",
+    "choice4": "Corazon Aquino",
+    "answerKey": "Ferdinand Marcos"
+  },
+  {
+    "question": "Siya ay hinirang na taga-sensus ng bahay-bahay. Ano ang kanyang nalikom?",
+    "choice1": "Ang kayamanan ng may-bahay",
+    "choice2": "Ang datos tungkol sa mga bata sa bawat bahay",
+    "choice3": "Ang datos tungkol sa mga naninirahan sa bawat bahay",
+    "choice4": "Ang bilang ng tao sa bahay",
+    "answerKey": "Ang datos tungkol sa mga naninirahan sa bawat bahay"
+  },
+  {
+    "question": "Sa mga bantas na gamit sa pangungusap, ano ang ginagamit pagkatapos ng pangungusap?",
+    "choice1": "Tutuldok",
+    "choice2": "Kuwit",
+    "choice3": "Tuldok",
+    "choice4": "Tandang pananong",
+    "answerKey": "Tuldok"
+  },
+  {
+    "question": "_________ ka na sa ilog. Nanginginig ka na.",
+    "choice1": "Humango",
+    "choice2": "Umahon",
+    "choice3": "Sumuong",
+    "choice4": "Lumusong",
+    "answerKey": "Umahon"
+  },
+  {
+    "question": "____iinumin ka bang gamot?",
+    "choice1": "May",
+    "choice2": "Nang",
+    "choice3": "Mayroon",
+    "choice4": "Meron",
+    "answerKey": "May"
+  },
+  {
+    "question": "At sa mga pulong dito’y nakasabog, nagkalat, nagpunla, nagsipanahan, nangagsipamuhay, nagbato’t nagkuta.\n\nSa saknong na ito, ang mga tunog na may salungguhit ay isang halimbawa ng ___________.",
+    "choice1": "asonasyon",
+    "choice2": "aliterasyon",
+    "choice3": "onomatopeya",
+    "choice4": "tugma",
+    "answerKey": "aliterasyon"
+  },
+  {
+    "question": "___________ mo sana kay Ronald kung kailan siya uuwi ng Pilipinas.",
+    "choice1": "Ipagtanong",
+    "choice2": "Itinanong",
+    "choice3": "Tinatanong",
+    "choice4": "Ipagtatanong",
+    "answerKey": "Itinanong"
+  },
+  {
+    "question": "Tukuyin ang uri ng pangungusap na itong walang paksa. “Walang anuman.”",
+    "choice1": "Pormulasyong panlipunan",
+    "choice2": "Patanong",
+    "choice3": "Eksistensyal",
+    "choice4": "Panagot",
+    "answerKey": "Pormulasyong panlipunan"
+  },
+  {
+    "question": "________ mo sana kay Ronald kung kailan siya uuwi ng Pilipinas.",
+    "choice1": "Itinanong",
+    "choice2": "Ipagtatanong",
+    "choice3": "Tinanong",
+    "choice4": "Ipagtanong",
+    "answerKey": "Itinanong"
+  },
+  {
+    "question": "______niya ng alkohol ang kanyang kamay.",
+    "choice1": "Pinahiran",
+    "choice2": "Pinahidan",
+    "choice3": "Pinahid",
+    "choice4": "Papahidan",
+    "answerKey": "Pinahiran"
+  },
+  {
+    "question": "Uri ng bantas na ginagamit sa paghihiwalay ng mga sugnay na sunod sunod ay _________.",
+    "choice1": "Tutuldok",
+    "choice2": "Tuldukuwit",
+    "choice3": "Kuwit",
+    "choice4": "Tuldok",
+    "answerKey": "Tuldukuwit"
+  },
+  {
+    "question": "________ ni Penelope ang kanyang damit nang hindi niya sinasadya.",
+    "choice1": "sinira",
+    "choice2": "Sinisira",
+    "choice3": "Masira",
+    "choice4": "Nasira",
+    "answerKey": "Nasira"
+  },
+  {
+    "question": "Uri ng pagbabagong morponemiko na gumagamit ng pagpapalit ng posisyon ng ponema sa salita.",
+    "choice1": "Metatesis",
+    "choice2": "Pagkaltas",
+    "choice3": "Paglapi",
+    "choice4": "Asimilasyon",
+    "answerKey": "Metatesis"
+  },
+  {
+    "question": "Uri ng panghalip na ginagamit na panturo sa mga bagay.",
+    "choice1": "Pamatlig",
+    "choice2": "Pamaklaw",
+    "choice3": "Palayon",
+    "choice4": "Palagyo",
+    "answerKey": "Pamatlig"
+  },
+  {
+    "question": "Upang hindi madala ng agos ang barko, ibinaba ng mga mandaragat ang________.",
+    "choice1": "angkora",
+    "choice2": "salung-alon",
+    "choice3": "pang-angkla",
+    "choice4": "timpulan.",
+    "answerKey": "timpulan."
+  },
+  {
+    "question": "_______ mo kay Luisito na may pasalubong ako sa kanya.",
+    "choice1": "Sabihin",
+    "choice2": "Pakisabihan",
+    "choice3": "Sabihan",
+    "choice4": "Pakisabi",
+    "answerKey": "Sabihin"
+  },
+  {
+    "question": "_________ na ng magaling na barbero ang buhok ni Andro.",
+    "choice1": "Hahagupitin",
+    "choice2": "Gugupitin",
+    "choice3": "Maggugupit",
+    "choice4": "Gugupitin",
+    "answerKey": "Gugupitin"
+  },
+  {
+    "question": "Winasak ng ________ Ondoy ang maraming bahay sa Tacloban.",
+    "choice1": "sagwan",
+    "choice2": "buhawi",
+    "choice3": "ipu-ipo",
+    "choice4": "bagyong",
+    "answerKey": "bagyong"
+  },
+  {
+    "question": "Tandaan mo na lahat ng paghihirap ni Luis ay ____ sa iyong magandang kinabukasan.",
+    "choice1": "tungkol",
+    "choice2": "ukol",
+    "choice3": "upang",
+    "choice4": "sanhi",
+    "answerKey": "ukol"
+  },
+  {
+    "question": "Uri ng sanaysay na pangkaraniwan ang paksa, waring nakikipag-usap lamang.",
+    "choice1": "Malikhain",
+    "choice2": "Malaya",
+    "choice3": "Maanyo",
+    "choice4": "Masining",
+    "answerKey": "Malaya"
+  },
+  {
+    "question": "Tinatawag siyang nag-aastang kastila, nakasuot ng Europeong damit at makapal ang kulay sa mukha.",
+    "choice1": "Don Filipo Lino",
+    "choice2": "Donya Consolacion",
+    "choice3": "Don Rafael Ibarra",
+    "choice4": "Donya Victorina",
+    "answerKey": "Donya Victorina"
+  },
+  {
+    "question": "Sa pangungusap na “Malakas ang boses mo,” ang salitang malakas ay isang ________.",
+    "choice1": "Pang-uri",
+    "choice2": "Panghalip",
+    "choice3": "Pangatnig",
+    "choice4": "Pandiwa",
+    "answerKey": "Pang-uri"
+  },
+  {
+    "question": "__________ natin ng mapa si Kenny para hindi sya maligaw.",
+    "choice1": "Iwan",
+    "choice2": "Iwanan",
+    "choice3": "Pag-iwan",
+    "choice4": "Mag-iwan",
+    "answerKey": "Iwanan"
+  },
+  {
+    "question": "___________ na ng magaling na barbero ang buhok ni Felix.",
+    "choice1": "Maggugupit",
+    "choice2": "Hahagupitin",
+    "choice3": "Gugupitan",
+    "choice4": "Gugupitin",
+    "answerKey": "Gugupitin"
+  },
+  {
+    "question": "Tapos na ang klase kapag tumunog na ang _______.",
+    "choice1": "batingting",
+    "choice2": "agunyas",
+    "choice3": "kampana",
+    "choice4": "kampanilya",
+    "answerKey": "kampana"
+  },
+  {
+    "question": "Uri ng pagsulat na ang pokus ay ang imahinasyon ng manunulat upang pukawin ang damdamin.",
+    "choice1": "Akademiko",
+    "choice2": "Jornalistik",
+    "choice3": "malikhain",
+    "choice4": "teknika",
+    "answerKey": "malikhain"
+  },
+  {
+    "question": "You can count on me,” ang pinakamalapit na salin nito ay:",
+    "choice1": "Bilangin mo kami",
+    "choice2": "Maaasahan mo ako",
+    "choice3": "Ibilang mo ako",
+    "choice4": "Bilangin mo ako",
+    "answerKey": "Maaasahan mo ako"
+  },
+  {
+    "question": "Tumutukoy ito sa bilang ng pantig sa bawat taludtod ng tula.",
+    "choice1": "Kariktan",
+    "choice2": "Talinghaga",
+    "choice3": "Sukat",
+    "choice4": "Tugma",
+    "answerKey": "Sukat"
+  },
+  {
+    "question": "________ namin ang inyong pagdating dito sa Villa Escudero.",
+    "choice1": "ikinukulog",
+    "choice2": "IKinakagalak",
+    "choice3": "Ikinagagalak",
+    "choice4": "Gagalakin",
+    "answerKey": "Ikinagagalak"
+  },
+  {
+    "question": "_______ ka na sa ilog. Nangigninig ka na.",
+    "choice1": "Lumusong",
+    "choice2": "Humango",
+    "choice3": "Umahon",
+    "choice4": "Sumuong",
+    "answerKey": "Umahon"
+  },
+  {
+    "question": "____________ namin ang iyong pagdating dito sa Villa Escudero.",
+    "choice1": "Ikinakapagpagalak",
+    "choice2": "Ikinakagalak",
+    "choice3": "Ikinagagalak",
+    "choice4": "Gagalakin",
+    "answerKey": "Ikinagagalak"
+  },
+  {
+    "question": "Walang tubig kahapon. Ito ay pangungusap na:",
+    "choice1": "May paksa",
+    "choice2": "Walang pandiwa",
+    "choice3": "Walang paksa",
+    "choice4": "May panaguri",
+    "answerKey": "Walang paksa"
+  },
+  {
+    "question": "_________ ni Penelope ang kanyang damit nang hindi niya sinasadya.",
+    "choice1": "Nasira",
+    "choice2": "Sinira",
+    "choice3": "Sinisira",
+    "choice4": "Masira",
+    "answerKey": "Nasira"
+  },
+  {
+    "question": ". Ang kape ______ Batangas ay talagang masarap.",
+    "choice1": "ng",
+    "choice2": "diyan",
+    "choice3": "riyan",
+    "choice4": "nang",
+    "answerKey": "ng"
+  },
+  {
+    "question": "\"Panahon na upang magdilat ng mata at makisangkot sa mga usapin.\" Itoy nagpapahiwatig na ___________.",
+    "choice1": "umiwas sa usapin",
+    "choice2": "magising sa katotohanan",
+    "choice3": "idilat ang mga mata",
+    "choice4": "kalimutan ang usapin",
+    "answerKey": "magising sa katotohanan"
+  },
+  {
+    "question": "\"Pen pen de sarapen/ de cuchillo de almasen/ haw haw de carabao batuten\". Pinatutunayan ng linya ang paglaganap ng wika dahil sa _____________.",
+    "choice1": "modernisasyon",
+    "choice2": "pakikipagkalakalan",
+    "choice3": "pananakop",
+    "choice4": "heograpiya",
+    "answerKey": "heograpiya"
+  },
+  {
+    "question": "Alin ang epikong romansang Malay na may paniniwala na mapapatagal ang buhay kung ang kaluluwa ay pagiingatan sa hayop o sahalaman?",
+    "choice1": "Bidasari",
+    "choice2": "Darangan",
+    "choice3": "Bantugan",
+    "choice4": "Hudhud",
+    "answerKey": "Bidasari"
+  },
+  {
+    "question": "\"You can count on me,\" Ang pinakamalapit na salin nito ay ______.",
+    "choice1": "bilangin mo kami",
+    "choice2": "maasahan mo ako",
+    "choice3": "ibilang mo ako",
+    "choice4": "bilangin mo ako",
+    "answerKey": "maasahan mo ako"
+  },
+  {
+    "question": "\"Malalim ang bulsa,\" ng kanyang Nanay. Ang ibig sabihin nito ay __________.",
+    "choice1": "mapagbigay",
+    "choice2": "kuripot",
+    "choice3": "walang pera",
+    "choice4": "mapera",
+    "answerKey": "kuripot"
+  },
+  {
+    "question": "1.\tPagsamahin sa kaserola ang manok, suka, isang kutsara ng bawang, laurel, toyo, asin at paminta.\n2.\tPakuluin, pagkatapos ay hinaan ang apoy at lutuin hanggang lumambot.\n3.\tKapag natuyuan ay magdagdag ng tubig.\n4.\tKapag malambot na ang manok ay alisin na ito sa sarsa.\n5.\tSa isang kawali, igisa ang natitirang bawang.\n6.\tIdagdag ang itinabing manok at lutuin hanggang matusta.\n7.\tIbuhos ang sarsa o pinaglutuan ng manok, pakuluin.\n8.\tMaari ding dagdagan ng ½ kutsarang asukal para bawasanang asim ng suka.\n\nPaano binigyang -katuturan ng may-akda ang paksa ng seleksyon ?",
+    "choice1": "Pagkilala sa sanhi at bunga",
+    "choice2": "Pagbibigay patnubay",
+    "choice3": "Paghahalimbawa",
+    "choice4": "Paghahambing at pagtatambis",
+    "answerKey": "Paghahalimbawa"
+  },
+  {
+    "question": "1.\tPagsamahin sa kaserola ang manok, suka, isang kutsara ng bawang, laurel, toyo, asin at paminta.\n2.\tPakuluin, pagkatapos ay hinaan ang apoy at lutuin hanggang lumambot.\n3.\tKapag natuyuan ay magdagdag ng tubig.\n4.\tKapag malambot na ang manok ay alisin na ito sa sarsa.\n5.\tSa isang kawali, igisa ang natitirang bawang.\n6.\tIdagdag ang itinabing manok at lutuin hanggang matusta.\n7.\tIbuhos ang sarsa o pinaglutuan ng manok, pakuluin.\n8.\tMaari ding dagdagan ng ½ kutsarang asukal para bawasanang asim ng suka.\n\nBakit kailangang hinaan ang apoy pagkatapos pakuluan ang manok?",
+    "choice1": "Upang maalis ang lasa ng manok",
+    "choice2": "Upang maging tuyo ang manok",
+    "choice3": "Upang lumambot ang manok",
+    "choice4": "Upang kumapit ang lasa ng tuyo",
+    "answerKey": "Upang lumambot ang manok"
+  },
+  {
+    "question": "1.\tPagsamahin sa kaserola ang manok, suka, isang kutsara ng bawang, laurel, toyo, asin at paminta.\n2.\tPakuluin, pagkatapos ay hinaan ang apoy at lutuin hanggang lumambot.\n3.\tKapag natuyuan ay magdagdag ng tubig.\n4.\tKapag malambot na ang manok ay alisin na ito sa sarsa.\n5.\tSa isang kawali, igisa ang natitirang bawang.\n6.\tIdagdag ang itinabing manok at lutuin hanggang matusta.\n7.\tIbuhos ang sarsa o pinaglutuan ng manok, pakuluin.\n8.\tMaari ding dagdagan ng ½ kutsarang asukal para bawasanang asim ng suka.\n\nAno ang pagkaing iniluluto ng may- akda?",
+    "choice1": "Adobong manok",
+    "choice2": "Nilagang manok",
+    "choice3": "Kalderetang manok",
+    "choice4": "Pocherong manok",
+    "answerKey": "Adobong manok"
+  },
+  {
+    "question": "Alam mo, noong nasa restawran kami at kumakain, pinagmasdan ko siyang mabuti. Lalo siyang gumaganda habang tinitigan. Pino ang kanyang kilos; kitang-kita ito habang kumakain. Maya-maya, may nakita akong kakaibang kilos sa kanya. Nag-iba ang ekspresyon ng kanyang mukha. Parang nahihirapan ngunit pilit pa rin siyang ngumingiti na parang may itinatagong kung ano at pasulyap-aulyapsa kanyang inumin. Nahalata ko na lamang na nahihirapan siyang lumunok dahil nabulunan. Nilapitan ko siya at binatukan, sabay abot sa softdrinks at winikaan kong, “MAGPAPAKATOTOO KA, SISTER!“\n\nAnong emosyon ng pangunahing tauhan sa pagsisimula ng seleksyon?",
+    "choice1": "Pagkainis",
+    "choice2": "Pagkakatotoo",
+    "choice3": "Pagkabighani",
+    "choice4": "Pag-ibig",
+    "answerKey": "Pagkabighani"
+  },
+  {
+    "question": "Alam mo, noong nasa restawran kami at kumakain, pinagmasdan ko siyang mabuti. Lalosiyang gumaganda habang tinitigan. Pino ang kanyang kilos; kitang-kita ito habang kumakain. Maya-maya, may nakita akong kakaibang kilos sa kanya. Nag-iba ang ekspresyon ng kanyang mukha. Parang nahihirapan ngunit pilit pa rin siyang ngumingiti na parang may itinatagong kung ano at pasulyap-aulyapsa kanyang inumin. Nahalata ko na lamang na nahihirapan siyang lumunok dahil nabulunan. Nilapitan ko siya at binatukan, sabay abot sa softdrinks at winikaan kong,“MAGPAPAKATOTOO KA, SISTER!“\n\nBakit nag-iba ang ekspresyon sa mukha ng babae sa seleksyon?",
+    "choice1": "Siya ay nabulunan at hindi makalunok",
+    "choice2": "Pangit ang lasa ng kanyang kinakain",
+    "choice3": "Masakit ang kanyang tiyan",
+    "choice4": "Nahalata niyng pinapanood siya ng pangunahing tauhan",
+    "answerKey": "Siya ay nabulunan at hindi makalunok"
+  },
+  {
+    "question": "\"Pinutol mo/ dagkung kahoy/ dahil dito/ gumugulong ang mga bato/ ania na, ania na, ania na...\" . Ang linya ng awit ay nagpapatunay ng ___________.",
+    "choice1": "code switching",
+    "choice2": "diglossic na kalagayan ng wika",
+    "choice3": "intelektwalisasyon",
+    "choice4": "paggamit ng lalawiganing antas",
+    "answerKey": "paggamit ng lalawiganing antas"
+  },
+  {
+    "question": "Alam mo, noong nasa restawran kami at kumakain, pinagmasdan ko siyang mabuti. Lalo siyang gumaganda habang tinitigan. Pino ang kanyang kilos; kitang-kita ito habang kumakain. Maya-maya, may nakita akong kakaibang kilos sa kanya. Nag-iba ang ekspresyon ng kanyang mukha. Parang nahihirapan ngunit pilit pa rin siyang ngumingiti na parang may itinatagong kung ano at pasulyap-aulyapsa kanyang inumin. Nahalata ko na lamang na nahihirapan siyang lumunok dahil nabulunan. Nilapitan ko siya at binatukan, sabay abot sa softdrinks at winikaan kong, “MAGPAPAKATOTOO KA, SISTER!“\n\n\nAnong uri ng pamamahayag ang ipinamalas sa seleksyon?",
+    "choice1": "Paglalarawan",
+    "choice2": "Pangangatwiran",
+    "choice3": "Paglalahad",
+    "choice4": "pagsasalaysay",
+    "answerKey": "pagsasalaysay"
+  },
+  {
+    "question": ". _____ sa malayong lugar sa kanluran tayo ay pupunta.",
+    "choice1": "Rito",
+    "choice2": "Dito",
+    "choice3": "Doon",
+    "choice4": "Dini",
+    "answerKey": "Doon"
+  },
+  {
+    "question": ". Ano ang pangungusap na dapat mauna?\nI. Ngunit ang pagtatalo ay hindi dapat nauuwi sa pagkakagalit.\nII. Natural lamang ang pagkakaroon ng magkakaibang pala-palagay ang mga tao.\nIII. Sa mga mag-asawa man ay hindi maiiwasan ang pagkakaiba ng opinyon.\nIV. Kahit sa magkakapatid, karaniwan na ang hindi pagkakasundo.\nV. Upang maiwasan ito, nararapat lamang na maging bukas ang ating isipan sa paniniwala ng iba.",
+    "choice1": "IV",
+    "choice2": "II",
+    "choice3": "I.",
+    "choice4": "III",
+    "answerKey": "II"
+  },
+  {
+    "question": "Alam mo, noong nasa restawran kami at kumakain, pinagmasdan ko siyang mabuti. Lalo siyang gumaganda habang tinitigan. Pino ang kanyang kilos; kitang-kita ito habang kumakain. Maya-maya, may nakita akong kakaibang kilos sa kanya. Nag-iba ang ekspresyon ng kanyang mukha. Parang nahihirapan ngunit pilit pa rin siyang ngumingiti na parang may itinatagong kung ano at pasulyap-aulyapsa kanyang inumin. Nahalata ko na lamang na nahihirapan siyang lumunok dahil nabulunan. Nilapitan ko siya at binatukan, sabay abot sa softdrinks at winikaan kong, “MAGPAPAKATOTOO KA, SISTER!“\n\nSaan naganapang mga pangyayari sa seleksyon ?",
+    "choice1": "Kusina",
+    "choice2": "Restawran",
+    "choice3": "Opisina",
+    "choice4": "Simbahan",
+    "answerKey": "Restawran"
+  },
+  {
+    "question": "\"Heto na, heto na, heto na... Wahh! Doo bidoo, bidoo\". Alin sa mga salita o tunog na hango mula sa awitin ang naaayon sa teoryang pooh-pooh?",
+    "choice1": "Na",
+    "choice2": "Heto",
+    "choice3": "Wahh",
+    "choice4": "Doo bidoo",
+    "answerKey": "Wahh"
+  },
+  {
+    "question": "\"Kung tutuusin, _____limang demonstrasyon na nila iyan ngayong buwan.\" Reklamo ng drayber. \"Dapat nga natin silang suportahan dahil kilalang_____Aquino ang NGO naiyan kay tiyak na _____demokrasya rin sila!\", bulalas naman ng pasahero.",
+    "choice1": "Ika-, maka, maka-",
+    "choice2": "Ika-, maka-, maka",
+    "choice3": "Ika-, maka-, maka-",
+    "choice4": "Ika, maka-, maka",
+    "answerKey": "Ika, maka-, maka"
+  },
+  {
+    "question": "1.\tPagsamahin sa kaserola ang manok, suka, isang kutsara ng bawang, laurel, toyo, asin at paminta.\n2.\tPakuluin, pagkatapos ay hinaan ang apoy at lutuin hanggang lumambot.\n3.\tKapag natuyuan ay magdagdag ng tubig.\n4.\tKapag malambot na ang manok ay alisin na ito sa sarsa.\n5.\tSa isang kawali, igisa ang natitirang bawang.\n6.\tIdagdag ang itinabing manok at lutuin hanggang matusta.\n7.\tIbuhos ang sarsa o pinaglutuan ng manok, pakuluin.\n8.\tMaari ding dagdagan ng ½ kutsarang asukal para bawasanang asim ng suka.\n\nAno ang karagdagang pakinabang ng paglalagay ng suka sa pagkaing iniluluto?",
+    "choice1": "Bilang pantanggal ng lansa",
+    "choice2": "Bilang pampaalat",
+    "choice3": "Upang maghiwalay ang mantika at toyo",
+    "choice4": "Upang hindi ma-panis ang iniluluto",
+    "answerKey": "Upang hindi ma-panis ang iniluluto"
+  },
+  {
+    "question": "\"Mahal kita, mahal kita hindi `to bola. Ngumiti ka man lang sana ako'y nasa langit na\". Ang salitang pampanitikan na gamit sa linya ng awitin ay nangangahulugang __________.",
+    "choice1": "sinisinta",
+    "choice2": "napakasaya",
+    "choice3": "pakikipagkaibigan",
+    "choice4": "laruan",
+    "answerKey": "napakasaya"
+  },
+  {
+    "question": "\"Pare-pareho kayo. Wala akong mapagpilian,\" wika ng isang gurong puno ng galit sa mga lalaking mag-aaral.",
+    "choice1": "Walang gana sa pagtuturo",
+    "choice2": "Hindi pare-pareho ang mga lalaki",
+    "choice3": "Nawalan ng tiwala sa mga lalaki",
+    "choice4": "Walang pagtingin sa mga lalaki",
+    "answerKey": "Nawalan ng tiwala sa mga lalaki"
+  },
+  {
+    "question": "\"Ang babae ay huwag mong tignang isang bagay na libangan lamang kundi isang katuwang at karamay sa mga kahirapan nitong kabuhayan\". (E. Jacinto) Ang tungkulin ng wika sa naturang linya ay ______.",
+    "choice1": "pangheuristiko",
+    "choice2": "pang-instrumental",
+    "choice3": "pang-interaksyunal",
+    "choice4": "panregulatori",
+    "answerKey": "panregulatori"
+  },
+  {
+    "question": "\"Ang lumalakad nang mabilis, kung matinik ay malalim.\" Ano ang ibig sabihin ng paalalang ito?",
+    "choice1": "Ang nagmamadali ay madalas magkamali.",
+    "choice2": "Mag-isip nang malalim kapag maglalakad.",
+    "choice3": "Ang naglalakad nang mabilis ay hindi makapag-iisip.",
+    "choice4": "Mag-isip na mabuti sa paglalakad.",
+    "answerKey": "Ang nagmamadali ay madalas magkamali."
+  },
+  {
+    "question": "\"Kung sa langit ay nabubuhay ang sa lupa ay namamatay, ano't kinatatakutan ang oras ng kamatayan.\" Anong damdamin ang ipinapahayag nito?",
+    "choice1": "Maging mapagpasensiya",
+    "choice2": "Maging matapang",
+    "choice3": "Maging mapagbigay",
+    "choice4": "Maging matatag sa buhay",
+    "answerKey": "Maging matapang"
+  },
+  {
+    "question": "Alam mo, noong nasa restawran kami at kumakain, pinagmasdan ko siyang mabuti. Lalosiyang gumaganda habang tinitigan. Pino ang kanyang kilos; kitang-kita ito habang kumakain. Maya-maya, may nakita akong kakaibang kilos sa kanya. Nag-iba ang ekspresyon ng kanyang mukha. Parang nahihirapan ngunit pilit pa rin siyang ngumingiti na parang may itinatagong kung ano at pasulyap-aulyapsa kanyang inumin. Nahalata ko na lamang na nahihirapan siyang lumunok dahil nabulunan. Nilapitan ko siya at binatukan, sabay abot sa softdrinks at winikaan kong,“MAGPAPAKATOTOO KA, SISTER!“\n\nSa pagtatapos ng seleksyon, ano ang napagtanto ng pangunahing tauhan tungkol sa babaeng kanyang\nnapapanood?",
+    "choice1": "Totoo sa sarili ng babae",
+    "choice2": "Mayaman ang babae",
+    "choice3": "Ubod ng hinhin ang babae",
+    "choice4": "Maganang kumain ang babae",
+    "answerKey": "Maganang kumain ang babae"
+  },
+  {
+    "question": ". Ang bawat nilalang ay may kani-kanyang adhikain.",
+    "choice1": "pakiusap",
+    "choice2": "pag-asa",
+    "choice3": "layunin",
+    "choice4": "utos",
+    "answerKey": "layunin"
+  },
+  {
+    "question": "\"Walang ligaya sa lupa na di dinilig ng luha .” Ito ay isang",
+    "choice1": "Salawikain",
+    "choice2": "Kawikaan",
+    "choice3": "Bugtong",
+    "choice4": "Palaisipan",
+    "answerKey": "Salawikain"
+  },
+  {
+    "question": "Ano ang salitang-ugat ng Karimlan?",
+    "choice1": "Rimlan",
+    "choice2": "Kalan",
+    "choice3": "Dilim",
+    "choice4": "Karim",
+    "answerKey": "Dilim"
+  },
+  {
+    "question": "1.\tPagsamahin sa kaserola ang manok, suka, isang kutsara ng bawang, laurel, toyo, asin at paminta.\n2.\tPakuluin, pagkatapos ay hinaan ang apoy at lutuin hanggang lumambot.\n3.\tKapag natuyuan ay magdagdag ng tubig.\n4.\tKapag malambot na ang manok ay alisin na ito sa sarsa.\n5.\tSa isang kawali, igisa ang natitirang bawang.\n6.\tIdagdag ang itinabing manok at lutuin hanggang matusta.\n7.\tIbuhos ang sarsa o pinaglutuan ng manok, pakuluin.\n8.\tMaari ding dagdagan ng ½ kutsarang asukal para bawasanang asim ng suka.\n\nAnung uri ng pamamahayag ang ipinamalas sa seleksyon?",
+    "choice1": "Pangangatuwiran",
+    "choice2": "Paglalahad",
+    "choice3": "Paglalarawan",
+    "choice4": "Pagsasalaysay",
+    "answerKey": "Paglalahad"
+  },
+  {
+    "question": "\"Magtatrabaho ako at ikaw ay mag aaral upang makatapos ka ng pag aaral .” Anong uri ng pangungusap ito?",
+    "choice1": "Langkapan",
+    "choice2": "Hugnayan",
+    "choice3": "Payak",
+    "choice4": "Tambalan",
+    "answerKey": "Langkapan"
+  },
+  {
+    "question": "Alin dito ang pinakawastong salin sa pangungusap na: “I am sure he didn’t say that.”",
+    "choice1": "Natitiyak kong hindi niya sinabi iyon.",
+    "choice2": "Ang tiyak ko’y hindi niya sinabi iyon.",
+    "choice3": "Ako ay tiyak na hindi niya sinabi iyon.",
+    "choice4": "Ako ay nakatitiyak na na iyon ay hindi niya sinabi.",
+    "answerKey": "Natitiyak kong hindi niya sinabi iyon."
+  },
+  {
+    "question": "Alin sa mga sumusunod na metodo sa pagtuturo ng wika ang WALANG KAUGNAYAN sa makataong tradisyon?",
+    "choice1": "Monitor Model",
+    "choice2": "Suggestopedia",
+    "choice3": "Silent Way",
+    "choice4": "Community Language Learning",
+    "answerKey": "Monitor Model"
+  },
+  {
+    "question": "1.\tPagsamahin sa kaserola ang manok, suka, isang kutsara ng bawang, laurel, toyo, asin at paminta.\n2.\tPakuluin, pagkatapos ay hinaan ang apoy at lutuin hanggang lumambot.\n3.\tKapag natuyuan ay magdagdag ng tubig.\n4.\tKapag malambot na ang manok ay alisin na ito sa sarsa.\n5.\tSa isang kawali, igisa ang natitirang bawang.\n6.\tIdagdag ang itinabing manok at lutuin hanggang matusta.\n7.\tIbuhos ang sarsa o pinaglutuan ng manok, pakuluin.\n8.\tMaari ding dagdagan ng ½ kutsarang asukal para bawasanang asim ng suka.\n\nPaano binigyang -katuturan ng may-akda ang paksa ng seleksyon ?",
+    "choice1": "Paghahambing at pagtatambis",
+    "choice2": "Pagkilala sa sanhi at bunga",
+    "choice3": "Pagbibigay patnubay",
+    "choice4": "Paghahalimbawa",
+    "answerKey": "Paghahalimbawa"
+  },
+  {
+    "question": "Aling dulog ang ginagamit kung nagsisimula sa paglalahad ng tuntunin patungo sa pagbibigay ng mga halimbawa?",
+    "choice1": "Dulog na limitado",
+    "choice2": "Dulog na pabuod",
+    "choice3": "Dulog na abstrak",
+    "choice4": "Dulog na pasaklaw",
+    "answerKey": "Dulog na pasaklaw"
+  },
+  {
+    "question": "Ang butong tinangay ng aso, walang pagsalang na lawayan ito. Ang kaisipang ito ay tumutukoy sa katotohanan ng ______.",
+    "choice1": "Pagtatanan",
+    "choice2": "Pakikipag kaibigan",
+    "choice3": "Pagpapakasal",
+    "choice4": "Pagnanakaw",
+    "answerKey": "Pagtatanan"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang pinakamalakas ang dating na pahayag kapag kabataan ang nag-uusap  sa isang kuwento?",
+    "choice1": "Ang ganda ng kanyang kasuotan?",
+    "choice2": "Katulad niya ang isang bathala!",
+    "choice3": "Astig talaga ang ayos niya!",
+    "choice4": "Ang porma niya talaga.",
+    "answerKey": "Astig talaga ang ayos niya!"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang pinakatamang pangungusap?",
+    "choice1": "Ang mga kabataan kung maliwanag ang buwan ay nagtatakbuhan sa lansangan at naglalaro.",
+    "choice2": "Ang kabataan ay naglalaro kung maliwanag ang buwan at nagtatakbuhan sa lansangan.",
+    "choice3": "Ang mga kabataan sa lansangan ay naglalaro at nagtatakbuhan sa lansangan.",
+    "choice4": "Ang mga kabataan ay naglalaro at nagtatakbuhan sa lansangan kung maliwanag ang gabi.",
+    "answerKey": "Ang mga kabataan ay naglalaro at nagtatakbuhan sa lansangan kung maliwanag ang gabi."
+  },
+  {
+    "question": "Alin sa mga sumusunod ang pangungusap na may paksa?",
+    "choice1": "Nagbabasa sila sa aklatan.",
+    "choice2": "Mainit ngayon",
+    "choice3": "May pasok ba bukas?",
+    "choice4": "Kay ganda ng paglubog ng araw",
+    "answerKey": "Nagbabasa sila sa aklatan."
+  },
+  {
+    "question": "Ang Gintong Panahon ng Panitikan ng Pilipinas ay ang panahon ng:",
+    "choice1": "Kontemporaryo",
+    "choice2": "Kastila",
+    "choice3": "Amerikano",
+    "choice4": "Hapones",
+    "answerKey": "Hapones"
+  },
+  {
+    "question": "Alin ang ipinalit na katawagan sa Language Acquisition Device (LAD) na aparatong pang-isipan na taglay ng lahat ng mga bata pagkasilang?",
+    "choice1": "Grammar translation",
+    "choice2": "Reinforcement",
+    "choice3": "Audio-Lingual Method",
+    "choice4": "Aniversal grammar",
+    "answerKey": "Aniversal grammar"
+  },
+  {
+    "question": "Alin sa sumusunod ang waston pagkakasulat ng bibliograpiya?",
+    "choice1": "Retorikang pangkolehiyo. Antonio, Lila F., et al. Quezon City: Unibersidad ng\nPilipinas",
+    "choice2": "Antonio, Lila F., et al. (1975-76) retorikang pangkolehiyo. Quezon City: Unibersidad ng Pilipinas",
+    "choice3": "Quezon City: Unibersidad ng Pilipinas, 1975-76, Retorikang pangkolehiyo, Antonio, Lila F., et al",
+    "choice4": "Unibersidad ng Pilipinas, Antonio, Lila F. et al, Retorikang pangkolehiyo, Quezon City, (197576)",
+    "answerKey": "Antonio, Lila F., et al. (1975-76) retorikang pangkolehiyo. Quezon City: Unibersidad ng Pilipinas"
+  },
+  {
+    "question": "Alin ang pinakamabisang pahayag na maaaring gamitin para sa isang talumpati?",
+    "choice1": "Kahit bata ka, pumailanlang ka!",
+    "choice2": "Ikaw kabataan ay nararapat na pumailanlang.",
+    "choice3": "Kabataan, pumailanlang ka!",
+    "choice4": "Ang pagpapailanlang mo kabataan ay hinihintay.",
+    "answerKey": "Kabataan, pumailanlang ka!"
+  },
+  {
+    "question": "Ang abrigo na ibinigay sa may kaarawan ay makulay. Ano ang Abrigo?",
+    "choice1": "Panyo",
+    "choice2": "Balabal",
+    "choice3": "Salawal",
+    "choice4": "Damit",
+    "answerKey": "Balabal"
+  },
+  {
+    "question": "Aling teorya ng pagkatuto ang nagpapaliwanag na ang pagkakamali ay isang palatandaan ng pagkatuto at eksperimentasyon at hindi ito kagyat at tuwirang iwinawasto?",
+    "choice1": "Teoryang Behaviorist",
+    "choice2": "Teoryang Cognitive",
+    "choice3": "Teoryang Innative",
+    "choice4": "Teoryang Makatao",
+    "answerKey": "Teoryang Cognitive"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang salitang pambansa?",
+    "choice1": "Mapagkumbaba",
+    "choice2": "Pinoy",
+    "choice3": "Nagdadalantao",
+    "choice4": "Kamusta",
+    "answerKey": "Mapagkumbaba"
+  },
+  {
+    "question": "Alin sa mga maikling kuwentong ito ang unang nagwagi ng Carlos Palanca Memorial Awards",
+    "choice1": "Mabangis na Lungsod",
+    "choice2": "Lihim ng isang Pulo",
+    "choice3": "Sampaguitang Walang Bango",
+    "choice4": "Kuwento ni Mabuti",
+    "answerKey": "Kuwento ni Mabuti"
+  },
+  {
+    "question": "Alin ang kasingkahulugan ng pariralang nagbibilang ng poste?",
+    "choice1": "mahusay magbilang",
+    "choice2": "walang poste",
+    "choice3": "walang trabaho",
+    "choice4": "mahusay magtrabaho",
+    "answerKey": "walang trabaho"
+  },
+  {
+    "question": "Aling teorya sa pagkatuto ang ginagamit kung ang mga guro ay nagbibigay ng set ng mga simulain at mga pamamaraang madaling isagawa sa pagtuturo?",
+    "choice1": "Teoryang Innative",
+    "choice2": "Teoryang Behaviorist",
+    "choice3": "Teoryang Makatao",
+    "choice4": "Teoryang Cognitive",
+    "answerKey": "Teoryang Behaviorist"
+  },
+  {
+    "question": "Aling dulog ang ginagamit sa pagtuklas na pagkatuto sa Teoryang Cognitive kung ito ay nagsisimula sa mga halibawa patungo sa paglalahat o pagbubuo ng tuntunin?",
+    "choice1": "Dulog na limitado",
+    "choice2": "Dulog pabuod",
+    "choice3": "Dulog abstark",
+    "choice4": "Dulog pasaklaw",
+    "answerKey": "Dulog na limitado"
+  },
+  {
+    "question": "Alin ang pinakamalakas ang dating na pahayag kapag kabataan ang nag-uusap saisang kwento?",
+    "choice1": "Ang porma niya talaga.",
+    "choice2": "Katulad niya ang isang Bathala!",
+    "choice3": "Ang ganda ng kanyang kasuotan!",
+    "choice4": "Astig talaga ang ayos niya!",
+    "answerKey": "Astig talaga ang ayos niya!"
+  },
+  {
+    "question": "Aling metodo sa pagtuturo ng wika ang ginagamit kung ang mga mag-aaral ay nagmememorya ng mahabang talasalitaan, mga anyo ng pandiwa, at mga pangalan?",
+    "choice1": "Language Acquisition Device",
+    "choice2": "Audio-lingual method",
+    "choice3": "Grammar-translation",
+    "choice4": "Model ni krashen",
+    "answerKey": "Grammar-translation"
+  },
+  {
+    "question": "Alin sa mga ito ang karaniwang nasasaksihan sa paglalamay sa patay at paligsahan sa pangngatwiran sa paraang patula?",
+    "choice1": "Balagtasan",
+    "choice2": "Juego de Prenda",
+    "choice3": "Karagatan",
+    "choice4": "Duplo",
+    "answerKey": "Duplo"
+  },
+  {
+    "question": "Ang aklat ni Dr. Tinsley Harrison ang __________ sa pag-aaral ng medisina.",
+    "choice1": "batayan",
+    "choice2": "sandigan",
+    "choice3": "saligan",
+    "choice4": "pundasyon",
+    "answerKey": "batayan"
+  },
+  {
+    "question": "Alin ang may wastong baybay?",
+    "choice1": "Gamugamo",
+    "choice2": "Iba-iba",
+    "choice3": "Kurukuro",
+    "choice4": "Paru-paro",
+    "answerKey": "Gamugamo"
+  },
+  {
+    "question": "Alin ang kasingkahulugan ng pariralang buwaya sa katihan?",
+    "choice1": "mapang-imbot",
+    "choice2": "mapagmalabis",
+    "choice3": "mapanukso",
+    "choice4": "mapang-api",
+    "answerKey": "mapang-imbot"
+  },
+  {
+    "question": "Alin ang pinakamalapit na salin ng \"you are the apple of my eye.\"",
+    "choice1": "Ibibili kita ng mansanas.",
+    "choice2": "Ikaw ay kasing ganda ng mansanas.",
+    "choice3": "Ikaw ang paborito ko.",
+    "choice4": "Ikaw ay maganda sa paningin.",
+    "answerKey": "Ikaw ang paborito ko."
+  },
+  {
+    "question": "Ang dulang ito ay itinuturing na drama simboliko noong 1903.",
+    "choice1": "Kahapon, Ngayon at Bukas",
+    "choice2": "Sampaguitang Walang Bango",
+    "choice3": "Nena at Neneng",
+    "choice4": "Lihim ng isang Pulo",
+    "answerKey": "Kahapon, Ngayon at Bukas"
+  },
+  {
+    "question": "Alin sa mga sumusunod ang hindi nabibilang na kasingkahulugan ng salitang pala-palagay?",
+    "choice1": "Paniniwala",
+    "choice2": "Opinyon",
+    "choice3": "Akala",
+    "choice4": "Paniniwala",
+    "answerKey": "Paniniwala"
+  },
+  {
+    "question": "Ang damuho ay may asawa pala. Ano ang damuho?",
+    "choice1": "Salbahe",
+    "choice2": "kabiyak",
+    "choice3": "Tamad",
+    "choice4": "Tanga",
+    "answerKey": "Salbahe"
+  },
+  {
+    "question": "Alin ang naganap na pagbabagong morpoponemiko sa salitang Tagalog?",
+    "choice1": "Metatesis",
+    "choice2": "Pag-aangkop",
+    "choice3": "Pagpapalit",
+    "choice4": "Asimilasyon",
+    "answerKey": "Pag-aangkop"
+  },
+  {
+    "question": "Ang sagisag na panulat ni Andres Bonifacio",
+    "choice1": "Taga-Iloh",
+    "choice2": "Anak-Pawis",
+    "choice3": "Huseng Sisiw",
+    "choice4": "Anak-Bayan",
+    "answerKey": "Anak-Bayan"
+  },
+  {
+    "question": "Ang katotohanang inihahayag sa awiting \"Florante at Laura\" ni Balagtas.",
+    "choice1": "paraan ng pamumuhay",
+    "choice2": "kahirapan sa buhay",
+    "choice3": "pag-iibigan ng magka-ibang lahi",
+    "choice4": "katiwalian ng mga Kastila",
+    "answerKey": "katiwalian ng mga Kastila"
+  },
+  {
+    "question": "Ang obra maestra ni Aurelio Tolentino ay ang _______.",
+    "choice1": "Sinag sa karimlan",
+    "choice2": "Igorotasa Baguio",
+    "choice3": "Kahapon, Ngayon at Bukas",
+    "choice4": "Pinaglahuan",
+    "answerKey": "Kahapon, Ngayon at Bukas"
+  },
+  {
+    "question": "Ang salin sa blangko para sa blank ay halimbawa ng pagtutumbas na ______________.",
+    "choice1": "Paggamit ng leksikong Filipino",
+    "choice2": "Panghihiram ng salitang katutubo",
+    "choice3": "Panghiram sa Espanyol at pagbaybay sa Filipino",
+    "choice4": "Kung ano ang bigkas siyang sulat",
+    "answerKey": "Panghiram sa Espanyol at pagbaybay sa Filipino"
+  },
+  {
+    "question": "Ang mga mag-aaral ng Nolasco High School ay nagsayawan at nag-aawitan.",
+    "choice1": "Payak",
+    "choice2": "Langkapan",
+    "choice3": "Tambalan",
+    "choice4": "Hugnayan",
+    "answerKey": "Payak"
+  },
+  {
+    "question": "Ang kalipunan ng mga tula mula kina Huseng Sisiw at Balagtas hanggang sa makabagong makata ay ipinalimbag ni Alejandro G. Abadilla ay ang _________________.",
+    "choice1": "Buhay at Iba pang Tula",
+    "choice2": "Parnasong Tagalog",
+    "choice3": "Ako ang Daigdig",
+    "choice4": "Tanagabadilla",
+    "answerKey": "Parnasong Tagalog"
+  },
+  {
+    "question": "Ang pahayagan ay hindi dapat maglathala ng anumang uri ng pagbibintangna makakasira sa reputasyon na di muna nagbibigay ng pagkakataon sa nasasakdal na marnig ang kanyang panig. Ito ay?",
+    "choice1": "Maaasahan mo ako",
+    "choice2": "kalayaan ng pagpapahayag",
+    "choice3": "makatarungan pakikitungo",
+    "choice4": "walang kinikilingan",
+    "answerKey": "Maaasahan mo ako"
+  },
+  {
+    "question": "Ang gitara ay isang uri ng instrumentong pangmusika na nahahanay o nauuri sa string. Upang tumunog ang instrumentong ito ay kailangan mo itong kalabitin ng kanang kamay at titipahin naman ng kaliwang kamay.",
+    "choice1": "Paghahambing at Pagkokontrast",
+    "choice2": "Enumerasyon",
+    "choice3": "Sanhi at Bunga",
+    "choice4": "Depinisyon",
+    "answerKey": "Depinisyon"
+  },
+  {
+    "question": "Ang pinakatanyag sa dulang isinulat ni Julian Cruz Balmaseda ay ang _____________.",
+    "choice1": "Dahil sa Anak",
+    "choice2": "Sa Bunganga ng Pating",
+    "choice3": "Isang Kualtang Abaka",
+    "choice4": "Ang Piso ni Anita",
+    "answerKey": "Sa Bunganga ng Pating"
+  },
+  {
+    "question": "Ang paalala ay gamot sa taong nakalilimot.",
+    "choice1": "Personification o Pagtatao",
+    "choice2": "Simile o pagtutulad",
+    "choice3": "Metaphor o pagwawangis",
+    "choice4": "Hyperbole o pagmamalabis",
+    "answerKey": "Metaphor o pagwawangis"
+  },
+  {
+    "question": "Ang mga salitang puto-bumbong at puto't kutsinta ay di matutumbasan ng ibang bansa. Ito ay nagpapatunay na ...",
+    "choice1": "Ang wika ay malikhain",
+    "choice2": "Ang wika ay dinamiko",
+    "choice3": "Ang wika ay arbitraryo",
+    "choice4": "Masidhing damdamin",
+    "answerKey": "Ang wika ay arbitraryo"
+  },
+  {
+    "question": "Ang mga regalong natira ay ______ Ayeng, Miguel at Joffrey.",
+    "choice1": "para sa atin",
+    "choice2": "para kina",
+    "choice3": "para sa kanila",
+    "choice4": "para sa iyo",
+    "answerKey": "para kina"
+  },
+  {
+    "question": "Ang paalala ay gamot sa taong nakalilimot.",
+    "choice1": "Pagtatao",
+    "choice2": "Pagwawangis",
+    "choice3": "Pagtutulad",
+    "choice4": "Pagmamalabis",
+    "answerKey": "Pagwawangis"
+  },
+  {
+    "question": "Ang pagtama sa lotto ay parang isang “Suntok sa buwan” Ano ang kahulugan nito?",
+    "choice1": "Pangarap",
+    "choice2": "Maaari",
+    "choice3": "Impossible",
+    "choice4": "Maaabot",
+    "answerKey": "Pangarap"
+  },
+  {
+    "question": "Ang lumalakad ng mabilis, kung matinik ay malalim“. ano ang ibig sabihin nito?",
+    "choice1": "Ang naglalakad ng mabilis ay hindi makapag-isip.",
+    "choice2": "Mag-isip ng malalim kung paglalakad",
+    "choice3": "Mag-isip na mabuti sa paglalakad.",
+    "choice4": "Ang nagmamadali ay madalas nagkakamali.",
+    "answerKey": "Ang nagmamadali ay madalas nagkakamali."
+  },
+  {
+    "question": "Ang lumikha ng awit na “Ang Bayan Ko”",
+    "choice1": "Constancio De Guzman",
+    "choice2": "Manuel Conde",
+    "choice3": "Jose Rizal",
+    "choice4": "Severino Reyes",
+    "answerKey": "Constancio De Guzman"
+  },
+  {
+    "question": "Ang isang set ng kompyuter ay binubuo ng mga sumusunod na bahagi: CPU, monitor, mouse, key board at avr. Ang opsyunal na bahagi nito ay printer at scanner. Ibig sabihin, maaaring wala ang mga kagamitang ito.",
+    "choice1": "Depinisyon",
+    "choice2": "Order",
+    "choice3": "Sanhi at Bunga",
+    "choice4": "Enumerasyon",
+    "answerKey": "Enumerasyon"
+  },
+  {
+    "question": "Ang pagkautal ay matawag na ________ na sagabal sa salita.",
+    "choice1": "pisikal",
+    "choice2": "saykolohikal",
+    "choice3": "semantiko",
+    "choice4": "pisyolohikal",
+    "answerKey": "pisyolohikal"
+  },
+  {
+    "question": "Ang pahayagan ay hindi dapat maglathala ng anumang uri ng pagbibintang na makasisira sa reputasyon nang di muna nagbibigay ng pagkakataon sa nasasakdal na marinig ang kanyang panig. Ito ay ______________.",
+    "choice1": "patas na pamamahayag",
+    "choice2": "kalayaan ng pagpapahayag",
+    "choice3": "makatarungang pakikitungo",
+    "choice4": "walang kinikilingan",
+    "answerKey": "patas na pamamahayag"
+  },
+  {
+    "question": "Ang lahat ng ito ay diptonggo MALIBAN sa",
+    "choice1": "tunog",
+    "choice2": "agiw",
+    "choice3": "taynga",
+    "choice4": "sabaw",
+    "answerKey": "tunog"
+  },
+  {
+    "question": "Ang Kagawaran ng Ugnayang Panlabas ng Pilipinas ay gulong-gulo kapag may giyera sa ibang bansa. Ano ang unang ginagampanan ng ambassador ng bansa?",
+    "choice1": "Bayaang magsipag-uwian sa sariling sikap ang bawat isa",
+    "choice2": "Bilangin ang mga nasugatan at nasawi",
+    "choice3": "Alamin ang mga tirahan ng mga Pilipino sabayang iyon.",
+    "choice4": "Ipunin ang mga may kaya at ipalipad pauwi.",
+    "answerKey": "Alamin ang mga tirahan ng mga Pilipino sabayang iyon."
+  },
+  {
+    "question": "Ang kasiphayuan-kaligayahanay isang halimbawa ng______________.",
+    "choice1": "pagsasalungatan",
+    "choice2": "pagbibigay ng katangian",
+    "choice3": "pagkakatulad",
+    "choice4": "pagbubuo",
+    "answerKey": "pagsasalungatan"
+  },
+  {
+    "question": "Ang mga sumusunod na bokabularyo gaya ng court, pleading at exhibit ay tinatawag na______.",
+    "choice1": "Idyolek",
+    "choice2": "Jargon",
+    "choice3": "Sosyolek",
+    "choice4": "Dayalek",
+    "answerKey": "Jargon"
+  },
+  {
+    "question": "Ang salitang apartment ay binubuo ng dalawang klaster. Tukuyin ito.",
+    "choice1": "rt & nt",
+    "choice2": "tm & nt",
+    "choice3": "rt & tm",
+    "choice4": "pr & tm",
+    "answerKey": "rt & nt"
+  },
+  {
+    "question": "Ang pag-iibigan nina Florante at Laura ay matimyas. Ano ang kasalungat ng kahulugan ng salitang \"matimyas\"?",
+    "choice1": "wagas",
+    "choice2": "di-totoo",
+    "choice3": "di-magmamaliw",
+    "choice4": "dalisay",
+    "answerKey": "di-totoo"
+  },
+  {
+    "question": "Ang paniniwala sa Diyos ay susi upang matamo natin ang ____________.",
+    "choice1": "salbasyon",
+    "choice2": "kabutihan",
+    "choice3": "kadakilaan",
+    "choice4": "kaligtasan",
+    "answerKey": "kaligtasan"
+  },
+  {
+    "question": "Ang pag-aaral ay nakatuon sa motibasyon ng mga mag-aaral sa paggamit ng kompyuter sa paggawa ng mga sulatin. Natuklasan sa pag-aaral na ito na ang ganitong pahayag ay ilalagay sa _________________.",
+    "choice1": "kaligiran",
+    "choice2": "pamamaraan",
+    "choice3": "paradigm",
+    "choice4": "abstrak",
+    "answerKey": "abstrak"
+  },
+  {
+    "question": "Aling teorya sa pagkatuto ang magkatulad sa maraming aspekto?",
+    "choice1": "Behaviorist at Innative",
+    "choice2": "Innative at Makatao",
+    "choice3": "Behaviorist at Makatao",
+    "choice4": "Cognitive at Innative",
+    "answerKey": "Cognitive at Innative"
+  },
+  {
+    "question": "Ang mukha niya’y animo’y maamong tupa na sunudsunuran.",
+    "choice1": "Metonomi o pagpapalit-tawag",
+    "choice2": "Metaphor o pagwawangis",
+    "choice3": "Epigram o pagsalungat",
+    "choice4": "Simile o pagtutulad",
+    "answerKey": "Simile o pagtutulad"
+  },
+  {
+    "question": "Ang proseso ng paggamit sa Filipino sa iba’t ibang disiplina lalo na sa mga disiplinang siyentipiko at teknikal ay tinatawag na______________.",
+    "choice1": "Bilinggualismo",
+    "choice2": "Istandardisasyon",
+    "choice3": "Bilinggualismo",
+    "choice4": "Intelektwalisasyon",
+    "answerKey": "Intelektwalisasyon"
+  },
+  {
+    "question": "Ang tunay na pag-ibig ay walang ibinubungakung hindi tunay na ligaya at kaginhawaan. Kalian pa ma’t sapin-sapin ang dusang pinapasan ng bayani, at ang kanyang biuhay ay nalipos ng karukhaan at lungkot, ang dahilan ay sapagkat hindi ang tunay na pag-ibig ang naghahari kunng hindiang taksil na pita sa yama’t bulaang karangalan.\n\nAng paghihirap ng bayan ay sanhi ng ________.",
+    "choice1": "kawalang malay",
+    "choice2": "kahinaan ng bayani",
+    "choice3": "digmaan",
+    "choice4": "pagkamakasarili",
+    "answerKey": "pagkamakasarili"
+  },
+  {
+    "question": "Ang wikang Filipino ay hawig sa mga wika sa Asya. Alin dito ang pinagmulan ng wikang Filipino?",
+    "choice1": "Bahasa",
+    "choice2": "Mandarin",
+    "choice3": "Malayo-Polinesyo",
+    "choice4": "Nihonggo",
+    "answerKey": "Malayo-Polinesyo"
+  },
+  {
+    "question": "Ang wikang ginagamit sa isang partikular na lugar ay tinatawag na______.",
+    "choice1": "Wikang Opisyal",
+    "choice2": "Lingua Franca",
+    "choice3": "Wikang Pambansa",
+    "choice4": "Unang wika",
+    "answerKey": "Lingua Franca"
+  },
+  {
+    "question": "Ano ang salin ng “Bring home the bacon”?",
+    "choice1": "Dalhin ang bacon.",
+    "choice2": "Mag-uwi ng bacon",
+    "choice3": "Mag-uwi ng panalo.",
+    "choice4": "Bumili ng panalo.",
+    "answerKey": "Mag-uwi ng panalo."
+  },
+  {
+    "question": "Anong ayos ng pantig ang ginamit sa salitang “daigdig”?",
+    "choice1": "KPPKKPK",
+    "choice2": "KKPPKPP",
+    "choice3": "KKPKPPK",
+    "choice4": "KPPPKPP",
+    "answerKey": "KPPKKPK"
+  },
+  {
+    "question": "Ano ang kahulugan ng pangungusap na ito?\nIlista mo na lamang sa tubig ang aking utang.",
+    "choice1": "Tubig ang listahan",
+    "choice2": "Nasa tubig ang utang",
+    "choice3": "Kalimutan na ang utang",
+    "choice4": "Magbabayad din ng utang",
+    "answerKey": "Kalimutan na ang utang"
+  },
+  {
+    "question": "Ano ang ibig sabihin ng, “basal ang aking tinig”?",
+    "choice1": "Hindi marinig",
+    "choice2": "Malakas",
+    "choice3": "Maytakip ang bibig",
+    "choice4": "Busilak",
+    "answerKey": "Busilak"
+  },
+  {
+    "question": "Anong dulog pampanitikan ang kilala rin sa tawag bilang reader-response theory?",
+    "choice1": "Impresyonista",
+    "choice2": "Antropolohiya",
+    "choice3": "Pansikolohiya",
+    "choice4": "Patalambuhay",
+    "answerKey": "Impresyonista"
+  },
+  {
+    "question": "Ano ang naganap na pagbabagong morpoponemiko sa salitang nasa malaking titik?\nNasa mesa ang mga kagamitan sa PANLINIS.",
+    "choice1": "Pagkaltas",
+    "choice2": "Asimilasyon",
+    "choice3": "Reduplikasyon",
+    "choice4": "Metatesis",
+    "answerKey": "Asimilasyon"
+  },
+  {
+    "question": "Ang tunay na pag-ibig ay walang ibinubungakung hindi tunay na ligaya at kaginhawaan. Kalian pa ma’t sapin-sapin ang dusang pinapasan ng bayani, at ang kanyang biuhay ay nalipos ng karukhaan at lungkot, ang dahilan ay sapagkat hindi ang tunay na pag-ibig ang naghahari kunng hindiang taksil na pita sa yama’t bulaang karangalan.\n\nKung gagamitan ng paghihibla sa mga konsepto sa talata, alin ang pinakagitna?",
+    "choice1": "Kabayanihan",
+    "choice2": "Pag-ibig",
+    "choice3": "Kaginhawaan",
+    "choice4": "Ligaya",
+    "answerKey": "Pag-ibig"
+  },
+  {
+    "question": "Ano ang ibig sabihin nito “ wika ang kaluluwa ng isang lahi”",
+    "choice1": "Ang wika ay may damdamin",
+    "choice2": "Ang wika ay nakapagpapahayag ng niloloob ng tao",
+    "choice3": "Ang wika ay kaluluwa ng isang lahi dahil naitatala nito ang kasaysayan",
+    "choice4": "Ang tao at wika ay kapwa may kaluluwa.",
+    "answerKey": "Ang wika ay nakapagpapahayag ng niloloob ng tao"
+  },
+  {
+    "question": "Anong paraan ng pagkuha ng balangkas ang ginagamitan ng sunod-sunod na tatlong tuldok para ipakita na may mga bahaging hindi na sinipi sa talata?",
+    "choice1": "Abstrak",
+    "choice2": "Sintesis",
+    "choice3": "Sinopsis",
+    "choice4": "Elipsis",
+    "answerKey": "Elipsis"
+  },
+  {
+    "question": "Anong hukuman ang siyang _____________ ng mga kaso ng korupsyon.",
+    "choice1": "Korte Suprema-maglilitis",
+    "choice2": "Court of Appeals-manglilitis",
+    "choice3": "Sandigan Bayan-naglilitis",
+    "choice4": "Ombudsman-tagapaglitis",
+    "answerKey": "Sandigan Bayan-naglilitis"
+  },
+  {
+    "question": "Ano ang tuntunin ngayon na susundin sa pagtutumbas sa Filipino ng rice terraces?",
+    "choice1": "Tumbasan sa Espanyol at baybayin sa Filipino",
+    "choice2": "Gamitin ang katutubong katumbas",
+    "choice3": "Hiramin nang ganap",
+    "choice4": "Kung ano ang bigkas siyang sulata",
+    "answerKey": "Gamitin ang katutubong katumbas"
+  },
+  {
+    "question": "Ano ang pokus ng pandiwa sa pahayag na “Bumili ng bagong sasakyan si Catherine Morey”?",
+    "choice1": "Pokus sa sanhi",
+    "choice2": "Pokus sa aktor",
+    "choice3": "Pokus sa kagamitan",
+    "choice4": "Pokus sa direksyon",
+    "answerKey": "Pokus sa aktor"
+  },
+  {
+    "question": "Ang pagkautal ay matatawag na ___________ na sagabal sa pagsasalita.",
+    "choice1": "saykolohikal",
+    "choice2": "pisyolohikal",
+    "choice3": "pisikal",
+    "choice4": "semantik",
+    "answerKey": "pisyolohikal"
+  },
+  {
+    "question": "Anong uri ng tayutay ang pahayag na ito? “Ang kabutihan mo sa buhay ang magiging hakbang sa pag-unlad”",
+    "choice1": "Pagwawangis",
+    "choice2": "Pagtutulad",
+    "choice3": "Pagpapalit-tawag",
+    "choice4": "Personipikasyon",
+    "answerKey": "Pagwawangis"
+  },
+  {
+    "question": "Ano ang salitang ugat sa Kanluran ?",
+    "choice1": "Lunod",
+    "choice2": "Kalan",
+    "choice3": "Kanlong",
+    "choice4": "Lunan",
+    "answerKey": "Lunan"
+  },
+  {
+    "question": "Ano ang tinataglay ng mga sumusunod na salita : tanaw , aliw , kamay , reyna?",
+    "choice1": "Pares minimal",
+    "choice2": "Diptonggo",
+    "choice3": "Ponema",
+    "choice4": "Klaster",
+    "answerKey": "Diptonggo"
+  },
+  {
+    "question": "Ang paniniwala sa Diyos ay susi upang matamo natin ang ______________.",
+    "choice1": "kadakilaan",
+    "choice2": "kabutihan",
+    "choice3": "kaligtasan",
+    "choice4": "kaligayahan",
+    "answerKey": "kaligtasan"
+  },
+  {
+    "question": "Ang tunay na pag-ibig ay walang ibinubungakung hindi tunay na ligaya at kaginhawaan. Kalian pa ma’t sapin-sapin ang dusang pinapasan ng bayani, at ang kanyang biuhay ay nalipos ng karukhaan at lungkot, ang dahilan ay sapagkat hindi ang tunay na pag-ibig ang naghahari kunng hindiang taksil na pita sa yama’t bulaang karangalan.\n\nalin ang bunga batay sa talata ?",
+    "choice1": "Totoong kalungkutan",
+    "choice2": "Hindi tunay na karangalan",
+    "choice3": "Totoong karangalan",
+    "choice4": "Hindi tunay na ligaya",
+    "answerKey": "Hindi tunay na karangalan"
+  },
+  {
+    "question": "Ang mga regalong natira ay ______ Ayeng, Miguel at Joffrey.",
+    "choice1": "para sa atin",
+    "choice2": "para kina",
+    "choice3": "para sa kanila",
+    "choice4": "para sa iyo",
+    "answerKey": "para kina"
+  },
+  {
+    "question": "Ano ang uri ng pangungusap na\nUMAARAW NA.",
+    "choice1": "Panawag",
+    "choice2": "Penomenal",
+    "choice3": "Sambitla",
+    "choice4": "Pormulasyong panlipunan",
+    "answerKey": "Penomenal"
+  },
+  {
+    "question": "Ano ang pokus ng pandiwa sa pangungusap na ito?\n           IPANSULAT MO ANG LAPIS NA MAY TASA.",
+    "choice1": "Sanhi",
+    "choice2": "Tagatanggap",
+    "choice3": "Tagaganap",
+    "choice4": "Gamit",
+    "answerKey": "Gamit"
+  },
+  {
+    "question": "Ang samakatuwid, alalaong, baga, kunggayon ay tinatawag na_____.",
+    "choice1": "Pangatnig",
+    "choice2": "Pang-angkop",
+    "choice3": "Pantukoy",
+    "choice4": "Panghalip",
+    "answerKey": "Pangatnig"
+  },
+  {
+    "question": "Anong bahagi ng pananalita ang nasa malaking titik? Malungkot ANG MGA nagtapos na wala pang trabaho.",
+    "choice1": "Pananda",
+    "choice2": "Pangatnig",
+    "choice3": "Parirala",
+    "choice4": "Pang-ukol",
+    "answerKey": "Pananda"
+  },
+  {
+    "question": "Ano ang katumbas ng “Dekalogo” ni Apolinario Mabini na nagsasaad ng aral sa Filipino?",
+    "choice1": "Mosaic Law",
+    "choice2": "New Society ni Pres. Marcos",
+    "choice3": "Code of Ethics niKalantiaw",
+    "choice4": "Code of Citizenship ni Pres. Quezon",
+    "answerKey": "Mosaic Law"
+  },
+  {
+    "question": "Anong uri ng tayutay ang napapaloob sa pahayag na ito? \n\n           NALIGO NA SA HAMOG NG GABI ANG MGA BULAKLAK.",
+    "choice1": "pagpapalit-tawag",
+    "choice2": "Pag-uuyam",
+    "choice3": "pagmamalabis",
+    "choice4": "pagsasatao",
+    "answerKey": "pagsasatao"
+  },
+  {
+    "question": "Anong tayutay ang tinutukoy sa pahayag.\nDurog ang katawang bumagsak sa semento si Dodong Tubal.",
+    "choice1": "Pagwawangis",
+    "choice2": "Pagbibigay katauhan",
+    "choice3": "Pagmamalabis",
+    "choice4": "Pagtutulad",
+    "answerKey": "Pagmamalabis"
+  },
+  {
+    "question": "Ang sentro ng pagdiriwang ng SENTENARYO ay sa Kawit, Cavite. Ang kasing-kahulugan ng salitang nasa malalaking letra ay:",
+    "choice1": "Ikasandaang taon",
+    "choice2": "Ika- 25 taon",
+    "choice3": "Ika-50 taon",
+    "choice4": "Panghabang panahon",
+    "answerKey": "Ikasandaang taon"
+  },
+  {
+    "question": "Isang salita o grupo ng mga salitang patalinghaga na ginagamit bilang simbolo upang makapagpahayag ng damdamin at makalikha ng mas malalim na kahulugan.",
+    "choice1": "Pangungusap",
+    "choice2": "Oda",
+    "choice3": "Tula",
+    "choice4": "Tayutay",
+    "answerKey": "Tayutay"
+  },
+  {
+    "question": "Hindi ko sukat akalain na siya pala ay isang balakyot. Ano ang kahulugan ng balakyot?",
+    "choice1": "Makasalanan",
+    "choice2": "Mapanlinlang",
+    "choice3": "Marumi",
+    "choice4": "Mabaho",
+    "answerKey": "Mapanlinlang"
+  },
+  {
+    "question": "“Kung ang sa langit ay nabubuhay ang sa lupa ay namamatay ano’t kinatatakutan ang oras ng kamatayan.” Anong damdamin ang ipinapahayag nito?",
+    "choice1": "Matatag sa buhay",
+    "choice2": "Mapagbigay",
+    "choice3": "Maging mapagpasensiya",
+    "choice4": "Maging matapang",
+    "answerKey": "Maging matapang"
+  },
+  {
+    "question": "Anong uri ng tayutay ito?\n \n\tDumadagundong ang tunog ng loud speaker sa mahinang dibdib ng matanda.",
+    "choice1": "Onomatopeya o paghihimig",
+    "choice2": "Antithesis o pagtatambis",
+    "choice3": "Apostrophe o pagtawag",
+    "choice4": "Alliteration o pag-uulit",
+    "answerKey": "Onomatopeya o paghihimig"
+  },
+  {
+    "question": "“Kung tatanawin mo sa malayong pook Ako’y tila isang nakadipang krus.”\n\t(Halaw sa “ISANG PUNUNGKAHOY’ ni Jose Corazon De Jesus)\n \nAng taludtod sa itaas ay _______________.",
+    "choice1": "pahalintulad (analogy)",
+    "choice2": "padiwang tao (personification)",
+    "choice3": "patulad (simile)",
+    "choice4": "patalinghaga (allegory)",
+    "answerKey": "patulad (simile)"
+  },
+  {
+    "question": "“Panahon na upang magdilat ng mata at makisangkot sa usapin.” Itoy nagpapahiwatig na _____.",
+    "choice1": "idilat ang mga mata",
+    "choice2": "magising sa katotohanan",
+    "choice3": "idilat ang mga mata",
+    "choice4": "kalimutan ang usapin",
+    "answerKey": "magising sa katotohanan"
+  },
+  {
+    "question": "“… Kung kinakailangan ang lakas upang maigupo ang isang mapaniil na pamahalaan o ang isang hari-haring pinuno, wika ang tambuling tagapukaw sa mga anak lahi. Patay ang isang tao kapag walang kaluluwa. Mahigit pa sa patay ang isang bayan kapag walang iisan wika”. (Rufino Alejandro) \n\nAlin sa mga sumusunod na malalim na salitang ginagamit sa talata ang may magkasalungat na pres?",
+    "choice1": "Taga- tagagising",
+    "choice2": "Mapaniil- mapagkandili",
+    "choice3": "Maigupo- matalo",
+    "choice4": "Tambuli- trumpeta",
+    "answerKey": "Mapaniil- mapagkandili"
+  },
+  {
+    "question": "APTAN mo ang nasirang bubong.",
+    "choice1": "pagpapalit ponema",
+    "choice2": "metatesis",
+    "choice3": "pagkakaltas ng ponema",
+    "choice4": "paglilipat diin",
+    "answerKey": "metatesis"
+  },
+  {
+    "question": "“Magtatrabaho ako at ikaw ay mag-aaral upang makatapos ka ng pag-aaral.” Anong uri ng pangungusap ito?",
+    "choice1": "Payak",
+    "choice2": "Hugnayan",
+    "choice3": "Tambalan",
+    "choice4": "Langkapan",
+    "answerKey": "Langkapan"
+  },
+  {
+    "question": "Dalawang oras na kaming naghintay _______________________.",
+    "choice1": "Kumitid ang aming noo",
+    "choice2": "Namuti ang aming mata",
+    "choice3": "Kumulo ang aming dugo",
+    "choice4": "Kumati ang aming kamay",
+    "answerKey": "Namuti ang aming mata"
+  },
+  {
+    "question": "Inaabangan ng mga tao ang ____________ sa simbahan.",
+    "choice1": "kolambeng",
+    "choice2": "kalampang",
+    "choice3": "batingting",
+    "choice4": "agunyas",
+    "answerKey": "agunyas"
+  },
+  {
+    "question": "“Kung sa langit ay nabubuhay , ang sa lupaý namamatay\n Ano at kinakatatakutan , ang oras ng kamatayan\"\nAng saknong ay nagpapahayag ng damdaming maging",
+    "choice1": "mapagbigay",
+    "choice2": "Mapagpasensya",
+    "choice3": "matapang",
+    "choice4": "Matatag",
+    "answerKey": "matapang"
+  },
+  {
+    "question": "Isang uri ng pamamatnubay kung saan ang mga reporter ay lumilihis sa pamatnubay; lumilikha sila ng sariling paraan sa mga gawaing pag-ulat.",
+    "choice1": "Masaklaw",
+    "choice2": "Di-kombensyunal",
+    "choice3": "Masining",
+    "choice4": "Kombensyunal",
+    "answerKey": "Di-kombensyunal"
+  },
+  {
+    "question": "“Pare-pareho kayo. Wala akong mapagpipilian,” wika ng isang gurong puno ng galit sa mga lalaking mag-aaral.",
+    "choice1": "Walang gana sa pagtuturo.",
+    "choice2": "Nawalan ng tiwala sa mga lalaki.",
+    "choice3": "Hindi pare-pareho ang mga lalaki",
+    "choice4": "Walang pagtingin sa mga lalaki.",
+    "answerKey": "Nawalan ng tiwala sa mga lalaki."
+  },
+  {
+    "question": "GALIT NA GALIT ako sa taong nagnakaw ng aking tanghalian.",
+    "choice1": "Makitid ang noo",
+    "choice2": "Mabigat ang dugo",
+    "choice3": "Kumukulo ang dugo",
+    "choice4": "Matalas ang ulo",
+    "answerKey": "Kumukulo ang dugo"
+  },
+  {
+    "question": "“Gamitin ninyo sa pakikipagkaibigan ang kayamanan ng sanlibutang ito. Maubos man ito ay may tatanggap naman sa inyo sa tahanang walang hanggan.” (Luk 16:9)\nAno ang kahulugan ng sanlibutan?",
+    "choice1": "Katauhan",
+    "choice2": "Mga israelita lamang",
+    "choice3": "Apostoles",
+    "choice4": "Dukha",
+    "answerKey": "Katauhan"
+  },
+  {
+    "question": "“Malalim ang bulsa,” ng kanyang nanay. Ang ibig sabihin nito ay ________.",
+    "choice1": "mapera",
+    "choice2": "walang pera",
+    "choice3": "mapagbigay",
+    "choice4": "kuripot",
+    "answerKey": "kuripot"
+  },
+  {
+    "question": "Humingi ako ng tawad. May mga NASABI AKONG DI NARARAPAT",
+    "choice1": "Matalas ang dila",
+    "choice2": "Nabilog na ulo",
+    "choice3": "Nadulas ang dila",
+    "choice4": "Nagdilim ang paningin",
+    "answerKey": "Nadulas ang dila"
+  },
+  {
+    "question": "Ilang ponema ang bumubuo sa salitang GUSALI?",
+    "choice1": "4",
+    "choice2": "5",
+    "choice3": "7",
+    "choice4": "6",
+    "answerKey": "7"
+  },
+  {
+    "question": "Hala gaod tayo, pagod ay tiisin\n\t\tAng lahat ng hirap, pag-aralang bathin,\n\t\tPalayu-layo man, kung ating ibigin\n\t\tDaig ang malapit na ayaw lakbayin\n \nAng awit na ito ay tinatawag ____________.",
+    "choice1": "Tikam",
+    "choice2": "Kundiman",
+    "choice3": "Oyayi",
+    "choice4": "Soliranin",
+    "answerKey": "Soliranin"
+  },
+  {
+    "question": "“Ang mga mata mo ay tulad ng mga bituin sa kalangitan.” Ano ang ginagamit na pagpahayag ditto?",
+    "choice1": "Pang-uyam",
+    "choice2": "Pagwawangis",
+    "choice3": "Personipikasyon",
+    "choice4": "Pagtutulad",
+    "answerKey": "Pagtutulad"
+  },
+  {
+    "question": "Dulog pampanitikan na nagbibigay ng diin ng sariling panlasa ng bumabasa. Kilala rin ito bilang reader -response theory.",
+    "choice1": "Antropolohiya",
+    "choice2": "Impresyonista",
+    "choice3": "Patalambuhay",
+    "choice4": "Pansikolohiya",
+    "answerKey": "Impresyonista"
+  },
+  {
+    "question": "Kapag naniwala ka kay Greg, para ka na ring UMASA SA WALA.",
+    "choice1": "Kumindat sa dilim",
+    "choice2": "Umitim ang tagak",
+    "choice3": "Pumuti ang uwak",
+    "choice4": "Tumaga sa tubig",
+    "answerKey": "Kumindat sa dilim"
+  },
+  {
+    "question": "Huwag “pagbuhatan ng kamay“ ang batang walang kalaban-laban. Ano ang ibig sabihin?",
+    "choice1": "Saktan",
+    "choice2": "pagtrabahuin",
+    "choice3": "Pagbuhatan ng mabigat",
+    "choice4": "Itali ang kamay",
+    "answerKey": "Saktan"
+  },
+  {
+    "question": "ASNAN mo ang binili kong isda.",
+    "choice1": "Matatesis",
+    "choice2": "Paglilipatdiin",
+    "choice3": "Pagkakaltas ng ponema",
+    "choice4": "Asimilasyon",
+    "answerKey": "Pagkakaltas ng ponema"
+  },
+  {
+    "question": "“You can count on me,” Ang pinakmalapit na salin nito ay ________?",
+    "choice1": "Maaasahan mo ako",
+    "choice2": "bilangin mo ako",
+    "choice3": "Ibilang mo ako",
+    "choice4": "bilangin mo kami",
+    "answerKey": "Maaasahan mo ako"
+  },
+  {
+    "question": "Ngayong nag-aaral ka pa’y maaari kang tumulong sa anumang paraan. Ngunit ang higit nilang inaasahan sa iyo ay ang pagtatapos mo ng pag-aaral. Para kanino ang iyong pag-aaral? Ito’y para sa iyong kinabukasan, ipang ikaw ay maging matatag at nakahandang tumanggap ng pananagutan. Kaya dapat mong ibigin at igalang ang iyong mga magulang. Tungkulin mong paglingkuran sila nang buong lugod at kasiyahan. Huwag mo silang biguin sa pangarap nila sa iyo!\n\nAng ikalawang talata ng teksto ay gumamit ng hulwarang________________.",
+    "choice1": "Depinisyon",
+    "choice2": "Enumerasyon",
+    "choice3": "Paghahambing at Pagkokontrast",
+    "choice4": "Problema at solusyon",
+    "answerKey": "Problema at solusyon"
+  },
+  {
+    "question": "Kailan ginagamit ang IKA na may gitling?",
+    "choice1": "Kung ang ikakabit ay isang panlapi",
+    "choice2": "Kung mismong bilang ang susunod sa isusulat",
+    "choice3": "Kung ang bilang ay isinusulat na buo",
+    "choice4": "Kung ginagamit na panlapi sa isang salita",
+    "answerKey": "Kung mismong bilang ang susunod sa isusulat"
+  },
+  {
+    "question": "Ito ang uri ng teksto na nangangailangan ng mga patibay hinggil sa inilatag na ideya upang mapaniwala ang mga mambabasa/tagapakinig.",
+    "choice1": "Informativ",
+    "choice2": "Argumentativ",
+    "choice3": "Persweysiv",
+    "choice4": "Deskriptiv",
+    "answerKey": "Persweysiv"
+  },
+  {
+    "question": "Iyon lamang nakakaranas ng mga lihim na kalungkutan ang maaaring makakilalang lihim na kaligayahan. ang mga pahayag na ito ay nagsasaad ng __________.",
+    "choice1": "kagandahan ng buhay",
+    "choice2": "kalungkutan sa buhay",
+    "choice3": "paghihikahos sa buhay",
+    "choice4": "kapangitan ng buhay",
+    "answerKey": "kagandahan ng buhay"
+  },
+  {
+    "question": "Mahusay “maglubid ng buhangin“ ang taong gipit. Ano ang ibig sabihin?",
+    "choice1": "Magyabang",
+    "choice2": "Magtali",
+    "choice3": "Magpaikot-ikot",
+    "choice4": "Magsinungaling",
+    "answerKey": "Magsinungaling"
+  },
+  {
+    "question": "MADALING LOKOHIN si Anna.",
+    "choice1": "Nagmumurang kamatis",
+    "choice2": "Makitid ang noo",
+    "choice3": "Utak-biya",
+    "choice4": "Matuwid at mapaniwalain",
+    "answerKey": "Matuwid at mapaniwalain"
+  },
+  {
+    "question": "Marumi ang kamay niya nang kumain. Anong pagbabagong morpoponemiko ang naganap sa salitang MARUMI?",
+    "choice1": "Pagpapalit ponema",
+    "choice2": "Metatesis",
+    "choice3": "Pagpapalit diin",
+    "choice4": "Reduplikasyon",
+    "answerKey": "Pagpapalit ponema"
+  },
+  {
+    "question": "MAALYAW na buhay ang ibibigay ko sa aking mga anak.",
+    "choice1": "Masarap",
+    "choice2": "Mahirap",
+    "choice3": "Mahigpit",
+    "choice4": "Masagana",
+    "answerKey": "Mahirap"
+  },
+  {
+    "question": "Mahaba ang pahayag ni Paolo kaya kailangang iyong mahalaga na lamang ang dapat na mabasa kaya gumamit siya ng ____________.",
+    "choice1": "sintesis",
+    "choice2": "elipsis",
+    "choice3": "direktang sipi",
+    "choice4": "abstrak",
+    "answerKey": "abstrak"
+  },
+  {
+    "question": "Kung sa pakikinig ang may layuning malibang ay mauuri bilang apresyatib, mauuri naman sa pagbasa bilang ___________.",
+    "choice1": "makahulugan",
+    "choice2": "papel",
+    "choice3": "intensibo",
+    "choice4": "ekstensibo",
+    "answerKey": "ekstensibo"
+  },
+  {
+    "question": "MAHIMBING ANG TULOG ni miguel kaya hindi niya napansin na lumindol.",
+    "choice1": "Tulo-laway",
+    "choice2": "Taingang-kawali",
+    "choice3": "Utak-biya",
+    "choice4": "Tulog-mantika",
+    "answerKey": "Tulog-mantika"
+  },
+  {
+    "question": "Punung-puno ng tao ang Dallas Stadium kung saan ginawa ang laban ni Many Pacquiao.",
+    "choice1": "Di makabasag pinggan",
+    "choice2": "Di mahulugang karayom",
+    "choice3": "Di Maliparang uwak",
+    "choice4": "Di mahapayang gating",
+    "answerKey": "Di mahulugang karayom"
+  },
+  {
+    "question": "Piliin ang gawi ng pagsasalita: Kasiyahan ko nang makitang kayo’y nagmamahalan.",
+    "choice1": "Pangarap",
+    "choice2": "Pagkuha ng impormasyon",
+    "choice3": "Pagkontrol ng kilos",
+    "choice4": "Pagbabahagi ng damdamin",
+    "answerKey": "Pagbabahagi ng damdamin"
+  },
+  {
+    "question": "Matapos ang maghapong gawain siya ay lugami na. Ano ang ibig sabahin ng salitang Lugami?",
+    "choice1": "Lupaypay",
+    "choice2": "Nalungkot",
+    "choice3": "Yumaman",
+    "choice4": "Lubog",
+    "answerKey": "Lupaypay"
+  },
+  {
+    "question": "Mahusay magtago ng lihim ang mga taong “mabigat ang bibig.” Ano ang ibig sabihin nito?",
+    "choice1": "Tahimik",
+    "choice2": "Hindi madaldal",
+    "choice3": "Malaki ang bibig",
+    "choice4": "Mahiayain",
+    "answerKey": "Hindi madaldal"
+  },
+  {
+    "question": "Noong taong 1962, ano ang pagbabago sa paglimbag ng diploma at sertipiko ng pagtatapos?",
+    "choice1": "Pinahihintulutan ang pribadong paaralan na maglimbag sa wikang Ingles",
+    "choice2": "Nalimbag sa Filipino ang diploma",
+    "choice3": "Nilimbagsa Tagalog ang diploma sa di-Tagalog na bayan",
+    "choice4": "Nilimbag sa Filipino ang diploma ngunit may Ingles",
+    "answerKey": "Nalimbag sa Filipino ang diploma"
+  },
+  {
+    "question": "kung ang encoder ay sa decoder, ang manunulat kung sa gayon ay sa ________.",
+    "choice1": "panulat",
+    "choice2": "papel",
+    "choice3": "mambabasa",
+    "choice4": "Tagahatid",
+    "answerKey": "mambabasa"
+  },
+  {
+    "question": "Naglipan ang mga mamayanang mahirap sa lungsod. Umaatungal at nagdarasal sa mga panginoon na sana’y palayain mula sa kuko ng pagdarahop. Isang kagyat ng alinlangan sa buhay – isang kahig isang tuka –simbolo ng isang pagkamaralita. Wala akong magawa kundi itistis sa mga salita ang nakikitang anyo n gaming buhay. Kapalaran o sandigan ng pagasa? Kung basal naman ang aking tinig sapagka’t birhe akong nagnulila upang lumaya. Subali’t ang sagot ay kung ang pawis ko’y kapalit ng hinaing at sigaw ng pagdurusa. Saan nga ba tutungo ang buhay kung sa tagpi-tagping dampa naroon ang ulam na toyu at idinidildil sa asin upang bigyang-lasa ang\nkaning isinusubo? Wala akong karapatang magsalita. Ang tinig ko ay paos. Ngunit ang ungol ko’y pumaimbulog sa langit at sa libingan ng mga buhay doon ko dinaranas ang misteryo ng buhay.\n\nAlin sa mga sumusunod ang angkop na pamagat ng seleksyon",
+    "choice1": "Buhay lansangan",
+    "choice2": "Sigaw ng kahirapan",
+    "choice3": "Pag-asan ng maralita",
+    "choice4": "Misteryo ng buhay",
+    "answerKey": "Sigaw ng kahirapan"
+  },
+  {
+    "question": "Laging UMUUKILKIL sa isipan ng ama ang nasirang pangako ng anak.",
+    "choice1": "Sumasagi",
+    "choice2": "Sumasapi",
+    "choice3": "Gumugulo",
+    "choice4": "Bumubuhay",
+    "answerKey": "Gumugulo"
+  },
+  {
+    "question": "Nasa anong kaganapan ng pandiwa ang pangungusap?\nNaglaro ng basketball sa Rizal Stadium ang koponan ng aming pamantasan.",
+    "choice1": "Ganapan",
+    "choice2": "Sanhi",
+    "choice3": "Kagamitan",
+    "choice4": "Tagaganap",
+    "answerKey": "Ganapan"
+  },
+  {
+    "question": "Palay siyang matino\n\t\tNang Humangi’y yumuko\n\t\tNgunit muling tumayo\n\t\tNagkabunga ng ginto\n\t            (Halaw sa “PALAY” ni Ildefonso Santos)\n \nAnong uri ito ng tula?",
+    "choice1": "Oda",
+    "choice2": "Tanaga",
+    "choice3": "Elehiya",
+    "choice4": "Soneto",
+    "answerKey": "Tanaga"
+  },
+  {
+    "question": "Pinag-aaralang mabuti ng bawat abogado ang ________________ ng 1987.",
+    "choice1": "batas militar",
+    "choice2": "saklawang- batas",
+    "choice3": "batas pambansa",
+    "choice4": "saligang-batas",
+    "answerKey": "saligang-batas"
+  },
+  {
+    "question": "MALIMIT MAGSINUNGALING ang batang hindi pinalaki nang tama.",
+    "choice1": "Nagbuhat ng sariling bangko",
+    "choice2": "Nagdilang kuneho",
+    "choice3": "Naglubid ng buhangin",
+    "choice4": "Namuti ang uwak",
+    "answerKey": "Naglubid ng buhangin"
+  },
+  {
+    "question": "Nakalulungkot isipin na ang karamihan sa mga kabataan ngayon ay ______________ sa masamang bisyo.",
+    "choice1": "nalalayo",
+    "choice2": "nababalisa",
+    "choice3": "nabubuyo",
+    "choice4": "nababalot",
+    "answerKey": "nabubuyo"
+  },
+  {
+    "question": "Mag-aalas singko na ___ umaga _____ magising siya.",
+    "choice1": "ng - at",
+    "choice2": "nang - kapag",
+    "choice3": "nang - nang",
+    "choice4": "ng - nang",
+    "answerKey": "ng - nang"
+  },
+  {
+    "question": "Pinadalhan ko ____bulaklak ang hepe nang maospital siya.",
+    "choice1": "Nang",
+    "choice2": "Nitong",
+    "choice3": "Noong",
+    "choice4": "Ng",
+    "answerKey": "Ng"
+  },
+  {
+    "question": "Patapos na naman ang taon. Kailangan ko nang kumunsulta sa aking _____________.",
+    "choice1": "ingat-yaman",
+    "choice2": "kalihim",
+    "choice3": "tagatuos",
+    "choice4": "bukkiper",
+    "answerKey": "tagatuos"
+  },
+  {
+    "question": "Mahigpit na ipinagbabawal ang pagmamanipula sa mga ___________ ng MERALCO",
+    "choice1": "metro",
+    "choice2": "makinismo",
+    "choice3": "kuntador",
+    "choice4": "makina",
+    "answerKey": "kuntador"
+  },
+  {
+    "question": "Madaling lukohin si Anna.",
+    "choice1": "Makitid ang noo",
+    "choice2": "Matuwid at paniwalain",
+    "choice3": "Nagmurang kamatis",
+    "choice4": "Utak-biya",
+    "answerKey": "Utak-biya"
+  },
+  {
+    "question": "NAWALA ANG LAHAT kay Ryan nang mamatay ang kanyang mga magulang.",
+    "choice1": "Namangka sa dalawang ilog",
+    "choice2": "Naglubid ng buhangin",
+    "choice3": "Pinagtakluban ng langit at lupa",
+    "choice4": "Pinag tampuhan ng langit at lupa",
+    "answerKey": "Pinagtakluban ng langit at lupa"
+  },
+  {
+    "question": "PUNONG-PUNO NG TAO ang Dallas Stadium kung saan ginanap ang laban ni Manny Pacquiao.",
+    "choice1": "Di mahapayang gating",
+    "choice2": "Di makabasag pinggan",
+    "choice3": "Di mahulugang karayom",
+    "choice4": "Di maliparang uwak",
+    "answerKey": "Di mahulugang karayom"
+  },
+  {
+    "question": "Piliin ang angkop na pagpapakahulugan:\nBilang at sukat kung mangusap ang dalaga.",
+    "choice1": "Mahina ang boses",
+    "choice2": "Maingat",
+    "choice3": "Mahirap unawain",
+    "choice4": "Madaldal",
+    "answerKey": "Maingat"
+  },
+  {
+    "question": "Sa aling salita magkakaroon ng saglit na paghinto kung pinagpipilitang si Rose ang nakabasag ng pinggan?\nHindi si Rose ang nakabasag ng pinggan.",
+    "choice1": "Hindi",
+    "choice2": "Rose",
+    "choice3": "Pinggan",
+    "choice4": "Nakabasag",
+    "answerKey": "Hindi"
+  },
+  {
+    "question": "PINASYALAN ng mag anak ang Enchanted Kingdom noong isang buwan.\nAno ang pokus ng pandiwa?",
+    "choice1": "Tagatanggap",
+    "choice2": "Direksiyon",
+    "choice3": "Tagaganap",
+    "choice4": "Sanhi",
+    "answerKey": "Direksiyon"
+  },
+  {
+    "question": "Malimit magsinungaling ang batang hindi pinalaki sa tama.",
+    "choice1": "Nagbuhat ng sariling bangko",
+    "choice2": "Namuti ang uwak",
+    "choice3": "Nagdilang kuneho",
+    "choice4": "Naglubid ng buhangin",
+    "answerKey": "Naglubid ng buhangin"
+  },
+  {
+    "question": "Iyon lamang nakakaranas ng mga lihim na kalungkutan ang maaring makakilala ng lihim na kaligayahan. Ang pahayag na ito ay nagsasaad ng _____________________.",
+    "choice1": "kagandahan ng buhay",
+    "choice2": "kalungkutan ng buhay",
+    "choice3": "paghihikahos sa buhay",
+    "choice4": "kapangitan ng buhay",
+    "answerKey": "kagandahan ng buhay"
+  },
+  {
+    "question": "Sa Noche Buena, kami ay maghahanda ng _______ at keso de bola.",
+    "choice1": "hóman",
+    "choice2": "hamón",
+    "choice3": "hámon",
+    "choice4": "homán",
+    "answerKey": "hamón"
+  },
+  {
+    "question": "Sa panahon ngayon, may mga taong nalulukuban ng makahayop na damdaminat nakagagama ng kasamaan sa kapwa. Isa na rito ang panghahalay ng ama ng sarili niyang anak dahil sa matindingpagnanasa sa kamunduhan at kawalan ng katinoan sa pag-iisip. Ang mga ganitong uri ng tao ay mawala sa lipunan.\n\nAno ang parusa para sa kreming nabanggit sa seleksyon ?",
+    "choice1": "Pagkakataon",
+    "choice2": "Pagkakakulong ng habang buhay",
+    "choice3": "Pagkulong sa mental Hospital",
+    "choice4": "Lethal injection",
+    "answerKey": "Pagkakakulong ng habang buhay"
+  },
+  {
+    "question": "Huwag \"pagbuhatan ng kamay\" ang batang walang kalaban-laban. Ano ang ibig sabihin?",
+    "choice1": "Itali ang kamaya",
+    "choice2": "Saktan",
+    "choice3": "Pagbuhatin ng mabigat",
+    "choice4": "Pagtrabahuin",
+    "answerKey": "Saktan"
+  },
+  {
+    "question": "Sa panahon ngayon, may mga taong nalulukuban ng makahayop na damdaminat nakagagama ng kasamaan sa kapwa. Isa na rito ang panghahalay ng ama ng sarili niyang anak dahil sa matindingpagnanasa sa kamunduhan at kawalan ng katinoan sa pag-iisip. Ang mga ganitong uri ng tao ay mawala sa lipunan.\n\nAnong uri ng pamamahayag ang ipinamalas sa seleksyon?",
+    "choice1": "Paglalahad",
+    "choice2": "Paglalarawan",
+    "choice3": "Pagsasalaysay",
+    "choice4": "Pangangatwiran",
+    "answerKey": "Paglalahad"
+  },
+  {
+    "question": "Karamihan sa ating mamamayang   _______ ay ginagamit ng mga politiko sa panahon ng halalan",
+    "choice1": "maralitâ",
+    "choice2": "maralitá",
+    "choice3": "maràlita",
+    "choice4": "máralita",
+    "answerKey": "maralitâ"
+  },
+  {
+    "question": "Ano ang pokus ng pandiwa sa pangungusap na ito?\nIPANSULAT MO ANG LAPIS NA MAY TASA.",
+    "choice1": "sanhi",
+    "choice2": "tagatanggap",
+    "choice3": "tagaganap",
+    "choice4": "gamit",
+    "answerKey": "gamit"
+  },
+  {
+    "question": "May mga sasakyan sa Pilipinas na kababasahan ng ginto, “Katas ng Saudi” o Kayo katas, ako utang”. Anong katangian ng wika ang tinutukoy nito?",
+    "choice1": "Arbitraryo",
+    "choice2": "Ginagamit",
+    "choice3": "Nagbabago",
+    "choice4": "May sistema",
+    "answerKey": "Arbitraryo"
+  },
+  {
+    "question": "Sa mata’y dilim \n\t\tAt hindi pa liwanag\n\t\tAng tumatabing.\n \nAnong uri ng tula ito?",
+    "choice1": "May sukat at tugma",
+    "choice2": "Pantun",
+    "choice3": "Haiku",
+    "choice4": "Tanaga",
+    "answerKey": "Haiku"
+  },
+  {
+    "question": "Kung ang encoder ay sa decoder, ang manunulat ay sa______________.",
+    "choice1": "tagahatid",
+    "choice2": "panulat",
+    "choice3": "mambabasa",
+    "choice4": "papel",
+    "answerKey": "mambabasa"
+  },
+  {
+    "question": "KATUNGGALI niya sa paligsahan ang kanyang matalik na kaibigan.",
+    "choice1": "Kasamahan",
+    "choice2": "Katalik",
+    "choice3": "Kasulatan",
+    "choice4": "Kakampi",
+    "answerKey": "Kakampi"
+  },
+  {
+    "question": "Sa mga magulang, ang edukasyon ay isang obligasyon sa mga anak bilang paghahanda saisang magandang buhay, lalo na sa mga panahong ang mga magulang ay wala na. Ang edukasyon parasa mga kabataan ay isang karapatang dapat ipagkaloobng kanilang mga magulang tungo sa isang magandang kinabukasan. Samantala, para naman sa mga guro, ang isang edukasyon ay isang larangang dapat bigyan ng ibayong pagpapahalaga at pagtingin lalo na ng pamahalaan at mga magulang sapagkat dito nakasalalayang magandang kinabukasan ng mga kabataan at mamayan ng bayan.\n\nPaano binigyang katuturan ng may-akda ang paksa?",
+    "choice1": "Pagslungat",
+    "choice2": "Pag-uulit",
+    "choice3": "Paghahambing at pagtatambis",
+    "choice4": "Pagbibigay ng halimbawa",
+    "answerKey": "Pag-uulit"
+  },
+  {
+    "question": "Sa mga magulang, ang edukasyon ay isang obligasyon sa mga anak bilang paghahanda saisang magandang buhay, lalo na sa mga panahong ang mga magulang ay wala na. Ang edukasyon parasa mga kabataan ay isang karapatang dapat ipagkaloobng kanilang mga magulang tungo sa isang magandang kinabukasan. Samantala, para naman sa mga guro, ang isang edukasyon ay isang larangang dapat bigyan ng ibayong pagpapahalaga at pagtingin lalo na ng pamahalaan at mga magulang sapagkat dito nakasalalayang magandang kinabukasan ng mga kabataan at mamayan ng bayan.\n\nAlin sa sumusunod na pananaw ukol sa edukasyon ang HINDI ipinakita sa seleksyon?",
+    "choice1": "Edukasyon bilang karapatan",
+    "choice2": "Edukasyon bilang isang larangan",
+    "choice3": "Edukasyon bilang serbisyo sa bayan",
+    "choice4": "Edukasyon bilang obligasyon",
+    "answerKey": "Edukasyon bilang serbisyo sa bayan"
+  },
+  {
+    "question": "Mahusay matago ng lihim ang mga taong \"mabigat ang bibig.\" Ano ang ibig sabihin nito?",
+    "choice1": "Hindi madaldal",
+    "choice2": "Malaki ang bibig",
+    "choice3": "Tahimik",
+    "choice4": "Mahiyain",
+    "answerKey": "Hindi madaldal"
+  },
+  {
+    "question": "Sa panahon ngayon, may mga taong nalulukuban ng makahayop na damdaminat nakagagama ng kasamaan sa kapwa. Isa na rito ang panghahalay ng ama ng sarili niyang anak dahil sa matindingpagnanasa sa kamunduhan at kawalan ng katinoan sa pag-iisip. Ang mga ganitong uri ng tao ay mawala sa lipunan.\n\n. Alin sa mga sumusunod ang tumutukoy sa kreming nabanggit sa seleksyon ?",
+    "choice1": "Concubinage",
+    "choice2": "Acts of lasciviousness",
+    "choice3": "Marital rape",
+    "choice4": "Incest",
+    "answerKey": "Incest"
+  },
+  {
+    "question": "Ano ang salitang-ugat ng kanluran?",
+    "choice1": "Kanlong",
+    "choice2": "Kalan",
+    "choice3": "Lunod",
+    "choice4": "Lunan",
+    "answerKey": "Lunan"
+  },
+  {
+    "question": "“Magtatrabaho ako at ikaw ay mag-aaral upang makatapos ka ng pag-aaral.” Anong uri ng pangungusap ito?",
+    "choice1": "Tambalan",
+    "choice2": "Payak",
+    "choice3": "Hugnayan",
+    "choice4": "Langkapan",
+    "answerKey": "Langkapan"
+  },
+  {
+    "question": "Sa taas ng bilihin ngayon kahit kahig ka nang kahig ay wala pa ring maiipon. Ano ang ibig sabihin nito?",
+    "choice1": "Trabaho ng trabaho",
+    "choice2": "Tago ng tago",
+    "choice3": "Hanap ng hanap",
+    "choice4": "Gastos ng gastos",
+    "answerKey": "Trabaho ng trabaho"
+  },
+  {
+    "question": "Sa panahon ngayon, may mga taong nalulukuban ng makahayop na damdaminat nakagagama ng kasamaan sa kapwa. Isa na rito ang panghahalay ng ama ng sarili niyang anak dahil sa matindingpagnanasa sa kamunduhan at kawalan ng katinoan sa pag-iisip. Ang mga ganitong uri ng tao ay mawala sa lipunan.\n\nPaano binigyang-katuturan ng may-akda ang paksa ng seleksyon?",
+    "choice1": "Paghahalimbawa",
+    "choice2": "Pagsasalaysay",
+    "choice3": "Paglalahad",
+    "choice4": "Pagkilalasa anhi at bunga",
+    "answerKey": "Pagkilalasa anhi at bunga"
+  },
+  {
+    "question": "MARUMI ang kamay niya nang kumain.",
+    "choice1": "reduplikasyon",
+    "choice2": "metatesis",
+    "choice3": "paglilipat diin",
+    "choice4": "pagpapalit ng ponema",
+    "answerKey": "pagpapalit ng ponema"
+  },
+  {
+    "question": "Nagbasa ______ maayos ang mag-aaral",
+    "choice1": "nang",
+    "choice2": "ng",
+    "choice3": "siya",
+    "choice4": "sila",
+    "answerKey": "nang"
+  },
+  {
+    "question": "Sa pagtuturo ng pagbasa sa pangalawang wika,dapat isaalang-alang__________________.",
+    "choice1": "ang pagsasanay na transisyon",
+    "choice2": "ang bawat bahagi ng balarila",
+    "choice3": "ang pagtatala ng mahahalagang bahagi ng araling sasaklawin",
+    "choice4": "ang simulain ng pagkakasunud-sunod ng mga yunit ng paksang aralin",
+    "answerKey": "ang simulain ng pagkakasunud-sunod ng mga yunit ng paksang aralin"
+  },
+  {
+    "question": "Mahimbing ang tulog ni Miguel kaya hindi niya napansin na lumilindol.",
+    "choice1": "Taingang-kawali",
+    "choice2": "Tulo-laway",
+    "choice3": "Utak-biya",
+    "choice4": "Tulog-mantika",
+    "answerKey": "Tulog-mantika"
+  },
+  {
+    "question": "Kung sa pakikinig, ang layuning malibang ay naauri bilang apresyatib, mauuri naman sa pagbasa bilang _____________.",
+    "choice1": "makahulugan",
+    "choice2": "intensibo",
+    "choice3": "mapanuri",
+    "choice4": "ekstensibo",
+    "answerKey": "ekstensibo"
+  },
+  {
+    "question": "Anong uri ng tayutay ito?\n        Dumadagundong ang tunog ng loud speaker sa mahinang dibdib ng matanda.",
+    "choice1": "Onomatopeya o paghihimig",
+    "choice2": "Apostrophe o pagtawag",
+    "choice3": "Antithesis o pagtatambis",
+    "choice4": "Alliteration o pag-uulit",
+    "answerKey": "Onomatopeya o paghihimig"
+  },
+  {
+    "question": "Kapag tayo ay nabigo, bumangon tayo agad. Sakaling dumating ang daluyong, sandal siyang iiwas.",
+    "choice1": "Langkapan",
+    "choice2": "Tambalan",
+    "choice3": "Payak",
+    "choice4": "Hugnayan",
+    "answerKey": "Hugnayan"
+  },
+  {
+    "question": "Anong uri ng tayutay ang pahayagan na ito? \" Ang kabutihan mo sa buhay ang magiging hakbang sa pag-unlad.\"",
+    "choice1": "Pagwawangis",
+    "choice2": "Pagtutulad",
+    "choice3": "Pagpapalit-tawag",
+    "choice4": "Personipikasyon",
+    "answerKey": "Pagwawangis"
+  },
+  {
+    "question": "Sa mga magulang, ang edukasyon ay isang obligasyon sa mga anak bilang paghahanda saisang magandang buhay, lalo na sa mga panahong ang mga magulang ay wala na. Ang edukasyon parasa mga kabataan ay isang karapatang dapat ipagkaloobng kanilang mga magulang tungo sa isang magandang kinabukasan. Samantala, para naman sa mga guro, ang isang edukasyon ay isang larangang dapat bigyan ng ibayong pagpapahalaga at pagtingin lalo na ng pamahalaan at mga magulang sapagkat dito nakasalalayang magandang kinabukasan ng mga kabataan at mamayan ng bayan.\n\nAyon sa seleksyon, ano ang pinakamagandang maipapamana ng isang magulang sa kanyang anak?",
+    "choice1": "Limang milyong piso",
+    "choice2": "Pagpapahalaga sa kapwa at sa bayan",
+    "choice3": "Mabuting asal",
+    "choice4": "Wastong edukasyon",
+    "answerKey": "Wastong edukasyon"
+  },
+  {
+    "question": "Sa mga magulang, ang edukasyon ay isang obligasyon sa mga anak bilang paghahanda saisang magandang buhay, lalo na sa mga panahong ang mga magulang ay wala na. Ang edukasyon parasa mga kabataan ay isang karapatang dapat ipagkaloobng kanilang mga magulang tungo sa isang magandang kinabukasan. Samantala, para naman sa mga guro, ang isang edukasyon ay isang larangang dapat bigyan ng ibayong pagpapahalaga at pagtingin lalo na ng pamahalaan at mga magulang sapagkat dito nakasalalayang magandang kinabukasan ng mga kabataan at mamayan ng bayan.\n\nAnong uri ng pamamahayag ang ipinamalas sa seleksyon?",
+    "choice1": "Pagsasalaysay",
+    "choice2": "Pangangatwiran",
+    "choice3": "Paglalahad",
+    "choice4": "Paglalarawan",
+    "answerKey": "Paglalahad"
+  },
+  {
+    "question": "Dahilan kung bakit isinunod ang tawag na balagtasan sa pangalan ni Francisco Baltazar.",
+    "choice1": "sapagkat siya ang pinakamahusay na mambibigkas noong kaniyang kapanahunan.",
+    "choice2": "bilang parangal sa pagdiriwang ng  kaniyang kaarawan",
+    "choice3": "upang lalo siyang tangkilikin ng mga makata",
+    "choice4": "bilang alaala sa kaniyang kadakilaan",
+    "answerKey": "bilang alaala sa kaniyang kadakilaan"
+  },
+  {
+    "question": "I.  \tNapagbuhatan siya ng kamay ng ama dahil sa kanyang ginawa. \nII.\tPinarusahan ng ama si Shanne, hindi siya puwedeng lumabas ng bahay\nIII.\tHindi pumapasok sa paaalan si Shanne,lagi siyang nakatambay sa computer shop.\nIV.\tBukod sa di pagpasok sa paaralan, mahilig pa siyang sumagot ng pabalang sa magulang.",
+    "choice1": "I, IV, III, II",
+    "choice2": "III, II, I, IV",
+    "choice3": "I, II, III, IV",
+    "choice4": "III, I, II, IV",
+    "answerKey": "III, I, II, IV"
+  },
+  {
+    "question": "I.\tHindi na niya maalala ang ipinagbili ng asawa.\nII.\tLumuwas sa kabayanan ang lalaki upang mamili.\nIII.\tHindi maalala ng lalaki ang ipinagbilin ng kanyang asawa na bibilhin sa tindahan.\nIV.\tNagpabili ang kanyang  asawa ng kendi para sa anak at lipstick para sa asawa.",
+    "choice1": "II, III, IV, I",
+    "choice2": "II, IV, III, I",
+    "choice3": "IV, II, III, I",
+    "choice4": "I, II, III, IV",
+    "answerKey": "II, III, IV, I"
+  },
+  {
+    "question": "I.\tNabuksan ang mga pintong mahigpit na nakasara.\nII.\tDumating ang kaibigan ko’t tagapagligtas ang Diwa ng panahon.\nIII.\tNakita kong muli ang mundo sa labas nang ako’y maglabing-anim na taon.\nIV.\tNayanig sa paglapit niya ang palalo’t metatag na balangkas ng lumang tradisyon.",
+    "choice1": "II, I, IV, III",
+    "choice2": "I, III, II, IV",
+    "choice3": "IV, II, III, I",
+    "choice4": "I, II, III, IV",
+    "answerKey": "II, I, IV, III"
+  },
+  {
+    "question": "Alin dito ang pinakawastong salin ng pangungusap na: \"I am sure he didn't say that.\"",
+    "choice1": "Ako ay tiyak na hindi niya sinabi iyon.",
+    "choice2": "Ako ay nakatitiyak na iyon ay hindi niya sinabi.",
+    "choice3": "Natitiyak kong hindi niya sinabi iyon.",
+    "choice4": "Ang tiyak ko'y hindi niya sinabi iyon.",
+    "answerKey": "Natitiyak kong hindi niya sinabi iyon."
+  },
+  {
+    "question": "Ang tunay na pag-ibig ay walang ibinubunga kung hindi tunay na ligaya at kaginhawaan. Kailanpama’t sapin-sapin ang dusang pinapasan ng bayani, at ang kanyang buhay ay nalipos ng karukhaan at lungkot, ang dahilan ay sapagkat hindi ang tunay na pag-ibig ang naghahari kung hindi ang taksil na pita sa yama’t bulaang karangalan. \n\nKung gagamitan ng paghihiblang suhay ang talata, aling konsepto ang pinakagitna?",
+    "choice1": "Kaginhawaan",
+    "choice2": "Pag-ibig",
+    "choice3": "Ligaya",
+    "choice4": "Kabayanihan",
+    "answerKey": "Pag-ibig"
+  },
+  {
+    "question": "Alam mo noong nasa restawran kami at kumakain, pinagmasdan ko siyang mabuti. Lalo siyang gumanda habang tinititigan. Pino ang kanyang kilos; kitang-kita ito habang siya ay kumakain. Maya-maya, may nakita akong kakaibang kilos sa kanya. Nag-iba ang ekspresyon ng kanyang mukha. Parang nahihirapan ngunit pilit pa rin siyang ngumingiti na parang may itinatagong kung ano at pasulyap-sulyap sa kanyang inumin. Nahalata ko na lamang na nahihirapan siyang lumunok dahil nabulunan. Nilapitan ko siya at binatukan, sabay abot sa softdrinks at winikaan kong, “MAGPAKATOTOO KA, SISTER!?” \n\nAnong uri ng pahayag ang ipinamalas sa seleksyon?",
+    "choice1": "Paglalarawan",
+    "choice2": "Paglalahad",
+    "choice3": "Pangangatuwiran",
+    "choice4": "Pagsasalaysay",
+    "answerKey": "Pagsasalaysay"
+  },
+  {
+    "question": "__________________ na ng magaling na barber ang buhok ni Felix.",
+    "choice1": "Maggugupit",
+    "choice2": "Hahagupitin",
+    "choice3": "Ginugupitan",
+    "choice4": "Gugupitan",
+    "answerKey": "Ginugupitan"
+  },
+  {
+    "question": "Mayaman ang lupang nasasakupan ng kanilang nayon.",
+    "choice1": "Mahihirapan ang mga taong palaguin ang kanilang mga sakahan.",
+    "choice2": "Makapagbebenta ng kanilang ani sa ibang bayan ang mga magsasaka.",
+    "choice3": "Magiging masagana ang ani ng mga mamamayan sa nayon.",
+    "choice4": "Magkukulang sa pagkain ang mga taong naninirahan sa nayon.",
+    "answerKey": "Magiging masagana ang ani ng mga mamamayan sa nayon."
+  },
+  {
+    "question": "_________________ mo naman sa kanila na magdala ng mapagsasaluhan.",
+    "choice1": "Pakiusap",
+    "choice2": "Usapin",
+    "choice3": "Ipakiusap",
+    "choice4": "Usap-usapan",
+    "answerKey": "Ipakiusap"
+  },
+  {
+    "question": "I.\tTumalsik ang kaawa-awang si Lito sa kabillang kuwarto at nanatiling walang kagalaw-galaw. \nII.\tMaya-maya ay bumagsak sa nakangusong mukha ng bata ang malaking kamao ng ama.\nIII. \tTakot na takot ang mga bata lalo’t walang tigil sa paghalinghing ang kapatid nila si Lito.\nIV. \tIsang gabi ay umuwi ang ama na masama ang timpla dahil nasisante sa trabaho.",
+    "choice1": "IV, II, I, III",
+    "choice2": "III, I, II, IV",
+    "choice3": "IV, III, II, I",
+    "choice4": "I, II, III, IV",
+    "answerKey": "IV, III, II, I"
+  },
+  {
+    "question": "Alam mo noong nasa restawran kami at kumakain, pinagmasdan ko siyang mabuti. Lalo siyang gumanda habang tinititigan. Pino ang kanyang kilos; kitang-kita ito habang siya ay kumakain. Maya-maya, may nakita akong kakaibang kilos sa kanya. Nag-iba ang ekspresyon ng kanyang mukha. Parang nahihirapan ngunit pilit pa rin siyang ngumingiti na parang may itinatagong kung ano at pasulyap-sulyap sa kanyang inumin. Nahalata ko na lamang na nahihirapan siyang lumunok dahil nabulunan. Nilapitan ko siya at binatukan, sabay abot sa softdrinks at winikaan kong, “MAGPAKATOTOO KA, SISTER!?” \n\nSaan naganap ang pangyayari sa seleksyon?",
+    "choice1": "Simbahan",
+    "choice2": "Kusina",
+    "choice3": "Restawran",
+    "choice4": "Opisina",
+    "answerKey": "Restawran"
+  },
+  {
+    "question": "Alam mo noong nasa restawran kami at kumakain, pinagmasdan ko siyang mabuti. Lalo siyang gumanda habang tinititigan. Pino ang kanyang kilos; kitang-kita ito habang siya ay kumakain. Maya-maya, may nakita akong kakaibang kilos sa kanya. Nag-iba ang ekspresyon ng kanyang mukha. Parang nahihirapan ngunit pilit pa rin siyang ngumingiti na parang may itinatagong kung ano at pasulyap-sulyap sa kanyang inumin. Nahalata ko na lamang na nahihirapan siyang lumunok dahil nabulunan. Nilapitan ko siya at binatukan, sabay abot sa softdrinks at winikaan kong, “MAGPAKATOTOO KA, SISTER!?” \n\nSa pagtatapos ng seleksyon, ano ang napagtanto ng pangunahing tauhan tungkol sa babaeng kanyang pinapanuod?",
+    "choice1": "Maganang kumain ang babae",
+    "choice2": "Totoo sa sarili ang babae",
+    "choice3": "Mayaman ang babae",
+    "choice4": "Ubod ng hinhin ang babae",
+    "answerKey": "Maganang kumain ang babae"
+  },
+  {
+    "question": "Mag-isip ka, Binata\n \n\tIkaw ay baguntao…. Malakas, makisig, matatag, maginoo, ikaw, tulad ng iyong ama ay magiging haligi ng tahanan.\n \n\tHuwaran mo ang iyong ama. Siya ang utak na namamatnugot sa inyong tahanan samantalang ang iyong ina ang siyang katuwang sa pagpapaligaya nito. Ikaw ay galamay ng iyong mga magulang. Ikaw ang pag-asa nila sa kanilang pagtanda. Ikaw ang dahilan ng kanilang pagpapakasakit. Dapat mong gantihan ng kabutihan ang kanilang paghihirap.\n \n\tNgayong nag-aaral ka pa’y maaari kang tumulong sa anumang paraan. Ngunit ang higit nilang inaasahan sa iyo ay ang pagtatapos mo ng pag-aaral. Para kanino ang iyong pag-aaral? Ito’y para sa iyong kinabukasan, ipang ikaw ay maging matatag at nakahandang tumanggap ng pananagutan. Kaya dapat mong ibigin at igalang ang iyong mga magulang. Tungkulin mong paglingkuran sila nang buong lugod at kasiyahan. Huwag mo silang biguin sa pangarap nila sa iyo!\n\nSa pamagat ng teksto ay mahihinuhang______________.",
+    "choice1": "Ang teksto ay nagbababala sa mga binata",
+    "choice2": "Ang teksto ay isang pagtawag sa atensyon para sa mga binata",
+    "choice3": "Ang teksto ay isang pagsusulit para sa mga binata",
+    "choice4": "Ang teksto ay nangangaral sa mga binata",
+    "answerKey": "Ang teksto ay nagbababala sa mga binata"
+  },
+  {
+    "question": "________ ng mga pulis ang kadena sa kanyang mga kamay.",
+    "choice1": "Naglagay",
+    "choice2": "Inilagay",
+    "choice3": "Nilagyan",
+    "choice4": "Nalagyan",
+    "answerKey": "Inilagay"
+  },
+  {
+    "question": "Ang tunay na pag-ibig ay walang ibinubunga kung hindi tunay na ligaya at kaginhawaan. Kailanpama’t sapin-sapin ang dusang pinapasan ng bayani, at ang kanyang buhay ay nalipos ng karukhaan at lungkot, ang dahilan ay sapagkat hindi ang tunay na pag-ibig ang naghahari kung hindi ang taksil na pita sa yama’t bulaang karangalan. \n\nAlin ang bunga batay sa talata?",
+    "choice1": "Hindi tunay na ligaya",
+    "choice2": "Hindi tunay na karangalan",
+    "choice3": "Totoong kalungkutan",
+    "choice4": "Totoong karukhaan",
+    "answerKey": "Hindi tunay na karangalan"
+  },
+  {
+    "question": "Maganda ang samahan ng magkapitbahay sa aming barangay.",
+    "choice1": "Magiging masaya at payapa ang pamumuhay ng mga tao.",
+    "choice2": "Hahanap ng ibang malilipatang lugar ang karamihan sa mga mamamayan.",
+    "choice3": "Tuwing umaga magulo ang aming barangay.",
+    "choice4": "Magkakaroon ng inggitan ang magkapitbahay.",
+    "answerKey": "Magiging masaya at payapa ang pamumuhay ng mga tao."
+  },
+  {
+    "question": "Ano ang katumbas ng “Dekalogo” ni Apolinario Mabini na nagsasaad ng aral sa Filipino?",
+    "choice1": "Mosaic Law",
+    "choice2": "New Society ni Pres. Marcos",
+    "choice3": "Code of Ethics ni Kalantiaw",
+    "choice4": "Code of Citizenship ni Pres. Quezon",
+    "answerKey": "Mosaic Law"
+  },
+  {
+    "question": "Alam mo noong nasa restawran kami at kumakain, pinagmasdan ko siyang mabuti. Lalo siyang gumanda habang tinititigan. Pino ang kanyang kilos; kitang-kita ito habang siya ay kumakain. Maya-maya, may nakita akong kakaibang kilos sa kanya. Nag-iba ang ekspresyon ng kanyang mukha. Parang nahihirapan ngunit pilit pa rin siyang ngumingiti na parang may itinatagong kung ano at pasulyap-sulyap sa kanyang inumin. Nahalata ko na lamang na nahihirapan siyang lumunok dahil nabulunan. Nilapitan ko siya at binatukan, sabay abot sa softdrinks at winikaan kong, “MAGPAKATOTOO KA, SISTER!?” \n\nAno ang naging emosyon ng pangunahing tauhan sa pagsisimula ng seleksyon?",
+    "choice1": "Pagkainis",
+    "choice2": "Pagkabighani",
+    "choice3": "Pag-ibig",
+    "choice4": "Pagpapakatotoo",
+    "answerKey": "Pagkabighani"
+  },
+  {
+    "question": "____________ magtrabaho sina Fred at Jose.",
+    "choice1": "Magkasimbilis",
+    "choice2": "Magkasinbilis",
+    "choice3": "Magkasingbilis",
+    "choice4": "Napabilis",
+    "answerKey": "Magkasingbilis"
+  },
+  {
+    "question": "Mag-isip ka, Binata\n \n\tIkaw ay baguntao…. Malakas, makisig, matatag, maginoo, ikaw, tulad ng iyong ama ay magiging haligi ng tahanan.\n \n\tHuwaran mo ang iyong ama. Siya ang utak na namamatnugot sa inyong tahanan samantalang ang iyong ina ang siyang katuwang sa pagpapaligaya nito. Ikaw ay galamay ng iyong mga magulang. Ikaw ang pag-asa nila sa kanilang pagtanda. Ikaw ang dahilan ng kanilang pagpapakasakit. Dapat mong gantihan ng kabutihan ang kanilang paghihirap.\n \n\tNgayong nag-aaral ka pa’y maaari kang tumulong sa anumang paraan. Ngunit ang higit nilang inaasahan sa iyo ay ang pagtatapos mo ng pag-aaral. Para kanino ang iyong pag-aaral? Ito’y para sa iyong kinabukasan, ipang ikaw ay maging matatag at nakahandang tumanggap ng pananagutan. Kaya dapat mong ibigin at igalang ang iyong mga magulang. Tungkulin mong paglingkuran sila nang buong lugod at kasiyahan. Huwag mo silang biguin sa pangarap nila sa iyo!\n\nAng tono ng teksto ay __________________.",
+    "choice1": "Mapangutya",
+    "choice2": "Mapagbiro",
+    "choice3": "Mapanghikayat",
+    "choice4": "Mapanumbat",
+    "answerKey": "Mapanghikayat"
+  },
+  {
+    "question": "Ikaw ay baguntao…. Malakas, makisig, matatag, maginoo, ikaw, tulad ng iyong ama ay magiging haligi ng tahanan.\n \n\tHuwaran mo ang iyong ama. Siya ang utak na namamatnugot sa inyong tahanan samantalang ang iyong ina ang siyang katuwang sa pagpapaligaya nito. Ikaw ay galamay ng iyong mga magulang. Ikaw ang pag-asa nila sa kanilang pagtanda. Ikaw ang dahilan ng kanilang pagpapakasakit. Dapat mong gantihan ng kabutihan ang kanilang paghihirap.\n \n\tNgayong nag-aaral ka pa’y maaari kang tumulong sa anumang paraan. Ngunit ang higit nilang inaasahan sa iyo ay ang pagtatapos mo ng pag-aaral. Para kanino ang iyong pag-aaral? Ito’y para sa iyong kinabukasan, ipang ikaw ay maging matatag at nakahandang tumanggap ng pananagutan. Kaya dapat mong ibigin at igalang ang iyong mga magulang. Tungkulin mong paglingkuran sila nang buong lugod at kasiyahan. Huwag mo silang biguin sa pangarap nila sa iyo!\n\nAng pananaw na ginamit sa teksto ay _____________",
+    "choice1": "Unang panauhan",
+    "choice2": "Ikalawang panauhan",
+    "choice3": "Ikatlong panauhan",
+    "choice4": "Walang ginamit",
+    "answerKey": "Ikalawang panauhan"
+  },
+  {
+    "question": "I.  \tNagalit ang nanay dahil ayaw sumamang magsimba ang bata.\nII.\tKumatok sa silid ang tiyo at tinanong kung ang pinagtatalunan.\nIII.\tBinibihisan ng nana yang bata bilang paghahanda sa kanilang pagsisimba.\nIV.\tNapamulagat ang nanay ng bata nang sabihin ng tiyo na sasama siyang magsimba sa mag-ina.",
+    "choice1": "IV, I, II, III",
+    "choice2": "IV, I, III, II",
+    "choice3": "II, I, IV, III",
+    "choice4": "II, I, III, IV",
+    "answerKey": "IV, I, III, II"
+  },
+  {
+    "question": "Alam mo noong nasa restawran kami at kumakain, pinagmasdan ko siyang mabuti. Lalo siyang gumanda habang tinititigan. Pino ang kanyang kilos; kitang-kita ito habang siya ay kumakain. Maya-maya, may nakita akong kakaibang kilos sa kanya. Nag-iba ang ekspresyon ng kanyang mukha. Parang nahihirapan ngunit pilit pa rin siyang ngumingiti na parang may itinatagong kung ano at pasulyap-sulyap sa kanyang inumin. Nahalata ko na lamang na nahihirapan siyang lumunok dahil nabulunan. Nilapitan ko siya at binatukan, sabay abot sa softdrinks at winikaan kong, “MAGPAKATOTOO KA, SISTER!?” \n\nBakit nag-iba ang ekspresyon sa mukha ng babae sa seleksyon?",
+    "choice1": "Masakit ang kanyang tiyan",
+    "choice2": "Nahalata niyang pinapanood siya ng pangunahing tauhan",
+    "choice3": "Siya ay nabulunan at hindi makalunok",
+    "choice4": "Pangit ang lasa ng kanyang kinakain",
+    "answerKey": "Siya ay nabulunan at hindi makalunok"
+  },
+  {
+    "question": "Ang tunay na pag-ibig ay walang ibinubunga kung hindi tunay na ligaya at kaginhawaan. Kailanpama’t sapin-sapin ang dusang pinapasan ng bayani, at ang kanyang buhay ay nalipos ng karukhaan at lungkot, ang dahilan ay sapagkat hindi ang tunay na pag-ibig ang naghahari kung hindi ang taksil na pita sa yama’t bulaang karangalan. \n\nAng paghihirap ng bayan ay sanhi ng ________.",
+    "choice1": "kahinaan ng bayani",
+    "choice2": "kawalang malay",
+    "choice3": "pagkamakasarili",
+    "choice4": "digmaan",
+    "answerKey": "pagkamakasarili"
+  },
+  {
+    "question": "Galit na galit ang ina, kumuha ito ng kutsilyo at nagbalak na patayin ang anak. Muntik na niya maabutan ngunit tumalon sa ilog.",
+    "choice1": "Tunggalian, sapagkat nakikipaglaban ang tauhan sa sarili.",
+    "choice2": "Gitnang bahagi, dahil binanggit ang panandaliang pagtatapo ng mga tauhan.",
+    "choice3": "Saglit na kasiglahan, sapagkat bigla na lang itong nagkaroon ng suliranin.",
+    "choice4": "Wakas ng kuwento, binanggit ang kinahinatnan ng tauhan sa akda.",
+    "answerKey": "Tunggalian, sapagkat nakikipaglaban ang tauhan sa sarili."
+  },
+  {
+    "question": "Paano ang dapat na pagsusuri sa akda bilang isang salin?",
+    "choice1": "Ang lahat ng wika ay may sariling bisa at kakayahan sa pagpapahayag ng kulturang Pilipino at ng ibang bansa",
+    "choice2": "Nauunawaan ang nais ipabatid ng isinalin",
+    "choice3": "Maayos ang pagkakasalin",
+    "choice4": "Malaya at madaling maunawaan",
+    "answerKey": "Ang lahat ng wika ay may sariling bisa at kakayahan sa pagpapahayag ng kulturang Pilipino at ng ibang bansa"
+  },
+  {
+    "question": "Alin sa sumusunod ang wastong pagkakasulat ng bibliyograpiya?",
+    "choice1": "Quezon City: Unibersidad ng Pilipinas, 1975-76, Retorikang Pangkolehiyo, Antonio, Lilia F. et al",
+    "choice2": "Antonio, Lilia F., et al. ( 1975-76) Retorikang Pangkolehiyo. Quezon City: Unibersidad ng Pilipinas.",
+    "choice3": "Unibersidad ng Pilipinas, Antonio, Lilia F, et al, Retorikang Pangkolehiyo, Quezon City, 1975-76.",
+    "choice4": "Retorikang Pangkolehiyo. Antonio, Lilia F. et al, Quezon City, Unibersidad ng Pilipinas 1975-76.",
+    "answerKey": "Antonio, Lilia F., et al. ( 1975-76) Retorikang Pangkolehiyo. Quezon City: Unibersidad ng Pilipinas."
+  },
+  {
+    "question": "Ang kauna-unahang pelikula na nagawa sa Pilipinas sa direksiyon ni Jose Nepomuceno.",
+    "choice1": "Dalagang Bukid",
+    "choice2": "Himala",
+    "choice3": "Ang probinsyano",
+    "choice4": "Sumbrero ng mga kalalakihan",
+    "answerKey": "Dalagang Bukid"
+  },
+  {
+    "question": "Ito ang unang aklat na nailimbag sa Pilipinas naipinalimbag ng Pareng Dominikano sa Maynila na si Padre Domingo de Nieva.",
+    "choice1": "Panitikan sa Pilipinas",
+    "choice2": "Bibliya",
+    "choice3": "Doctrina Christiana",
+    "choice4": "Artedela Lengua Tagala",
+    "answerKey": "Doctrina Christiana"
+  },
+  {
+    "question": "Sa panahon ngayon, may mga taong nalulukuban ng makahayop na damdamin at nakagagawa ng kasamaan sa kapwa. Isa na rito ang panghahalay ng ama sa sarili niyang walang malay na anak dahil sa matinding pagnanasa sa kamunduhan at kawalan ng katinuan sa pag-iisip. Ang mga ganitong uri ng tao ay dapat mawala sa lipunan. \n\nAnong uri ng pahayag ang ipinamalas sa seleksyon?",
+    "choice1": "Paglalahad",
+    "choice2": "Pangangatwiran",
+    "choice3": "Paglalarawan",
+    "choice4": "Pagsasalaysay",
+    "answerKey": "Paglalahad"
+  },
+  {
+    "question": "Sa panahon ngayon, may mga taong nalulukuban ng makahayop na damdamin at nakagagawa ng kasamaan sa kapwa. Isa na rito ang panghahalay ng ama sa sarili niyang walang malay na anak dahil sa matinding pagnanasa sa kamunduhan at kawalan ng katinuan sa pag-iisip. Ang mga ganitong uri ng tao ay dapat mawala sa lipunan. \n\nAno ang parusa para sa krimeng nabanggit sa seleksyon?",
+    "choice1": "Pagkakapon",
+    "choice2": "Lethal injection",
+    "choice3": "Pagkulong sa Mental Hospital",
+    "choice4": "Pagkakakulong nang habang buhay",
+    "answerKey": "Pagkakakulong nang habang buhay"
+  },
+  {
+    "question": "Sa panahon ngayon, may mga taong nalulukuban ng makahayop na damdamin at nakagagawa ng kasamaan sa kapwa. Isa na rito ang panghahalay ng ama sa sarili niyang walang malay na anak dahil sa matinding pagnanasa sa kamunduhan at kawalan ng katinuan sa pag-iisip. Ang mga ganitong uri ng tao ay dapat mawala sa lipunan. \n\nPaano binigyang-katuturan ng may-akda ang paksa sa seleksyon?",
+    "choice1": "Paglalarawan",
+    "choice2": "Paghahambing at pagtatambis",
+    "choice3": "Paghahalimbawa",
+    "choice4": "Pagkilala sa sanhi at bunga",
+    "answerKey": "Pagkilala sa sanhi at bunga"
+  },
+  {
+    "question": "Naglipana ang mga mamamayang mahirap sa lungsod. Umaatungal at nagdarasal sa mga panginoon na sana’y palayain mula sa kuko ng pagdarahop. Isang kagyat ng alinlangan sa \nbuhay- isang kahig isang tuka- simbolo ng pagkamaralita. Wala akong magawa kundi itistis sa mga salita ang nakikitang anyo ng aming buhay. Kapalaran o sandigan ng pag-asa? Kung basal naman ang aking tinig sapagkat birhen akong nangulila upang lumaya. Subali’t ang sagot ay kung ang pawis ko’y kapalit ng hinaing at sigaw ng pagdurusa. SAAN NGA BA TUTUNGO ANG BUHAY KUNG SA TAGPI-TAGPING DAMPA NAROON ANG ULAM NA TUYO AT IDINIDILDIL NA ASIN UPANG BIGYANG-LASA ANG KANIYANG ISINUSUBO? Wala akong karapatang magsalita. Ang tinig ko ay paos. Ngunit ang ungol ko’y pumaimbulog sa langit at sa libingan ng mga buhay doon ko dinaranas ang misteryo ng buhay.  \n\nAnong uri ng tayutay ang ipinahihiwatig ng nakasalungguhit na pangungusap?",
+    "choice1": "Tanong retorikal",
+    "choice2": "Pagtutulad",
+    "choice3": "Pagwawangis",
+    "choice4": "Pagtawag",
+    "answerKey": "Tanong retorikal"
+  },
+  {
+    "question": "Siya ang sumulat ng \"Hulyo 4, 1954 A.D.\" na nagkamit ng unang gantimpala sa Palanca noong 1953-1954.",
+    "choice1": "Rogelio Sicat",
+    "choice2": "Edgardo Reyes",
+    "choice3": "Amado V. Hernandez",
+    "choice4": "Dionisio Salazar",
+    "answerKey": "Dionisio Salazar"
+  },
+  {
+    "question": "Si Lope K. Santos ay tinaguriang_____sa dahilang siya ang kauna-unahang sumulat ng Balarila ng Wikang Pambansa na batay sa Tagalog.",
+    "choice1": "Ama ng Wikang Pilipino",
+    "choice2": "Ama ng Balarilang Pilipino",
+    "choice3": "Ama ng Panitikang Pilipino",
+    "choice4": "Ama ng mga Dalubhasang Pilipino",
+    "answerKey": "Ama ng Balarilang Pilipino"
+  },
+  {
+    "question": "PARAAN NG PAGLULUTO\n      1.)\tPagsamahin sa kaserola ang manok, suka, isang kutsara ang bawang, laurel, toyo, asin at paminta.\t\n      2.)\tPakuluin, pagkatapos ay hinaan ang apoy at lutuin hanggang lumambot.\t\n      3.)\tKapag natuyuan ay magdagdag ng tubig.\t\n      4.)\tKapag malambot na ang manok ay alisin na ito sa sarsa.\n      5.)\tSa isang kawali, igisa ang natitirang bawang. \n      6.)\tIdagdag ang itinabing manok at lutuin hanggang matusta.\n      7.)\tIbuhos ang sarsa o pinaglutuan ng manok. Pakuluin.\n      8.)\tMaari ring dagdagan ng ½ kutsarang asukal para bawasan ang asin ng suka. \n   \nPaano binigyang-katuturan ng may-akda ang paksa ng seleksyon?",
+    "choice1": "Pagbibigay patnubay",
+    "choice2": "Paghahalimbawa",
+    "choice3": "Paghahambing at pagtatambis",
+    "choice4": "Pagkilala sa sanhi at bunga",
+    "answerKey": "Pagbibigay patnubay"
+  },
+  {
+    "question": "PARAAN NG PAGLULUTO\n      1.)\tPagsamahin sa kaserola ang manok, suka, isang kutsara ang bawang, laurel, toyo, asin at paminta.\t\n      2.)\tPakuluin, pagkatapos ay hinaan ang apoy at lutuin hanggang lumambot.\t\n      3.)\tKapag natuyuan ay magdagdag ng tubig.\t\n      4.)\tKapag malambot na ang manok ay alisin na ito sa sarsa.\n      5.)\tSa isang kawali, igisa ang natitirang bawang. \n      6.)\tIdagdag ang itinabing manok at lutuin hanggang matusta.\n      7.)\tIbuhos ang sarsa o pinaglutuan ng manok. Pakuluin.\n      8.)\tMaari ring dagdagan ng ½ kutsarang asukal para bawasan ang asin ng suka. \n   \nAno ang pagkaing iniluluto ng may akda?",
+    "choice1": "Adobong manok",
+    "choice2": "Kalderetang manok",
+    "choice3": "Nilagang manok",
+    "choice4": "Pocherong manok",
+    "answerKey": "Adobong manok"
+  },
+  {
+    "question": "Walang tubig kahapon. Ito ay pangungusap na:",
+    "choice1": "May panaguri",
+    "choice2": "May paksa",
+    "choice3": "Walang paksa",
+    "choice4": "Walang pandiwa",
+    "answerKey": "Walang paksa"
+  },
+  {
+    "question": "Sa mga magulang, ang edukasyon ay isang obligasyon sa mga anak bilang paghahanda sa isang magandang buhay, lalo na sa panahong ang mga magulang ay wala na. Ang edukasyon para sa mga kabataan ay isang karapatang dapat ipagkaloob ng kanilang mga magulang tungo sa isang magandang kinabukasan. Samantala, para naman sa mga guro, ang edukasyon au isang larangang dapat bigyan ng ibayong pagpapahalaga at pagtingin lalo na ng pamahalaan at mga magulang sapagkat dito nakasalalay ang magandang kinabukasan ng mga kabataan at mamamayan ng bayan. \n\nAyon sa seleksyon, ano ang pinakamagandang maipamamana ng isang magulang sa kanyang mga  anak?",
+    "choice1": "Limang milyong piso",
+    "choice2": "Mabuting asal",
+    "choice3": "Pagpapahalaga sa kapwa at sa bayan",
+    "choice4": "Wastong edukasyon",
+    "answerKey": "Wastong edukasyon"
+  },
+  {
+    "question": "Sinong manunulat ang tinaguriang \"Ama ng mga Manggagawa\"?",
+    "choice1": "Virgilio Almario",
+    "choice2": "Rogelio Sicat",
+    "choice3": "Amado V. Hernandez",
+    "choice4": "Jose de Jesus",
+    "answerKey": "Amado V. Hernandez"
+  },
+  {
+    "question": "Noong unang panahon, may mag-asawang datu at ba’i sa Agamaniyog na may isang anak  na babae",
+    "choice1": "Ito ay simula sapagkat binabanggit ang paksa sa kuwento.",
+    "choice2": "Ang bahaging ito ay simula sapagkat binanggit ang pangyayari sa kwento.",
+    "choice3": "Gitna dahil binabanggit na ang pangyayari sa kuwento.",
+    "choice4": "Ang  simula sapagkat pinakilala ang mga tauhan at binanggit ang tagpuan.",
+    "answerKey": "Ang bahaging ito ay simula sapagkat binanggit ang pangyayari sa kwento."
+  },
+  {
+    "question": "Sa mga magulang, ang edukasyon ay isang obligasyon sa mga anak bilang paghahanda sa isang magandang buhay, lalo na sa panahong ang mga magulang ay wala na. Ang edukasyon para sa mga kabataan ay isang karapatang dapat ipagkaloob ng kanilang mga magulang tungo sa isang magandang kinabukasan. Samantala, para naman sa mga guro, ang edukasyon au isang larangang dapat bigyan ng ibayong pagpapahalaga at pagtingin lalo na ng pamahalaan at mga magulang sapagkat dito nakasalalay ang magandang kinabukasan ng mga kabataan at mamamayan ng bayan. \n\nAyon sa seleksyon, alin sa mga sumusunod ang kahalagahan ng pagkakaroon ng mabuting edukasyon?",
+    "choice1": "Upang matumbasan ang halagang ginastos ng magulang pambayad ng tuition",
+    "choice2": "Upang makamit ang isang magandang kinabukasan",
+    "choice3": "Upang matamo ang natatagong talento ng indibidwal",
+    "choice4": "Upang makabuo ng mas maraming propesyonal na mangingibang-bansa",
+    "answerKey": "Upang makamit ang isang magandang kinabukasan"
+  },
+  {
+    "question": "Sa panahon ngayon, may mga taong nalulukuban ng makahayop na damdamin at nakagagawa ng kasamaan sa kapwa. Isa na rito ang panghahalay ng ama sa sarili niyang walang malay na anak dahil sa matinding pagnanasa sa kamunduhan at kawalan ng katinuan sa pag-iisip. Ang mga ganitong uri ng tao ay dapat mawala sa lipunan. \n\nAlin sa mga sumusunod ang tumutukoy sa krimeng nabanggit sa seleksyon?",
+    "choice1": "Acts of lasciviousness",
+    "choice2": "Concubinage",
+    "choice3": "Marital rape",
+    "choice4": "Incest",
+    "answerKey": "Incest"
+  },
+  {
+    "question": "PARAAN NG PAGLULUTO\n     1.)\tPagsamahin sa kaserola ang manok, suka, isang kutsara ang bawang, laurel, toyo, asin at paminta.\t\n     2.)\tPakuluin, pagkatapos ay hinaan ang apoy at lutuin hanggang lumambot.\t\n     3.)\tKapag natuyuan ay magdagdag ng tubig.\t\n     4.)\tKapag malambot na ang manok ay alisin na ito sa sarsa.\n     5.)\tSa isang kawali, igisa ang natitirang bawang. \n     6.)\tIdagdag ang itinabing manok at lutuin hanggang matusta.\n     7.)\tIbuhos ang sarsa o pinaglutuan ng manok. Pakuluin.\n     8.)\tMaari ring dagdagan ng ½ kutsarang asukal para bawasan ang asin ng suka. \n\nAnong uri ng pahayag ang ipinamalas sa seleksyon?",
+    "choice1": "Paglalahad",
+    "choice2": "Pagsasalaysay",
+    "choice3": "Paglalarawan",
+    "choice4": "Pangangatuwiran",
+    "answerKey": "Paglalahad"
+  },
+  {
+    "question": "Naglipana ang mga mamamayang mahirap sa lungsod. Umaatungal at nagdarasal sa mga panginoon na sana’y palayain mula sa kuko ng pagdarahop. Isang kagyat ng alinlangan sa \nbuhay- isang kahig isang tuka- simbolo ng pagkamaralita. Wala akong magawa kundi itistis sa mga salita ang nakikitang anyo ng aming buhay. Kapalaran o sandigan ng pag-asa? Kung basal naman ang aking tinig sapagkat birhen akong nangulila upang lumaya. Subali’t ang sagot ay kung ang pawis ko’y kapalit ng hinaing at sigaw ng pagdurusa. SAAN NGA BA TUTUNGO ANG BUHAY KUNG SA TAGPI-TAGPING DAMPA NAROON ANG ULAM NA TUYO AT IDINIDILDIL NA ASIN UPANG BIGYANG-LASA ANG KANIYANG ISINUSUBO? Wala akong karapatang magsalita. Ang tinig ko ay paos. Ngunit ang ungol ko’y pumaimbulog sa langit at sa libingan ng mga buhay doon ko dinaranas ang misteryo ng buhay.  \n\nAnong uri ng pahayag ang ipinamalas sa seleksyon?",
+    "choice1": "Paglalarawan",
+    "choice2": "Paglalahad",
+    "choice3": "Pangangatuwiran",
+    "choice4": "Pagsasalaysay",
+    "answerKey": "Paglalarawan"
+  },
+  {
+    "question": "Naglipana ang mga mamamayang mahirap sa lungsod. Umaatungal at nagdarasal sa mga panginoon na sana’y palayain mula sa kuko ng pagdarahop. Isang kagyat ng alinlangan sa \nbuhay- isang kahig isang tuka- simbolo ng pagkamaralita. Wala akong magawa kundi itistis sa mga salita ang nakikitang anyo ng aming buhay. Kapalaran o sandigan ng pag-asa? Kung basal naman ang aking tinig sapagkat birhen akong nangulila upang lumaya. Subali’t ang sagot ay kung ang pawis ko’y kapalit ng hinaing at sigaw ng pagdurusa. SAAN NGA BA TUTUNGO ANG BUHAY KUNG SA TAGPI-TAGPING DAMPA NAROON ANG ULAM NA TUYO AT IDINIDILDIL NA ASIN UPANG BIGYANG-LASA ANG KANIYANG ISINUSUBO? Wala akong karapatang magsalita. Ang tinig ko ay paos. Ngunit ang ungol ko’y pumaimbulog sa langit at sa libingan ng mga buhay doon ko dinaranas ang misteryo ng buhay.  \t\t\n \nAno ang ibig sabihin ng “basal ang aking tinig?”",
+    "choice1": "Busilak",
+    "choice2": "May takip ang bibig",
+    "choice3": "Malakas",
+    "choice4": "Hindi marinig",
+    "answerKey": "Busilak"
+  },
+  {
+    "question": "Sina Nora Aunor at Vilma Santos ay kapwa mahuhusay na artista. Taglay nila ang kahusayan sa pag-arte, halos lahat ng kanilang pelikula ay nagbigay sa kanila ng acting awards. Si Nora ay tinaguriang “Superstar” at si Vilam naman ay tinaguriang “Star for all seasons”. Bagamat pareho silang sikat na artista, si Nora ay mahusay rin na mang-aawit at si Vilma ngayon ay mahusay na pulitiko.",
+    "choice1": "Problema at solusyon",
+    "choice2": "Order o pagkakasunud-sunod",
+    "choice3": "Depinisyon",
+    "choice4": "Paghahambing at Pagkokontrast",
+    "answerKey": "Paghahambing at Pagkokontrast"
+  },
+  {
+    "question": "Sa mga magulang, ang edukasyon ay isang obligasyon sa mga anak bilang paghahanda sa isang magandang buhay, lalo na sa panahong ang mga magulang ay wala na. Ang edukasyon para sa mga kabataan ay isang karapatang dapat ipagkaloob ng kanilang mga magulang tungo sa isang magandang kinabukasan. Samantala, para naman sa mga guro, ang edukasyon ay isang larangang dapat bigyan ng ibayong pagpapahalaga at pagtingin lalo na ng pamahalaan at mga magulang sapagkat dito nakasalalay ang magandang kinabukasan ng mga kabataan at mamamayan ng bayan. \n\nAlin sa mga sumusunod na pananaw ukol sa edukasyon ang HINDI ipinakita sa seleksyon?",
+    "choice1": "Edukasyon bilang isang larangan",
+    "choice2": "Edukasyon bilang obligasyon",
+    "choice3": "Edukasyon bilang karapatan",
+    "choice4": "Edukasyon bilang serbisyo sa bayan",
+    "answerKey": "Edukasyon bilang serbisyo sa bayan"
+  },
+  {
+    "question": "PARAAN NG PAGLULUTO\n      1.)\tPagsamahin sa kaserola ang manok, suka, isang kutsara ang bawang, laurel, toyo, asin at paminta.\t\n      2.)\tPakuluin, pagkatapos ay hinaan ang apoy at lutuin hanggang lumambot.\t\n      3.)\tKapag natuyuan ay magdagdag ng tubig.\t\n      4.)\tKapag malambot na ang manok ay alisin na ito sa sarsa.\n      5.)\tSa isang kawali, igisa ang natitirang bawang. \n      6.)\tIdagdag ang itinabing manok at lutuin hanggang matusta.\n      7.)\tIbuhos ang sarsa o pinaglutuan ng manok. Pakuluin.\n      8.)\tMaari ring dagdagan ng ½ kutsarang asukal para bawasan ang asin ng suka. \n \nBakit kailangang hinaan ang apoy pagkatapos pakuluan ang manok?",
+    "choice1": "Upang kumapit ang lasa ng toyo",
+    "choice2": "Upang maging tuyo ang manok",
+    "choice3": "Upang maalis ang lansa ng manok",
+    "choice4": "Upang lumambot ang manok",
+    "answerKey": "Upang lumambot ang manok"
+  },
+  {
+    "question": "Naglipana ang mga mamamayang mahirap sa lungsod. Umaatungal at nagdarasal sa mga panginoon na sana’y palayain mula sa kuko ng pagdarahop. Isang kagyat ng alinlangan sa \nbuhay- isang kahig isang tuka- simbolo ng pagkamaralita. Wala akong magawa kundi itistis sa mga salita ang nakikitang anyo ng aming buhay. Kapalaran o sandigan ng pag-asa? Kung basal naman ang aking tinig sapagkat birhen akong nangulila upang lumaya. Subali’t ang sagot ay kung ang pawis ko’y kapalit ng hinaing at sigaw ng pagdurusa. SAAN NGA BA TUTUNGO ANG BUHAY KUNG SA TAGPI-TAGPING DAMPA NAROON ANG ULAM NA TUYO AT IDINIDILDIL NA ASIN UPANG BIGYANG-LASA ANG KANIYANG ISINUSUBO? Wala akong karapatang magsalita. Ang tinig ko ay paos. Ngunit ang ungol ko’y pumaimbulog sa langit at sa libingan ng mga buhay doon ko dinaranas ang misteryo ng buhay.  \t\t\n\nAlin sa mga sumusunod ang angkop na pamagat ng seleksyon?",
+    "choice1": "Misteryo ng Buhay",
+    "choice2": "Sigaw ng kahirapan",
+    "choice3": "Buhay lansangan",
+    "choice4": "Pag-asa ng Maralita",
+    "answerKey": "Sigaw ng kahirapan"
+  },
+  {
+    "question": "PARAAN NG PAGLULUTO\n      1.)\tPagsamahin sa kaserola ang manok, suka, isang kutsara ang bawang, laurel, toyo, asin at paminta.\t\n      2.)\tPakuluin, pagkatapos ay hinaan ang apoy at lutuin hanggang lumambot.\t\n      3.)\tKapag natuyuan ay magdagdag ng tubig.\t\n      4.)\tKapag malambot na ang manok ay alisin na ito sa sarsa.\n      5.)\tSa isang kawali, igisa ang natitirang bawang. \n      6.)\tIdagdag ang itinabing manok at lutuin hanggang matusta.\n      7.)\tIbuhos ang sarsa o pinaglutuan ng manok. Pakuluin.\n      8.)\tMaari ring dagdagan ng ½ kutsarang asukal para bawasan ang asin ng suka. \n \nAno ang karagdagang pakinabang ng paglalagay ng suka sa pagkaing iniluluto?",
+    "choice1": "Bilang pantanggal ng lansa",
+    "choice2": "Bilang pampaalat",
+    "choice3": "Upang maghiwalay ang mantika at toyo",
+    "choice4": "Upang hindi mapanis ang iniluto",
+    "answerKey": "Upang hindi mapanis ang iniluto"
+  },
+  {
+    "question": "Sa mga magulang, ang edukasyon ay isang obligasyon sa mga anak bilang paghahanda sa isang magandang buhay, lalo na sa panahong ang mga magulang ay wala na. Ang edukasyon para sa mga kabataan ay isang karapatang dapat ipagkaloob ng kanilang mga magulang tungo sa isang magandang kinabukasan. Samantala, para naman sa mga guro, ang edukasyon au isang larangang dapat bigyan ng ibayong pagpapahalaga at pagtingin lalo na ng pamahalaan at mga magulang sapagkat dito nakasalalay ang magandang kinabukasan ng mga kabataan at mamamayan ng bayan. \n\nPaano binigyang-katuturan ng may-akda ang paksa?",
+    "choice1": "Pagbibigay ng halimbawa",
+    "choice2": "Paghahambing at pagtatambis",
+    "choice3": "Pag-uulit",
+    "choice4": "Pagsalungat",
+    "answerKey": "Pag-uulit"
+  },
+  {
+    "question": "Noong taong 1962, ano ang pagbabago sa paglimbag ng diploma at sertipiko ng pagtatapos?",
+    "choice1": "Pinahihintutan ang pribadong paaralan na maglimbag sa wikang Ingles",
+    "choice2": "Nilimbag sa Tagalog ang diploma sa di-Tagalog na bayan",
+    "choice3": "Nilimbag sa Filipino ang diploma ngunit may Ingles",
+    "choice4": "Nalimbag sa Filipino ang diploma",
+    "answerKey": "Nalimbag sa Filipino ang diploma"
+  },
+  {
+    "question": "Naglipana ang mga mamamayang mahirap sa lungsod. Umaatungal at nagdarasal sa mga panginoon na sana’y palayain mula sa kuko ng pagdarahop. Isang kagyat ng alinlangan sa \nbuhay- isang kahig isang tuka- simbolo ng pagkamaralita. Wala akong magawa kundi itistis sa mga salita ang nakikitang anyo ng aming buhay. Kapalaran o sandigan ng pag-asa? Kung basal naman ang aking tinig sapagkat birhen akong nangulila upang lumaya. Subali’t ang sagot ay kung ang pawis ko’y kapalit ng hinaing at sigaw ng pagdurusa. SAAN NGA BA TUTUNGO ANG BUHAY KUNG SA TAGPI-TAGPING DAMPA NAROON ANG ULAM NA TUYO AT IDINIDILDIL NA ASIN UPANG BIGYANG-LASA ANG KANIYANG ISINUSUBO? Wala akong karapatang magsalita. Ang tinig ko ay paos. Ngunit ang ungol ko’y pumaimbulog sa langit at sa libingan ng mga buhay doon ko dinaranas ang misteryo ng buhay.  \n\nAno ang ibig sabihin ng “isang kahig, isang tuka?”",
+    "choice1": "Pamumuhay tulad ng mga anak",
+    "choice2": "Lubhang karukhaan",
+    "choice3": "Matinding pagdarahop",
+    "choice4": "Mariwasang pamumuhay",
+    "answerKey": "Lubhang karukhaan"
+  }
+]
