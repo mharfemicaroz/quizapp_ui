@@ -26,7 +26,7 @@
       </div>
       <div v-else-if="!selectedSubcategory">
         <div v-if="selectedCategory && selectedCategory.subcategories.length > 0">
-          <h2>Select a Subcategory</h2>
+          <h2 style="margin-bottom: 25px;">Select a Subcategory</h2>
           <div class="subcategories">
             <button v-for="subcategory in selectedCategory.subcategories" :key="subcategory"
               @click="selectSubcategory(subcategory)" class="btn btn-primary btn-lg category">
@@ -36,7 +36,7 @@
         </div>
         <div v-else>
           <h2>No Subcategories Available</h2>
-          <p>Please choose a category again:</p>
+          <p style="margin-bottom: 25px;">Please choose a category again:</p>
           <div class="categories">
             <button v-for="category in categories" :key="category.name" @click="selectCategory(category)"
               class="btn btn-primary btn-lg category">
