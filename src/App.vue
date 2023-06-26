@@ -16,6 +16,7 @@
     </div>
     <div v-else>
       <div v-if="!selectedCategory">
+        <h1>Welcome, {{ quizzerName }}</h1>
         <h2 style="margin-bottom: 25px;">Select a Category</h2>
         <div class="categories">
           <button v-for="category in categories" :key="category.name" @click="selectCategory(category)"
@@ -62,6 +63,7 @@
           </div>
         </div>
         <div v-else>
+          <h1>Congratulations {{ quizzerName }}!</h1>
           <h2>Quiz Result</h2>
           <div class="result">
             <p>You scored {{ correctAnswers }}/{{ questions.length }}</p>
@@ -137,6 +139,17 @@ export default {
     };
   },
   computed: {
+    quizzerName() {
+      const matchedUser = this.userdata.find(
+        (user) => user.email === this.login.username && user.password === this.login.password
+      );
+
+      if (matchedUser) {
+        return matchedUser.username;
+      }
+
+      return '';
+    },
     currentQuestion() {
       return this.questions && this.questions[this.currentQuestionIndex] ? this.questions[this.currentQuestionIndex] : [];
     },
