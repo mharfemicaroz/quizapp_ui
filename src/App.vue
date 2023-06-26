@@ -25,12 +25,24 @@
         </div>
       </div>
       <div v-else-if="!selectedSubcategory">
-        <h2>Select a Subcategory</h2>
-        <div class="subcategories">
-          <button v-for="subcategory in selectedCategory.subcategories" :key="subcategory"
-            @click="selectSubcategory(subcategory)" class="btn btn-primary btn-lg category">
-            {{ subcategory }}
-          </button>
+        <div v-if="selectedCategory && selectedCategory.subcategories.length > 0">
+          <h2>Select a Subcategory</h2>
+          <div class="subcategories">
+            <button v-for="subcategory in selectedCategory.subcategories" :key="subcategory"
+              @click="selectSubcategory(subcategory)" class="btn btn-primary btn-lg category">
+              {{ subcategory }}
+            </button>
+          </div>
+        </div>
+        <div v-else>
+          <h2>No Subcategories Available</h2>
+          <p>Please choose a category again:</p>
+          <div class="categories">
+            <button v-for="category in categories" :key="category.name" @click="selectCategory(category)"
+              class="btn btn-primary btn-lg category">
+              {{ category.name }}
+            </button>
+          </div>
         </div>
       </div>
       <div v-else-if="loading" class="text-center mt-4">
@@ -281,8 +293,8 @@ export default {
       }
     },
     handleContextMenu(event) {
-    event.preventDefault();
-  },
+      event.preventDefault();
+    },
   },
   mounted() {
     this.$nextTick(() => {
