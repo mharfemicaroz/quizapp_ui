@@ -68,7 +68,18 @@
           <div class="result">
             <p>You scored {{ correctAnswers }}/{{ questions.length }}</p>
             <p>Percentage: {{ percentage.toFixed(2) }}%</p>
-            <button @click="initializeQuiz" class="btn btn-primary">Restart Quiz</button>
+            <div class="row justify-content-center" style="margin-bottom: 25px;">
+              <div class="col-md-12">
+                <div class="card">
+                  <div class="card-header text-dark text-center">
+                    <strong>Attempts</strong>
+                  </div>
+                  <div class="card-body chart">
+                    <line-chart :chartData="lineData" />
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
           <table class="table mt-4">
             <thead>
@@ -95,6 +106,7 @@
               </tr>
             </tbody>
           </table>
+          <button @click="initializeQuiz" class="btn btn-primary">Restart Quiz</button>
         </div>
       </div>
     </div>
@@ -102,14 +114,20 @@
 </template>
 
 <script>
+import LineChart from "./components/LineChart.vue";
 import Swal from 'sweetalert2';
 import axios from 'axios';
 import userdata from './assets/userdata.json'
 
 export default {
+  components: {
+    LineChart
+  },
   data() {
     return {
+      isDone: false,
       loading: false,
+      quizzerdata: [],
       login: {
         username: '',
         password: '',
@@ -122,13 +140,21 @@ export default {
         },
         {
           name: 'Professional Education',
-          subcategories: ['Assessment of Learning', 'Child Adolescent & Learning Principles','Classroom Management','Curriculum Development','Principles of Teaching','Educational Technology','Facilitating Learning','Teaching Profession','Social Dimension','Field Study & Teaching Internship','Current Trends in Education/Mix Topics'],
+          subcategories: ['Assessment of Learning', 'Child Adolescent & Learning Principles', 'Classroom Management', 'Curriculum Development', 'Principles of Teaching', 'Educational Technology', 'Facilitating Learning', 'Teaching Profession', 'Social Dimension', 'Field Study & Teaching Internship', 'Current Trends in Education/Mix Topics'],
         },
         {
           name: 'Specialization',
           subcategories: [],
         },
       ],
+      lineData: {
+        labels: [],
+        datasets: [
+          {
+            data: [],
+          }
+        ]
+      },
       selectedCategory: null,
       selectedSubcategory: null,
       questions: [],
@@ -199,6 +225,32 @@ export default {
         });
       }
 
+    },
+    loaddata() {
+      this.isDone = false;
+      axios
+        .get(`https://api.knp.edu.ph/api/public/api/results?username=${encodeURIComponent(this.login.username)}&category=${encodeURIComponent(this.selectedCategory.name)}&subcategory=${encodeURIComponent(this.selectedSubcategory)}`)
+        .then((response) => {
+          this.quizzerdata = response.data.results;
+        })
+        .catch((error) => {
+          console.error('Error loading the data:', error);
+        })
+        .finally(() => {
+          this.isDone = true; // Set loading state to false when the request is completed
+        });
+    },
+    processQuizzerData(){
+      this.quizzerdata.push({
+        "id": "final",
+        "percentage": this.percentage,
+      });
+      console.log(this.quizzerdata)
+      for (const item of this.quizzerdata) {
+        this.lineData.labels.push(item.id);
+        this.lineData.datasets[0].data.push(parseFloat(item.percentage).toFixed(2));
+      }
+      this.loaded = Array(0).fill(true);
     },
     selectCategory(category) {
       this.selectedCategory = category;
@@ -296,13 +348,7 @@ export default {
         default:
           break;
       }
-    },
-    initializeQuiz(data) {
-      this.questions = this.shuffleArray(data).slice(0, 10); // Limit to 10 questions
-      this.currentQuestionIndex = 0;
-      this.selectedChoices = [];
-      this.quizFinished = false;
-      this.showAnswers = false;
+      this.loaddata();
     },
     shuffleArray(array) {
       // Fisher-Yates shuffle algorithm
@@ -343,6 +389,7 @@ export default {
             confirmButtonText: 'Ok',
           }).then(() => {
             this.showAnswers = true;
+            this.processQuizzerData();
           });
         })
         .catch((error) => {
@@ -365,6 +412,10 @@ export default {
         this.selectedChoices = [];
         this.quizFinished = false;
         this.showAnswers = false;
+        this.lineData.labels = [];
+        this.lineData.datasets[0].data = [];
+        this.quizzerdata = [];
+        this.isDone = false;
       } else {
         this.selectedCategory = null;
         this.selectedSubcategory = null;
@@ -384,7 +435,7 @@ export default {
 </script>
 
 
-<style>
+<style scoped>
 .choices-container {
   display: flex;
   flex-wrap: wrap;
@@ -416,5 +467,14 @@ export default {
 
 .text-danger {
   color: #dc3545;
+}
+
+.card-header {
+    border: none;
+    background-color: transparent;
+}
+
+.card-body.chart {
+    height: 300px;
 }
 </style>
