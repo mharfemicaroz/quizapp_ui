@@ -122,7 +122,7 @@ export default {
         },
         {
           name: 'Professional Education',
-          subcategories: ['Assessment of Learning', 'Child Adolescent & Learning Principles','Classroom Management','Curriculum Development','Principles of Teaching','Educational Technology','Facilitating Learning','Teaching Profession','Social Dimension'],
+          subcategories: ['Assessment of Learning', 'Child Adolescent & Learning Principles','Classroom Management','Curriculum Development','Principles of Teaching','Educational Technology','Facilitating Learning','Teaching Profession','Social Dimension','Field Study & Teaching Internship'],
         },
         {
           name: 'Specialization',
@@ -280,6 +280,11 @@ export default {
           break;
         case 'Social Dimension':
           import('./assets/quizData-sd.json').then((module) => {
+            this.initializeQuiz(module.default);
+          });
+          break;
+        case 'Field Study & Teaching Internship':
+          import('./assets/quizData-fsti.json').then((module) => {
             this.initializeQuiz(module.default);
           });
           break;
