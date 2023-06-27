@@ -1,0 +1,2266 @@
+[
+    {
+        "question": "Teacher A starts with concrete examples of sentences as contrasted with sentence fragments then asks the class to differentiate sentence fragments from sentences. Which method does Teacher A apply?",
+        "choice1": "Deductive",
+        "choice2": "Integrative",
+        "choice3": "Reflective",
+        "choice4": "Inductive",
+        "answerKey": "Inductive"
+    },
+    {
+        "question": "There are non-verbal interventions in classroom management. Which among the following is a VERBAL intervention?",
+        "choice1": "Direct Appeal",
+        "choice2": "Proximity Control",
+        "choice3": "Touch Control",
+        "choice4": "Signal Interference",
+        "answerKey": "Direct Appeal"
+    },
+    {
+        "question": "Student Y asks a question, but the teacher doesn’t know the answer. What is the best action in this situation?",
+        "choice1": "Tell them that you have studied it in the past, but that you have forgotten about it\nnow.",
+        "choice2": "Tell the student that it is an interesting question and you will get back with an answer.",
+        "choice3": "Give it as an assignment to the student who asked the question.",
+        "choice4": "Ignore the question and entertain another one.",
+        "answerKey": "Tell the student that it is an interesting question and you will get back with an answer."
+    },
+    {
+        "question": "Exercises should be organized so that each student can work independently at his or her own level of ability and rate of learning.",
+        "choice1": "Practice must follow understanding and can enhance understanding",
+        "choice2": "Practice should be individualized",
+        "choice3": "Practice should be organized so that students experience high rates of achievement",
+        "choice4": "Practice should be specific and systematic",
+        "answerKey": "Practice should be individualized"
+    },
+    {
+        "question": "What field of education manages children with behavioral problems like attention-deficit disorders?",
+        "choice1": "Skills and technology training",
+        "choice2": "Early Childhood Education",
+        "choice3": "Distance education",
+        "choice4": "Special education",
+        "answerKey": "Special education"
+    },
+    {
+        "question": "Good discipline is characterized by",
+        "choice1": "coercion and punishment",
+        "choice2": "unquestioning docility and conformity",
+        "choice3": "giving command",
+        "choice4": "self-direction",
+        "answerKey": "self-direction"
+    },
+    {
+        "question": "In the 5'S Formula to create a conducive learning environment, which S stands for cleanliness of the work place?",
+        "choice1": "Sort",
+        "choice2": "Shine",
+        "choice3": "Sweep",
+        "choice4": "Systematize",
+        "answerKey": "Shine"
+    },
+    {
+        "question": "Research says that students' motivation is likely to vary as a function of age, culture, gender, and socio-economic background. What does this imply?",
+        "choice1": "Preschoolers are easier to motivate than high school students.",
+        "choice2": "Boys are more difficult to motivate than girls.",
+        "choice3": "There is no single best method in motivating learners.",
+        "choice4": "Children from deprived homes are less motivated than children from affluent homes.",
+        "answerKey": "There is no single best method in motivating learners."
+    },
+    {
+        "question": "There is  a district Math contest.  What is the best way of selecting the representatives to showcase the human/social functions of school?",
+        "choice1": "Select Mark Dave who ranks second but has the financial capability to pay for tutors.",
+        "choice2": "Select Joshua who comes from a poor family yet endowed with mathematical skills.",
+        "choice3": "The teacher conducts competitive exams in Math to determine the best representative.",
+        "choice4": "The teacher appoints students to participate.",
+        "answerKey": "The teacher conducts competitive exams in Math to determine the best representative."
+    },
+    {
+        "question": "Time in school can be divided in different categories relating to academic work. This time refers to the number of days and hours in school calendar specified by state and school district laws.",
+        "choice1": "Academic instructional time",
+        "choice2": "School Calendar time",
+        "choice3": "Specified time",
+        "choice4": "Mandated time",
+        "answerKey": "Mandated time"
+    },
+    {
+        "question": "“What is the plot of the story?”. The question belongs to what type of verbal entry?",
+        "choice1": "Evaluating",
+        "choice2": "Defining",
+        "choice3": "Stating",
+        "choice4": "Probing",
+        "answerKey": "Stating"
+    },
+    {
+        "question": "How can a slow learner completely learn a particular skill in school?",
+        "choice1": "Present to him the lesson once.",
+        "choice2": "Present to him the lesson thrice or more in varied forms.",
+        "choice3": "Present to him the lesson twice using the same technique.",
+        "choice4": "Keep on repeating the lesson for a month.",
+        "answerKey": "Present to him the lesson thrice or more in varied forms."
+    },
+    {
+        "question": "What is the most effective way to distribute papers/ materials in class?",
+        "choice1": "Instruct pupils to \"Get one and pass\".",
+        "choice2": "Ask a leader pupil to distribute the papers.",
+        "choice3": "Give pupils papers one by one",
+        "choice4": "Let pupils come to the teacher one by one",
+        "answerKey": "Instruct pupils to \"Get one and pass\"."
+    },
+    {
+        "question": "This classroom arrangement is best for creating inclusivity among students especially during the first week of the school year wherein teacher and students get to know each other by introducing themselves to the class.",
+        "choice1": "Runway arrangement",
+        "choice2": "Horseshoe arrangement",
+        "choice3": "Group pods or small group",
+        "choice4": "Roundtable",
+        "answerKey": "Roundtable"
+    },
+    {
+        "question": "Metacognitive processes favorably influence learning. Which does NOT belong to metacognitive processes?",
+        "choice1": "Self-reflection",
+        "choice2": "Self-responsibility and initiative",
+        "choice3": "Goal setting",
+        "choice4": "Remembering",
+        "answerKey": "Remembering"
+    },
+    {
+        "question": "What may cause a poor classroom instruction?",
+        "choice1": "Adverse community influence",
+        "choice2": "Wholesome physical conditions of the classroom",
+        "choice3": "Over supply of teaching-learning aids",
+        "choice4": "Substandard teaching competence of teachers",
+        "answerKey": "Substandard teaching competence of teachers"
+    },
+    {
+        "question": "A child who is having difficulty containing himself is asked to do an errand. By the time he comes back, the rest of the class has calmed down. Which classroom management technique was employed?",
+        "choice1": "Signal interference",
+        "choice2": "Antiseptic bouncing",
+        "choice3": "Proximity control",
+        "choice4": "Walking around",
+        "answerKey": "Antiseptic bouncing"
+    },
+    {
+        "question": "Teacher X is discussing about suffrage. One of the students asks if it is all right not to exercise it. Select the best option for Teacher X to facilitate the internalization of that concept.",
+        "choice1": "Teacher X lets students simulate the election process then discuss the activity.",
+        "choice2": "Teacher X lets students make a concept map.",
+        "choice3": "Teacher X lets students conduct needs assessment of a community.",
+        "choice4": "Teacher X discusses through PowerPoint presentation all about suffrage.",
+        "answerKey": "Teacher X lets students simulate the election process then discuss the activity."
+    },
+    {
+        "question": "These tasks involved the application of familiar skills and ideas to new problems.",
+        "choice1": "Incremental tasks",
+        "choice2": "Restructuring tasks",
+        "choice3": "Enrichment tasks",
+        "choice4": "Practice tasks",
+        "answerKey": "Enrichment tasks"
+    },
+    {
+        "question": "Teacher has been constructivist in his approach to lesson planning. What must the features of his lessons?\nI.   Students are engaged in learning.\nII.  Students guide their own learning and meaning-making.\nIII. Students keep the learning to themselves.\nIV. Students are not encouraged to share their thoughts about a new concept for that calls for much time.",
+        "choice1": "I and II",
+        "choice2": "Ill and IV",
+        "choice3": "I and III",
+        "choice4": "II and IV",
+        "answerKey": "I and II"
+    },
+    {
+        "question": "Teacher Q wants his students to become critical thinkers. Which teaching practice is/are aligned?\nI. Using situational multiple choice tests\nII. Rote memorization of facts, formula\nIII. Determining flaw of reasoning in an argument",
+        "choice1": "II and II",
+        "choice2": "III only",
+        "choice3": "I only",
+        "choice4": "I and III",
+        "answerKey": "I and III"
+    },
+    {
+        "question": "A teacher who says \"Girls are emotional and very sensitive while boys are not\" is practicing gender.",
+        "choice1": "stereotyping",
+        "choice2": "discrimination",
+        "choice3": "sensitivity",
+        "choice4": "bias",
+        "answerKey": "stereotyping"
+    },
+    {
+        "question": "Teacher Cleo observed that the preschool children have generally short attention and interest span. What kind of class activities should select for them?",
+        "choice1": "short, varied and interesting",
+        "choice2": "challenging and interesting",
+        "choice3": "long but interesting",
+        "choice4": "both easy and difficult",
+        "answerKey": "short, varied and interesting"
+    },
+    {
+        "question": "To build strong and healthy relationship in class which should be out of the picture?\nI.  Criticizing\t\t\tIII. Befriending\nII. Listening\t\t\tIV. Blaming",
+        "choice1": "I and II",
+        "choice2": "I and III",
+        "choice3": "II and III",
+        "choice4": "I and IV",
+        "answerKey": "I and IV"
+    },
+    {
+        "question": "The teacher of the class attended an emergency meeting so the student teacher took over. The students were very noisy and some groups were quarreling.  She talked to them and called their attention but they did not listen. She could no longer control the whole class, what should have been done by the student teacher?",
+        "choice1": "Get their attention by telling a story.",
+        "choice2": "Give them test in order for them to stop.",
+        "choice3": "Give them some group works to present.",
+        "choice4": "Walk out and tell the teacher at the other room of what is going on.",
+        "answerKey": "Give them some group works to present."
+    },
+    {
+        "question": "In their English subject, teacher Jhen give activities in phonics instruction, listening to stories, and discussion of library books and elements in language. The actual amount of time she spends on specific content refers to",
+        "choice1": "Academic engaged time",
+        "choice2": "Mandated time",
+        "choice3": "Academic learning time",
+        "choice4": "Allocated time",
+        "answerKey": "Academic learning time"
+    },
+    {
+        "question": "Each teacher has a role as a behavior reinforcing agent. Which of the following should not be encouraged among teachers?",
+        "choice1": "Threats",
+        "choice2": "Reward appropriate behavior",
+        "choice3": "Positive relationship",
+        "choice4": "Constant reinforcement",
+        "answerKey": "Threats"
+    },
+    {
+        "question": "Among teaching styles, how do you classify teachers who lack confidence in enforcing and demanding compliance to rules?",
+        "choice1": "Permissive",
+        "choice2": "Authoritative",
+        "choice3": "Uninvolved",
+        "choice4": "Authoritarian",
+        "answerKey": "Permissive"
+    },
+    {
+        "question": "Miss Able wants to let her class learn that in the formation of ice cubes, the surrounding surface of the water freezes first before the others and to show that I water expands rather than contracts when frozen. Which of the following is the most appropriate teaching strategy for her to use?",
+        "choice1": "Teacher demonstration",
+        "choice2": "Investigatory activity",
+        "choice3": "Laboratory activity",
+        "choice4": "Problem solving",
+        "answerKey": "Laboratory activity"
+    },
+    {
+        "question": "Teacher P wants students to monitor their own learning. Which teaching behavior of Teacher P will be of help?",
+        "choice1": "Keeping the learning outcomes to herself",
+        "choice2": "Providing students with a clear scoring rubric",
+        "choice3": "Challenging students by giving difficult tasks",
+        "choice4": "Leaving the students to help themselves",
+        "answerKey": "Providing students with a clear scoring rubric"
+    },
+    {
+        "question": "Applying the principle, “the more senses  that are involved, the more effective  the learning  becomes”  which instructional   technology  should be utilized?",
+        "choice1": "Video presentation",
+        "choice2": "Workbooks",
+        "choice3": "Field trips",
+        "choice4": "Dramatization",
+        "answerKey": "Field trips"
+    },
+    {
+        "question": "Which of the following best characterize the Business Academic Approach in classroom management?",
+        "choice1": "Calmness, consistency, confidence",
+        "choice2": "Control, persistency, sanctions",
+        "choice3": "Work, organization, procedures",
+        "choice4": "Persist, enforce, don't give up",
+        "answerKey": "Work, organization, procedures"
+    },
+    {
+        "question": "Among mistaken goals in the Acceptance Approach to discipline, what happens when students are not getting the recognition they desire, continually seek help, and refuse to work unless the teacher hovers over them?",
+        "choice1": "Power seeking",
+        "choice2": "Attention getting",
+        "choice3": "Withdrawal",
+        "choice4": "Revenge seeking",
+        "answerKey": "Attention getting"
+    },
+    {
+        "question": "Asking a series of questions to a student is a violation of which technique in questioning?",
+        "choice1": "Wait time",
+        "choice2": "Rephrasing",
+        "choice3": "Prompting",
+        "choice4": "Redirection",
+        "answerKey": "Wait time"
+    },
+    {
+        "question": "Among examples listed, which does NOT represent teaching strategies to develop \nmetacognition?",
+        "choice1": "Have teachers the free hand to monitor and rate leaning achievement",
+        "choice2": "Have students develop questions about what is going on around them",
+        "choice3": "Have students to monitor their own learning and thinking",
+        "choice4": "Have students make predictions about what is to be represented",
+        "answerKey": "Have teachers the free hand to monitor and rate leaning achievement"
+    },
+    {
+        "question": "Child obeys blindly",
+        "choice1": "Child understands the meaning of rules",
+        "choice2": "Child has opportunity to express his/her opinion",
+        "choice3": "Child given punishment is related to the misdeed",
+        "choice4": "Child has opportunity to express his/her opinion",
+        "answerKey": "Child has opportunity to express his/her opinion"
+    },
+    {
+        "question": "Computer-assisted instruction refers to the use of computers by",
+        "choice1": "the student to aid in accomplishing some task.",
+        "choice2": "the student  and teacher  to aid in some task and facilitate learning.",
+        "choice3": "the student to facilitate learning.",
+        "choice4": "the teacher and the school for  the systematic control and organization of aspects of instruction.",
+        "answerKey": "the student to facilitate learning."
+    },
+    {
+        "question": "As an effective classroom manager, what should a teacher do?\nI.\tShe uses instructional time wisely.\nII.\tShe uses her expert power to derogate her students\nIII.\tShe puts to use available and appropriate materials.\nIV.\tShe manipulates colleagues and students so she can meet her goals.",
+        "choice1": "II, III and IV",
+        "choice2": "I, II, III and IV",
+        "choice3": "I and III",
+        "choice4": "I, II and III",
+        "answerKey": "I and III"
+    },
+    {
+        "question": "Which is not a characteristic of effective classroom management?",
+        "choice1": "Teacher tells students of the objectives of the lesson",
+        "choice2": "Teacher tells but doesn’t practice procedures.",
+        "choice3": "Teacher has discipline plan and post assignments",
+        "choice4": "Students are working on tasks while being assisted by teachers.",
+        "answerKey": "Teacher tells but doesn’t practice procedures."
+    },
+    {
+        "question": "Below are the following results if a teacher manifested “thrust” in her class. Which among the options is not included?",
+        "choice1": "complaints",
+        "choice2": "confusion",
+        "choice3": "compliance",
+        "choice4": "multiple questions",
+        "answerKey": "compliance"
+    },
+    {
+        "question": "A student is late to school every morning. It would be best for the teachers to",
+        "choice1": "punish the student for non-punctuality",
+        "choice2": "ask the child for an excuse slip from his parents.",
+        "choice3": "send the child to the guidance office",
+        "choice4": "investigate the student's home condition",
+        "answerKey": "investigate the student's home condition"
+    },
+    {
+        "question": "Among teaching styles, how do you classify teachers who clearly and fairly communicates standards for discipline and performance to student?",
+        "choice1": "Uninvolved",
+        "choice2": "Authoritarian",
+        "choice3": "Permissive",
+        "choice4": "Authoritative",
+        "answerKey": "Authoritative"
+    },
+    {
+        "question": "Some children in Teacher Pauline’s class want to do better in order to receive extra points for them to boost their grades. Which of the following best reflects this situation?",
+        "choice1": "Pavlovian conditioning",
+        "choice2": "Associative learning",
+        "choice3": "Operant conditioning",
+        "choice4": "Classical conditioning",
+        "answerKey": "Operant conditioning"
+    },
+    {
+        "question": "Borich  identified three types of classroom climate that the teacher can use in different situations- competitive, co-operative and individualistic. Which  classroom climate is/are  LEAST threatening? \nI. Competitive\nII. Cooperative \nIII. Individualistic",
+        "choice1": "II",
+        "choice2": "I and III",
+        "choice3": "III",
+        "choice4": "I",
+        "answerKey": "II"
+    },
+    {
+        "question": "Among teaching styles, how do you classify teachers who are control oriented and impose rules without explanation?",
+        "choice1": "Authoritarian",
+        "choice2": "Uninvolved",
+        "choice3": "Authoritative",
+        "choice4": "Permissive",
+        "answerKey": "Authoritarian"
+    },
+    {
+        "question": "An IQ test is given before admission which is used by schools to determine general intelligence which has _________ that measures specific attributes to students.",
+        "choice1": "Aptitude validity",
+        "choice2": "Predictive validity",
+        "choice3": "Construct validity",
+        "choice4": "Criterion validity",
+        "answerKey": "Construct validity"
+    },
+    {
+        "question": "Among variables for instruction, which matters most, such as the rest would not mean so much without it?",
+        "choice1": "Incentives to work on instructional tasks",
+        "choice2": "Appropriate level of instruction",
+        "choice3": "Quality of instruction",
+        "choice4": "time need to learn task",
+        "answerKey": "Quality of instruction"
+    },
+    {
+        "question": "Which of the following routines is the best way to start a class?",
+        "choice1": "Greeting each other",
+        "choice2": "Making the children line up",
+        "choice3": "Asking the children to clean the room",
+        "choice4": "Ringing the bell",
+        "answerKey": "Greeting each other"
+    },
+    {
+        "question": "Classroom routines form the backbone of daily school activities, but which of the following is NOT covered by such routines?",
+        "choice1": "Seating arrangement",
+        "choice2": "Lesson content",
+        "choice3": "Distribution of papers",
+        "choice4": "Submission of work",
+        "answerKey": "Lesson content"
+    },
+    {
+        "question": "A student once said: \"I don't like to recite because my barkada who is not academically performing sarcastically laughs at me\". What does this point to?",
+        "choice1": "A student has the tendency to put blame on a factor outside himself for non-performance.",
+        "choice2": "Cognitive factors influence a student's attitude   toward class participation.",
+        "choice3": "Group influence can impact on a student's orientation toward learning.",
+        "choice4": "The impact of group influence on a student's thinking is the student's choice.",
+        "answerKey": "Group influence can impact on a student's orientation toward learning."
+    },
+    {
+        "question": "Which is/are characteristics of a culturally responsive teaching?\nI.   Crosses disciplines and cultures to engage learners while respecting their cultural integrity\nII.  Accommodates the dynamic mix of race, ethnicity, class, gender, region, religion, and family that contributes to every \n     student's cultural identity\nIII. Presents some cultures to be superior than others to improve inferior cultures",
+        "choice1": "II only",
+        "choice2": "I and III",
+        "choice3": "Ill only",
+        "choice4": "I and II",
+        "answerKey": "I and II"
+    },
+    {
+        "question": "Andrew is very willing to learn multiplication, but he has tendency to mix up multiplication and division. What student problem is described?",
+        "choice1": "Failure syndrome",
+        "choice2": "Low achiever",
+        "choice3": "Underachiever",
+        "choice4": "Distractible",
+        "answerKey": "Low achiever"
+    },
+    {
+        "question": "According to Robert Slavin, the four components of instruction must be adequate for the instruction to be effective. It is like a link in a chain, and the chain is only as strong as its weakest link. Which of the following does not belong to Slavin’s Component of Instruction?",
+        "choice1": "Incentives to work on instructional tasks",
+        "choice2": "Quality of instruction",
+        "choice3": "Appropriate level of instruction",
+        "choice4": "Instructional medias",
+        "answerKey": "Instructional medias"
+    },
+    {
+        "question": "Bellack believes that teachers dominate in verbal activities in the classroom. The teacher-student ratio in words spoken is 3:1. This evidence corresponds with Flanders’ finding that teachers’ talk is ___ percent of classroom activity.",
+        "choice1": "95",
+        "choice2": "80",
+        "choice3": "90",
+        "choice4": "85",
+        "answerKey": "80"
+    },
+    {
+        "question": "According to the guidelines on punishment, what does it mean if the teacher should give the student the benefit of the doubt?",
+        "choice1": "Make sure facts are right before punishing",
+        "choice2": "Doubt the incident really happened",
+        "choice3": "Get the side of the students when punishing",
+        "choice4": "Don’t punish and doubt effectiveness of punishment",
+        "answerKey": "Get the side of the students when punishing"
+    },
+    {
+        "question": "According to Good Brophy (1984), how should a teacher give a punishment?",
+        "choice1": "use punishment sparingly.",
+        "choice2": "use corporal punishment",
+        "choice3": "punishment should be threatened and warned before implemented.",
+        "choice4": "punishment should be given constantly even you are in good or bad mood",
+        "answerKey": "punishment should be threatened and warned before implemented."
+    },
+    {
+        "question": "After Ms. Rivas planned her lesson in English, she found out that the materials at hand do not match her objectives. Which is the best thing that she can do?",
+        "choice1": "Teach the lesson the following day.",
+        "choice2": "Modify the available materials",
+        "choice3": "Carry out the lesson as planned and use the materials at hand.",
+        "choice4": "Change the objectives to match with available materials.",
+        "answerKey": "Modify the available materials"
+    },
+    {
+        "question": "Among styles of classroom management, which expects teachers to specify rules of behavior, consequence for disobeying them, and to communicate these rules and consequences clearly?",
+        "choice1": "Group managerial style",
+        "choice2": "Assertive style",
+        "choice3": "Behavioral modification style",
+        "choice4": "Business-academic style",
+        "answerKey": "Assertive style"
+    },
+    {
+        "question": "As preventive measure for classroom discipline, the teacher may restructure the program. How is this not done?",
+        "choice1": "Skip whole lesson unit altogether",
+        "choice2": "Remove tension level before proceeding with lesson",
+        "choice3": "Modify lesson",
+        "choice4": "Reteach lessons difficult to understand",
+        "answerKey": "Skip whole lesson unit altogether"
+    },
+    {
+        "question": "Which  practice  is aligned  to Maslow’s hierarchy of needs?",
+        "choice1": "Telling   a sick child that  sickness is only in the mind.",
+        "choice2": "Allowing children  to do their personal necessities  when needed.",
+        "choice3": "Leaving the child  to freely choose his learning activity  to  put him at ease",
+        "choice4": "Making children  compete against  one another to draw the best  from each child.",
+        "answerKey": "Allowing children  to do their personal necessities  when needed."
+    },
+    {
+        "question": "For group guidance in classroom management, what element is lacking when there are  tensions among individuals, cliques and subgroups, or student- teacher friction?",
+        "choice1": "Poor interpersonal relations",
+        "choice2": "Dissatisfaction with classroom work",
+        "choice3": "Poor group organization",
+        "choice4": "Disturbances in group climate",
+        "answerKey": "Poor interpersonal relations"
+    },
+    {
+        "question": "How will  I develop my lesson plan if I want to develop   my students’ skill to draw generalizations?",
+        "choice1": "Deductively",
+        "choice2": "Intuitively",
+        "choice3": "Inductively",
+        "choice4": "Reflectively",
+        "answerKey": "Inductively"
+    },
+    {
+        "question": "In the context  of Bruner’s theory  of learning,  if a teacher teaches  in the iconic level , what  do I use?",
+        "choice1": "Words",
+        "choice2": "Symbols",
+        "choice3": "Realias",
+        "choice4": "Models",
+        "answerKey": "Models"
+    },
+    {
+        "question": "Either drill should be self-scoring or teacher-scored, with correct answers provided – and should be done as soon as possible. The teacher needs to know scores or results in order to know if he or she can proceed to the next point of skill.",
+        "choice1": "Practice should be organized so that students experience high rates of achievement",
+        "choice2": "Practice material should provide progressive continuity between learning tasks",
+        "choice3": "Practice material should be used for diagnostic purposes",
+        "choice4": "Practice should be organized so that students and teacher have immediate feedback",
+        "answerKey": "Practice should be organized so that students and teacher have immediate feedback"
+    },
+    {
+        "question": "How does a behaviorist  explain  the observation  of  a child enjoying  school?",
+        "choice1": "He  is rewarded  for  his good performance",
+        "choice2": "He is taught  life skills",
+        "choice3": "He feels  he belongs",
+        "choice4": "Learning is highly personalized.",
+        "answerKey": "He  is rewarded  for  his good performance"
+    },
+    {
+        "question": "If schools want students to become self-directed learners, which strategy should they employ more?",
+        "choice1": "Conditioning",
+        "choice2": "Drill",
+        "choice3": "Cognitive",
+        "choice4": "Metacognitive",
+        "answerKey": "Metacognitive"
+    },
+    {
+        "question": "For a positive learning environment, it is good to make clear that an individual's beliefs and activities should be understood by others in terms of that individual's own culture. Which concept is explained?",
+        "choice1": "Cultural relativism",
+        "choice2": "Individual differences",
+        "choice3": "Ethical relativism",
+        "choice4": "Cultural sensitivity",
+        "answerKey": "Cultural relativism"
+    },
+    {
+        "question": "How will you make a child memorize the table of multiplication from the point of view of PAVLOV?",
+        "choice1": "Model the recitation of the table of multiplication.",
+        "choice2": "Reward the child with a candy for every correct recitation.",
+        "choice3": "Call the child's attention every time you recite the table for them.",
+        "choice4": "Make them understand the meaning of multiplication.",
+        "answerKey": "Call the child's attention every time you recite the table for them."
+    },
+    {
+        "question": "I want  my pupils  to  find the  rule on  adding similar fractions after I have  given them sufficient examples of similar  fractions  with their  sums. Which method  should I use  in my lesson plan?",
+        "choice1": "Deductive  method",
+        "choice2": "Discovery method",
+        "choice3": "Inductive method",
+        "choice4": "Reflective method",
+        "answerKey": "Inductive method"
+    },
+    {
+        "question": "Facilities such as classrooms, fixtures, and equipment can often damage the morale of new teachers and become an obstacle for adapting well to the school environment. What should be the policy for assigning said physical facilities?",
+        "choice1": "Needs of student’s basis",
+        "choice2": "First-come, first-served basis",
+        "choice3": "Position ranking basis",
+        "choice4": "Service seniority basis",
+        "answerKey": "Needs of student’s basis"
+    },
+    {
+        "question": "If a teacher works on an intrinsic motivation framework to help develop intrinsic motivation among learners, which motivational conditions form part?\nI.    Establishing inclusion—creating a learning atmosphere in which students and teachers feel respected by and \n      connected to one another.\nII.   Developing attitude—creating a favorable disposition toward the learning experience through personal relevance and \n      choice.\nIII   Enhancing meaning—creating challenging, thoughtful learning experiences that include student perspectives and \n      values.\nIV.  Engendering competence—creating an understanding that students are effective in learning something they value.",
+        "choice1": "III and IV",
+        "choice2": "I, II, III and IV",
+        "choice3": "I and II",
+        "choice4": "I, II and III",
+        "answerKey": "I, II, III and IV"
+    },
+    {
+        "question": "Education Supervisor  from the Department of Education  explains  to student teachers that the content in  Science must be used   in the teaching of language  skills in English in Grade I. Which approach  is the Education Supervisor promoting?",
+        "choice1": "Experiential",
+        "choice2": "Inquiry method",
+        "choice3": "Integrative",
+        "choice4": "Deductive",
+        "answerKey": "Integrative"
+    },
+    {
+        "question": "Describing entries ask for an explanation or description about something. Which among the following questions belong to Describing entry?",
+        "choice1": "Can you summarize the major points of the book?",
+        "choice2": "What did john find out?",
+        "choice3": "How do you feel President Bush will be judged by historians?",
+        "choice4": "What does the word . . . mean?",
+        "answerKey": "What did john find out?"
+    },
+    {
+        "question": "If your approach to teaching is constructivist, which  class behavior  is  observable?",
+        "choice1": "Students understand compound words by creating  their own compound words  using comic strip",
+        "choice2": "Teacher  introduces and develops the lesson without interruption.",
+        "choice3": "Students  drill on subject-verb agreement.",
+        "choice4": "Students  don’t  ask questions as these are signs  of inattention.",
+        "answerKey": "Students understand compound words by creating  their own compound words  using comic strip"
+    },
+    {
+        "question": "In a constructivist lesson planning approach, which is UNACCEPTABLE?",
+        "choice1": "Learners confront their understanding in the light of new learning.",
+        "choice2": "Learners are helped to construct understanding based on what they already know.",
+        "choice3": "Learners accommodate change in their understanding as a result of new understanding.",
+        "choice4": "Learners accept blindly what teacher teaches because she is an authority on the subject.",
+        "answerKey": "Learners accept blindly what teacher teaches because she is an authority on the subject."
+    },
+    {
+        "question": "For problems of discipline that cannot be resolved in class, which of the following should NOT be done as it reduces the authority of the teacher?",
+        "choice1": "Give students a chance to redeem himself",
+        "choice2": "Rely on others to resolve your classroom problems",
+        "choice3": "Analyze your methods",
+        "choice4": "Communicate with parents",
+        "answerKey": "Rely on others to resolve your classroom problems"
+    },
+    {
+        "question": "If a teacher has set objectives in all domains or learning targets and which could be assessed using a single performance task, what criterion in selecting a task should she consider?",
+        "choice1": "Generalizability",
+        "choice2": "Multiple Foci",
+        "choice3": "Teachability",
+        "choice4": "Fairness",
+        "answerKey": "Multiple Foci"
+    },
+    {
+        "question": "If I want   to teach my students  how to play chess, which method of  lesson development is most appropriate?",
+        "choice1": "Inductive method",
+        "choice2": "Discovery method",
+        "choice3": "Inquiry method",
+        "choice4": "Direct  method",
+        "answerKey": "Direct  method"
+    },
+    {
+        "question": "How may teachers manifest good time management in school?",
+        "choice1": "By engaging in income generating activities",
+        "choice2": "By socializing with other teachers in the department",
+        "choice3": "By devoting their time in instructional activities",
+        "choice4": "By spending their free time in leisure activities",
+        "answerKey": "By devoting their time in instructional activities"
+    },
+    {
+        "question": "I want to be highly objective in checking answers to an essay test. Which can help?",
+        "choice1": "Correct all students’ answers in one number first before you go to the second",
+        "choice2": "Deduct points for grammatical errors.",
+        "choice3": "Know  whose answers you are reading",
+        "choice4": "Correct all the answers of one student after another.",
+        "answerKey": "Correct all students’ answers in one number first before you go to the second"
+    },
+    {
+        "question": "If I apply Vygotsky’s theory of learning, which   will I do?",
+        "choice1": "Assist the child  where he needs assistance until he can be on his own.",
+        "choice2": "Follow a logical arrangement of topics",
+        "choice3": "Establish classroom discipline  from the very start.",
+        "choice4": "Allow the child to choose his  learning activity.",
+        "answerKey": "Assist the child  where he needs assistance until he can be on his own."
+    },
+    {
+        "question": "In a favorable learning environment, which competition promotes learning?",
+        "choice1": "Between boys and girls",
+        "choice2": "Within members of the same gender",
+        "choice3": "For academic honors",
+        "choice4": "Against standards set",
+        "answerKey": "Against standards set"
+    },
+    {
+        "question": "How would  you make your students  look forward  to coming to school everyday from the point of view of B.F. Skinner’s reinforcement theory?",
+        "choice1": "Make use of mental drills in the classroom.",
+        "choice2": "Always end your lessons with a clear  summary.",
+        "choice3": "Make  them enjoy learning  activities.",
+        "choice4": "Convince  them  of the importance  of education.",
+        "answerKey": "Make  them enjoy learning  activities."
+    },
+    {
+        "question": "In a classroom situation where students are discussing whether government efforts to establish peace in Mindanao will be beneficial to the whole country or not, which is the most appropriate strategy?",
+        "choice1": "Visualization exercise",
+        "choice2": "Conflict resolution",
+        "choice3": "Consensus taking",
+        "choice4": "Debate",
+        "answerKey": "Debate"
+    },
+    {
+        "question": "If you apply Edgar Dale’s Cone of Experience in teaching,  which  would you do?",
+        "choice1": "Use one audio-visual  aid at a time.",
+        "choice2": "Connect  the  concrete and the abstract.",
+        "choice3": "Do away with  interactive   teaching.",
+        "choice4": "Avoid the use  of the  chalkboard since it has been overused.",
+        "answerKey": "Connect  the  concrete and the abstract."
+    },
+    {
+        "question": "In a number of researches on classroom management, of all the variables, classroom management has the largest effect on student achievement. Which can be inferred from the finding regarding classroom management?",
+        "choice1": "Students cannot learn in a chaotic, poorly managed classroom.",
+        "choice2": "The effect of classroom atmosphere on the learner is dependent on the learner.",
+        "choice3": "Teacher is the single most important factor in the learning of a child.",
+        "choice4": "The classroom atmosphere is mainly teacher's creation.",
+        "answerKey": "Students cannot learn in a chaotic, poorly managed classroom."
+    },
+    {
+        "question": "I want to  help Chemistry students develop and practice research skills by using  a laboratory similar  to that of a real laboratory before the students use the riskier, more expensive real equipment. What traditional  technology   shall I use?",
+        "choice1": "Laboratory",
+        "choice2": "Process approach",
+        "choice3": "Simulation",
+        "choice4": "Apprentice-like  activity",
+        "answerKey": "Simulation"
+    },
+    {
+        "question": "Develop positive classroom pride is one way of creating positive learning climate. Which practice contributes to the development of a positive classroom pride?\nI.   Display student work\nII.  Reinforce students verbally\nIII. Be proud of the class's achievements",
+        "choice1": "I and III",
+        "choice2": "I, II and III",
+        "choice3": "I and II",
+        "choice4": "II and III",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "I want to help my students retain new information. Which one will I use?",
+        "choice1": "Rhymes",
+        "choice2": "Simulations",
+        "choice3": "Jingle",
+        "choice4": "Mnemonics",
+        "answerKey": "Mnemonics"
+    },
+    {
+        "question": "How and when should teachers most effectively deal with misdemeanor for class management and control?",
+        "choice1": "At beginning of the class",
+        "choice2": "Early and promptly",
+        "choice3": "By end of each class",
+        "choice4": "When heads have cooled",
+        "answerKey": "Early and promptly"
+    },
+    {
+        "question": "Mrs. Martinez observes that her students answer even when not called, shout \"Ma'am\" to get her attention, and laugh when someone commits mistakes. What should she do?",
+        "choice1": "Set the rules for the class to observe.",
+        "choice2": "Involve the whole class in setting rules of conduct for the whole class.",
+        "choice3": "Send a report/letter to the parents about their child's misbehavior in class.",
+        "choice4": "Send misbehaving students to the guidance counselor.",
+        "answerKey": "Involve the whole class in setting rules of conduct for the whole class."
+    },
+    {
+        "question": "Of the following, which is a non-threatening style of disciplining unruly students?",
+        "choice1": "Stand under heat of the sun",
+        "choice2": "Squat before the class",
+        "choice3": "Do push-ups",
+        "choice4": "Send to guidance office",
+        "answerKey": "Send to guidance office"
+    },
+    {
+        "question": "Instructional tasks are the core of the classroom setting. Most classroom tasks are initiated by teachers; students usually act in response to teachers expectations. Among the categories of tasks, it aimed at making new skills and ideas automatic so they can be used in other tasks situations.",
+        "choice1": "Incremental tasks",
+        "choice2": "Enrichment tasks",
+        "choice3": "Restructuring tasks",
+        "choice4": "Practice tasks",
+        "answerKey": "Practice tasks"
+    },
+    {
+        "question": "Ms. Saplan is planning to do an assessment of learning. Which of these should she include in her plan considering her purpose for assessment?",
+        "choice1": "How to certify student's achievement",
+        "choice2": "How to give immediate feedback to student's strengths and weaknesses",
+        "choice3": "How to design one's instruction",
+        "choice4": "How to determine the area of interest of learners",
+        "answerKey": "How to certify student's achievement"
+    },
+    {
+        "question": "Some children are more active than others, as everyone knows extremely high levels of activity or hyperactivity are considered problematic. How may a teacher help a child who is hyperactive?",
+        "choice1": "Make him the leader of the class.",
+        "choice2": "Transfer him to another class.",
+        "choice3": "Allow him to spend longer at the playground until he gets tired.",
+        "choice4": "Give him challenging activities that are appropriate to his ability level and interests.",
+        "answerKey": "Give him challenging activities that are appropriate to his ability level and interests."
+    },
+    {
+        "question": "Peer tutoring is the assignment of students to help one another on a one-to-one basis or in small groups in a variety of situations. Which of following statements are the types of pairing students according to Ornstein?\ni.\tStudents may tutor others within the same class\nii.\tStudents help younger ones on a one-on-one basis or one-to-a-group basis within the class or outside the class\niii.\tTwo students may work together and help each other as equals with learning activities\niv.\tOlder students may tutor students in lower grades outside of the class",
+        "choice1": "i, ii and iv",
+        "choice2": "ii, iii and iv",
+        "choice3": "i , iii and iv",
+        "choice4": "i , ii. iii and iv",
+        "answerKey": "i , iii and iv"
+    },
+    {
+        "question": "Internal summaries: chunking strategies , Final summaries : _____________.",
+        "choice1": "Medial summaries",
+        "choice2": "Postorganizers",
+        "choice3": "Conclusion",
+        "choice4": "Generalization",
+        "answerKey": "Postorganizers"
+    },
+    {
+        "question": "Problems of discipline (misdeeds, lapses, minor offenses) can be reduced through enthusiasm which can be matched by the enthusiasm of learners. What can draw a laugh and reduce tension from all?",
+        "choice1": "Sense of humor",
+        "choice2": "Verbal reinforces",
+        "choice3": "Nonverbal gestures",
+        "choice4": "Dialogues",
+        "answerKey": "Sense of humor"
+    },
+    {
+        "question": "Policies are a matter of group discussion and decision",
+        "choice1": "Suggestions are frowned upon.",
+        "choice2": "Decision  is left entirely to students.",
+        "choice3": "Decision  is a monopoly of the teacher",
+        "choice4": "Decision  is a monopoly of the teacher",
+        "answerKey": "Decision  is a monopoly of the teacher"
+    },
+    {
+        "question": "Samantha belongs to a poor family but she is endowed with talents and skills. During written examinations she gets very high scores but during recitations she has inferiority complex. Which is the best way of developing her potential?",
+        "choice1": "Inspire her by showcasing success stories.",
+        "choice2": "Make her a leader and presenter in group activities.",
+        "choice3": "Develop her self-confidence by forcing her to recite.",
+        "choice4": "Make her a representative in school activities.",
+        "answerKey": "Make her a leader and presenter in group activities."
+    },
+    {
+        "question": "Of subcategories of movement behavior, what is happening when the teacher ends an activity abruptly?",
+        "choice1": "Truncation",
+        "choice2": "Stimulus-bounded",
+        "choice3": "Thrust",
+        "choice4": "Flip-flop",
+        "answerKey": "Truncation"
+    },
+    {
+        "question": "Increasing latency periods when questioning students helps create a positive learning atmosphere. Which practice contradicts this principle?",
+        "choice1": "Quickly give up on a student who is struggling with a response.",
+        "choice2": "Call only on students with hands raised so as not waste time waiting.",
+        "choice3": "Answer the question yourself if no student can answer your question.",
+        "choice4": "Make a conscious effort to extend the length of wait time before student can give a response.",
+        "answerKey": "Quickly give up on a student who is struggling with a response."
+    },
+    {
+        "question": "Of the approaches to classroom management, which emphasizes the organization and management of students as they engage in academic work?",
+        "choice1": "Business-academic approach",
+        "choice2": "Assertive approach",
+        "choice3": "Group managerial approach",
+        "choice4": "Behavioral modification approach",
+        "answerKey": "Business-academic approach"
+    },
+    {
+        "question": "Mr. Umayam is doing a performance-based assessment for the day's lesson. Which of the following will most likely happen?",
+        "choice1": "Students are evaluated in one sitting.",
+        "choice2": "Students are evaluated based on varied evidences of learning",
+        "choice3": "Students are evaluated in the most objective manner.",
+        "choice4": "Students do an actual demonstration of their skill.",
+        "answerKey": "Students do an actual demonstration of their skill."
+    },
+    {
+        "question": "Planned ignoring, signal interference, and proximity control are techniques used in _____.",
+        "choice1": "Managing surface behavior",
+        "choice2": "Operant conditioning",
+        "choice3": "Life-space interviewing",
+        "choice4": "Managing temper tantrums",
+        "answerKey": "Managing surface behavior"
+    },
+    {
+        "question": "Research   indicates   that   on   the   average,   teachers   who   have   high-quality relationships with their students have 31 percent fewer discipline problems, rule violations, and related problems over a year's time than did teachers who did not have high-quality relationships with their students. What does this imply?",
+        "choice1": "Students contribute most to the classroom atmosphere.",
+        "choice2": "Teachers who are business-like are not good classroom managers.",
+        "choice3": "The quality of teacher-student relationships is the keystone for all other aspects of classroom management.",
+        "choice4": "Teachers who give way to students' demands are better in classroom management than those who are stern.",
+        "answerKey": "The quality of teacher-student relationships is the keystone for all other aspects of classroom management."
+    },
+    {
+        "question": "My class is not a very good one and is hard up at drawing generalizations. Which approach to lesson planning  may be most efficient and effective?",
+        "choice1": "Inductive",
+        "choice2": "Deductive",
+        "choice3": "Intuitive",
+        "choice4": "Reflective",
+        "answerKey": "Inductive"
+    },
+    {
+        "question": "Ms. Ortega tasked her students to show how to play basketball. What learning target is she assessing?",
+        "choice1": "Products",
+        "choice2": "Knowledge",
+        "choice3": "Reasoning",
+        "choice4": "Skills",
+        "answerKey": "Skills"
+    },
+    {
+        "question": "Learning is influenced by social interaction and interpersonal relations. What must a teacher do?",
+        "choice1": "Give more independent study.",
+        "choice2": "Motivate students to reflect on how they learn.",
+        "choice3": "Make students feel good about themselves.",
+        "choice4": "Make students work collaboratively.",
+        "answerKey": "Make students work collaboratively."
+    },
+    {
+        "question": "In what way are the results  of a formative assessment  utilized?",
+        "choice1": "To evaluate the effectiveness of an innovative  teaching method",
+        "choice2": "To assign a grade",
+        "choice3": "To guide teacher in her choice of teaching method",
+        "choice4": "To measure the learning outcome  of  three-month teaching",
+        "answerKey": "To guide teacher in her choice of teaching method"
+    },
+    {
+        "question": "Ms. del Rosario rated her students in terms of appropriate and effective use of some laboratory equipment and measurement tools and the students ability to follow the specified procedures. What mode of assessment should Miss del Rosario use?",
+        "choice1": "Portfolio Assessment",
+        "choice2": "Performance-based Assessment",
+        "choice3": "Journal Assessment",
+        "choice4": "Traditional Assessment",
+        "answerKey": "Performance-based Assessment"
+    },
+    {
+        "question": "Mr. Cidro wants to test students' knowledge of the different places in the Philippines, their capital and their products and so he gave his students an essay test. If you were the teacher, will you do the same?",
+        "choice1": "No, the giving of an objective test is more appropriate than the use of essay.",
+        "choice2": "No, such method of assessment is inappropriate because essay is difficult.",
+        "choice3": "Yes, essay test could measure more than what other tests could measure.",
+        "choice4": "Yes, essay test is the best in measuring any type of knowledge.",
+        "answerKey": "No, the giving of an objective test is more appropriate than the use of essay."
+    },
+    {
+        "question": "Positive interdependence as an element of collaborative learning means that the students must:",
+        "choice1": "Be grouped heterogeneously",
+        "choice2": "Depend on the diligent students",
+        "choice3": "Learn to depend on each other to achieve a goal",
+        "choice4": "Help one another in the individual test for everyone to pass",
+        "answerKey": "Learn to depend on each other to achieve a goal"
+    },
+    {
+        "question": "Mr. Sky wants to introduce new concept and encourage a large-scale discussion in their math class. What instruction must probably he would do?",
+        "choice1": "Whole-group Instruction",
+        "choice2": "Deductive Instruction",
+        "choice3": "Inductive Instruction",
+        "choice4": "Small-group Instruction",
+        "answerKey": "Whole-group Instruction"
+    },
+    {
+        "question": "Mr. Ravelas made an essay test for the objective \"Identify the planets in the solar system\". Was the assessment method used the most appropriate for the given objective? Why?",
+        "choice1": "Yes, because essay test can measure any type of objective.",
+        "choice2": "No, he should have prepared an objective test.",
+        "choice3": "Yes, because essay test is easier to construct than objective test.",
+        "choice4": "No, he should have conducted oral questioning.",
+        "answerKey": "No, he should have prepared an objective test."
+    },
+    {
+        "question": "Signal interference is an effective non-verbal strategy in managing off-task behaviors. In what way/s this can be done? \ni.Eye-to-eye contact\t\nii.Facial Expression \t \niii. Planned ignoring\niv. Using hand signals",
+        "choice1": "I and II",
+        "choice2": "I, II and III",
+        "choice3": "I only",
+        "choice4": "I, II and IV",
+        "answerKey": "I, II and IV"
+    },
+    {
+        "question": "Nate Gage recently analyzed 49 process-product studies. He identified four clusters of behaviors that show a strong relationship to student outcomes. The following belongs Gage Model, except",
+        "choice1": "Teacher performance",
+        "choice2": "Teacher criticism",
+        "choice3": "Teacher praise",
+        "choice4": "Teacher indirectness",
+        "answerKey": "Teacher performance"
+    },
+    {
+        "question": "On managing the class group, what is the problem when the class atmosphere is punitive, tinged with partiality, too competitive or to exclusive?",
+        "choice1": "Poor group organization",
+        "choice2": "Disturbance in group climate",
+        "choice3": "Dissatisfaction with classroom work",
+        "choice4": "Group emotions such as fear, depression, etc.",
+        "answerKey": "Disturbance in group climate"
+    },
+    {
+        "question": "Judging the relative severity of common classroom management strategies, which of the following is LEAST severe if applied on erring students?",
+        "choice1": "Summons to principal's office",
+        "choice2": "Surprise quiz",
+        "choice3": "Lowering school mark",
+        "choice4": "Throwing student out of class",
+        "answerKey": "Surprise quiz"
+    },
+    {
+        "question": "Principal Ted thinks uses free and open dialogue, even confrontation, so that teachers and learners can learn to discard old habits and attitudes. What is his general view about learning?",
+        "choice1": "It is primarily a fun experience",
+        "choice2": "It is a Consequence of experience",
+        "choice3": "It is at times a painful process",
+        "choice4": "It requires school resources",
+        "answerKey": "It is at times a painful process"
+    },
+    {
+        "question": "Which can help minimize memory deficit in learning?\nI.   Using cues\nII.  Establishing learning conditions that reduce interference\nIII. Using advanced organizers",
+        "choice1": "I and II",
+        "choice2": "I only",
+        "choice3": "I, II and III",
+        "choice4": "II only",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Which elements must be present for goal setting to be an effective motivator tool?\nI.   Goal acceptance\nII.  Specificity\nIII. Challenge\nIV. Performance monitoring\nV.  Performance feedback",
+        "choice1": "I, III, IV and V",
+        "choice2": "Ill, IV and V",
+        "choice3": "I, II and III",
+        "choice4": "I, II, III, IV and V",
+        "answerKey": "I, II, III, IV and V"
+    },
+    {
+        "question": "Which of the following is NOT a learning benefit gained from Cooperative Learning Approach?",
+        "choice1": "Each member has the tendency to compete with the other members in the group.",
+        "choice2": "Students gain from each other's effort.",
+        "choice3": "All members in a group share a common fate; they either sink or swim together.",
+        "choice4": "Students feel proud when a group member is recognized for his/her achievement.",
+        "answerKey": "Each member has the tendency to compete with the other members in the group."
+    },
+    {
+        "question": "Which is/are usual behaviors of extrinsically motivated learners?\nI.   Have to be enticed or prodded\nII.  May process information only superficially\nIII. Often interested in performing only easy tasks\t\nIV. Meet only minimal classroom requirements",
+        "choice1": "I and II",
+        "choice2": "II, III and IV",
+        "choice3": "I, II, III and IV",
+        "choice4": "II and III",
+        "answerKey": "I, II, III and IV"
+    },
+    {
+        "question": "Which   of the   following   activities   must  the   teacher  consider   in  guiding assignments?\nI. The teacher motivates students on the difficult portions of the assigned lessons.\t\nII. The method of attacking the assignment is explained.\nIII. The teacher requires that the assignment be properly recorded.",
+        "choice1": "I only",
+        "choice2": "II and III",
+        "choice3": "II only",
+        "choice4": "I, II and III",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "What do you call Ms. Anne’s teaching style when she serves as a role model towards learning, as well as occupational outlook, perhaps even towards general life?",
+        "choice1": "Good-Old Team Person",
+        "choice2": "Town-Meeting",
+        "choice3": "Boss-Employee",
+        "choice4": "Apprenticeship",
+        "answerKey": "Apprenticeship"
+    },
+    {
+        "question": "Which are supposed to be aligned in an outcomes-based course syllabus?\nI. learning outcomes\nII. teaching-learning activities\nIII. assessment tasks\nIV. teacher qualifications",
+        "choice1": "II and IV",
+        "choice2": "I, II and III",
+        "choice3": "II and III",
+        "choice4": "I and III",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Which of the following teacher actions exemplifies the generative approach of instruction? The teacher",
+        "choice1": "provides explicit directions and explanations on how to do a task",
+        "choice2": "provides opportunities to students to make own linkages to prior knowledge",
+        "choice3": "presents information in an ordered sequence in which component sub-skills are taught directly",
+        "choice4": "assumes responsibility for linking information with students' prior knowledge",
+        "answerKey": "provides opportunities to students to make own linkages to prior knowledge"
+    },
+    {
+        "question": "Which of the following statements gives the real value of lesson-planning?\nI. It helps the teacher to be orderly.\nII. It helps the teacher recall the subject - matter previously taken.\nIII. It helps the teacher organize his activities.",
+        "choice1": "I, II and III",
+        "choice2": "II and III",
+        "choice3": "II only",
+        "choice4": "I only",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Which instructional  method is aligned  to this lesson objective:  Given tabular  data on  weights and heights of  the school athletes , the student must be able to draw  conclusions regarding  correlation of   weights and heights of athletes..",
+        "choice1": "Deductive method",
+        "choice2": "Meta-cognitive  method",
+        "choice3": "Intuitive method",
+        "choice4": "Inductive method",
+        "answerKey": "Inductive method"
+    },
+    {
+        "question": "With greater participation in mind, which is least to be included?",
+        "choice1": "open ended questions",
+        "choice2": "multiple responses",
+        "choice3": "close ended questions",
+        "choice4": "divergent questions",
+        "answerKey": "close ended questions"
+    },
+    {
+        "question": "Which of the following is an acceptable teacher-effectiveness practice?",
+        "choice1": "Directions given sparingly and delivered casually",
+        "choice2": "Setting of objectives rather than outcomes",
+        "choice3": "Planning done following monitoring of learning",
+        "choice4": "Classroom routines done early in the school year",
+        "answerKey": "Classroom routines done early in the school year"
+    },
+    {
+        "question": "Which of the following is a programmatic type of teacher?",
+        "choice1": "Ms. Tina Go analyzed her students’ work, diagnosed their errors, and presented corrective advice.",
+        "choice2": "Mr. Wang So guides the students’ activities and facilitates self-instruction and independent learning.",
+        "choice3": "Mr. Andy Lim facilitates the development of students’ ideas through dialogue and questioning.",
+        "choice4": "Mr. Bob Oy is in command of the subject matter and explains particular aspects of the lesson.",
+        "answerKey": "Mr. Wang So guides the students’ activities and facilitates self-instruction and independent learning."
+    },
+    {
+        "question": "The following are non-verbal behavior by teachers. Which one is an encouraging behavior?",
+        "choice1": "Teacher frowns, sneers",
+        "choice2": "Stands or sits that shows alertness",
+        "choice3": "Voice volume shows arrogance",
+        "choice4": "Teacher grabs, slaps student",
+        "answerKey": "Stands or sits that shows alertness"
+    },
+    {
+        "question": "What behaviors is manifested by a student who has the high tendency not to complete work and activities?",
+        "choice1": "inattentiveness",
+        "choice2": "impulsivity",
+        "choice3": "hyperactivity",
+        "choice4": "conduct disorder",
+        "answerKey": "inattentiveness"
+    },
+    {
+        "question": "Which of the following violates good discipline?",
+        "choice1": "Attention",
+        "choice2": "Punishment",
+        "choice3": "Practice",
+        "choice4": "Modeling",
+        "answerKey": "Punishment"
+    },
+    {
+        "question": "Which of the following marks a conducive environment?",
+        "choice1": "Cooperative learning",
+        "choice2": "Long assignments",
+        "choice3": "Individual competition",
+        "choice4": "Excessive praise",
+        "answerKey": "Cooperative learning"
+    },
+    {
+        "question": "What is the possible effect of an overcrowded curriculum?",
+        "choice1": "in-depth learning tends to be given greater emphasis",
+        "choice2": "Lifelong learning skills tend to be fully developed",
+        "choice3": "There is lack of personal analysis and reflection on major concepts.",
+        "choice4": "There is greater concept understanding.",
+        "answerKey": "There is lack of personal analysis and reflection on major concepts."
+    },
+    {
+        "question": "Which of the following is a correct example of the deductive method of teaching?",
+        "choice1": "The lesson starts with the study of specific cases and ends with a generalization.",
+        "choice2": "The teacher starts by defining a term then gives examples.",
+        "choice3": "The teacher asks the students to narrate their unforgettable experiences then\nshare their observations after.",
+        "choice4": "The students ask questions to the teacher at the end of every discussion.",
+        "answerKey": "The teacher starts by defining a term then gives examples."
+    },
+    {
+        "question": "Which of the following is the correct practice in handling students' records?\nI. Records are kept for safekeeping in filing cabinets.\nII. Feedbacks about children's performance are given to parents.\nIII. Permanent records are brought home for teachers to accomplish.\nIV. Records are accessible to any interested person to show transparency.",
+        "choice1": "Ill and IV",
+        "choice2": "I and III",
+        "choice3": "I and II",
+        "choice4": "I and IV",
+        "answerKey": "I and II"
+    },
+    {
+        "question": "Without misuse of learning time, Teacher Odie requests students with singing talent to perform in class, adding to make learning a source of fun. What facilitating environment is Teacher Odie adopting?",
+        "choice1": "Tolerates ambiguity",
+        "choice2": "Recognizes right of students to make mistakes",
+        "choice3": "Permits confrontation",
+        "choice4": "Makes students feel accepted",
+        "answerKey": "Makes students feel accepted"
+    },
+    {
+        "question": "Which is  the primary role of the school head?",
+        "choice1": "To decide on  who  among the students should pass",
+        "choice2": "To confer  with parents regarding  performance of their children",
+        "choice3": "To help the teachers so they can teach to  the best of their abilities",
+        "choice4": "To teach  subject/s  that  no teacher can teach",
+        "answerKey": "To help the teachers so they can teach to  the best of their abilities"
+    },
+    {
+        "question": "Which one is in support of greater interaction?",
+        "choice1": "Probing",
+        "choice2": "Selecting the same student respondents",
+        "choice3": "Not allowing a student to complete a response",
+        "choice4": "Repeating the question",
+        "answerKey": "Probing"
+    },
+    {
+        "question": "Which of the following situations illustrates the best way of maintaining an atmosphere conducive to learning during the experiment period?",
+        "choice1": "Materials needed for experiments are to be bought just before using them to avoid wastage.",
+        "choice2": "Learners carry on class experiments following the procedure quietly and systematically.",
+        "choice3": "Handling, distributing and collecting of materials or equipment are routinized.",
+        "choice4": "Experiment tables and chairs are arranged in rows facing the teacher's table and chair.",
+        "answerKey": "Handling, distributing and collecting of materials or equipment are routinized."
+    },
+    {
+        "question": "To construct useful representations of knowledge and to acquire the thinking and the learning strategies necessary for continued learning success across the life span, students must generate and pursue personally relevant goals. This implies that teachers must.",
+        "choice1": "group students according to type of goals.",
+        "choice2": "share their personal goals with students.",
+        "choice3": "show the relevance of lesson to students' goals.",
+        "choice4": "segregate students without goals in order not to influence others",
+        "answerKey": "show the relevance of lesson to students' goals."
+    },
+    {
+        "question": "What pedagogy should schools adopt to help learners acquire the basic skills?",
+        "choice1": "Do community visits and let students do a project to improve the community.",
+        "choice2": "Let students perform experiments and investigatory projects.",
+        "choice3": "Let students make a webquest regarding a particular topic.",
+        "choice4": "Demonstrate skills needed and then let students perform the skills until mastery is achieved.",
+        "answerKey": "Demonstrate skills needed and then let students perform the skills until mastery is achieved."
+    },
+    {
+        "question": "Which is/are example/s of positive classroom behaviors?\nI. Make eye contact with each student.\nII. Deliberately move toward and stand close to each student during the class\nperiod.\nIII. Attribute the ownership of ideas to the students who initiated them.\nIV. Call on students who do not commonly participate, not just those who\nrespond most frequently.\nV. Provide appropriate wait time for all students to respond to questions,\nregardless of their past performance or your perception of their abilities.",
+        "choice1": "II, III, V",
+        "choice2": "I, II and III",
+        "choice3": "I, II, III, IV and V",
+        "choice4": "I, III and IV",
+        "answerKey": "I, II, III, IV and V"
+    },
+    {
+        "question": "Which of these “combination of classes” is organized in places where the required number of pupils of the same grade levels has not met the required number to make up a separate class thus the teacher apportions class time for instruction to every grade level within the class?",
+        "choice1": "Heterogeneous",
+        "choice2": "Multi-grade",
+        "choice3": "Extension",
+        "choice4": "Homogeneous",
+        "answerKey": "Multi-grade"
+    },
+    {
+        "question": "The students’ attention from the lesson was swayed away due to Teacher’s Charry attending to a personal conversation with another teacher. What was manifested by Teacher Charry?",
+        "choice1": "Stimulus-bound",
+        "choice2": "Jerkiness",
+        "choice3": "Overlapping",
+        "choice4": "Fragmentation",
+        "answerKey": "Stimulus-bound"
+    },
+    {
+        "question": "The students of Teacher Ann got bored due to the repetition of lessons. What behavior was manifested by Teacher Ann?",
+        "choice1": "over dwelling",
+        "choice2": "effective transitions",
+        "choice3": "overlapping",
+        "choice4": "thrust",
+        "answerKey": "over dwelling"
+    },
+    {
+        "question": "Research says that students develop greater efficacy for a learning task when\nthey see others like themselves performing the task successfully. This means students must be exposed to models\t…\nI.   of their age\nII.  who come from similar cultural background\nIII. with similar socio-economic background",
+        "choice1": "I, II and III",
+        "choice2": "I and II",
+        "choice3": "II and III",
+        "choice4": "I only",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "In the context of Piaget’s cognitive theory ,  to which do you attribute  a explain a kindergarten  inability  to see  reality  from others’ point of view?",
+        "choice1": "Decentration",
+        "choice2": "Egocentrism",
+        "choice3": "Accommodation",
+        "choice4": "Assimilation",
+        "answerKey": "Egocentrism"
+    },
+    {
+        "question": "Cultural or group influences on students can impact on learners' motivation, orientation toward learning, and ways of thinking. Which proves this?",
+        "choice1": "Children who are products of interracial marriage are better motivated for learning.",
+        "choice2": "The authoritarianism in Filipino homes contributes to docile children.",
+        "choice3": "Children with weak biological make up are unmotivated for learning.",
+        "choice4": "Learners with above average IQ are more motivated than those with below average IQ.",
+        "answerKey": "The authoritarianism in Filipino homes contributes to docile children."
+    },
+    {
+        "question": "If teachers are serious with developing critical thinking and problem solving skill among Math students, which practices should be observed?",
+        "choice1": "Emphasize on answers and not on how they solve the problem.",
+        "choice2": "Let your students focus on algorithmic problem solving.",
+        "choice3": "Direct students to make sense of problems and solve them.",
+        "choice4": "Make students memorize formula.",
+        "answerKey": "Direct students to make sense of problems and solve them."
+    },
+    {
+        "question": "In the context of the Theory of Multiple Intelligence, which is a weakness of the paper-pencil test?",
+        "choice1": "It lacks reliability.",
+        "choice2": "It is not easy to administer.",
+        "choice3": "It utilizes so much time.",
+        "choice4": "It puts non-linguistically intelligent at a disadvantage.",
+        "answerKey": "It puts non-linguistically intelligent at a disadvantage."
+    },
+    {
+        "question": "From  the  point of view of Bandura’s social  learning theory , what  is an effective  way  of  inculcating love for learning among  children?",
+        "choice1": "Integrate  values  in the curriculum .",
+        "choice2": "Teacher  must serve as a  model for the  love of  learning .",
+        "choice3": "Offer  Values Education as a separate   subject  in the curriculum.",
+        "choice4": "Reward  children  who perform well in school.",
+        "answerKey": "Teacher  must serve as a  model for the  love of  learning ."
+    },
+    {
+        "question": "How can teachers build strong relationships with passive students due to fear relationships and fear of failure?\nI. Refrain from criticism\nII. Reward small successes\nIII. Create classroom climate in which students feel safe from aggressive people",
+        "choice1": "II and III",
+        "choice2": "I and II",
+        "choice3": "I only",
+        "choice4": "I, II and III",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Teacher Lea is known to be a maverick type of teacher. She must be a teacher who is",
+        "choice1": "love by  all except for the principal",
+        "choice2": "free enough to joke and laugh with students",
+        "choice3": "fussy and teaches things over and over",
+        "choice4": "informal, earthy, and an athlete",
+        "answerKey": "love by  all except for the principal"
+    },
+    {
+        "question": "Teacher Janice’s approach towards her students is informal; she will have lunch with them, or even play with ball to them. According to Riessman, what type of teacher is she?",
+        "choice1": "Entertainer",
+        "choice2": "Secular",
+        "choice3": "Boomer",
+        "choice4": "Coach",
+        "answerKey": "Secular"
+    },
+    {
+        "question": "For the group guidance approach to classroom management, what element Is lacking when work is badly scheduled, badly sequenced or confusing?",
+        "choice1": "Poor interpersonal relations",
+        "choice2": "Poor group organization",
+        "choice3": "Dissatisfaction With classroom work",
+        "choice4": "Disturbances in group climate",
+        "answerKey": "Dissatisfaction With classroom work"
+    },
+    {
+        "question": "If Teacher Nita committed “stimulus-bound”, what could be the most possible effect of it to her class?",
+        "choice1": "the class will have trouble in re-engaging to the tasks at hand.",
+        "choice2": "the lesson becomes boring and tiresome",
+        "choice3": "the class will be confused and become inattentive",
+        "choice4": "the lesson won’t be appreciated completely since it was chunked into smaller units",
+        "answerKey": "the class will have trouble in re-engaging to the tasks at hand."
+    },
+    {
+        "question": "Teacher Jhenn use a great deal of discussion and a play a moderator role that enables her students to work on answers to problems by themselves. According to Thelen, what type of teaching styles does Teacher Jhenn applied?",
+        "choice1": "Apprenticeship",
+        "choice2": "Boss-Employee",
+        "choice3": "Town-Meeting",
+        "choice4": "Socratic",
+        "answerKey": "Town-Meeting"
+    },
+    {
+        "question": "Teacher interrupts students engaged in activities without considering whether the student is ready or not.",
+        "choice1": "Thrust",
+        "choice2": "Over",
+        "choice3": "Truncation",
+        "choice4": "Dangle",
+        "answerKey": "Thrust"
+    },
+    {
+        "question": "The authoritarian setting in the Filipino home is reinforced by a classroom teacher who:",
+        "choice1": "Prescribes what pupils should do",
+        "choice2": "Encourage pupils to ask questions",
+        "choice3": "Is open to suggestions",
+        "choice4": "Ask open ended questions",
+        "answerKey": "Prescribes what pupils should do"
+    },
+    {
+        "question": "If you learn best through hands-on and touching the objects, what type of learner are you?",
+        "choice1": "Kinesthetic",
+        "choice2": "Auditory",
+        "choice3": "Visual",
+        "choice4": "Tactile",
+        "answerKey": "Tactile"
+    },
+    {
+        "question": "If students stop the behavior and then repeat it, their goal is __________.",
+        "choice1": "getting attention",
+        "choice2": "power seeking",
+        "choice3": "withdrawal",
+        "choice4": "getting revenge",
+        "answerKey": "getting attention"
+    },
+    {
+        "question": "How student learn maybe more important than what they learn. From this principle, which of the following is particularly important?",
+        "choice1": "solving the problem within time limit",
+        "choice2": "getting the right answer to a world problem",
+        "choice3": "knowing how to solve problem",
+        "choice4": "determining the given",
+        "answerKey": "knowing how to solve problem"
+    },
+    {
+        "question": "On managing the class group, what is the problem when the class atmosphere is punitive, tinged with partiality, too competitive or to exclusive?",
+        "choice1": "Dissatisfaction with classroom work",
+        "choice2": "Group emotions such as fear, depression, etc.",
+        "choice3": "Disturbance in group climate",
+        "choice4": "Poor group organization",
+        "answerKey": "Disturbance in group climate"
+    },
+    {
+        "question": "One group of four students was making sounds in the room while Teacher B was grading papers during silent reading. He did not know which group was making the sounds, so he warned the students that they would be inside for recess if it went on. The offending students knew he did not know who it was, so they kept it up to test the waters. Mr. B announced to the\nclass that if he heard noises one more time, the whole class would be in recess, regardless of who it was. The other students were very upset, and expressed, \"That's not fair!\". Was Teacher B's decision fair?",
+        "choice1": "No, it was unfair to punish the whole class for the misdemeanor of one.",
+        "choice2": "Yes, because the class seemed not to have cooperated to stop the misbehavior",
+        "choice3": "Yes, to give a lesson to all.",
+        "choice4": "No, but that was the only way to show to the class he means business.",
+        "answerKey": "No, it was unfair to punish the whole class for the misdemeanor of one."
+    },
+    {
+        "question": "Students should feel that the teacher is aware of their behavior and alert to difficulties they may encounter. The extent of monitoring is correlated with the students’ academic ability and the related demands they make for the teacher’s attention.",
+        "choice1": "Spend more time teaching and reteaching",
+        "choice2": "Provide comments, explanations, and feedback",
+        "choice3": "Maintain a brisk pace",
+        "choice4": "Move around the room to monitor students’ seatwork",
+        "answerKey": "Move around the room to monitor students’ seatwork"
+    },
+    {
+        "question": "I teach  in a traditional school that subscribes to a  perennialist   and an essentialist  philosophy of education. Which is most likely  the curricular approach implemented?",
+        "choice1": "Hidden",
+        "choice2": "Subject-centered",
+        "choice3": "Student-centered",
+        "choice4": "Activity-centered",
+        "answerKey": "Subject-centered"
+    },
+    {
+        "question": "Teacher Liza acts like a class manager, not a disciplinarian. Which of the following did she avoid doing?",
+        "choice1": "Establish and enforce simple rules",
+        "choice2": "Relax discipline early in the first weeks, being more tight later",
+        "choice3": "Being consistent with disciplinary pattern",
+        "choice4": "Establish pattern of disciplinary early in the first weeks of school",
+        "answerKey": "Establish and enforce simple rules"
+    },
+    {
+        "question": "If I have to use the most authentic method of assessment, which of these procedures should I consider?",
+        "choice1": "Objective Assessment",
+        "choice2": "Written Test",
+        "choice3": "Performance-based Assessment",
+        "choice4": "Traditional Test",
+        "answerKey": "Performance-based Assessment"
+    },
+    {
+        "question": "Instructional tasks are the core of the classroom setting. Most classroom tasks are initiated by teachers; students usually act in response to teachers expectations. Among the categories of tasks, it aimed at making new skills and ideas automatic so they can be used in other tasks situations.",
+        "choice1": "Enrichment tasks",
+        "choice2": "Practice tasks",
+        "choice3": "Restructuring tasks",
+        "choice4": "Incremental tasks",
+        "answerKey": "Practice tasks"
+    },
+    {
+        "question": "Ms. Jennifer is known to be an effective teacher. In her discussion in History class, she always asks question about the topic with the hope of encouraging a response from her students. Based on Linguistic Behavior of Teacher in the Classroom, what move is she doing?",
+        "choice1": "Soliciting move",
+        "choice2": "Structuring move",
+        "choice3": "Reacting move",
+        "choice4": "Responding move",
+        "answerKey": "Soliciting move"
+    },
+    {
+        "question": "Successful learners use strategic thinking in their approach to learning, reasoning problem solving, and concept learning. They understand and can use a variety of strategies to help them reach learning and performance goals and to apply their knowledge in novel situations. They also continue to expand their repertoire of strategies by reflecting on the methods they use to see which work well for them. Which processes of successful learners are described above?",
+        "choice1": "Creative",
+        "choice2": "Cognitive",
+        "choice3": "Imaginative",
+        "choice4": "Metacognitive",
+        "answerKey": "Metacognitive"
+    },
+    {
+        "question": "Teacher Jose talks to students about their interests, what they did over the weekend, their progress in school work, etc. What positive approach to classroom management did Teacher Jose apply?",
+        "choice1": "Expressing interest for students",
+        "choice2": "Trusting students",
+        "choice3": "Being fair and consistent",
+        "choice4": "Being positive",
+        "answerKey": "Expressing interest for students"
+    },
+    {
+        "question": "Olivia typically resists authority verbally with statements such as  “You can’t make me…” and uses derogatory statements about teacher and others. At times, she resists non-verbally with frowns, arms folded and hands on hips. What student problem is evident to Olivia?",
+        "choice1": "Hostile aggressive",
+        "choice2": "Passive aggressive",
+        "choice3": "Defiant",
+        "choice4": "Distractible",
+        "answerKey": "Defiant"
+    },
+    {
+        "question": "Many    researches    have    identified    important    components of classroom management, including beginning the school year with a positive emphasis on management; arranging the room in a way conducive to effective management; and identifying and implementing rules and operating procedures. How may these components of classroom management be described?\nI.\tReactive\t\tII. Preventive\tIII. Proactive",
+        "choice1": "II and III",
+        "choice2": "II only",
+        "choice3": "I, II and III",
+        "choice4": "I only",
+        "answerKey": "II and III"
+    },
+    {
+        "question": "If the children are cooperatively engaged with the teacher in a group project the children will discipline themselves as each member of the group exercises",
+        "choice1": "Obedience to the teacher",
+        "choice2": "Moral compulsion",
+        "choice3": "Peer influence",
+        "choice4": "Special interest",
+        "answerKey": "Peer influence"
+    },
+    {
+        "question": "Which signal interference doesn’t promote positive and proactive classroom management?",
+        "choice1": "thumbs up",
+        "choice2": "winking",
+        "choice3": "snap fingers",
+        "choice4": "eye-to-eye contact",
+        "answerKey": "winking"
+    },
+    {
+        "question": "Careen promotes “with-it-ness” in her classroom. What is mostly expected from her?",
+        "choice1": "knows her students well and their personal information.",
+        "choice2": "knows well her subject matter and its content or coverage",
+        "choice3": "takes action when discipline problems occur in the classroom",
+        "choice4": "knows the ins and outs of co-teachers.",
+        "answerKey": "takes action when discipline problems occur in the classroom"
+    },
+    {
+        "question": "A limited vocabulary is a setback to efficient reading. What does this statement imply about the learner?",
+        "choice1": "Be equipped with certain skills to attack unfamiliar words.",
+        "choice2": "Master all lexical items in one language.",
+        "choice3": "Know how to use the dictionary in locating meanings.",
+        "choice4": "Disregard unfamiliar words he/she meets.",
+        "answerKey": "Be equipped with certain skills to attack unfamiliar words."
+    },
+    {
+        "question": "While research on the use of praise is mixed, it is generally agreed that honest praise increases achievement and motivation. The following guidelines are effective in giving praise except",
+        "choice1": "Focuses students’ attention on their own task-relevant behavior",
+        "choice2": "It is delivered contingently",
+        "choice3": "It is restricted to global positive reaction",
+        "choice4": "Shows spontaneity, variety and other signs of credibility",
+        "answerKey": "It is restricted to global positive reaction"
+    },
+    {
+        "question": "A reader uses metacognition when \nI.  She previews the text and makes predictions\nII. makes connections to personal experience or other texts\nIII. asks clarifying questions",
+        "choice1": "II only",
+        "choice2": "II and III",
+        "choice3": "I, II and III",
+        "choice4": "I and II",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Why does the teacher have to plan the day's activities?",
+        "choice1": "The accomplishment of the objectives is dependent of the plan",
+        "choice2": "The ability of the teacher is tested.",
+        "choice3": "This is expected by pupils.",
+        "choice4": "This is required of a teacher.",
+        "answerKey": "The accomplishment of the objectives is dependent of the plan"
+    },
+    {
+        "question": "Which term refers to the collection of students' products and accomplishments in a given period for evaluation purposes?",
+        "choice1": "Diary",
+        "choice2": "Anecdotal record",
+        "choice3": "Observation report",
+        "choice4": "Portfolio",
+        "answerKey": "Portfolio"
+    },
+    {
+        "question": "Which of the following steps should be completed first in planning an achievement test?",
+        "choice1": "Define the instructional objective",
+        "choice2": "Decide on the length of the test",
+        "choice3": "Set up a table of specifications",
+        "choice4": "Select the types of test items to use",
+        "answerKey": "Define the instructional objective"
+    },
+    {
+        "question": "Why does UbD insist on identifying assessment evidence of learning right after identifying desired learning results?",
+        "choice1": "Teaching-learning becomes more focused and organized.",
+        "choice2": "It leads to a more comprehensive understanding of content.",
+        "choice3": "Teaching is faster that way.",
+        "choice4": "Teaching-learning is more interesting.",
+        "answerKey": "Teaching-learning becomes more focused and organized."
+    },
+    {
+        "question": "Which one should a teacher avoid to produce an environment conducive for learning?",
+        "choice1": "Tests",
+        "choice2": "Seat plan",
+        "choice3": "Individual competition",
+        "choice4": "Games",
+        "answerKey": "Individual competition"
+    },
+    {
+        "question": "A student passes a book report written but ornately presented in a folder to make up for the poor quality of the book content. Which Filipino trait does this practice prove?",
+        "choice1": "Art over academic",
+        "choice2": "Substance over “porma”",
+        "choice3": "“Porma” over substance",
+        "choice4": "Art over science",
+        "answerKey": "“Porma” over substance"
+    },
+    {
+        "question": "Among teaching styles, how do you classify teachers who clearly and fairly communicates standards for discipline and performance to student?",
+        "choice1": "Uninvolved",
+        "choice2": "Authoritarian",
+        "choice3": "Authoritative",
+        "choice4": "Permissive",
+        "answerKey": "Authoritative"
+    },
+    {
+        "question": "Which of the following situation best exemplifies metacognitive thinking?",
+        "choice1": "I transfer thought to another single idea",
+        "choice2": "I ask myself, do I really understand this one idea?",
+        "choice3": "I stay or mull over one idea.",
+        "choice4": "I think of one idea",
+        "answerKey": "I ask myself, do I really understand this one idea?"
+    },
+    {
+        "question": "After doing the exercise on verbs, Ms. Borillo gave a short quiz to find out how well students have understood the lesson. What type of assessment was done?",
+        "choice1": "Summative Assessment",
+        "choice2": "Formative Assessment",
+        "choice3": "Diagnostic Assessment",
+        "choice4": "Placement Assessment",
+        "answerKey": "Formative Assessment"
+    },
+    {
+        "question": "Which physical arrangement of chairs contributes to effective classroom management?",
+        "choice1": "that which distinguishes teacher from students",
+        "choice2": "that which enhances classroom interaction",
+        "choice3": "that which makes it easier to clean the room",
+        "choice4": "that which sticks to the traditional chair arrangement in the classroom",
+        "answerKey": "that which enhances classroom interaction"
+    },
+    {
+        "question": "An atmosphere that is favorable for learning ensures that what a student learns, how he or she learns it, and how the student demonstrates what he or she has learned is a match for that student's readiness level, interests, and preferred mode of learning. Which instruction is referred to?",
+        "choice1": "Differing",
+        "choice2": "Differential",
+        "choice3": "Differentiated",
+        "choice4": "Different",
+        "answerKey": "Differentiated"
+    },
+    {
+        "question": "Which one holds true to anecdotal records?",
+        "choice1": "describing behavior in natural settings",
+        "choice2": "easy to use in scoring the performance of the learners",
+        "choice3": "combining facts with interpretation",
+        "choice4": "describing behavior in a laboratory setting",
+        "answerKey": "describing behavior in natural settings"
+    },
+    {
+        "question": "Before grouping the students for instruction, teacher Carlo takes into account the particular race of the students, their ethnicity and religion. This small grouping could be based on which criteria?",
+        "choice1": "Integration",
+        "choice2": "Ability",
+        "choice3": "Viewpoint",
+        "choice4": "Arbitrary",
+        "answerKey": "Integration"
+    },
+    {
+        "question": "At the start of a new term, Teacher Z wants to familiarize students with active research methods. She will use such methods throughout the semester, and she knows from previous experience that many students view research as abstract,\nirrelevant, and oppressive work. She randomly assigns students to small groups. She encourages them to discuss any previous experiences they may have had in doing research as well as their expectations and concerns for the course. Each group then shares its experiences, expectations, and concerns as she records them on the chalkboard. In this manner, she is able to understand her students' perspectives and to increase their connection to one another and herself.\nWhich technique did Teacher Z employ to create a favorable learning climate?",
+        "choice1": "She grouped the students according to ability.",
+        "choice2": "She established inclusion.",
+        "choice3": "She makes clear that only positive learning experiences should be shared in the group.",
+        "choice4": "She promised not to make research work oppressive.",
+        "answerKey": "She established inclusion."
+    },
+    {
+        "question": "Which principle  in the use  of non-conventional technology  do I  fail to observe  if I choose computer-assisted instruction as a  teaching  strategy?",
+        "choice1": "Frequent  human interaction",
+        "choice2": "Active engagement",
+        "choice3": "Frequent feedback",
+        "choice4": "Connection to real-world experts",
+        "answerKey": "Frequent  human interaction"
+    },
+    {
+        "question": "Without being told by his group mates, a student went to the laboratory stock to get the materials needed for the group experiment. What kind of motivation does the student manifest?",
+        "choice1": "Intrinsic",
+        "choice2": "External",
+        "choice3": "Extrinsic",
+        "choice4": "Positive",
+        "answerKey": "Intrinsic"
+    },
+    {
+        "question": "Which technique(s) enable(s) a teacher to identify and eventually assists students with interpersonal difficulties",
+        "choice1": "Anecdotal record",
+        "choice2": "Sociogram",
+        "choice3": "Portfolio",
+        "choice4": "Personal inventory",
+        "answerKey": "Sociogram"
+    },
+    {
+        "question": "Which of the following will best take care of individual differences in the classroom?",
+        "choice1": "An instructional program geared to the level of the lowest quarter of the\nclass",
+        "choice2": "A flexible program geared to individual needs",
+        "choice3": "A sound acceleration and promotional policy",
+        "choice4": "A well-prepared classroom for the students",
+        "answerKey": "A flexible program geared to individual needs"
+    },
+    {
+        "question": "According to Bellack’s Linguistic Behavior of Teacher in the Classroom, how do you call Mr. Irvin’s verbal behavior when he begins his English class by announcing the topic to be discussed?",
+        "choice1": "Soliciting move",
+        "choice2": "Reacting move",
+        "choice3": "Responding move",
+        "choice4": "Structuring move",
+        "answerKey": "Structuring move"
+    },
+    {
+        "question": "Which of the following shows cooperation?",
+        "choice1": "Letting others copy from you",
+        "choice2": "Allowing others to dominate in the decision-making",
+        "choice3": "Doing all the work alone",
+        "choice4": "Collaborating with others in the group",
+        "answerKey": "Collaborating with others in the group"
+    },
+    {
+        "question": "A teacher should not be a slave of his lesson plan. This means that:",
+        "choice1": "Teacher is the best lesson plan designer",
+        "choice2": "A teacher must be willing to depart from her lesson plan if students are interested in something other than her intended lesson",
+        "choice3": "A teacher must be ready to depart from her lesson plan if she remembers something more interesting than what she earlier planned",
+        "choice4": "A lesson plan must be followed by a teacher no matter what",
+        "answerKey": "A teacher must be willing to depart from her lesson plan if students are interested in something other than her intended lesson"
+    },
+    {
+        "question": "Between pursuing a college course where there is no demand and a vocational course which is highly in demand, the Filipino usually opts for the college course. Which Filipino trait is shown?",
+        "choice1": "Interest to obtain a skill",
+        "choice2": "Appreciation of manual labor",
+        "choice3": "Desire for entrepreneurship",
+        "choice4": "Penchant for a college diploma",
+        "answerKey": "Penchant for a college diploma"
+    },
+    {
+        "question": "Which statement/s is/are TRUE of the social influences of learning?\nI.   Learning can be enhanced when the learner has an opportunity to interact and to collaborate with others on \n     instructional \n     tasks.\nII.  Learning settings that allow for social interactions and that respect\n     diversity, encourage flexible thinking and social competence.\nIII. In interactive and collaborative instructional contexts, individuals have an opportunity for perspective taking and \n     reflective thinking.",
+        "choice1": "I and II",
+        "choice2": "II only",
+        "choice3": "I only",
+        "choice4": "I, II and III",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Which of the following should Teacher O practice more if he wants to give his students the opportunity to think critically?",
+        "choice1": "Give questions that deviate from the main topic",
+        "choice2": "Allow the children to ask questions during class discussion",
+        "choice3": "Give questions that require analysis",
+        "choice4": "Provide questions with clues",
+        "answerKey": "Give questions that require analysis"
+    },
+    {
+        "question": "Which statement about guidance is false?",
+        "choice1": "The classroom teacher is not part of the school guidance program since she is not trained to be a guidance counselor",
+        "choice2": "A guidance program is inherent in every school",
+        "choice3": "Guidance embraces curriculum, teaching, supervision and all other activities in school",
+        "choice4": "Guidance is a function of the entire school",
+        "answerKey": "The classroom teacher is not part of the school guidance program since she is not trained to be a guidance counselor"
+    },
+    {
+        "question": "Of subcategories of teacher movement behavior, what is happening when the teacher goes from topic or activity to other topic or activities, lacking clear direction and sequence of activities?",
+        "choice1": "Truncation",
+        "choice2": "Flip-flop",
+        "choice3": "Thrust",
+        "choice4": "Dangling",
+        "answerKey": "Flip-flop"
+    },
+    {
+        "question": "A student is late to school every morning. It would be best for the teachers to",
+        "choice1": "ask the child for an excuse slip from his parents.",
+        "choice2": "investigate the student's home condition",
+        "choice3": "punish the student for non-punctuality",
+        "choice4": "send the child to the guidance office",
+        "answerKey": "investigate the student's home condition"
+    },
+    {
+        "question": "These children have poorly developed emotional stability, self-control, self-care abilities, social skills, or responsibility. These children frequently appear helpless, incompetent or dependent.",
+        "choice1": "Withdrawn",
+        "choice2": "Defiant",
+        "choice3": "Immature",
+        "choice4": "Hyperactive",
+        "answerKey": "Immature"
+    },
+    {
+        "question": "To create a favorable learning atmosphere, competition should be avoided at cost. If there is an element of competition it is\nI.   part of a game\nII.  self-competition against standards set\nIII. within the same gender",
+        "choice1": "I, II and III",
+        "choice2": "I only",
+        "choice3": "II and III",
+        "choice4": "I and II",
+        "answerKey": "I and II"
+    },
+    {
+        "question": "As an effective classroom manager, what should a teacher do?\nI.   She uses instructional time wisely.\nII.  She uses her expert power to derogate her students\nIII. She puts to use available and appropriate materials.\nIV. She manipulates colleagues and students so she can meet her goals.",
+        "choice1": "II, III and IV",
+        "choice2": "I, II, III and IV",
+        "choice3": "I, II and III",
+        "choice4": "I and III",
+        "answerKey": "I and III"
+    },
+    {
+        "question": "There should be little confusion about what to do during the practice and drill, and activities should not be interrupted by minor disturbances or environmental conditions.",
+        "choice1": "Keep students alert and focused on the task",
+        "choice2": "Provide variety and challenge in practice and drill",
+        "choice3": "Have a clear system of rules and procedures for general behavior",
+        "choice4": "Maintain a brisk pace",
+        "answerKey": "Maintain a brisk pace"
+    },
+    {
+        "question": "Teacher wants her students learn how to live in collaboration with others. Which teaching-learning activities will be aligned?",
+        "choice1": "Reporting",
+        "choice2": "Project-based learning",
+        "choice3": "Academic contests",
+        "choice4": "Games",
+        "answerKey": "Project-based learning"
+    },
+    {
+        "question": "Among mistaken goals in the Acceptance Approach to discipline, what happens when students seek to hurt others to make up for being hurt or rejected?",
+        "choice1": "Power seeking",
+        "choice2": "Withdrawal",
+        "choice3": "Attention getting",
+        "choice4": "Revenge seeking",
+        "answerKey": "Revenge seeking"
+    },
+    {
+        "question": "In the formulation of classroom, which of the following should a teacher refrain from doing?",
+        "choice1": "Enlist student aid in the formulation of classroom regulation",
+        "choice2": "Teacher and the class should make as many regulations as possible",
+        "choice3": "State classroom regulation as clearly as possible",
+        "choice4": "Enforce classroom regulations consistently and fairly",
+        "answerKey": "Teacher and the class should make as many regulations as possible"
+    },
+    {
+        "question": "Among teaching styles, how do you classify teachers who are indifferent and undemanding of student involvement?",
+        "choice1": "Permissive",
+        "choice2": "Benevolent",
+        "choice3": "Uninvolved",
+        "choice4": "Authoritarian",
+        "answerKey": "Uninvolved"
+    },
+    {
+        "question": "These students are typically anxious about making mistakes and holds back from class participation unless sure of his or his answer.",
+        "choice1": "Low achiever",
+        "choice2": "Perfectionist",
+        "choice3": "Failure syndrome",
+        "choice4": "Underachiever",
+        "answerKey": "Perfectionist"
+    },
+    {
+        "question": "Teacher Nene asked this question: “What conclusion can you draw based on your observation?” Nobody raised a hand so she asked another question: “Based on what you observe, what can you say now about the reaction of plants to light.” What did Teacher Nene do?",
+        "choice1": "Probing",
+        "choice2": "Prompting",
+        "choice3": "Repeating",
+        "choice4": "Rephrasing",
+        "answerKey": "Rephrasing"
+    },
+    {
+        "question": "Classroom routines form the backbone of daily school activities, but which of the following is NOT covered by such routines?",
+        "choice1": "Seating arrangement",
+        "choice2": "Lesson content",
+        "choice3": "Submission of work",
+        "choice4": "Distribution of papers",
+        "answerKey": "Lesson content"
+    },
+    {
+        "question": "What does a teacher do if she practices differentiated instruction?",
+        "choice1": "Makes student collaborative with others on instructional tasks",
+        "choice2": "Present learning material appropriate to the students’ developmental level",
+        "choice3": "Sees to it that all students are motivated to learn",
+        "choice4": "Applies a multidisciplinary teaching approach",
+        "answerKey": "Present learning material appropriate to the students’ developmental level"
+    },
+    {
+        "question": "In what way are the results  of a summative assessment  utilized?",
+        "choice1": "To  check attainment of her lesson objectives",
+        "choice2": "To  diagnose  learning  difficulties",
+        "choice3": "To assign a grade",
+        "choice4": "To guide teacher  in her choice  of  class activity",
+        "answerKey": "To assign a grade"
+    },
+    {
+        "question": "Ms. Saplan is planning to do an assessment of learning. Which of these should she include in her plan considering her purpose for assessment?",
+        "choice1": "How to certify student's achievement",
+        "choice2": "How to give immediate feedback to student's",
+        "choice3": "How to determine the area of interest of learners",
+        "choice4": "How to design one's instruction",
+        "answerKey": "How to certify student's achievement"
+    },
+    {
+        "question": "Students should feel that the teacher is aware of their behavior and alert to difficulties they may encounter. The extent of monitoring is correlated with the students’ academic ability and the related demands they make for the teacher’s attention.",
+        "choice1": "Move around the room to monitor students’ seatwork",
+        "choice2": "Maintain a brisk pace",
+        "choice3": "Provide comments, explanations, and feedback",
+        "choice4": "Spend more time teaching and reteaching",
+        "answerKey": "Move around the room to monitor students’ seatwork"
+    },
+    {
+        "question": "Summaries of the research on CAI suggest that at higher grade levels, particularly college, it can be used effectively as a _______ for regular instruction.",
+        "choice1": "increment",
+        "choice2": "abatement",
+        "choice3": "replacement",
+        "choice4": "supplement",
+        "answerKey": "replacement"
+    },
+    {
+        "question": "What best describes “puwede na” mentality vs. excellence in service/work?",
+        "choice1": "Committed work",
+        "choice2": "Striving to be the best",
+        "choice3": "Resignation to mediocrity",
+        "choice4": "Arduous preparation",
+        "answerKey": "Resignation to mediocrity"
+    },
+    {
+        "question": "The goal of schools is to make students to become globally competitive. Which of the following school practices may be considered the best in terms globalization?",
+        "choice1": "Let students solve a problem collaboratively then present their solutions.",
+        "choice2": "Apply collaborative approaches in teaching.",
+        "choice3": "Expose students to different places through field visits.",
+        "choice4": "Increase the number of required general education subjects.",
+        "answerKey": "Let students solve a problem collaboratively then present their solutions."
+    },
+    {
+        "question": "These learners are convinced that they cannot do the work, thus, they often avoid starting up or they easily give up. What type of student problem is described?",
+        "choice1": "Distractible",
+        "choice2": "Underachiever",
+        "choice3": "Low achiever",
+        "choice4": "Failure syndrome",
+        "answerKey": "Failure syndrome"
+    },
+    {
+        "question": "David Ryan went to develop a bipolar list of 18 teacher characteristics. The 18 teacher characteristics were defined in detail and further grouped into three “patterns” of successful vs. unsuccessful teachers. In which pattern does teacher Alex belong when he is responsible, businesslike, systematic versus evading, unplanned, slipshod?",
+        "choice1": "Pattern Z",
+        "choice2": "Pattern Y",
+        "choice3": "Pattern W",
+        "choice4": "Pattern X",
+        "answerKey": "Pattern Y"
+    },
+    {
+        "question": "The following are features of the Re-structured Basic Education Curriculum EXCEPT:",
+        "choice1": "interdisciplinary modes of teaching",
+        "choice2": "increased time for tasks to gain mastery of competencies",
+        "choice3": "greater emphasis on content, less on the learning process",
+        "choice4": "stronger integration of competencies and values within and across the learning areas",
+        "answerKey": "greater emphasis on content, less on the learning process"
+    },
+    {
+        "question": "To enhance metacognitive reading skills, what  should I make my students do?  \nI. Reflect on what they have read \nII. Write  their reflections  \nIII. Make them answer simple re-call questions",
+        "choice1": "III  only",
+        "choice2": "I,II and III",
+        "choice3": "I and II",
+        "choice4": "II only",
+        "answerKey": "I and II"
+    },
+    {
+        "question": "Tool application in the role of the computers refers to the use of computers by",
+        "choice1": "the teacher and the school for  the systematic control and organization of aspects of instruction.",
+        "choice2": "the student  and teacher  to aid in some task and facilitate learning.",
+        "choice3": "the student to facilitate learning.",
+        "choice4": "the student to aid in accomplishing some task.",
+        "answerKey": "the student to aid in accomplishing some task."
+    },
+    {
+        "question": "These types of lectures last about 5 to 10 minutes; student responses and questions are permitted but not encourage",
+        "choice1": "Brief lectures",
+        "choice2": "Pivotal lectures",
+        "choice3": "Formal lectures",
+        "choice4": "Informal lectures",
+        "answerKey": "Informal lectures"
+    },
+    {
+        "question": "To what problem type do students belong, who have short attention span, unable to sustain concentration by being easily affected by sights, sounds or speech?",
+        "choice1": "Low achiever",
+        "choice2": "Defiant",
+        "choice3": "Withdrawn",
+        "choice4": "Distractible",
+        "answerKey": "Distractible"
+    },
+    {
+        "question": "The following are examples of non-verbal behavior. Which one is a restricting or not acceptable mannerism by teachers?",
+        "choice1": "Teacher's intonation shows support",
+        "choice2": "Teacher suggests approval for student and continues with \"um-hm\"",
+        "choice3": "Teachers slouches to suggest being carefree",
+        "choice4": "Teacher moves toward student",
+        "answerKey": "Teachers slouches to suggest being carefree"
+    },
+    {
+        "question": "Teacher Z explains that most people are researchers much of the time and she asks the students what they would like to research among themselves. After a lively discussion, the class decides to investigate and predict the amount of sleep some members of the class had the previous night. How may the intrinsically motivating experiences in the class be described?\nI.   Students make a choice.\nII.  Students freely discuss among themselves.\nIII. Teacher warns them on difficult researches.",
+        "choice1": "I only",
+        "choice2": "II and III",
+        "choice3": "I and II",
+        "choice4": "I, II and III",
+        "answerKey": "I and II"
+    },
+    {
+        "question": "The following statements shows that comments can be categorized as negative but is used in supporting way except",
+        "choice1": "None of the above",
+        "choice2": "“Johnny, please be quiet. You are spoiling it for the entire class. Besides, you know better.”",
+        "choice3": "“You don’t understand. Let’s see who can help you.”",
+        "choice4": "“Your response is wrong. Try it again, you can answer it.”",
+        "answerKey": "None of the above"
+    },
+    {
+        "question": "Which of the following practices violates the guidelines in asking questions?",
+        "choice1": "Use probing questions to follow up incomplete answers",
+        "choice2": "Avoid cognitive memory questions",
+        "choice3": "Call on pupils before asking the questions",
+        "choice4": "Sequence questions so that higher level questions build on the answers to lower level questions",
+        "answerKey": "Call on pupils before asking the questions"
+    },
+    {
+        "question": "Which of the following reading skill belongs to a higher level?",
+        "choice1": "Drawing conclusion",
+        "choice2": "Following directions",
+        "choice3": "Stating the main idea",
+        "choice4": "Noting specific details",
+        "answerKey": "Drawing conclusion"
+    },
+    {
+        "question": "Which is /are the effect/s of motivation on students' learning and behavior?\nI.   Directs behavior toward particular goals.\nII.  Leads to increased effort and energy.\nIII. Increases initiation of and persistence in activities",
+        "choice1": "I only",
+        "choice2": "I, II",
+        "choice3": "I, II and III",
+        "choice4": "II and III",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Which holds TRUE of a constructivist lesson planning approach?",
+        "choice1": "Students doing all the teaching-learning process in the presence of a teacher",
+        "choice2": "Raising questions when lesson is not clear since students should research on their own",
+        "choice3": "Students building their own understanding",
+        "choice4": "Students not encouraged to venture into sharing thoughts when not sure",
+        "answerKey": "Students building their own understanding"
+    },
+    {
+        "question": "Which is the impact of the following classroom management practices: develop parental pride in student accomplishments; be sincere of your pride in your students; and look for opportunities for students to be proud in all areas?",
+        "choice1": "Students' feeling of overconfidence",
+        "choice2": "Students' distorted self- image",
+        "choice3": "Students' pride and arrogance",
+        "choice4": "Positive classroom pride",
+        "answerKey": "Positive classroom pride"
+    },
+    {
+        "question": "Which of the following seating arrangement is most appropriate for discussion forms and kinesthetic activities?",
+        "choice1": "Traditional classroom arrangement",
+        "choice2": "Roundtable",
+        "choice3": "Group pods",
+        "choice4": "Horseshoe arrangement",
+        "answerKey": "Horseshoe arrangement"
+    },
+    {
+        "question": "Which is not a characteristic of effective classroom management?",
+        "choice1": "Teacher has discipline plan and post assignments",
+        "choice2": "Students are working on tasks while being assisted by teachers.",
+        "choice3": "Teacher tells but doesn’t practice procedures.",
+        "choice4": "Teacher tells students of the objectives of the lesson",
+        "answerKey": "Teacher tells but doesn’t practice procedures."
+    },
+    {
+        "question": "Which of the following is the aim of Classroom Management?",
+        "choice1": "Minimize Classroom noise",
+        "choice2": "Maximize the use of classroom time for productive activities",
+        "choice3": "Decrease time spent on tasks",
+        "choice4": "Increase occurrence of discipline problems",
+        "answerKey": "Maximize the use of classroom time for productive activities"
+    },
+    {
+        "question": "Which  should Teacher Mila do ,   if  she abides  by  the  principle of  teaching  from the concrete to the abstract?",
+        "choice1": "She divides her  class  into two  and asks each group   compose at least  two riddles on animals.",
+        "choice2": "She directs her pupils to draw at least one animal",
+        "choice3": "She brings her class to the zoo for a field trip",
+        "choice4": "She makes her class  imagine  the  animals  they have seen .",
+        "answerKey": "She brings her class to the zoo for a field trip"
+    },
+    {
+        "question": "Which of the following is a divergent question?",
+        "choice1": "How is water purified?",
+        "choice2": "What is the most populated country in Asia?",
+        "choice3": "What is the formula in getting the weight of an object?",
+        "choice4": "What are the parts of a sentence?",
+        "answerKey": "How is water purified?"
+    },
+    {
+        "question": "Which is an application of  Gardner’s Multiple Intelligence Theory?",
+        "choice1": "Present one model of a project  for the  class to imitate",
+        "choice2": ". Demonstrate the steps in doing an experiment completely.",
+        "choice3": "Make use of a variety  of teaching strategies.",
+        "choice4": "Stick to one proven effective teaching strategy for learners  with  multi-intelligences .",
+        "answerKey": "Make use of a variety  of teaching strategies."
+    },
+    {
+        "question": "Which of the following is the best option to deal with chronic behavior problems in the classroom?",
+        "choice1": "Be calm and consistent",
+        "choice2": "Indicate consequences of behavior",
+        "choice3": "With gained confidence and skills",
+        "choice4": "Establish positive expectations for students",
+        "answerKey": "Indicate consequences of behavior"
+    },
+    {
+        "question": "Which may work against collaborative teaching?",
+        "choice1": "“knee-to-knee” seat arrangement by group",
+        "choice2": "Homogenous grouping",
+        "choice3": "Joint rewards",
+        "choice4": "Establishment of mutual goals",
+        "answerKey": "Homogenous grouping"
+    },
+    {
+        "question": "Which guideline in asking questions must Teacher P use to develop reflective thought and critical thinking among her learners?",
+        "choice1": "Redirection",
+        "choice2": "Prompting",
+        "choice3": "Wait time",
+        "choice4": "Probing",
+        "answerKey": "Probing"
+    },
+    {
+        "question": "Which are proofs that students are engaged in metacognitive process?\nI.   Know what to do if a problem occurs\nII.  Sense if they are not making sufficient or timely progress toward a goal\nIII. Generate alternative methods to reach their goal",
+        "choice1": "I, II and III",
+        "choice2": "II and III",
+        "choice3": "I and II",
+        "choice4": "I and III",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Which of the classroom activities below is effective?",
+        "choice1": "The laughter and enjoyment of students are contagious.",
+        "choice2": "The concept learned is applicable to daily life.",
+        "choice3": "The variety of instructional materials used is evident.",
+        "choice4": "The techniques and approaches used are varied.",
+        "answerKey": "The concept learned is applicable to daily life."
+    },
+    {
+        "question": "Which of the following characterizes best an effective classroom manager? One who is friendly yet _____.",
+        "choice1": "Demanding",
+        "choice2": "Business-like",
+        "choice3": "Buddy-buddy",
+        "choice4": "Rigid",
+        "answerKey": "Business-like"
+    },
+    {
+        "question": "Which of the following practices is an effective way to start a lesson?",
+        "choice1": "Evaluating the work done the previous day",
+        "choice2": "Reminding the pupils of standards of listening",
+        "choice3": "Checking the attendance",
+        "choice4": "Scolding someone who was late",
+        "answerKey": "Evaluating the work done the previous day"
+    },
+    {
+        "question": "Which is NOT supportive of the development of creative thinking?",
+        "choice1": "authoritarian teacher",
+        "choice2": "authoritative teacher",
+        "choice3": "divergent questions",
+        "choice4": "open classroom atmosphere",
+        "answerKey": "authoritarian teacher"
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of a good question?",
+        "choice1": "The wording is brief and clear.",
+        "choice2": "It is self-answering.",
+        "choice3": "It leads to other questions",
+        "choice4": "It is thought-provoking.",
+        "answerKey": "It is self-answering."
+    },
+    {
+        "question": "Which of the following is true of a democratic classroom?",
+        "choice1": "Suggestions are sent to higher officials for decisions",
+        "choice2": "Teacher acts as firm decision maker",
+        "choice3": "Students decide what and how to learn",
+        "choice4": "Consultation and dialogue",
+        "answerKey": "Consultation and dialogue"
+    },
+    {
+        "question": "Which group of technologies has the highest degree of concreteness?",
+        "choice1": "Digital video and films",
+        "choice2": "Books and programmed instruction",
+        "choice3": "Realia and computer",
+        "choice4": "Video, picture and television",
+        "answerKey": "Realia and computer"
+    },
+    {
+        "question": "Which of the following counters the teacher's role as facilitator of learning?",
+        "choice1": "Makes use of interactive teaching strategies",
+        "choice2": "Caters to multiple intelligence in the classroom",
+        "choice3": "Does less talk compared to learners",
+        "choice4": "Does more talk than learners",
+        "answerKey": "Does more talk than learners"
+    },
+    {
+        "question": "Which is a sound classroom management practice?",
+        "choice1": "Apply rules and policies on a case to case basis",
+        "choice2": "Apply reactive approach to discipline.",
+        "choice3": "Avoid establishing routines; routines make your students robots.",
+        "choice4": "Establish routines for all daily needs and tasks.",
+        "answerKey": "Establish routines for all daily needs and tasks."
+    },
+    {
+        "question": "Which metacognitive processes enhance learning?\nI.  Monitoring progress as one learns\nII. Adjusting strategies if they are perceived ineffective\nIII. Goal setting",
+        "choice1": "I only",
+        "choice2": "II only",
+        "choice3": "Ill only",
+        "choice4": "I, II and III",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "What of the following characterizes best a well-managed class? When learners",
+        "choice1": "pursue their task without inhibition",
+        "choice2": "are engaged in an activity that leads them to realize the set goal",
+        "choice3": "blindly obey teachers' instructions",
+        "choice4": "are controlled by the teacher",
+        "answerKey": "are engaged in an activity that leads them to realize the set goal"
+    },
+    {
+        "question": "When is praise effective? When it _______.",
+        "choice1": "provides information to students about their competence and the value of their accomplishments",
+        "choice2": "describes students present accomplishments",
+        "choice3": "shows spontaneity, variety and other signs of credibility",
+        "choice4": "focuses on student’s knowledge and setting them as an example all the time.",
+        "answerKey": "provides information to students about their competence and the value of their accomplishments"
+    },
+    {
+        "question": "Which  is an  application of  Edgar Dale’s Cone of Experience in teaching?",
+        "choice1": "Teach  by  dwelling only  on the concrete",
+        "choice2": "Begin  your lesson  with the abstract.",
+        "choice3": "One  audio-visual aid  should be used with other audio-visual materials",
+        "choice4": "Use one audio-visual aid at a time.",
+        "answerKey": "One  audio-visual aid  should be used with other audio-visual materials"
+    },
+    {
+        "question": "When would demonstration method be most appropriate?",
+        "choice1": "You would like your students to be actively involved.",
+        "choice2": "There are observers and want to find out the methods and strategies you use.",
+        "choice3": "You teach a complicated procedure.",
+        "choice4": "There is an oversupply of instructional materials.",
+        "answerKey": "You teach a complicated procedure."
+    },
+    {
+        "question": "Which characterize successful learners?\nI.   Active\nII.  Goal-directed\nIII. Self-regulating\nIV. Assume personal responsibility for contributing to their own learning.",
+        "choice1": "I and II",
+        "choice2": "Ill and IV",
+        "choice3": "I, II, III and IV",
+        "choice4": "II, III and IV",
+        "answerKey": "I, II, III and IV"
+    },
+    {
+        "question": "To what problem type do students belong, who have difficulty due to low potential or lack of readiness rather than motivation to work?",
+        "choice1": "Low achiever",
+        "choice2": "Withdrawn",
+        "choice3": "Immature",
+        "choice4": "Underachiever",
+        "answerKey": "Low achiever"
+    },
+    {
+        "question": "Which  flows  from Kohlberg’s theory of moral development?",
+        "choice1": "Teacher  as  model of values",
+        "choice2": "Using   the inculcation method of values education",
+        "choice3": "Teaching  the unchanging  values",
+        "choice4": "Use of moral dilemmas",
+        "answerKey": "Use of moral dilemmas"
+    },
+    {
+        "question": "What may be best to do when the lesson is done ahead of time allotment?",
+        "choice1": "Give pupils homework",
+        "choice2": "Send students to the library",
+        "choice3": "Provide filler activities",
+        "choice4": "Dismiss the class",
+        "answerKey": "Provide filler activities"
+    },
+    {
+        "question": "What type of assistance did teacher Marc gave when he reduce the size/difficulty of the task so his students can cope with task requirements?",
+        "choice1": "Scaffolding",
+        "choice2": "Direct maintenance",
+        "choice3": "Recruitment",
+        "choice4": "Reduction in freedom",
+        "answerKey": "Reduction in freedom"
+    },
+    {
+        "question": "Which characterizes the perfectionist type of students?",
+        "choice1": "Often anxious, fearful or frustrated about quality work",
+        "choice2": "Does not volunteer or initiate",
+        "choice3": "Give up easily",
+        "choice4": "Rarely complete tasks",
+        "answerKey": "Often anxious, fearful or frustrated about quality work"
+    },
+    {
+        "question": "When a teacher assures a high degree of “time on task” and “engaged time” for students, then the teacher is expected to use the ______________.",
+        "choice1": "Behavior Modification Approach",
+        "choice2": "Assertive Approach",
+        "choice3": "Business-academic Approach",
+        "choice4": "Acceptance Approach",
+        "answerKey": "Business-academic Approach"
+    },
+    {
+        "question": "When a school decides to work on a thematic curriculum which should be out of the picture?",
+        "choice1": "Competition",
+        "choice2": "Integration",
+        "choice3": "Peer collaboration",
+        "choice4": "Team teaching",
+        "answerKey": "Competition"
+    },
+    {
+        "question": "Which  practice  goes  with authentic assessment?",
+        "choice1": "Make  students come up with a flow chart  to demonstrate a process.",
+        "choice2": "Make students  check their own answers after a quiz.",
+        "choice3": "Make students dance  tango to determine  if  they learned how to dance tango.",
+        "choice4": "Make  students  recite  the multiplication table  to check for mastery.",
+        "answerKey": "Make students dance  tango to determine  if  they learned how to dance tango."
+    },
+    {
+        "question": "What is the expected outcome in applying Positive Behavior Support teaching technique?",
+        "choice1": "Social skills",
+        "choice2": "Self-management skills",
+        "choice3": "Discussion skills",
+        "choice4": "High thinking skills",
+        "answerKey": "Self-management skills"
+    },
+    {
+        "question": "Which are proofs that students are engaged in a metacognitive process?\nI.   Reflect on how they think and learn\nII.  Set reasonable learning or performance goals\nIII. Select potentially appropriate learning strategies or methods, and monitor their progress toward these goals",
+        "choice1": "I and II",
+        "choice2": "II and III",
+        "choice3": "I, II and III",
+        "choice4": "I and III",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "What type of validity does the Pre-board examination possess if its results can explain how the students will likely perform in their licensure examination?",
+        "choice1": "Concurrent",
+        "choice2": "Content",
+        "choice3": "Predictive",
+        "choice4": "Construct",
+        "answerKey": "Predictive"
+    },
+    {
+        "question": "What does constructive alignment mean in outcomes -based lesson planning?",
+        "choice1": "The learning outcomes are the bases of teaching-learning activities and assessment tasks.",
+        "choice2": "The content is the basis for assessment tasks.",
+        "choice3": "The assessment task is the basis of teaching methodology.",
+        "choice4": "The content is the basis for teaching methodology and assessment tasks.",
+        "answerKey": "The learning outcomes are the bases of teaching-learning activities and assessment tasks."
+    },
+    {
+        "question": "When should Teacher M undertake the task of setting up routine activities?",
+        "choice1": "Every homeroom period",
+        "choice2": "As soon as the students have adjusted to their schedule",
+        "choice3": "On the very first day of school",
+        "choice4": "Every day at the start of the session",
+        "answerKey": "On the very first day of school"
+    }
+]
