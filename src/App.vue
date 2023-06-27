@@ -122,7 +122,7 @@ export default {
         },
         {
           name: 'Professional Education',
-          subcategories: ['Assessment of Learning', 'Child Adolescent & Learning Principles','Classroom Management','Curriculum Development','Principles of Teaching'],
+          subcategories: ['Assessment of Learning', 'Child Adolescent & Learning Principles','Classroom Management','Curriculum Development','Principles of Teaching','Educational Technology'],
         },
         {
           name: 'Specialization',
@@ -260,6 +260,11 @@ export default {
           break;
         case 'Principles of Teaching':
           import('./assets/quizData-pt.json').then((module) => {
+            this.initializeQuiz(module.default);
+          });
+          break;
+        case 'Educational Technology':
+          import('./assets/quizData-edtech.json').then((module) => {
             this.initializeQuiz(module.default);
           });
           break;
