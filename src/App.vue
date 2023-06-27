@@ -122,7 +122,7 @@ export default {
         },
         {
           name: 'Professional Education',
-          subcategories: ['Assessment of Learning', 'Child Adolescent & Learning Principles','Classroom Management','Curriculum Development','Principles of Teaching','Educational Technology','Facilitating Learning','Teaching Profession'],
+          subcategories: ['Assessment of Learning', 'Child Adolescent & Learning Principles','Classroom Management','Curriculum Development','Principles of Teaching','Educational Technology','Facilitating Learning','Teaching Profession','Social Dimension'],
         },
         {
           name: 'Specialization',
@@ -275,6 +275,11 @@ export default {
           break;
         case 'Teaching Profession':
           import('./assets/quizData-tf.json').then((module) => {
+            this.initializeQuiz(module.default);
+          });
+          break;
+        case 'Social Dimension':
+          import('./assets/quizData-sd.json').then((module) => {
             this.initializeQuiz(module.default);
           });
           break;
