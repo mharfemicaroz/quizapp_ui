@@ -122,7 +122,7 @@ export default {
         },
         {
           name: 'Professional Education',
-          subcategories: ['Assessment of Learning', 'Child Adolescent & Learning Principles','Classroom Management'],
+          subcategories: ['Assessment of Learning', 'Child Adolescent & Learning Principles','Classroom Management','Curriculum Development'],
         },
         {
           name: 'Specialization',
@@ -250,6 +250,11 @@ export default {
           break;
         case 'Classroom Management':
           import('./assets/quizData-cm.json').then((module) => {
+            this.initializeQuiz(module.default);
+          });
+          break;
+        case 'Curriculum Development':
+          import('./assets/quizData-curdev.json').then((module) => {
             this.initializeQuiz(module.default);
           });
           break;
