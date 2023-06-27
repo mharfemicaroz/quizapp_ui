@@ -122,7 +122,7 @@ export default {
         },
         {
           name: 'Professional Education',
-          subcategories: [],
+          subcategories: ['Assessment of Learning', 'Child Adolescent & Learning Principles'],
         },
         {
           name: 'Specialization',
@@ -235,6 +235,16 @@ export default {
           break;
         case 'Social Studies':
           import('./assets/quizData-socsci.json').then((module) => {
+            this.initializeQuiz(module.default);
+          });
+          break;
+        case 'Assessment of Learning':
+          import('./assets/quizData-aol.json').then((module) => {
+            this.initializeQuiz(module.default);
+          });
+          break;
+        case 'Child Adolescent & Learning Principles':
+          import('./assets/quizData-cad.json').then((module) => {
             this.initializeQuiz(module.default);
           });
           break;
