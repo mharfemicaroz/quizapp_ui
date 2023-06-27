@@ -122,7 +122,7 @@ export default {
         },
         {
           name: 'Professional Education',
-          subcategories: ['Assessment of Learning', 'Child Adolescent & Learning Principles','Classroom Management','Curriculum Development','Principles of Teaching','Educational Technology','Facilitating Learning','Teaching Profession','Social Dimension','Field Study & Teaching Internship'],
+          subcategories: ['Assessment of Learning', 'Child Adolescent & Learning Principles','Classroom Management','Curriculum Development','Principles of Teaching','Educational Technology','Facilitating Learning','Teaching Profession','Social Dimension','Field Study & Teaching Internship','Current Trends in Education/Mix Topics'],
         },
         {
           name: 'Specialization',
@@ -285,6 +285,11 @@ export default {
           break;
         case 'Field Study & Teaching Internship':
           import('./assets/quizData-fsti.json').then((module) => {
+            this.initializeQuiz(module.default);
+          });
+          break;
+        case 'Current Trends in Education/Mix Topics':
+          import('./assets/quizData-cte.json').then((module) => {
             this.initializeQuiz(module.default);
           });
           break;

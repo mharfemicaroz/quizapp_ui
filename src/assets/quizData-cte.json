@@ -1,0 +1,2050 @@
+[
+    {
+        "question": "I want my students to look at the issues on the call for President Duterte to step down from several perspectives. Which activity is most fitting?",
+        "choice1": "Debate",
+        "choice2": "Cross examination",
+        "choice3": "Panel discussion",
+        "choice4": "Symposium",
+        "answerKey": "Panel discussion"
+    },
+    {
+        "question": "It is the actual amount of time the teacher spends on specific content.",
+        "choice1": "Academic engaged time",
+        "choice2": "Allocated time",
+        "choice3": "Academic learning time",
+        "choice4": "Mandated time",
+        "answerKey": "Academic learning time"
+    },
+    {
+        "question": "Anita hates the Math subject because when she was in her primary grade, she could never forget how her teacher humiliated and punished her in class for getting a low test score. Learning to associate Math with fear or phobia is best explained by the concept of behaviorism authored by______.",
+        "choice1": "Ivan Pavlov",
+        "choice2": "John Watson",
+        "choice3": "B.F Skinner",
+        "choice4": "Edward Thorndike",
+        "answerKey": "John Watson"
+    },
+    {
+        "question": "Dress, physique, freedom from physical defects, personal magnetism, neatness, posture and the like are all examples of which characteristic of successful teaching?",
+        "choice1": "Dominance",
+        "choice2": "Refinement",
+        "choice3": "Attractiveness",
+        "choice4": "Drive",
+        "answerKey": "Attractiveness"
+    },
+    {
+        "question": "Creating a plan for developing instructional materials that increase the learning of an individual is the focus of ________.",
+        "choice1": "Instructional technology",
+        "choice2": "Instructional design",
+        "choice3": "Educational computing",
+        "choice4": "Instructional evaluation",
+        "answerKey": "Instructional technology"
+    },
+    {
+        "question": "It is the pattern of movement or change that begins at conception and continues through the human life span.",
+        "choice1": "human",
+        "choice2": "stages",
+        "choice3": "development",
+        "choice4": "change",
+        "answerKey": "development"
+    },
+    {
+        "question": "After administering the test, Mr. Baldo fund out that the reliability expressed numerically is .40. what this imply? The test result indicates ______.",
+        "choice1": "very high reliability",
+        "choice2": "low reliability",
+        "choice3": "high reliability",
+        "choice4": "fair reliability",
+        "answerKey": "fair reliability"
+    },
+    {
+        "question": "In developing a curriculum, all except one element should be considered. Which one does not relate to curriculum development?",
+        "choice1": "Continuity",
+        "choice2": "Sequence",
+        "choice3": "Modernity",
+        "choice4": "Balance",
+        "answerKey": "Modernity"
+    },
+    {
+        "question": "GASTPE is one proof of public-private partnership for government to give access to quality education. What does GASTPE mean?",
+        "choice1": "Government Assistance to Scholarship and Teaching in Private Education",
+        "choice2": "Government Assistance to Students and Teachers in Private Education",
+        "choice3": "Government Assistance to Selected Students and Teachers in Private Education",
+        "choice4": "Government Assistance to Students’ and Teachers’ Scholarship in Private Education",
+        "answerKey": "Government Assistance to Students and Teachers in Private Education"
+    },
+    {
+        "question": "Dr. Escoto, the school physician conducted a physical examination in Ms. Manuel's class. What concept best describes the quantitative increase observed by Dr. Escoto among learners in terms of height and weight?",
+        "choice1": "Growth",
+        "choice2": "Learning",
+        "choice3": "Maturation",
+        "choice4": "Development",
+        "answerKey": "Growth"
+    },
+    {
+        "question": "In Tyler’s Model, the focus in terms of goals and objectives is:",
+        "choice1": "Selection of experiences in the school",
+        "choice2": "Organization of experiences in the school",
+        "choice3": "All of the above",
+        "choice4": "Purposes of the school",
+        "answerKey": "Purposes of the school"
+    },
+    {
+        "question": "Emphasizes the planning phasse",
+        "choice1": "Grassroot approach",
+        "choice2": "Saylor and Alexander's curriculum model",
+        "choice3": "Tyler's rationale",
+        "choice4": "Peter Oliva's 10 Axioms",
+        "answerKey": "Tyler's rationale"
+    },
+    {
+        "question": "Business-Academic approach: Evertson and Emmer::Group Guidance Approach _____________.",
+        "choice1": "James Watson",
+        "choice2": "Fritz Redl",
+        "choice3": "Jacob Kounin",
+        "choice4": "Rudolph Dreikurs",
+        "answerKey": "Fritz Redl"
+    },
+    {
+        "question": "According to R.A 9155, which is the heart of the formal educational system?",
+        "choice1": "School",
+        "choice2": "Learner",
+        "choice3": "Department of Education",
+        "choice4": "Department of Education",
+        "answerKey": "School"
+    },
+    {
+        "question": "How can the local government support schools?",
+        "choice1": "Give donations for school projects",
+        "choice2": "Allow school to join civic celebrations",
+        "choice3": "Provide security in school premises",
+        "choice4": "Provide fiscal funding to support schools",
+        "answerKey": "Provide fiscal funding to support schools"
+    },
+    {
+        "question": "How will you classify the method employed by a teacher whose objective is to provide the learners an experience that will enable them to learn the democratic process in election through the selection of classroom ofﬁcers?",
+        "choice1": "Discussion",
+        "choice2": "Role playing",
+        "choice3": "simulation",
+        "choice4": "Lecture",
+        "answerKey": "simulation"
+    },
+    {
+        "question": "According to PRC Revised Guidelines For Continuing Professional Development (Resolution No. 2013-774, every professional Teacher is required proof of _______continuing professional development units for renewal of professional identification card every three years.",
+        "choice1": "30",
+        "choice2": "36",
+        "choice3": "45",
+        "choice4": "48",
+        "answerKey": "45"
+    },
+    {
+        "question": "In constructing a test, teachers must bear in mind that it should be easy for students to understand, easy to administer and score, within budget limitations if it has to be purchased , suitable for test conditions, and appropriate in degree of difficulty. Which of the following teacher must consider?",
+        "choice1": "Validity",
+        "choice2": "Administrability",
+        "choice3": "Usability",
+        "choice4": "Reliability",
+        "answerKey": "Usability"
+    },
+    {
+        "question": "I want to use a diagram to compare the traditional and authentic modes of assessment. Which one is most fit?",
+        "choice1": "Venn diagram",
+        "choice2": "Fishbone diagram",
+        "choice3": "Affinity diagram",
+        "choice4": "Tree diagram",
+        "answerKey": "Venn diagram"
+    },
+    {
+        "question": "Did Mrs. Domingo follow Bruner's three stage development of knowledge?",
+        "choice1": "Cannot be determined because the lesson was not developed fully",
+        "choice2": "No",
+        "choice3": "Only in the first stage",
+        "choice4": "Yes",
+        "answerKey": "Yes"
+    },
+    {
+        "question": "According to Barr’s characteristics important for successful teaching, physical vigor, energy perseverance, ambition, industry, endurance, motivation, purposefulness, speediness, zealousness, and quickness belongs to:",
+        "choice1": "Refinement",
+        "choice2": "Drive",
+        "choice3": "Buoyancy",
+        "choice4": "Dominance",
+        "answerKey": "Drive"
+    },
+    {
+        "question": "For a discussion of a topic from various perspectives, it is best to hold a ______.",
+        "choice1": "Debate",
+        "choice2": "Brainstorming",
+        "choice3": "Symposium",
+        "choice4": "Panel discussion",
+        "answerKey": "Panel discussion"
+    },
+    {
+        "question": "Dante acquires information and meaning through observing, listening, and reading, as well through reflective thinking. Which educational goal of curriculum development does she exemplify?",
+        "choice1": "Continuous learning",
+        "choice2": "Coping with change",
+        "choice3": "Basic skills",
+        "choice4": "Using accumulated knowledge to interpret the world",
+        "answerKey": "Basic skills"
+    },
+    {
+        "question": "Based on the Preamble, “teachers are duly licensed professionals who possess dignity and reputation with high moral values as well as technical and professional________.”",
+        "choice1": "skills",
+        "choice2": "proficiency",
+        "choice3": "expertise",
+        "choice4": "competence",
+        "answerKey": "competence"
+    },
+    {
+        "question": "“If the teacher expects students to be slow or exhibit deviant behavior, he or she treats them accordingly, and response they adopt such behavior”. This refers to:",
+        "choice1": "Pygmalion Diminished",
+        "choice2": "Self-fulfilling prophecies",
+        "choice3": "Teachers expectations",
+        "choice4": "Pygmalion in the Classroom",
+        "answerKey": "Self-fulfilling prophecies"
+    },
+    {
+        "question": "“It’s better to have loved than never to have loved at all.” –Lord Alfred Tennyson\nWhich type of malignancy does this relate?",
+        "choice1": "Inhibition",
+        "choice2": "Inertia",
+        "choice3": "Exclusion",
+        "choice4": "withdrawal",
+        "answerKey": "Inertia"
+    },
+    {
+        "question": "Does the development of the lesson on fraction conform to the bottom-up arrangement of the learning experiences in Edgar Dale's Cone of Experience?",
+        "choice1": "Yes",
+        "choice2": "Cannot be determined",
+        "choice3": "Up to the second phase of the lesson only",
+        "choice4": "No",
+        "answerKey": "Yes"
+    },
+    {
+        "question": "I want to use a pre-teaching strategy that will immediately engage my students in the content and will enable me to get an insight into how students think and feel about the topic. Which is most appropriate?",
+        "choice1": "K-W-L chart",
+        "choice2": "Document analysis",
+        "choice3": "Graphic organizer",
+        "choice4": "Story boarding",
+        "answerKey": "K-W-L chart"
+    },
+    {
+        "question": "Chad believes that for justice to prevail, he needs to create a union to fight against the oppressive factory owners whose waste became the source of children dying because of dysentery in their municipality. Based on Chad’s position, in which stage of moral development does he belong?",
+        "choice1": "Universal Ethical Principles",
+        "choice2": "Social Contract",
+        "choice3": "Post-conventional",
+        "choice4": "Instrumental Relativism",
+        "answerKey": "Social Contract"
+    },
+    {
+        "question": "After a series of test, Ms. Jean collected the data or scores of her students in order for her to make judgment of the students performance. The process of collecting the data or scores is what we called _________.",
+        "choice1": "Evaluation",
+        "choice2": "Validity",
+        "choice3": "Measurement",
+        "choice4": "Test",
+        "answerKey": "Measurement"
+    },
+    {
+        "question": "The lesson is on the pros and cons of capital punishment. Mr. Milan wants to do high level thinking and to develop a view of capital of punishment from different perspective. Which technique will be most appropriate?",
+        "choice1": "Simulation",
+        "choice2": "Role playing",
+        "choice3": "Panel discussion",
+        "choice4": "Lecture",
+        "answerKey": "Panel discussion"
+    },
+    {
+        "question": "The kindergarten Act states that the authority to regulate the organization, operations and/or implementation of the kindergarten education program of both public and private schools shall be vested upon the________.",
+        "choice1": "DepEd",
+        "choice2": "DSWD",
+        "choice3": "LGU",
+        "choice4": "Barangay",
+        "answerKey": "DepEd"
+    },
+    {
+        "question": "Rosenshine and Frust concluded that teacher process (behaviors or variable) strongly and consistently relate to products (outcomes or student achievement). This behavior defined in terms of the teacher’s movement, voice inflection, and the like.",
+        "choice1": "Dominance",
+        "choice2": "Drive",
+        "choice3": "Enthusiasm",
+        "choice4": "Clarity",
+        "answerKey": "Enthusiasm"
+    },
+    {
+        "question": "Teacher Mari always asks her students to memorize and recite poems and speeches they have studied in their literature class. What kind of teacher is she?",
+        "choice1": "Naturalist",
+        "choice2": "Pragmatist",
+        "choice3": "Idealist",
+        "choice4": "Realist",
+        "answerKey": "Idealist"
+    },
+    {
+        "question": "Jean Piaget believed that there are three great periods of development of the sense of justice in the child. On which period does the child sense justice in subordination to adult authority?",
+        "choice1": "8-11 years old",
+        "choice2": "11-12 years",
+        "choice3": "4-9 years old",
+        "choice4": "5 to 7-8 years old",
+        "answerKey": "5 to 7-8 years old"
+    },
+    {
+        "question": "Of the following, which is the most effective for influencing human emotion for retention and discovery of learning?",
+        "choice1": "Telling of jokes in teaching",
+        "choice2": "Emotional delivery of lessons",
+        "choice3": "Use of inspirational tool (book, film, art, etc.)",
+        "choice4": "Drills to augment retention",
+        "answerKey": "Use of inspirational tool (book, film, art, etc.)"
+    },
+    {
+        "question": "Teacher Katya teaches her students the skill to check, modify, and direct their cognitive activities. Which among the following does she develop on her students?",
+        "choice1": "Comprehension monitoring",
+        "choice2": "Creative thinking",
+        "choice3": "Learning to learn skills",
+        "choice4": "Critical thinking",
+        "answerKey": "Comprehension monitoring"
+    },
+    {
+        "question": "Mrs delo Santos, a teacher and at the same time a mother of Jonathan wants to determine what specific field where her son will most likely to achieve. What type of test is she to administer according to her purpose?",
+        "choice1": "Intelligence test",
+        "choice2": "Personality test",
+        "choice3": "Achievement test",
+        "choice4": "Aptitude test",
+        "answerKey": "Aptitude test"
+    },
+    {
+        "question": "Objective: To predict the probable effect of a change in temperature on a chemical.\n\nThe objective falls under which objective in Bloom’s cognitive domain?",
+        "choice1": "Synthesis",
+        "choice2": "Application",
+        "choice3": "Analysis",
+        "choice4": "Knowledge",
+        "answerKey": "Application"
+    },
+    {
+        "question": "Teacher Lope always provides his students with relevant academic activities and sees to it that students spend an adequate amount of time actually engaged in the activities he give. Which among the following identifies his effectivity in teaching?",
+        "choice1": "Level of cognitive instruction",
+        "choice2": "Classroom management",
+        "choice3": "Time on task",
+        "choice4": "Comprehension instruction",
+        "answerKey": "Time on task"
+    },
+    {
+        "question": "The following skills fall under fundamental movements in Anita Harlow’s psychomotor domain EXCEPT:",
+        "choice1": "Jumping jacks",
+        "choice2": "Contracting a muscle",
+        "choice3": "Pushing a cart",
+        "choice4": "Manipulating a dumbbell",
+        "answerKey": "Contracting a muscle"
+    },
+    {
+        "question": "Teacher Merry emphasized the roles of schools in helping every child understand, appreciate, and value persons belonging to social, cultural, and ethnic groups different from the child’s own. Which major goal of American school is shown?",
+        "choice1": "Self-realization",
+        "choice2": "Enculturation",
+        "choice3": "Citizenship",
+        "choice4": "Interpersonal relations",
+        "answerKey": "Enculturation"
+    },
+    {
+        "question": "Mariah, a Grade 5 student, lacks social skills and often plays and works alone. Which student problem type based on teacher descriptions is she?",
+        "choice1": "Rejected by Peers",
+        "choice2": "Withdrawn",
+        "choice3": "Immature",
+        "choice4": "Underachiever",
+        "answerKey": "Rejected by Peers"
+    },
+    {
+        "question": "Objective: To recognize fallacies in an argument.\n\nThe objective falls under which objective in Bloom’s cognitive domain?",
+        "choice1": "Application",
+        "choice2": "Comprehension",
+        "choice3": "Evaluation",
+        "choice4": "Knowledge",
+        "answerKey": "Evaluation"
+    },
+    {
+        "question": "Teacher Raja is showing her learners how to properly operate the microscope. Based on the six components of direct instruction, what is Teacher Raja doing?",
+        "choice1": "Application",
+        "choice2": "Consolidation",
+        "choice3": "Modeling",
+        "choice4": "Guided Practice",
+        "answerKey": "Modeling"
+    },
+    {
+        "question": "On the criteria in the Selection of Knowledge, it refers to the measures what the teacher intends to measure.",
+        "choice1": "Usefulness",
+        "choice2": "Validity",
+        "choice3": "Significance",
+        "choice4": "Interest",
+        "answerKey": "Validity"
+    },
+    {
+        "question": "Teacher Aquaria teaches her students to correctly differentiate mammals with the new topic, which is reptiles, using the Venn Diagram. What particular comprehension or thinking skill of Charles Letteri does she want her students to develop?",
+        "choice1": "Analysis",
+        "choice2": "Comparative analysis",
+        "choice3": "Sharpening",
+        "choice4": "Focusing",
+        "answerKey": "Sharpening"
+    },
+    {
+        "question": "Teacher Bob teaches his students the ability to identify and place the animal pictures posted on the board into categories through their physical characteristics. What particular comprehension or thinking skill of Charles Letteri does she want his students to develop?",
+        "choice1": "Sharpening",
+        "choice2": "Narrowing",
+        "choice3": "Analysis",
+        "choice4": "Comparative analysis",
+        "answerKey": "Narrowing"
+    },
+    {
+        "question": "Mr. Abueva raises difficult questions and presents ideas that disturb students. Everybody loves him except perhaps the principal. Which best characterizes Mr. Abueva?",
+        "choice1": "Explanatory",
+        "choice2": "Boomer",
+        "choice3": "Maverick",
+        "choice4": "Interactive",
+        "answerKey": "Maverick"
+    },
+    {
+        "question": "Mr. Narciso, a grade 5 teacher is in the process of putting a value or worth to his students' performance task in Araling Panlipunan subject. What does Mr. Narciso doing?",
+        "choice1": "Evaluating",
+        "choice2": "Measuring",
+        "choice3": "Validating",
+        "choice4": "Testing",
+        "answerKey": "Evaluating"
+    },
+    {
+        "question": "Objective: To demonstrate in front of a government building in behalf of a cause\n\nThe objective falls under which objective in Krathwohl’s affective domain?",
+        "choice1": "Characterization",
+        "choice2": "Receiving",
+        "choice3": "Responding",
+        "choice4": "Valuing",
+        "answerKey": "Characterization"
+    },
+    {
+        "question": "Mrs. Karen asks her fourth year high school son what course he would like to take. She is in little way applying:",
+        "choice1": "Progressivism",
+        "choice2": "Perennialism",
+        "choice3": "Essentialism",
+        "choice4": "Existentialism",
+        "answerKey": "Existentialism"
+    },
+    {
+        "question": "Mr Hermie, a Mapeh Teacher wants to measure the artistic ability of his grade 9 students, so he asked his students to create a diorama based on their topic about healthy lifestyle. After this, he correlates the test result in other test that measures artistic ability that pis accepted as valid. What type of validity is reflected?",
+        "choice1": "Criterion",
+        "choice2": "Curricular",
+        "choice3": "Content",
+        "choice4": "Predictive",
+        "answerKey": "Criterion"
+    },
+    {
+        "question": "Teacher Naomi involves her students on the application of some familiar skills and ideas to new problems. Which type of classroom task is she giving to her students?",
+        "choice1": "Practice tasks",
+        "choice2": "Incremental tasks",
+        "choice3": "Restructuring tasks",
+        "choice4": "Enrichment tasks",
+        "answerKey": "Enrichment tasks"
+    },
+    {
+        "question": "Objective: To argue over an issue involving health care.\n\nThe objective falls under which objective in Krathwohl’s affective domain?",
+        "choice1": "Responding",
+        "choice2": "Characterization",
+        "choice3": "Receiving",
+        "choice4": "Valuing",
+        "answerKey": "Valuing"
+    },
+    {
+        "question": "Teacher Nancy is not yet finished discussing the topic all about noun. The next day, her students were surprised when she proceeded to discuss a new topic about verb wherein fact she has not completed explaining the first topic. This event is an example of _______.",
+        "choice1": "Thrust",
+        "choice2": "Flip-flop",
+        "choice3": "Stimulus-bound",
+        "choice4": "Dangle",
+        "answerKey": "Dangle"
+    },
+    {
+        "question": "Religious rituals in the classroom and in the school programs prove the deep natural religiosity of the Filipinos. Which philosophy has greatly contributed to his tradition?",
+        "choice1": "Islam",
+        "choice2": "Confucianism",
+        "choice3": "Hinduism",
+        "choice4": "Buddhism",
+        "answerKey": "Confucianism"
+    },
+    {
+        "question": "The Progressivist emphasized the individuality of the child. What is the concern of the reconstructivist?",
+        "choice1": "Experiential learning",
+        "choice2": "Social problem",
+        "choice3": "Socialization",
+        "choice4": "Values education",
+        "answerKey": "Social problem"
+    },
+    {
+        "question": "The following belongs to Tyler's Rationale except for",
+        "choice1": "Evaluation of the experiences",
+        "choice2": "Purpose of the school",
+        "choice3": "Selection of educational Experiences",
+        "choice4": "Formulating of Learning Objectives",
+        "answerKey": "Formulating of Learning Objectives"
+    },
+    {
+        "question": "The Philippine Association for Teacher and Educators (PAFTE) proposed a new curriculum for Teacher Education to make the graduates globally competitive. What type of curriculum is this?",
+        "choice1": "Supportive curriculum",
+        "choice2": "Assessed Curriculum",
+        "choice3": "Recommended Curriculum",
+        "choice4": "Hidden Curriculum",
+        "answerKey": "Recommended Curriculum"
+    },
+    {
+        "question": "What provides the most direct type of learning, but is difficult to supply in the traditional classroom?",
+        "choice1": "Multisensory instructional aids",
+        "choice2": "Real-life experience",
+        "choice3": "Computer-assisted learning",
+        "choice4": "Verbal symbolism",
+        "answerKey": "Real-life experience"
+    },
+    {
+        "question": "These are the common problems of a beginning teacher except:",
+        "choice1": "Extra class assignment",
+        "choice2": "Location of the classroom",
+        "choice3": "Assignment to difficult subject",
+        "choice4": "Planning of lessons",
+        "answerKey": "Planning of lessons"
+    },
+    {
+        "question": "The subject matter or content to be learned must be within the time allowed, resources available, expertise of the teacher and nature of learners. What criterion is addressed?",
+        "choice1": "Interest",
+        "choice2": "Validity",
+        "choice3": "Feasibility",
+        "choice4": "Significance",
+        "answerKey": "Feasibility"
+    },
+    {
+        "question": "Which among the following should Teacher Ophelia let her 2nd year high school students read to better inculcate moral knowledge in them?",
+        "choice1": "Death of a Salesman",
+        "choice2": "Diary of Anne Frank",
+        "choice3": "Both A and B",
+        "choice4": "Up from Slavery",
+        "answerKey": "Death of a Salesman"
+    },
+    {
+        "question": "When the instruction in the curriculum focuses on the mastery of the content and the evaluation that follows measures only the knowledge learned, such curriculum design is ____________.",
+        "choice1": "Subject-centered",
+        "choice2": "Problem-centered",
+        "choice3": "Learner-centered",
+        "choice4": "Project-centered",
+        "answerKey": "Subject-centered"
+    },
+    {
+        "question": "This is the first two or three years of teaching, and is critical in developing teachers’ capabilities.",
+        "choice1": "Induction period",
+        "choice2": "Inception period",
+        "choice3": "Introductory period",
+        "choice4": "Initiation period",
+        "answerKey": "Induction period"
+    },
+    {
+        "question": "This is not a feature of cooperative learning.",
+        "choice1": "Face-to-face interaction",
+        "choice2": "Individual accountability",
+        "choice3": "Positive interdependence",
+        "choice4": "Group accountability for learning",
+        "answerKey": "Group accountability for learning"
+    },
+    {
+        "question": "To determine her students’ level of moral development, Teacher Evangeline presents to her class a morally ambiguous situation and asks them what they would do in such a situation. On whose theory is Teacher Evangeline’s technique based?",
+        "choice1": "Kohlberg",
+        "choice2": "Bruner",
+        "choice3": "Piaget",
+        "choice4": "Freud",
+        "answerKey": "Kohlberg"
+    },
+    {
+        "question": "What is an integrated school?",
+        "choice1": "Makes use of integrative teaching",
+        "choice2": "Offers complete basic education in one school site and has unified instructional programs",
+        "choice3": "Functions like a Senior High School",
+        "choice4": "Integrates life skills in the curriculum",
+        "answerKey": "Offers complete basic education in one school site and has unified instructional programs"
+    },
+    {
+        "question": "What is lacking when Mr. Blanco constructed test items that can only be answered in the basis of basic intelligence, general knowledge or test wiseness and knowledge of the subject matter is not being tested adequately?",
+        "choice1": "Content Validity",
+        "choice2": "Curricular Validity",
+        "choice3": "Construct Validity",
+        "choice4": "Criterion Validity",
+        "answerKey": "Content Validity"
+    },
+    {
+        "question": "Virtue as one component in the teaching of Rizal as a course focuses on the teaching of good and beauty in God. What philosophy supports this?",
+        "choice1": "Social reconstructionism",
+        "choice2": "Idealism",
+        "choice3": "Existentialism",
+        "choice4": "Progressivism",
+        "answerKey": "Idealism"
+    },
+    {
+        "question": "This is the term given to the appropriate pacing and progression of the lesson. The lesson should be properly paced, monitored, and adjusted in order to prevent slowdowns and stoppages",
+        "choice1": "Smoothness",
+        "choice2": "Withitness",
+        "choice3": "Overlapping",
+        "choice4": "Momentum",
+        "answerKey": "Smoothness"
+    },
+    {
+        "question": "These types of objectives are usually categorized into topics or concepts.",
+        "choice1": "Classroom objectives",
+        "choice2": "Lesson plan objectives",
+        "choice3": "Unit plan objectives",
+        "choice4": "Course objectives",
+        "answerKey": "Unit plan objectives"
+    },
+    {
+        "question": "This type of test provide more frequent evaluation of students' performance.",
+        "choice1": "Standardized test",
+        "choice2": "Non-standardized test",
+        "choice3": "Norm reference test",
+        "choice4": "Criterion reference test",
+        "answerKey": "Non-standardized test"
+    },
+    {
+        "question": "What does e-IMPACT as an alternative delivery mode mean?",
+        "choice1": "Instructional Management by Parents’ Cooperation with Teachers",
+        "choice2": "Instructional Management by Parenting, Community, and Teambuilding",
+        "choice3": "Instructional Management by Parents, Community, and Teachers",
+        "choice4": "Instructional Management by People, Community, and Teachers",
+        "answerKey": "Instructional Management by Parents, Community, and Teachers"
+    },
+    {
+        "question": "Which among the following approaches to classroom management is rooted on humanistic psychology?",
+        "choice1": "Success Approach",
+        "choice2": "Behavior-modification approach",
+        "choice3": "Business-Academic Approach",
+        "choice4": "Group Guidance Approach",
+        "answerKey": "Success Approach"
+    },
+    {
+        "question": "Viewed curriculum as all experiences children have under the guidance of teachers.",
+        "choice1": "Holis Caswell &Kenn Campbell",
+        "choice2": "Philip Phenix",
+        "choice3": "Collin Marsh & George Willis",
+        "choice4": "John Dewey",
+        "answerKey": "Holis Caswell &Kenn Campbell"
+    },
+    {
+        "question": "When choosing teaching devices, which is the primary consideration that teachers must think about?",
+        "choice1": "Cost",
+        "choice2": "Appropriateness",
+        "choice3": "Attractiveness",
+        "choice4": "Novelty",
+        "answerKey": "Appropriateness"
+    },
+    {
+        "question": "When a student misbehaves, Teacher Jestoni will often go near to the misbehaving student or stand beside the student to give signal that he should refrain from misbehaving. This situation is an example of what low-profile response of a teacher?",
+        "choice1": "Redirecting student",
+        "choice2": "Proximity control",
+        "choice3": "Non verbal gesture",
+        "choice4": "Name dropping",
+        "answerKey": "Proximity control"
+    },
+    {
+        "question": "Which among the following Cardinal Principles of Secondary Education is regarded as paramount among the objectives of the secondary school?",
+        "choice1": "Health",
+        "choice2": "Worthy use of leisure",
+        "choice3": "Command of the fundamental processes",
+        "choice4": "Ethical character",
+        "answerKey": "Ethical character"
+    },
+    {
+        "question": "Which among the following is incorrectly matched?",
+        "choice1": "Spanish Occupation - Indoctrination",
+        "choice2": "American Occupation – Privatization of Schools",
+        "choice3": "Japanese Occupation – Vocational Schools",
+        "choice4": "None of the above",
+        "answerKey": "American Occupation – Privatization of Schools"
+    },
+    {
+        "question": "Which among the following major time wasters in instructional time can be resolved by devising a seating arrangement for the students as well as printed lists and diagrams?",
+        "choice1": "Registration and testing",
+        "choice2": "Teacher absences",
+        "choice3": "Changing and beginning classes",
+        "choice4": "Excessive viewing of films",
+        "answerKey": "Changing and beginning classes"
+    },
+    {
+        "question": "These type of questions require students to recall information that leads to a correct or conventional answer. Novel information is usually considered incorrect.",
+        "choice1": "Cognitive-memory questions",
+        "choice2": "Divergent questions",
+        "choice3": "Convergent questions",
+        "choice4": "Evaluative questions",
+        "answerKey": "Convergent questions"
+    },
+    {
+        "question": "Wendell can understand that her mother can also be a daughter and a sister, all at the same time. This suggests that Wendell is in the:",
+        "choice1": "Formal operational stage.",
+        "choice2": "Preoperational stage.",
+        "choice3": "Sensorimotor stage.",
+        "choice4": "Concrete operational stage.",
+        "answerKey": "Concrete operational stage."
+    },
+    {
+        "question": "What type of test should teacher Aris consider if his purpose is to tailor his objectives, to develop more efficient and appropriate teaching strategies, and to fit the needs of his students?",
+        "choice1": "Criterion reference test",
+        "choice2": "Achievement test",
+        "choice3": "Norm reference test",
+        "choice4": "Aptitude test",
+        "answerKey": "Criterion reference test"
+    },
+    {
+        "question": "Which among the following NEGATES Steinberg’s attributes associated with creativity?",
+        "choice1": "Intellectuality",
+        "choice2": "Perspicacity",
+        "choice3": "Conventionality",
+        "choice4": "Imagination",
+        "answerKey": "Conventionality"
+    },
+    {
+        "question": "This decree is known as the Decree Professionalizing Teaching.",
+        "choice1": "Educational Decree of 1853",
+        "choice2": "Educational Decree of 1836",
+        "choice3": "Presidential Decree 1006",
+        "choice4": "Presidential Decree 1009",
+        "answerKey": "Presidential Decree 1006"
+    },
+    {
+        "question": "This is the main instrument of communication in teaching.",
+        "choice1": "Nonverbal communication",
+        "choice2": "Language",
+        "choice3": "Gesture",
+        "choice4": "Posture",
+        "answerKey": "Language"
+    },
+    {
+        "question": "These are viewed to be the core of the classroom setting.",
+        "choice1": "Classroom rules",
+        "choice2": "Lesson plans",
+        "choice3": "Instructional tasks",
+        "choice4": "Teacher-Student interaction",
+        "answerKey": "Instructional tasks"
+    },
+    {
+        "question": "What does the statement “With the advent of Information and Communication Technology, learning has become borderless” mean?",
+        "choice1": "Boundaries and limitations are set in relation to acquisition of knowledge and education",
+        "choice2": "The use of internet, modern laptops, tablets, i-phones and other gadgets has borders.",
+        "choice3": "Information acquisition and dissemination as well as delivery of education all over the globe has been made with ICT.",
+        "choice4": "Teaching and learning today are expensive an affordable.",
+        "answerKey": "Information acquisition and dissemination as well as delivery of education all over the globe has been made with ICT."
+    },
+    {
+        "question": "Field trip is an effective way of teaching where organisms could be observed in their natural habitat, active and responding to stimuli in the environment. In addition, what values are developed among the students during and after the trip?",
+        "choice1": "Freedom in an open space than in a classroom",
+        "choice2": "Consideration of the rights of others",
+        "choice3": "On the spot observation to keep them active",
+        "choice4": "Love of nature, proper behavior during explorations",
+        "answerKey": "Love of nature, proper behavior during explorations"
+    },
+    {
+        "question": "With closeness to direct experience as standard, which one should a teacher choose?",
+        "choice1": "Contrived experiences",
+        "choice2": "Demonstration",
+        "choice3": "Study trip",
+        "choice4": "Dramatized experiences",
+        "answerKey": "Contrived experiences"
+    },
+    {
+        "question": "Which is/are a characteristic/s development?\n I. Sustained\nII. Lifelong \nIII. Self-directed",
+        "choice1": "III Only",
+        "choice2": "I and II",
+        "choice3": "II and III",
+        "choice4": "I, II and III",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Which group of technologies has the highest degree of concreteness?",
+        "choice1": "Realia and computer",
+        "choice2": "Book, imaginative literature, programmed instruction",
+        "choice3": "Video, picture and television",
+        "choice4": "Digital video, film, versatile compact disc",
+        "answerKey": "Realia and computer"
+    },
+    {
+        "question": "Which of the following is provided for in Article XIV of the 1987 Philippines Constitution?",
+        "choice1": "Academic freedom of teachers and students at all levels",
+        "choice2": "Mandatory religious education in elementary and high schools",
+        "choice3": "Protection of intellectual property rights",
+        "choice4": "Advancement of free and compulsory secondary education",
+        "answerKey": "Protection of intellectual property rights"
+    },
+    {
+        "question": "An OUTCOME of the planning phase of instruction is _________.",
+        "choice1": "A computer-bases learning experience that incorporates hypermedia",
+        "choice2": "An outline or blueprint of the learning experience",
+        "choice3": "A complete set of finely tuned instructional materials",
+        "choice4": "A summary of the effectiveness of the set of instructional materials",
+        "answerKey": "An outline or blueprint of the learning experience"
+    },
+    {
+        "question": "Which school of thought strengthens the beliefs that the means and ends of education must be completely refashioned to meet the demands of the present cultural crisis. This is the theory of_____",
+        "choice1": "Existentialism",
+        "choice2": "Progressivism",
+        "choice3": "Reconstructionism",
+        "choice4": "Perennialism",
+        "answerKey": "Reconstructionism"
+    },
+    {
+        "question": "Education plays a vital role in sustainability by_______.\n \nI. Promoting gender bias\nII. Promoting health\nIII. Teaching care for the environment \nIV. Condemning cultural diversity",
+        "choice1": "I, II and II",
+        "choice2": "II, III and IV",
+        "choice3": "I and II",
+        "choice4": "II and III",
+        "answerKey": "II and III"
+    },
+    {
+        "question": "At Masigasig Elementary School, parents were requested to help during the Brigada Eskwela before the opening of classes. Mrs. Pedro, the school principal, noticed that Ms. Lizardo, a newly hired teacher, was aloof and was not interacting with parents. As the school head, what should Mrs. Pedro do?",
+        "choice1": "Request the parents to invite Ms. Lizardo to join them.",
+        "choice2": "Ask Ms. Lizardo to do other tasks in the office until she is able to adjust.",
+        "choice3": "Advise Ms. Lizardo to supervise and join the parents in their activities.",
+        "choice4": "Cancel the activity so Ms. Lizardo will do the Brigada herself.",
+        "answerKey": "Advise Ms. Lizardo to supervise and join the parents in their activities."
+    },
+    {
+        "question": "‘’When more senses are stimulated, teaching and learning become more effective.” What is an application of this principle?",
+        "choice1": "Use audio visual aids because the eyes and the ears are the most important senses in learning.",
+        "choice2": "use multisensory aids",
+        "choice3": "make your students touch the instructional material",
+        "choice4": "Appeal to students’ sense of imagination",
+        "answerKey": "use multisensory aids"
+    },
+    {
+        "question": "“Make education learner-oriented and responsive to the needs, cognitive and \nCultural capacity, the circumstances and diversity of learners, schools and commu-\nnities through the appropriate languages of teaching and learning, including\nmother tongue as a learning resource.”\n \nBasic education shall be delivered in languages understood by the learners as\nThe language plays a strategic role in shaping the formative years of learners…..\n “The curriculum shall be culture-sensitive;..”\n“The curriculum shall be flexible enough to enable and allow schools to localize,\nIndigenize and enhance the same base on their respective educational and social\nContexts. The production and development of locally produced teaching materials\nshall be encouraged and approval of these materials shall devolve to the regional\nand division education units.”\n\n37. The aforecited provisions of RA 10533 make clear that schools should be__________.",
+        "choice1": "LGU-centered",
+        "choice2": "community-centered",
+        "choice3": "parents-centered",
+        "choice4": "church-centered",
+        "answerKey": "community-centered"
+    },
+    {
+        "question": "18. You choose cooperative learning as a teaching approach. What thought do you impress on your students?",
+        "choice1": "Interaction is a must, but not necessarily face-to-face interaction.",
+        "choice2": "The accountability for learning is on the group not on the individual.",
+        "choice3": "Students' individually evaluate how effectively their group worked.",
+        "choice4": "Students' success depends on the success of the group.",
+        "answerKey": "Students' success depends on the success of the group."
+    },
+    {
+        "question": "Which of the following phrases does NOT describe the annual Brigada Eskwela program of the Department of Education?",
+        "choice1": "PPP for School Infrastruction Program",
+        "choice2": "Bayanihan para sa Paaralan Program",
+        "choice3": "Oplan Balik Skwela",
+        "choice4": "Nationwide",
+        "answerKey": "PPP for School Infrastruction Program"
+    },
+    {
+        "question": "Which among the following, according to Carl Rogers, is the essence of creativity?",
+        "choice1": "Novelty",
+        "choice2": "Imagination",
+        "choice3": "Inspiration",
+        "choice4": "Self-satisfaction",
+        "answerKey": "Novelty"
+    },
+    {
+        "question": "For lesson clarity and effective retention, which should a teacher observe, according to Dale’s principle?",
+        "choice1": "End teaching with verbal symbols",
+        "choice2": "Begin teaching at the concrete level but go beyond it by reaching the abstract",
+        "choice3": "Start at the concrete level and end there",
+        "choice4": "Use purely verbal symbols in teaching",
+        "answerKey": "Begin teaching at the concrete level but go beyond it by reaching the abstract"
+    },
+    {
+        "question": "DepEd A Child-and Community-Centered Education  System (ACCES) describes the learner-centred education that teachers ought to provide. Which one does NOT describe learner-centered education?",
+        "choice1": "Environmentally safe",
+        "choice2": "Ethnocentric",
+        "choice3": "Culture-responsive",
+        "choice4": "Culture-sensitive",
+        "answerKey": "Ethnocentric"
+    },
+    {
+        "question": "“Don’t just believe because your teacher said so. You must be able to prove with data that such conclusion is correct” is a thought that comes from a/an_________.",
+        "choice1": "empiricist",
+        "choice2": "rationalist",
+        "choice3": "pragmatist",
+        "choice4": "essentialist",
+        "answerKey": "empiricist"
+    },
+    {
+        "question": "Which of the following computer-based instructional materials can be used to learn new concepts?",
+        "choice1": "Tutorial",
+        "choice2": "Simulation",
+        "choice3": "Drill and practice",
+        "choice4": "Games",
+        "answerKey": "Tutorial"
+    },
+    {
+        "question": "Which of the following planned routine activity can Teacher Nikki effectively apply in order to enrich her literature lesson on Shakespeare’s Romeo and Juliet?",
+        "choice1": "Viewing a related film",
+        "choice2": "Writing essays",
+        "choice3": "Going on a field trip",
+        "choice4": "Posting a facebook page",
+        "answerKey": "Viewing a related film"
+    },
+    {
+        "question": "Can a licensed professional teacher teach after continuous five years of not practicing the teaching profession?",
+        "choice1": "No, unless he/she has earned 12 units of refresher courses in education.",
+        "choice2": "That depends on the LET rating.",
+        "choice3": "That depends on the GPA in college",
+        "choice4": "Yes.",
+        "answerKey": "No, unless he/she has earned 12 units of refresher courses in education."
+    },
+    {
+        "question": "Based on Kubler-Ross’ model, which shows the correct arrangement of acceptance of a departed loved one?",
+        "choice1": "Denial-Anger-Bargaining-Despair-Hope-Acceptance",
+        "choice2": "Denial-Despair-Anger-Bargaining-Hope-Acceptance",
+        "choice3": "Denial-Anger-Bargaining-Despair-Acceptance-Hope",
+        "choice4": "Denial-Bargaining-Anger-Despair-Acceptance-Hope",
+        "answerKey": "Denial-Anger-Bargaining-Despair-Acceptance-Hope"
+    },
+    {
+        "question": "Based on RA 10533, the Enhanced Basic Education Act of 2013, is a non-licensed teacher allowed to teach in the K to 12 Curriculum full time?",
+        "choice1": "No, no one may each without a license.",
+        "choice2": "Yes, provided he/she obtains a license within five years from the time of hiring.",
+        "choice3": "Yes, only in TechVoc track where there is dearth of qualified teachers.",
+        "choice4": "That depends on the policy of the educational institution.",
+        "answerKey": "Yes, provided he/she obtains a license within five years from the time of hiring."
+    },
+    {
+        "question": "Based on RA 9293, may all who failed in the LET be deployed as para teachers?",
+        "choice1": "Yes, only in places where there are no applicants.",
+        "choice2": "No, only those with an average rating 70-74.",
+        "choice3": "That depends on teacher need of the community.",
+        "choice4": "Yes.",
+        "answerKey": "No, only those with an average rating 70-74."
+    },
+    {
+        "question": "A teacher shall base the evaluation of the learner’s work only in____.",
+        "choice1": "Merit and quality of academic performance",
+        "choice2": "Attendance, merit and quality of academic performance",
+        "choice3": "Attendance, character, merit and quality of academic performance",
+        "choice4": "Attendance, beauty, merit and quality of academic performance",
+        "answerKey": "Merit and quality of academic performance"
+    },
+    {
+        "question": "Which is true of the Alternative Learning System?",
+        "choice1": "More practical than the formal system",
+        "choice2": "Excludes informal learning system",
+        "choice3": "Lower than the formal system",
+        "choice4": "Learning system parallel to the formal system",
+        "answerKey": "Learning system parallel to the formal system"
+    },
+    {
+        "question": "Which teaching method is intended primarily for skill and concept mastery by way of practice?",
+        "choice1": "Supervised study",
+        "choice2": "Drill",
+        "choice3": "Project",
+        "choice4": "Review",
+        "answerKey": "Drill"
+    },
+    {
+        "question": "Curriculum may be defined in many ways. What does this prove?",
+        "choice1": "The concept of curriculum is based on these given by expert",
+        "choice2": "The concept of curriculum may be defined from different perspective",
+        "choice3": "The curriculum is characterized as fragmentary, elusive and confusing",
+        "choice4": "The concept is limited and narrow of scope",
+        "answerKey": "The concept of curriculum may be defined from different perspective"
+    },
+    {
+        "question": "Who is global teacher?",
+        "choice1": "Competent in the use of information and communication technology",
+        "choice2": "Able to teach learners from diverse groups and cultures",
+        "choice3": "A graduate of a degree in a University outside the country",
+        "choice4": "Knows how to speak different foreign languages",
+        "answerKey": "Able to teach learners from diverse groups and cultures"
+    },
+    {
+        "question": "Divergent questions fall under which type of question?",
+        "choice1": "According to thinking process involved",
+        "choice2": "According to the degree of personal exploration",
+        "choice3": "According to teacher choice",
+        "choice4": "According to type of answer required",
+        "answerKey": "According to type of answer required"
+    },
+    {
+        "question": "Which of the following instructional materials is the least concrete?",
+        "choice1": "Tutorial video",
+        "choice2": "School newsletter",
+        "choice3": "Illustrated textbooks",
+        "choice4": "Simulated flight software",
+        "answerKey": "School newsletter"
+    },
+    {
+        "question": "Ms.Samonte used a film clip in teaching Social Studies concepts to her First Year High School class. However, she found out that it was ineffectively used in the classroom. When is technology considered INEFFECTIVE?",
+        "choice1": "When it induces alienation on the part of the learners",
+        "choice2": "When it helps attain the objectives of the lesson",
+        "choice3": "When it promotes mastery of the lesson",
+        "choice4": "When it makes viewing more interesting",
+        "answerKey": "When it induces alienation on the part of the learners"
+    },
+    {
+        "question": "In which situation is a learner-centered approach to curriculum designing utilized?",
+        "choice1": "The class activity revolves around finding solutions to problems",
+        "choice2": "Memorization and drill are important learning skills.",
+        "choice3": "Teachers considers learners’ entry knowledge, skills and experiences.",
+        "choice4": "The focus of learning is mastery in terms of content",
+        "answerKey": "Teachers considers learners’ entry knowledge, skills and experiences."
+    },
+    {
+        "question": "Normand Grolund points out five differences between Criterion reference test and Norm reference test. The following belongs to Norm reference test not to include.\nI.   \tlarge or general domain \nII. \tmatches item difficulty to the learning task\nIII.    test is used for survey or general testing\nIV.  \tscore is based on defined learning domain",
+        "choice1": "II, IV",
+        "choice2": "II",
+        "choice3": "II, III",
+        "choice4": "I",
+        "answerKey": "II, IV"
+    },
+    {
+        "question": "How should Teacher Milan solve chronic behavior problems in her classroom?",
+        "choice1": "With gained confidence and skills",
+        "choice2": "Follow through regularly",
+        "choice3": "Clearly identify expectations",
+        "choice4": "Say no without guilt feelings.",
+        "answerKey": "With gained confidence and skills"
+    },
+    {
+        "question": "Modern functionalists believe that schools play a significant role in______.\n \nI. maintaining a modern democratic society especially with regard to quality of opportunity for all citizens\nII. Providing citizens with the knowledge and to participate actively in politics\nIII. Teaching students how to learn so that they may adapt new work roles and requirements\nIV. Providing students with skills and dispositions to work",
+        "choice1": "I, II, III and IV",
+        "choice2": "II and III",
+        "choice3": "I, III and IV",
+        "choice4": "I and II",
+        "answerKey": "I, II, III and IV"
+    },
+    {
+        "question": "Mr. Torres will have a multimedia presentation in his Science class. Which of the following should he avoid?",
+        "choice1": "Present information through graphic organizers",
+        "choice2": "Consider technical quality.",
+        "choice3": "Apply different computer effects per slid.",
+        "choice4": "Use contrasting colors for text and background.",
+        "answerKey": "Apply different computer effects per slid."
+    },
+    {
+        "question": "How can grading be meaningful?\nI.\tIt must be clear to all concerned\nII.\tStandards and competencies are understood by all\nIII.\tIt must be numerical",
+        "choice1": "II only",
+        "choice2": "I, II, and III",
+        "choice3": "I and II",
+        "choice4": "I only",
+        "answerKey": "I and II"
+    },
+    {
+        "question": "Parents and teachers are considered as authorities  and models by children at the early childhood stage. What does this statement imply?",
+        "choice1": "Teachers should demand complete obedience from the learners in school",
+        "choice2": "Teachers and parents should serve as role models at all times",
+        "choice3": "Parent-teacher conference  should always be an activity in school",
+        "choice4": "Parents should enforce strict discipline at home and teachers in school",
+        "answerKey": "Teachers and parents should serve as role models at all times"
+    },
+    {
+        "question": "In the maintenance of learning environment in teaching low-income students, these are effective behaviors by the teachers, except:",
+        "choice1": "More time spent on classroom management",
+        "choice2": "More praise and positive motivation",
+        "choice3": "Fewer teacher rebukes",
+        "choice4": "Less deviant, disruptive pupil behavior",
+        "answerKey": "More time spent on classroom management"
+    },
+    {
+        "question": "Is it advisable to use realias all the time?",
+        "choice1": "Yes, because there is no substitute for realias",
+        "choice2": "Yes, because it is the real thing",
+        "choice3": "No, only when feasible",
+        "choice4": "No, for the sake of variety of instructional materials",
+        "answerKey": "No, for the sake of variety of instructional materials"
+    },
+    {
+        "question": "If Mr. Duterte asked a question about the topic with the hope of encouraging response from the students, what teaching cycle is being demonstrated according to Bellak?",
+        "choice1": "Structuring moves",
+        "choice2": "Reacting moves",
+        "choice3": "Responding moves",
+        "choice4": "Soliciting moves",
+        "answerKey": "Soliciting moves"
+    },
+    {
+        "question": "Learners must be taught to take stand and defined the same after a thorough analysis of issues is an advice from a/an__________.",
+        "choice1": "Rationalist",
+        "choice2": "Empiricist",
+        "choice3": "existentialist",
+        "choice4": "progressivist",
+        "answerKey": "existentialist"
+    },
+    {
+        "question": "Here are some provisions of RA 10533, The Enhance Basic Education Act of 2013. \nRead them then answer # 35-39.\n \n“Make education learner-oriented and responsive to the needs, cognitive and \nCultural capacity, the circumstances and diversity of learners, schools and commu-\nnities through the appropriate languages of teaching and learning, including\nmother tongue as a learning resource.”\n \nBasic education shall be delivered in languages understood by the learners as\nThe language plays a strategic role in shaping the formative years of learners…..\n “The curriculum shall be culture-sensitive;..”\n“The curriculum shall be flexible enough to enable and allow schools to localize,\nIndigenize and enhance the same base on their respective educational and social\nContexts. The production and development of locally produced teaching materials\nshall be encouraged and approval of these materials shall devolve to the regional\nand division education units.”\n\n35. If the school acts as an agent of change, what is it expected to do?",
+        "choice1": "Implements a curriculum that will perpetuate the entire culture of the community",
+        "choice2": "Supplants the community culture with anew perceived to be superior to the community culture",
+        "choice3": "Enhances curriculum by localizing and indigenizing it with the help of community",
+        "choice4": "Let teachers indigenize curriculum on their own",
+        "answerKey": "Enhances curriculum by localizing and indigenizing it with the help of community"
+    },
+    {
+        "question": "Other researcher have addressed the problem of fitting teachers and students, and they point out that effective teachers vary for students with different learning characteristics and socioeconomic background, as well as for different grade levels and subjects. In using pupils’ time, which is not considered as effective behavior of teacher?",
+        "choice1": "More class time spent in task related activities",
+        "choice2": "None of the above",
+        "choice3": "Less independent seatwork",
+        "choice4": "More time spent working with small group",
+        "answerKey": "More time spent working with small group"
+    },
+    {
+        "question": "Should the planning of continuing professional development program consider the ASEAN Qualifications Reference Framework?",
+        "choice1": "No, continuing professional development is required only in the Philippines",
+        "choice2": "That depends on the profession concerned.",
+        "choice3": "Yes, for professional to be globally competitive.",
+        "choice4": "Not necessarily, it is enough that continuing professional development programs abide by PQF standards.",
+        "answerKey": "Yes, for professional to be globally competitive."
+    },
+    {
+        "question": "If you are afraid to be different from the rest even the rest if you are convinced that you are right makes you far from being a/an______.",
+        "choice1": "utilitarianist",
+        "choice2": "rationalist",
+        "choice3": "pragmatist",
+        "choice4": "existentialist",
+        "answerKey": "existentialist"
+    },
+    {
+        "question": "Is an alien qualified to take the Licensure Examination for Teachers?",
+        "choice1": "No, he/she is not a natural born citizen of the Philippines",
+        "choice2": "Yes, provided he/she is a teacher education graduate",
+        "choice3": "No, because she/he is not a citizen of the Philippines",
+        "choice4": "Yes, provided his/her country has reciprocity with the Philippines in the practice \nof the teaching profession.",
+        "answerKey": ""
+    },
+    {
+        "question": "In a classroom situation where students are discussing whether government efforts to establish peace in Mindanao will be beneficial to the whole country or not, which is the most appropriate strategy.",
+        "choice1": "Visualization exercise",
+        "choice2": "Conflict resolution",
+        "choice3": "Debate",
+        "choice4": "Consensus taking",
+        "answerKey": "Debate"
+    },
+    {
+        "question": "On which principles is the IMPACT system based?\n \nI. The children are active participants in the learning process.\nII. Encourage and develop in the children the skill to learn independently and eventually become self-and lifelong learning\nIII. Education is viewed as a socializing process and learning training. Group learning is, thus, the primary mode of learning.",
+        "choice1": "I, II and III",
+        "choice2": "III only",
+        "choice3": "I and II",
+        "choice4": "II and III",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "In the context of Bruner's principle of knowledge representation, which is the enactive phase of the lesson on fractions?",
+        "choice1": "Presenting the pizza and cutting it into two and four",
+        "choice2": "Using the model of fractions",
+        "choice3": "Asking the meaning of 1/2, 1/4 and 1/3",
+        "choice4": "Writing the fractions 1/2, 1/4 and 1/3 on the board",
+        "answerKey": "Presenting the pizza and cutting it into two and four"
+    },
+    {
+        "question": "Modesty has not practiced her teaching profession for the past five years. How many units of education courses should she take before she is allowed to teach?",
+        "choice1": "24 units",
+        "choice2": "15 units",
+        "choice3": "30 units",
+        "choice4": "12 units",
+        "answerKey": "12 units"
+    },
+    {
+        "question": "In a knowledge-based economy, schools can act as agents of changes by___________.\nI. engaging itself in transmissive education\nII. equipping learners with lifetime skills such as knowledge retrieval, comprehension, application and utilization\nIII. giving the learners the latest updates in education",
+        "choice1": "II only",
+        "choice2": "III only",
+        "choice3": "II and III",
+        "choice4": "I only",
+        "answerKey": "II only"
+    },
+    {
+        "question": "Macrina, the 10th grade language arts team leader, facilities a team of her colleagues as they look at the results of the recent writing sample, a teacher designed assessment given to all incoming 10th grade students. Macrina guides teachers as they discuss strengths and weaknesses of students’ writing performance as a group, as individuals, by classrooms, and in disaggregated clusters by race, gender, and previous school. They then plan instruction on the basis of these data.\nWhich role does teacher Macrina play?",
+        "choice1": "Principal",
+        "choice2": "Expert",
+        "choice3": "Data coach",
+        "choice4": "Department Head",
+        "answerKey": "Expert"
+    },
+    {
+        "question": "In Bloom’s analysis level, which question would fall under ‘analysis of elements’?",
+        "choice1": "Both b and c",
+        "choice2": "How does Picasso organize colors, shapes, and sizes to produce images?",
+        "choice3": "How does John Steinbeck use his characters to discuss the notion of friendship in Of Mice and Men?",
+        "choice4": "Who can distinguish between fact and opinion in the article we read?",
+        "answerKey": "Who can distinguish between fact and opinion in the article we read?"
+    },
+    {
+        "question": "Plants, pebbles, and blocks are just some of the effective instructional materials readily found in the environment if they are utilized properly. Which of the following is INCORRECT about their classroom use?",
+        "choice1": "Make sure that the realia and model are large enough to be seen by the whole class.",
+        "choice2": "Familiarize yourself with the object or model before its actual utilization.",
+        "choice3": "Pass a single object around the class.",
+        "choice4": "Use the objects as springboard in encouraging students' active participation.",
+        "answerKey": "Pass a single object around the class."
+    },
+    {
+        "question": "In her report to UNESCO, LEARNING: The Treasure Within, Jaques Delors, strongly recommended that all education reform be conducted in the  spirit and essence of sustainable development and called for the full-fledged pursuit of reorienting education to attain sustainability. Considering his/her influence on learners, which is the most fitting and significant response from a professional teacher?",
+        "choice1": "Integrate concept in Education for Sustainable (ESD) in lessons.",
+        "choice2": "Make ESD his/her thesis/dissertation problem.",
+        "choice3": "Create a separate subject on ESD",
+        "choice4": "Serve as lecture on ESD for all groups in the community.",
+        "answerKey": "Integrate concept in Education for Sustainable (ESD) in lessons."
+    },
+    {
+        "question": "In formulating classroom-level objectives, which among the following general rules should be kept in mind first?",
+        "choice1": "They should be based on subject and grade level objectives",
+        "choice2": "They should be consistent with teaching and learning theories and procedures",
+        "choice3": "They should be related to the developmental needs and tasks of learners",
+        "choice4": "They should relate to the whole child and several domains of learning",
+        "answerKey": "They should be related to the developmental needs and tasks of learners"
+    },
+    {
+        "question": "In general, there is a relationship between effective teachers and effective schools. Teachers, to be effective, need a supportive and positive atmosphere. This includes the following EXCEPT:",
+        "choice1": "High staff expectations",
+        "choice2": "Strong and supportive principal",
+        "choice3": "Available and suitable instructional materials",
+        "choice4": "Large class size to cater every student who needs to learn",
+        "answerKey": "Large class size to cater every student who needs to learn"
+    },
+    {
+        "question": "For teacher to serve as facilitator of learning, according to Kendall’s and Marzano’s new taxonomy, in which order should learners go through these processes?\n \nI. cognitive\nII. self-system\nIII. Metacognitive",
+        "choice1": "II, I and III",
+        "choice2": "I, II and III",
+        "choice3": "II, III and I",
+        "choice4": "I, III and II",
+        "answerKey": "I, III and II"
+    },
+    {
+        "question": "If you are a constructivist, what assumptions about learning and learner govern your thinking?",
+        "choice1": "For learners to learn, knowledge should be transmitted directly from teachers to learners.",
+        "choice2": "Learners are empty receptacles waiting to be filled.",
+        "choice3": "Learners are capable of constructing meaning of what is taught to them.",
+        "choice4": "Teachers are the only source of knowledge.",
+        "answerKey": "Learners are capable of constructing meaning of what is taught to them."
+    },
+    {
+        "question": "What is meant by the teachers’ indirectness according to Nate Gage?",
+        "choice1": "Reprimanding students and justifying authority",
+        "choice2": "Clarifying, building, and developing students ideas",
+        "choice3": "The willingness to accept student ideas and feelings, and the ability to provide a healthy emotional climate",
+        "choice4": "Support and encouragement, use of humor to release tension",
+        "answerKey": "The willingness to accept student ideas and feelings, and the ability to provide a healthy emotional climate"
+    },
+    {
+        "question": "What curriculum be the content\\topic when the teacher asked the learner to define curriculum and complete a matrix on the differences between traditional and progressive curriculum?",
+        "choice1": "Historical and philosophical foundation of curriculum",
+        "choice2": "Different element that affect curriculum",
+        "choice3": "The meaning of curriculum",
+        "choice4": "Various curriculum perspective",
+        "answerKey": "The meaning of curriculum"
+    },
+    {
+        "question": "To ensure high standards of teacher’s personal and professional development, one must refer to the qualification standards to the PQF? What does PQF stand for?",
+        "choice1": "Philippine Quality Framework",
+        "choice2": "Philippine Qualifications Focus",
+        "choice3": "Philippine Qualifications Framework",
+        "choice4": "Philippines Qualification Framework",
+        "answerKey": "Philippine Qualifications Framework"
+    },
+    {
+        "question": "What is the constitutional exemption for prohibition to establish schools solely for aliens in the Philippines?",
+        "choice1": "School for special alien children",
+        "choice2": "School for Asians only",
+        "choice3": "Religious or mission schools",
+        "choice4": "Schools for children of diplomats and their dependents",
+        "answerKey": "Schools for children of diplomats and their dependents"
+    },
+    {
+        "question": "What particular school function is developed when students internalize meaning of suffrage and apply it during election times?",
+        "choice1": "Social function",
+        "choice2": "Economic function",
+        "choice3": "Political function",
+        "choice4": "Cultural function",
+        "answerKey": "Political function"
+    },
+    {
+        "question": "What is the primary fundamental question in examining a curriculum?",
+        "choice1": "How can these educational experiences be effectively organized?",
+        "choice2": "What educational experiences can be provided that are likely to attain these purposes?",
+        "choice3": "How can we determine whether these purposes are attained or not?",
+        "choice4": "What educational purposes should the school seek to attain?",
+        "answerKey": "What educational purposes should the school seek to attain?"
+    },
+    {
+        "question": "What is TRUE about the Alternative Delivery Modes (ADMs)?\n \nI. Address the learning needs of the marginalized pupils and those learners at risk of dropping out\nII. Help learners overcome social and economic constraints in their schooling \nIII. Simplify curriculum for students at risk of dropping out",
+        "choice1": "II and III",
+        "choice2": "I and II",
+        "choice3": "I only",
+        "choice4": "II only",
+        "answerKey": "I and II"
+    },
+    {
+        "question": "The Code of Ethics for Professional Teachers provides guidelines on acceptable Teaching behavior. These are all tolerable EXCEPT ______.",
+        "choice1": "Having a romantic relationship with a student",
+        "choice2": "Discovering research finding that are damaging to the country",
+        "choice3": "Claiming others’ work to be yours",
+        "choice4": "Occasional drinking that does not lead to drunkenness",
+        "answerKey": "Claiming others’ work to be yours"
+    },
+    {
+        "question": "When in curriculum decongestion the first subjects that are dropped are philosophy, arts, humanities and the like, on which philosophy is the curriculum.",
+        "choice1": "Perennialism",
+        "choice2": "Progressivism",
+        "choice3": "Utilitarianism",
+        "choice4": "Existentialism",
+        "answerKey": "Utilitarianism"
+    },
+    {
+        "question": "Teacher Tyra believes that if her students are unwilling to learn the language, they will not learn how to spell or read. With this in mind, which principle of learning should she focus on?",
+        "choice1": "One learns to do what one does.",
+        "choice2": "Learning by doing is good advice.",
+        "choice3": "Teachers should provide opportunities for meaningful and appropriate practice.",
+        "choice4": "Learning should be goal-directed and focused.",
+        "answerKey": "One learns to do what one does."
+    },
+    {
+        "question": "What is/are TRUE od learning to be?\n \nI. reflects a shift from the education goal of economic productivity to a humanistic view of education.\nII. emphasize the development of the complete person\nIII. focuses on the development of reason only",
+        "choice1": "I and II",
+        "choice2": "I, II and III",
+        "choice3": "III only",
+        "choice4": "I only",
+        "answerKey": "I and II"
+    },
+    {
+        "question": "When teachers serve as role models, acclimate new teachers to a new school, and advice new teachers about instruction, curriculum, procedure, practices, and politics. Which role do they play?",
+        "choice1": "Mentor",
+        "choice2": "Principal",
+        "choice3": "Department Head",
+        "choice4": "Expert",
+        "answerKey": "Mentor"
+    },
+    {
+        "question": "Teacher have an important role to play in peace education. How can they contribute to genuine peace education?\n \nI. By creating a learning environment where both teachers and students teach and learn from one another through equitable dialogue\nII. By combining lessons with practical application toward socials societal and transformation\nII. By analysing issues in a holistic way that accounts for the past, present, and future, and includes the personal, local ang global levels\nIV. By promoting values such as compassion, equality, interdependence, diversity and, sustainability, and nonviolence",
+        "choice1": "I only",
+        "choice2": "II, IIII",
+        "choice3": "I, II, III, IV",
+        "choice4": "I,II",
+        "answerKey": "I, II, III, IV"
+    },
+    {
+        "question": "The International Commission on Education for the 21st Century advocates four pillars of learning, namely-learning to know. Learning to do, learning to be, and learning to live together. Since there are peace and cultural diversity problems in the world and everywhere, which of the four pillars should be given more emphasis in teaching?",
+        "choice1": "Learning to do",
+        "choice2": "Learning to be",
+        "choice3": "Learning to know",
+        "choice4": "Learning to live together",
+        "answerKey": "Learning to live together"
+    },
+    {
+        "question": "What pedagogy should schools adopt to help learners acquire the basic skills?",
+        "choice1": "Let students make a webquest regarding a particular topic.",
+        "choice2": "Do community visits and let students do a project to improve the community.",
+        "choice3": "Demonstrate skills needed and then let students perform the skills until mastery is achieved.",
+        "choice4": "Let students perform experiments and investigatory projects.",
+        "answerKey": "Demonstrate skills needed and then let students perform the skills until mastery is achieved."
+    },
+    {
+        "question": "Structural violence is reflected in conditions like_______.\n \nI. greatly gulf between the rich and the poor\nII. Highly uneven distribution of wealth and resources\nIII. Presence for hunger and poverty",
+        "choice1": "I, II and III",
+        "choice2": "I only",
+        "choice3": "II and III",
+        "choice4": "II only",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "The Philippines has the National Competency-Based Teacher Standards. Should these be taken into consideration in the planning and conduct of professional teachers’ continuing professional development programs?",
+        "choice1": "No, the PQF is the only one to be considered.",
+        "choice2": "Definitely, yes.",
+        "choice3": "Maybe",
+        "choice4": "Not necessarily",
+        "answerKey": "Definitely, yes."
+    },
+    {
+        "question": "The role of the teacher changes in a learner-centered environment. Which among the following circumstances is NOT included in Paradigm shift?",
+        "choice1": "is viewed as a support, collaborator and coach for students as they learn to gather and evaluate information for themselves",
+        "choice2": "actively encourages individuals to use their personal knowledge and skills to create unique solutions to problems",
+        "choice3": "is viewed as the primary source of information who continually directs it to the students",
+        "choice4": "participates at times as one who may not know it all but desires to learn",
+        "answerKey": "is viewed as the primary source of information who continually directs it to the students"
+    },
+    {
+        "question": "The mother tongue of the learner shall be the primary medium of instruction for teaching and learning in the kindergarten level EXCEPT when__________.\n \nI. The pupils in the kindergarten classroom have different mother tongues or when some of them speak another mother tongue\nII. The teacher does not speak the mother tongue, are not yet available.\nIII. Resource, in line with the use of the mother tongue, are not yet available\nIV. Teachers are not yet trained how to use the MTB-MLE program",
+        "choice1": "II and III",
+        "choice2": "I, II, and III",
+        "choice3": "I, II, III, and IV",
+        "choice4": "I and II",
+        "answerKey": "I, II, III, and IV"
+    },
+    {
+        "question": "When teachers lead other teachers to agree on standards, follow the adopted curriculum, use common pacing charts, and develop shared assessments, which role do the play?",
+        "choice1": "Curriculum evaluator",
+        "choice2": "Curriculum specialist",
+        "choice3": "Instruction specialist",
+        "choice4": "Curriculum designer",
+        "answerKey": "Curriculum specialist"
+    },
+    {
+        "question": "The reconstructionist philosophy influences classroom instruction today. Teachers act as social engineers and students learn within the classroom as a social laboratory. In line with this, teachers prepare the youth for leadership and life skills. However, mandatory volunteerism often results from this preparation due to the______.",
+        "choice1": "increased pressure from administrative and governmental entities",
+        "choice2": "emphasis on crediting and integration of civic education with existing curriculum",
+        "choice3": "Perceived sense of responsibility in the family and community",
+        "choice4": "desire to get more funding from civic-oriented organizations",
+        "answerKey": "emphasis on crediting and integration of civic education with existing curriculum"
+    },
+    {
+        "question": "The audio-visual experience is an opportunity for the teacher to guide students for more fruitful learning. It is more effective if students",
+        "choice1": "Are given quizzes immediately after the presentation",
+        "choice2": "Participate actively through discussion",
+        "choice3": "Are told to remember and memorize facts.",
+        "choice4": "Listen attentively and jot down notes",
+        "answerKey": "Listen attentively and jot down notes"
+    },
+    {
+        "question": "When his fellow science teachers share their frustration with students’ poorly written lab reports, Joe suggests that they invite several English teachers to recommend strategies for writing instruction. With two English teachers, the science teachers   examine a number of lab reports together and identify strengths and weaknesses. The English teachers share strategies they use in their classes to improve students’ writing.\n \nWhich role do the English teachers play in this case?",
+        "choice1": "Curriculum designer",
+        "choice2": "Curriculum specialist",
+        "choice3": "Instruction specialist",
+        "choice4": "Curriculum evaluator",
+        "answerKey": "Curriculum specialist"
+    },
+    {
+        "question": "To enable learners to respond to the demands of the present world, which should schools do?",
+        "choice1": "Teach Application-based, creative, critical, and innovative thinking",
+        "choice2": "Offer a fixed curriculum",
+        "choice3": "Prepare students for the present",
+        "choice4": "Teach information and concepts",
+        "answerKey": "Teach Application-based, creative, critical, and innovative thinking"
+    },
+    {
+        "question": "The following are attributes of peace educator EXCEPT_________.",
+        "choice1": "Lifelong learner who continues to improve his/her own learning abilities",
+        "choice2": "is motivated by service but expects rewards for services",
+        "choice3": "a responsible global citizen and an agent of culture and peace",
+        "choice4": "has the skills of communication and conflict resolution",
+        "answerKey": "is motivated by service but expects rewards for services"
+    },
+    {
+        "question": "What question/s does the learner ask at the metacognitive level processing?\n \nI. What has this lesson to do with me?\nII. Why did I not learn this at first?\nIII. How should I do this to be sure of results?\nIV. What is the best way to arrive at the solution?",
+        "choice1": "I, III and IV",
+        "choice2": "I, II and III",
+        "choice3": "II, III and IV",
+        "choice4": "I only",
+        "answerKey": "II, III and IV"
+    },
+    {
+        "question": "The following are attributes of critical thinkers as stated by Robert Ennis EXCEPT:\nI.\tLook for options\nII.\tAccepts all information\nIII.\tOpen-minded\nIV.\tHeuristic rather than systematic",
+        "choice1": "I and IV",
+        "choice2": "I and II",
+        "choice3": "II and II",
+        "choice4": "II and IV",
+        "answerKey": "II and IV"
+    },
+    {
+        "question": "When the teacher encourages the students to analyze issues, think critically about information given them, and help develop their skills on their own, which pillar of learning does she try to develop?",
+        "choice1": "Learning to do",
+        "choice2": "Learning to live together",
+        "choice3": "Learning to know",
+        "choice4": "Learning to be",
+        "answerKey": "Learning to know"
+    },
+    {
+        "question": "Teacher Medina always makes sure that students are aware that she is aware of their behavior and alert to difficulties they may encounter. Based on this, which recommendation on improving practice and drill does she follow?",
+        "choice1": "Move around the room to monitor students’ seatwork",
+        "choice2": "Provide variety and challenge in practice and drill",
+        "choice3": "Provide comments, explanations, and feedback",
+        "choice4": "Keep students alert and focused on the task",
+        "answerKey": "Move around the room to monitor students’ seatwork"
+    },
+    {
+        "question": "Students in the Senior High School (Grades 11 and 12) will select their tracks, namely; academic, tech-voc and sports and arts and design. What is the main reason behind this?",
+        "choice1": "To develop social skills among students so they will be able to adapt easily to their working environment.",
+        "choice2": "To develop the mastery of knowledge or concepts among students so they can earn their degrees.",
+        "choice3": "To develop mastery skills among students so that they have chances of employability.",
+        "choice4": "To develop their whole personality.",
+        "answerKey": "To develop mastery skills among students so that they have chances of employability."
+    },
+    {
+        "question": "Teacher A, an expert teacher, takes a great deal of time and expertise and makes a significant contribution to the development of anew professional. Which is his role?",
+        "choice1": "Mentor",
+        "choice2": "Department Head",
+        "choice3": "Expert",
+        "choice4": "Principal",
+        "answerKey": "Mentor"
+    },
+    {
+        "question": "In a faculty meeting, Peter expresses a concern that teachers may be treating some students differently from others. Students who to him for extra assistance have shared their perspectives, and Peter wants teachers to know what students are saying. As his colleagues discuss reasons for low student achievement, Peter challenges then to explore data about the relationship between family socioeconomic status and discipline referrals in the school. When a teacher begins to point fingers at students, he encourages them to examine how they can change his instructional practices to improve student engagement and achievement. Teacher Peter plays the role of a_______.",
+        "choice1": "Catalyst for change",
+        "choice2": "Curriculum designer",
+        "choice3": "expert",
+        "choice4": "Learner",
+        "answerKey": "Catalyst for change"
+    },
+    {
+        "question": "The classroom is very lively. There different groups and each group is brainstorming on the topic, healthy lifestyle. Every member has his/her own role to do for the realization of one goal-to make and present a Power point presentation of the topic. What pillar of education is exemplified most in the given classroom setting?",
+        "choice1": "Learning to live together",
+        "choice2": "Learning to be",
+        "choice3": "Learning to know",
+        "choice4": "Learning to do",
+        "answerKey": "Learning to live together"
+    },
+    {
+        "question": "Which is an offshoot of the pillar of learning to live together?",
+        "choice1": "Schools celebrate United Nations Weak",
+        "choice2": "schools show concern for what happens to learners after they leave school",
+        "choice3": "Students learn how to understand others and appreciate diversity among people",
+        "choice4": "Students learn how to care for the environment",
+        "answerKey": "Students learn how to understand others and appreciate diversity among people"
+    },
+    {
+        "question": "Miss Riel is very excited to do her presentation about the effect the global warming to Grade 5 student. She want to make sure the children will be interested. While preparing her slide, she should_____.",
+        "choice1": "use a different slid design with nature images for each slide to sustain interest",
+        "choice2": "put animation and slide transition on its slide to sustain attention",
+        "choice3": "include picture and a short video clip that capture the effect of global warming",
+        "choice4": "put one paragraph per slide to emphasize the fact about global warming",
+        "answerKey": "include picture and a short video clip that capture the effect of global warming"
+    },
+    {
+        "question": "For the continuing professional development seminar of the graduate in the doctorate level to meet standards, the outcome/s should be accordance with which level in the Philippine Qualifications Framework?",
+        "choice1": "Level 6",
+        "choice2": "Level 4",
+        "choice3": "Level 5",
+        "choice4": "Level 8",
+        "answerKey": "Level 8"
+    },
+    {
+        "question": "Which pillar of education is developed most when one prepares and does PowerPoint presentation?",
+        "choice1": "Learning to be",
+        "choice2": "Learning to do",
+        "choice3": "Learning to know",
+        "choice4": "Learning to live together",
+        "answerKey": "Learning to do"
+    },
+    {
+        "question": "Why should continuing professional development be in accordance with the Philippine Qualifications Framework (PQF)?\nBecause the PQF………FOR EACH LEVEL OF THE Philippine education system",
+        "choice1": "states the qualifications standards",
+        "choice2": "states the assessment tasks",
+        "choice3": "lays down the industry requirements",
+        "choice4": "Describes the attributes of a graduate",
+        "answerKey": "states the qualifications standards"
+    },
+    {
+        "question": "What makes operant conditioning different from classical conditioning?",
+        "choice1": "In operant conditioning, reinforcement is presented whether or not the subject responds",
+        "choice2": "In operant conditioning, reinforcement is presented before the subject responds.",
+        "choice3": "In operant conditioning, reinforcement is paired and presented with an unconditioned stumulus",
+        "choice4": "In operant conditioning, reinforcement is presented only when the subject responds",
+        "answerKey": "In operant conditioning, reinforcement is presented only when the subject responds"
+    },
+    {
+        "question": "One of the nine basic teaching principles wherein effectiveness is identified in terms of raising student achievement scores is the principle of clarity which means that:",
+        "choice1": "Similar expectations are maintained for activities and behavior at all times for all students.",
+        "choice2": "Inappropriate behavior is attended quickly to stop it and present its spread",
+        "choice3": "Lessons are presented logically and sequentially and enhanced illustrations and by keeping in touch with students",
+        "choice4": "All student work, including seatwork, homework and papers is corrected, errors are discussed, and feedback is provided",
+        "answerKey": "Lessons are presented logically and sequentially and enhanced illustrations and by keeping in touch with students"
+    },
+    {
+        "question": "Ned Flanders’ studies on teacher styles focused on the development of an instrument for quantifying verbal communication in the classroom. Teacher talk is categorized as a direct behavior and  an indirect behavior. Which among the following belongs to indirect behavior?\nI. Giving direction\nII. Accepts feeling \nIII. Criticizing or justifying\nIV. Ask questions\nV. praises or encourages",
+        "choice1": "II,III,IV,V",
+        "choice2": "II,IV,V",
+        "choice3": "II, V only",
+        "choice4": "I,II,IV,V",
+        "answerKey": "II,IV,V"
+    },
+    {
+        "question": "For the continuing professional development seminar of the Bachelor of Education graduate to meet standards, the outcome/s should be in accordance with which level in the Philippine Qualifications Framework?",
+        "choice1": "Level 7",
+        "choice2": "Level 4",
+        "choice3": "Level 5",
+        "choice4": "Level 6",
+        "answerKey": "Level 6"
+    },
+    {
+        "question": "What question does the learner ask at the self-system level processing?",
+        "choice1": "What has this lesson to do with me?",
+        "choice2": "Why did I not learn this at first?",
+        "choice3": "What is the best way to arrive at the solution?",
+        "choice4": "How should I do this to be sure of results?",
+        "answerKey": "What has this lesson to do with me?"
+    },
+    {
+        "question": "Miss Sanchez engaged her learners in activities where they develop writing, critical thinking, problem solving skills, and risk taking. Which of these 21st century skills does Miss Sanchez possess?",
+        "choice1": "Life and Career Skills",
+        "choice2": "Information and Technology Skills",
+        "choice3": "Communication skills",
+        "choice4": "Learning and Innovations skills",
+        "answerKey": "Learning and Innovations skills"
+    },
+    {
+        "question": "Investigations based on Lippitt and White found that children exhibit certain behaviors as the result of the teachers teaching style. If children were taught by an authoritarian teacher, he/she will exhibit the following:\nI. minimal student productivity\nII. failed to initiate activity\nIII. aggressiveness\nIV. Confusion\nV. works assignments without the aid of the teacher \nVI. rebellious toward the leader",
+        "choice1": "II,III,VI",
+        "choice2": "I,II,III,IV,VI",
+        "choice3": "III,IV,V,VI",
+        "choice4": "I,II,III,VI",
+        "answerKey": "II,III,VI"
+    },
+    {
+        "question": "At every team or faculty meeting, Lilian identifies something new that she tries to apply in her classroom. Her willingness to explore new strategies is infectious. Other teachers, encouraged by her willingness to discuss what works and what doesn’t, begin to talk about their teaching ang how it influences student learning. As a teacher, she shows that she is a//an________.",
+        "choice1": "learner",
+        "choice2": "curriculum planner",
+        "choice3": "instructional expert",
+        "choice4": "catalyst for change",
+        "answerKey": "learner"
+    },
+    {
+        "question": "“Every time you meet your students, put your first impressions about each of them within brackets and allow to disclose themselves as they are, is a wise thing to do”, is an advice from a/an__________.",
+        "choice1": "Pragmatist",
+        "choice2": "Progressivist",
+        "choice3": "Existential phenomenologist",
+        "choice4": "Rationalist",
+        "answerKey": "Existential phenomenologist"
+    },
+    {
+        "question": "Which of the following best defines curriculum development?",
+        "choice1": "The planning of learning opportunities intended to bring about certain desired changes in pupils and the assessment of the extent to which these changes have taken place.",
+        "choice2": "A continuous cycle of activities in which all elements of curriculum are considered.",
+        "choice3": "The total mental phenomena directly received at any given time",
+        "choice4": "Education is aiding each child to be socially creative individuals.",
+        "answerKey": "The planning of learning opportunities intended to bring about certain desired changes in pupils and the assessment of the extent to which these changes have taken place."
+    },
+    {
+        "question": "Supposing despite early preparations for a smooth transition from one activity to another, an unexpected failure of operation of an instructional device like a projector or a computer happens. Could the teacher be blamed for the idle time that ensues? What should she have done?",
+        "choice1": "No, she can continue the activity the following day rather than wait",
+        "choice2": "Yes, she should know how to repair any failure or ask for help immediately",
+        "choice3": "Yes, anticipate a failure and get ready with an alternative plan",
+        "choice4": "No, she is confident the devices are in good condition, no need for a plan",
+        "answerKey": "Yes, anticipate a failure and get ready with an alternative plan"
+    },
+    {
+        "question": "Objective: The students must be able to perform the experiment explaining the Boyle’s law in front of the class.\n\nWhich among the following characteristic of instructional objectives in the classroom does this VIOLATE?",
+        "choice1": "Objectives should also be formulated so that clear distinctions are required among learners to attain different behaviors.",
+        "choice2": "Complex objectives need to be stated analytically and specifically enough",
+        "choice3": "Objectives should be realistic and should only include what can be translated into classroom experience",
+        "choice4": "Objectives are developmental, representing roads to travel rather than terminal points.",
+        "answerKey": "Complex objectives need to be stated analytically and specifically enough"
+    },
+    {
+        "question": "Teacher Laida is an elementary grades teacher. She is very active in community activities. Every election time she serves as a member of the election committee. Then, during one election period her uncle ran for mayor. Laida got very much involved in the campaign. Is Teacher Laida’s action ethical?",
+        "choice1": "Yes, because it is her role to serve the community",
+        "choice2": "No, because serving during election time is very dangerous to life.",
+        "choice3": "No, because she should be non-partisan.",
+        "choice4": "Yes, because she should support her relative",
+        "answerKey": "No, because she should be non-partisan."
+    },
+    {
+        "question": "Here is a lesson objective in literature: “Using the six description of the elements of a good short story identify in writing the six elements in the short story by O. Henry with complete accuracy.” Applying Robert Mager’s principle on writing performance objectives, which is the criterion measure?",
+        "choice1": "“ using the six description of the element for a short story”",
+        "choice2": "“ the six element in the short story by O. Henry with complete accuracy",
+        "choice3": "“ with complete accuracy”",
+        "choice4": "“identify in writing”",
+        "answerKey": "“ with complete accuracy”"
+    },
+    {
+        "question": "Parents usually complain that the school where their children go, changes their textbooks. If you are the teacher, how would you explain to the parents, the practice they are complaining about?",
+        "choice1": "Textbooks cover are dirty and faded and do not look presentable",
+        "choice2": "Textbooks are already old and with pages torn or destroyed",
+        "choice3": "There are new authors of textbooks who are popular",
+        "choice4": "There are new developments in curriculum content included in new books.",
+        "answerKey": "There are new developments in curriculum content included in new books."
+    },
+    {
+        "question": "Mr. Sanchez, in planning his lessons, wants to base much of his instructional approach on Lev Vygotsky’s theory of “zone of proximal development.” In accordance with this theory, which of the following strategies would best support learning for Macy, a 13-year-old girl?",
+        "choice1": "Having her work with another student whose skill and concept levels are slightly more advanced that hers",
+        "choice2": "Giving her many opportunities for practice, thereby reinforcing the skills and concept that she has already has already mastered",
+        "choice3": "Having her use of manipulatives and technology that are readily available",
+        "choice4": "Having her work alone in a quiet atmosphere where she can access reference material appropriate to her grade level",
+        "answerKey": "Having her work with another student whose skill and concept levels are slightly more advanced that hers"
+    },
+    {
+        "question": "Which of the following is NOT an example of a defense mechanism?",
+        "choice1": "“I realized that I was angry with my brother, so I sat down to talk about the issue.”",
+        "choice2": "After the new baby was brought home, his four-year old brother threw temper tantrums and wrote all over the walls with crayons; acts he had not committed since age two.",
+        "choice3": "When questioned by a friend, the woman who was brutally raped last month answered that she was doing fine and that the entire incident had slipped her mind.",
+        "choice4": "“After my grandmother dies, my father still set her bed every night.”",
+        "answerKey": "“I realized that I was angry with my brother, so I sat down to talk about the issue.”"
+    },
+    {
+        "question": "The following are characteristic of progressive curriculum except.",
+        "choice1": "focuses on the experience of the student and supervised by the teacher",
+        "choice2": "the classroom is only one place for the student to learn; learning can take place anywhere",
+        "choice3": "takes into account all the curricular element and test these element through real life application",
+        "choice4": "knowledge that come from values disciplines should be focus",
+        "answerKey": "knowledge that come from values disciplines should be focus"
+    },
+    {
+        "question": "Which of the following nonverbal behaviors of the students are considered as attentive behaviors? \n\nI.  Alert, energetic, positive facial expressions \nII. Turning around to listen to a student who is speaking \nIII. Maintaining eye contact with the teacher\nIV.  Tipping the chair back and forth",
+        "choice1": "I,II,III,IV",
+        "choice2": "I,III only",
+        "choice3": "I,II only",
+        "choice4": "I,II,III",
+        "answerKey": "I,II,III"
+    },
+    {
+        "question": "For the continuing professional development seminar of the graduate in the masters to meet standards, the outcome/s should be accordance with which level in the Philippine Qualifications Framework?",
+        "choice1": "Level 5",
+        "choice2": "Level 6",
+        "choice3": "Level 7",
+        "choice4": "Level 4",
+        "answerKey": "Level 7"
+    },
+    {
+        "question": "Why waste so much time copying notes from the board when everything is in the textbook?” is a remark that comes from a_______.",
+        "choice1": "progressivist",
+        "choice2": "pragmatist",
+        "choice3": "utilitarianist",
+        "choice4": "empiricist",
+        "answerKey": "pragmatist"
+    },
+    {
+        "question": "Which of the following quotations is NOT a product of John Dewey’s thought on social educational reform?",
+        "choice1": "Give the pupils something to do not something to learn and the doing is of such a nature as to demand thinking naturally results",
+        "choice2": "Every teacher needs to improve not because they are not good enough, but because they can be even better.",
+        "choice3": "Education, therefore, is a process of living and not a preparation for future living",
+        "choice4": "If we teach today’s student as we taught yesterday’s we rob them of tomorrow.",
+        "answerKey": "Every teacher needs to improve not because they are not good enough, but because they can be even better."
+    },
+    {
+        "question": "Which of the following is a reason for the continuous appraisal of the existing curriculum in all levels?",
+        "choice1": "New national policies in government",
+        "choice2": "Economic status of the people",
+        "choice3": "Political trust of the country",
+        "choice4": "Changing needs and condition of society",
+        "answerKey": "Changing needs and condition of society"
+    },
+    {
+        "question": "For teacher to serve as facilitator of learning, according to Kendall’s and Marzano’s new taxonomy, in which order should learners go through these processes?\n \nI. cognitive\nII. self-system\nIII. Metacognitive",
+        "choice1": "II, III and I",
+        "choice2": "II, I and III",
+        "choice3": "I, III and II",
+        "choice4": "I, II and III",
+        "answerKey": "I, III and II"
+    },
+    {
+        "question": "Which of the following school activities is closely related and has greater impact to curriculum development?",
+        "choice1": "Monthly meeting with the barangay officials",
+        "choice2": "Review of the textbooks and reference material",
+        "choice3": "School visit of visitors from other places",
+        "choice4": "Principal's evaluation of teachers",
+        "answerKey": "Review of the textbooks and reference material"
+    },
+    {
+        "question": "Which is a proof of the public-private partnership for government to give access to quality secondary education?",
+        "choice1": "Itinerant Teacher",
+        "choice2": "Open High School",
+        "choice3": "Education Service Contracting Scheme",
+        "choice4": "Mobile Teacher",
+        "answerKey": "Education Service Contracting Scheme"
+    },
+    {
+        "question": "Which is/are teacher’s responsibility/ies?\nI. To ensure that assessment always supports learning and is based on a wide range of evidence.\nII. Plan, design and carry out assessment and help them to understand what is expected.\nIII. Involve learners fully in assessment and help them to understand what is expected.",
+        "choice1": "II only",
+        "choice2": "I, II and III",
+        "choice3": "I and II",
+        "choice4": "II and III",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Which is/are NOT implied in the aforementioned provisions of RA 10533?",
+        "choice1": "That community partner with schools",
+        "choice2": "That schools be community-centered",
+        "choice3": "That schools be independent of the community",
+        "choice4": "That schools be flexible",
+        "answerKey": "That schools be independent of the community"
+    },
+    {
+        "question": "Which is the correct statement for Education for Sustainable Development (ESD)?",
+        "choice1": "It concerns only the developing countries.",
+        "choice2": "It concerns economic and social development and environment protection.",
+        "choice3": "It is economic development at the expense of the environment",
+        "choice4": "It is social development through exclusive education",
+        "answerKey": "It concerns economic and social development and environment protection."
+    },
+    {
+        "question": "Which is/are way/s by which schools can be learned-centered, according to the aforementioned provisions of RA 10533?\n \nI. Using Mother Tongue as language of instruction\nII. By making curriculum flexible and responsive to community needs\nIII. By indigenizing curriculum",
+        "choice1": "I and II",
+        "choice2": "I only",
+        "choice3": "I, II and III",
+        "choice4": "I and III",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Which is the main objective of the Educational Service Contacting Scheme, or ESC?",
+        "choice1": "To decongest public secondary schools by “contracting” the excess capacities of private high schools through the provision of subsidies for students who, otherwise, would have gone to the public high schools",
+        "choice2": "To fill up the private schools with students or else go bankrupt and close",
+        "choice3": "To enter into an agreement with parents to send their children to school or else they get penalized",
+        "choice4": "To enter into a contract with public school students to stay and complete schooling or else their own tuition fees",
+        "answerKey": "To decongest public secondary schools by “contracting” the excess capacities of private high schools through the provision of subsidies for students who, otherwise, would have gone to the public high schools"
+    },
+    {
+        "question": "The mother tongue of the learner shall be the primary medium of instruction for teaching and learning in the kindergarten level EXCEPT when__________.\n \nI. The pupils in the kindergarten classroom have different mother tongues or when some of them speak another mother tongue\nII. The teacher does not speak the mother tongue, are not yet available.\nIII. Resource, in line with the use of the mother tongue, are not yet available\nIV. Teachers are not yet trained how to use the MTB-MLE program",
+        "choice1": "I and II",
+        "choice2": "II and III",
+        "choice3": "I, II, and III",
+        "choice4": "I, II, III, and IV",
+        "answerKey": "I, II, III, and IV"
+    },
+    {
+        "question": "Which of the following is mostly likely to be a characteristics of the teacher who is a good implementer of the curriculum?",
+        "choice1": "Teachers controls classroom activities and interaction",
+        "choice2": "Teacher emphasizes pupil discussion on varied topics",
+        "choice3": "Teacher provides differentiated activities for the students",
+        "choice4": "Teacher sticks to standards set by the subject content",
+        "answerKey": "Teacher provides differentiated activities for the students"
+    },
+    {
+        "question": "Which is not perennialist point of view about education?",
+        "choice1": "Experience is the real test of the worth of all things",
+        "choice2": "Truth is unusual and unchanging and therefore good education is constant",
+        "choice3": "Education should stimulate human to think critically",
+        "choice4": "Education should cultivate human’s rational mind",
+        "answerKey": "Experience is the real test of the worth of all things"
+    },
+    {
+        "question": "Which is progressive approach in transforming education that holistically critiques current shortcoming, failures, and discriminatory practices in education?",
+        "choice1": "Transformative education",
+        "choice2": "Multicultural Education",
+        "choice3": "Values Education",
+        "choice4": "Peace Education",
+        "answerKey": "Multicultural Education"
+    },
+    {
+        "question": "Which among the following shows the correct order of objectives in ascending order?\nI.\tCourse objectives\nII.\tUnit plan objectives\nIII.\tClassroom objectives\nIV.\tLesson plan objectives\nV.\tProgram objectives",
+        "choice1": "III-IV-II-I-V",
+        "choice2": "IV-II-III-I-V",
+        "choice3": "IV-III-II-I-V",
+        "choice4": "IV-II-III-V",
+        "answerKey": "IV-II-III-I-V"
+    },
+    {
+        "question": "DepEd A Child-and Community-Centered Education  System (ACCES) describes the learner-centred education that teachers ought to provide. Which one does NOT describe learner-centered education?",
+        "choice1": "Learning-focused",
+        "choice2": "Exclusive",
+        "choice3": "Developmental stage-appropriate",
+        "choice4": "Gender-sensitive",
+        "answerKey": "Exclusive"
+    },
+    {
+        "question": "Which modes of delivery apply to the e-IMPACT system?\n \nI. Programmed teaching\nII. Peer-group learning\nIII. Individual study",
+        "choice1": "I, II and III",
+        "choice2": "II and III",
+        "choice3": "I and II",
+        "choice4": "III only",
+        "answerKey": "I, II and III"
+    },
+    {
+        "question": "Which among the following greatly distinguishes objectives from goals?",
+        "choice1": "These cut across subjects and grade levels",
+        "choice2": "These provide direction for educators.",
+        "choice3": "These state what students should accomplish over the entire school year",
+        "choice4": "These are stated in behavioral terms.",
+        "answerKey": "These are stated in behavioral terms."
+    },
+    {
+        "question": "Which is TRUE of Open High School Program?",
+        "choice1": "Falls under the alternative learning system",
+        "choice2": "Recommended for “Students At Risk of Dropping Out” who permanently cannot attend regular classes",
+        "choice3": "Falls under the informal system",
+        "choice4": "Open to all students who are interest",
+        "answerKey": "Recommended for “Students At Risk of Dropping Out” who permanently cannot attend regular classes"
+    },
+    {
+        "question": "In a knowledge-based economy, schools can act as agents of changes by___________.\nI. engaging itself in transmissive education\nII. equipping learners with lifetime skills such as knowledge retrieval, comprehension, application and utilization\nIII. giving the learners the latest updates in education",
+        "choice1": "III only",
+        "choice2": "II and III",
+        "choice3": "I only",
+        "choice4": "II only",
+        "answerKey": "II only"
+    },
+    {
+        "question": "Which of these goals DOES NOT achieve global education?",
+        "choice1": "Promote life skills for young adults",
+        "choice2": "Expand early childhood care education",
+        "choice3": "Increase adult illiteracy by 50%",
+        "choice4": "Expand early childhood care education",
+        "answerKey": "Increase adult illiteracy by 50%"
+    },
+    {
+        "question": "Which does Education Service Contracting Scheme point to?",
+        "choice1": "The independence of the private school system from the public school system",
+        "choice2": "The complementary roles of public and private institutions in the educational system",
+        "choice3": "The sufficiency of the public school system",
+        "choice4": "The sufficiency of the private school system",
+        "answerKey": "The complementary roles of public and private institutions in the educational system"
+    },
+    {
+        "question": "Which is NOT true about globalization?",
+        "choice1": "As advanced by the ASEAN Heads of states it has three distinct pillars: economic socio-cultural, and political community",
+        "choice2": "It is one of the most dominant forces facing education in the 21st Century.",
+        "choice3": "It affects all countries, some more favourably than the others in terms of economic growth, national sovereignty, and cultural identity.",
+        "choice4": "It seeks to explain the integration of economies and societies around the world as they are knit together by travel, language, values and ideas, trade, labor and financial flows, communication and technology.",
+        "answerKey": "As advanced by the ASEAN Heads of states it has three distinct pillars: economic socio-cultural, and political community"
+    },
+    {
+        "question": "Which of the following skills should be required of children and youth to master the greatest challenges regardless of national origin or cultural upbringing?",
+        "choice1": "Psychomotor skills",
+        "choice2": "Higher-order cognitive and interpersonal skills",
+        "choice3": "Social and spiritual skills",
+        "choice4": "Emotional and leadership skills",
+        "answerKey": "Higher-order cognitive and interpersonal skills"
+    },
+    {
+        "question": "Based on RA 10533, the Enhanced Basic Education Act of 2013, is a non-licensed teacher allowed to teach in the K to 12 Curriculum full time?",
+        "choice1": "Yes, only in TechVoc track where there is dearth of qualified teachers.",
+        "choice2": "That depends on the policy of the educational institution.",
+        "choice3": "No, no one may each without a license.",
+        "choice4": "Yes, provided he/she obtains a license within five years from the time of hiring.",
+        "answerKey": "Yes, provided he/she obtains a license within five years from the time of hiring."
+    },
+    {
+        "question": "“Make education learner-oriented and responsive to the needs, cognitive and \nCultural capacity, the circumstances and diversity of learners, schools and commu-\nnities through the appropriate languages of teaching and learning, including\nmother tongue as a learning resource.”\n\nBasic education shall be delivered in languages understood by by the learners as\nThe language plays a strategic role in shaping the formative years of learners…..\n “The curriculum shall be culture-sensitive;..”\n“The curriculum shall be flexible enough to enable and allow schools to localize,\nIndigenize and enhance the same base on their respective educational and social\nContexts. The production and development of locally produced teaching materials\nshall be encouraged and approval of these materials shall devolve to the regional\nand division education units.”\n\n36. Schools should be culture-sensitive. Which is an indicator of culture sensitivity?",
+        "choice1": "Knowing that differences exist between cultures",
+        "choice2": "labelling cultural practice as right and wrong",
+        "choice3": "Labelling cultural practice right or wrong in the light of the organizational goals",
+        "choice4": "Identifying which is better or worse cultural practice",
+        "answerKey": "Knowing that differences exist between cultures"
+    },
+    {
+        "question": "Which are classified as bullying?\n \nI. Punching, shoving, kicking, slapping tickling, headlocks, inflicting school pranks, teasing, and fighting using available objects as weapons\nII. Any act that causes damage to a victim’s psyche and/or emotional well being\nIII. Name-calling, tormenting, and commenting negatively on victim’s looks, clothes and body\nIV. Cyber-bullying or any bullying done through the use of technology or any electronic means",
+        "choice1": "II, III and IV",
+        "choice2": "I, II, III and IV",
+        "choice3": "I and II",
+        "choice4": "III and IV",
+        "answerKey": "I, II, III and IV"
+    },
+    {
+        "question": "Which among the following is closest to the real human digestive system for study in the classroom?",
+        "choice1": "Drawing of the human digestive system on the board",
+        "choice2": "Model of the human digestive system",
+        "choice3": "The human digestive system projected on an OHP",
+        "choice4": "Drawing of the human digestive system on a page of a textbook",
+        "answerKey": "Model of the human digestive system"
+    },
+    {
+        "question": "Which of the following is the role of educational technology in learning according to the traditionalist point of view?",
+        "choice1": "It engages learners in active, constructive, intentional, authentic, and cooperative learning.",
+        "choice2": "It serves as a presenter of knowledge, just like teachers.",
+        "choice3": "It serves as tools to support knowledge construction.",
+        "choice4": "It is a social medium to support learning by conversing.",
+        "answerKey": "It serves as a presenter of knowledge, just like teachers."
+    },
+    {
+        "question": "Which is the best reason why teachers state the objectives before using instructional media?",
+        "choice1": "To prepare the materials beforehand.",
+        "choice2": "To determine which media to use best.",
+        "choice3": "To secure materials",
+        "choice4": "To be able to practice how to operate the equipment",
+        "answerKey": "To determine which media to use best."
+    },
+    {
+        "question": "Which of the following is a limitation of models and real objects in teaching and learning?",
+        "choice1": "They pose problems on storage",
+        "choice2": "They provide hands-on learning experiences.",
+        "choice3": "They are readily available in the environment, around school and in the home.",
+        "choice4": "They make learning more concrete.",
+        "answerKey": "They pose problems on storage"
+    },
+    {
+        "question": "Which statement about the subject-centered curriculum is not true?",
+        "choice1": "The teacher has full control of the classroom activities",
+        "choice2": "There is a high level of cooperative interaction",
+        "choice3": "The main task is mastery of learning",
+        "choice4": "It covers much content in a short period of time",
+        "answerKey": "There is a high level of cooperative interaction"
+    },
+    {
+        "question": "Which role do teachers play when they help their colleagues by sharing instructional resources such as Web sites, reading?",
+        "choice1": "Resource provider",
+        "choice2": "Instructional Material Custodian",
+        "choice3": "Community leader",
+        "choice4": "Subject expert",
+        "answerKey": "Resource provider"
+    },
+    {
+        "question": "Which role do teacher-leaders play?\n \nI. shape culture of their schools\nII. Improve student learning\nIII. Influence practice among their peers",
+        "choice1": "I,II and III",
+        "choice2": "II",
+        "choice3": "I,II",
+        "choice4": "II and III",
+        "answerKey": "I,II and III"
+    },
+    {
+        "question": "Would it be easier to understand and retain the concept of fractions if Mrs. Domingo began the lesson on fractions with the meaning of 1/2, 1/3, 1/4, etc.",
+        "choice1": "Yes, provided we include a concrete application of the abstract",
+        "choice2": "It depends on the teaching skills of the teacher",
+        "choice3": "Yes, provided we proceed to the concrete",
+        "choice4": "No, for better learning we proceed from the concrete to the abstract",
+        "answerKey": "No, for better learning we proceed from the concrete to the abstract"
+    },
+    {
+        "question": "After teaching  them the process of experimenting, Teacher Joe wanted his students to be able set up an experiment to find an answer to a scientific problem. Which will he ask his students to do?",
+        "choice1": "Research on the answers to this scientific problem: Can aerial plans survive when transferred in soil?",
+        "choice2": "Observe if aerial plants can survive when planted  in soil. Note your observations and present them in class",
+        "choice3": "Can aerial plants also live on land? Research on experiments already conducted. Present your finding in class.",
+        "choice4": "Set up and experiment to find out if aerial plants can also live on land.",
+        "answerKey": "Set up and experiment to find out if aerial plants can also live on land."
+    },
+    {
+        "question": "After 2002, is there another way of obtaining a professional teacher’s license other than passing the LET?",
+        "choice1": "Yes, by applying for the conversion of one’s Professional Board Examination for Teachers (PBET) passing rating to a license.",
+        "choice2": "Yes, if one has three years of teaching with very satisfactory teaching performance",
+        "choice3": "Yes, if one has five years of teaching with very satisfactory teaching performance.",
+        "choice4": "None.",
+        "answerKey": "Yes, by applying for the conversion of one’s Professional Board Examination for Teachers (PBET) passing rating to a license."
+    },
+    {
+        "question": "Which situation best illustrates the concept of growth?",
+        "choice1": "An education student has gained knowledge on approaches and strategies in teaching different subjects.",
+        "choice2": "A kinder pupil gains 2 pounds within two months.",
+        "choice3": "Elementary grader has learned to play piano.",
+        "choice4": "A high school students gets a score of 85 in a mental ability test.",
+        "answerKey": "A kinder pupil gains 2 pounds within two months."
+    },
+    {
+        "question": "Which is NOT true about globalization?",
+        "choice1": "It is one of the most dominant forces facing education in the 21st Century.",
+        "choice2": "It seeks to explain the integration of economies and societies around the world as they are knit together by travel, language, values and ideas, trade, labor and financial flows, communication and technology",
+        "choice3": "It affects all countries, some more favourably than the others in terms of economic growth, national sovereignty, and cultural identity.",
+        "choice4": "As advanced by the ASEAN Heads of states it has three distinct pillars: economic socio-cultural, and political community",
+        "answerKey": "As advanced by the ASEAN Heads of states it has three distinct pillars: economic socio-cultural, and political community"
+    },
+    {
+        "question": "Which statements below best describes development?",
+        "choice1": "A high school student’s height increased by 5’2” to 5’4”",
+        "choice2": "A student had learned to operate the computer.",
+        "choice3": "A student’s enlargement of hips.",
+        "choice4": "A high school student’s change in weight from 110 lbs. to 125 lbs.",
+        "answerKey": "A student had learned to operate the computer."
+    },
+    {
+        "question": "With which kind/s of interaction is the goal of global or international education where Filipino teachers play a part?\n \nI. Thinking, perceiving, communicating, and behaving in new and different ways with people from many different backgrounds\nII. Expecting people to think, perceive, communicate and behave in the same way that Filipino do\nIII. Making people adopt Filipino beliefs and practices as these are highly positive",
+        "choice1": "II only",
+        "choice2": "I only",
+        "choice3": "III only",
+        "choice4": "I, II and III",
+        "answerKey": "I only"
+    },
+    {
+        "question": "Ana isa licensed teacher but has quit teaching for the past years. After ﬁve years, she decided to serve as a teacher again. Can Ana go back to teaching immediately?",
+        "choice1": "No, she has abandoned the teaching profession",
+        "choice2": "Yes, she is a licensed teacher.",
+        "choice3": "Yes, especially if there is no other teacher who can ﬁll in the vacant position.",
+        "choice4": "No, she gas to take ﬁrst a 12-unit refresher course before she can go back to teaching.",
+        "answerKey": "No, she gas to take ﬁrst a 12-unit refresher course before she can go back to teaching."
+    },
+    {
+        "question": "Which part of the lesson is the symbolic stage?",
+        "choice1": "Writing the fractions 1/2, 1/4, 1/3, 2/4 on the board",
+        "choice2": "Dividing the pizza into two",
+        "choice3": "Dividing the pizza further into four",
+        "choice4": "Using the model of fractions",
+        "answerKey": "Writing the fractions 1/2, 1/4, 1/3, 2/4 on the board"
+    },
+    {
+        "question": "Which statement is NOT true of CHED?",
+        "choice1": "It regulates and supervises tertiary education",
+        "choice2": "It is governed by commissioners headed by a Chairperson",
+        "choice3": "It is in charge of education programs in all levels",
+        "choice4": "It supervises both public and private higher education institutions",
+        "answerKey": "It is in charge of education programs in all levels"
+    },
+    {
+        "question": "While there is modernity and progress through the use of technology in instruction, what is the greatest danger along the domain of learning that is posed by technology?",
+        "choice1": "Developing visual and audial orientation",
+        "choice2": "Developing passivity and uncritical minds",
+        "choice3": "Using technology to lighten up lessons",
+        "choice4": "Using technology to fill in lesson gaps",
+        "answerKey": "Developing passivity and uncritical minds"
+    },
+    {
+        "question": "You wanted your students to learn the different bodies of water as a part of your lesson. Which of these objectives is not appropriate for your lesson?",
+        "choice1": "Draw the different kinds of bodies of water",
+        "choice2": "Go on a field trip to study all kinds of bodies of water",
+        "choice3": "Name the different kinds of bodies of water",
+        "choice4": "Name ways by which we can protect the bodies of water",
+        "answerKey": "Go on a field trip to study all kinds of bodies of water"
+    },
+    {
+        "question": "Which statement/s on “Learning to do” is/are CORRECT?\n \nI. Learning to do calls for new types of skills, more behavioural than intellectual\nII. The material and the technology are becoming secondary to human qualities and interpersonal relationship.\nIII. Learning to do implies shift from skill to competence.",
+        "choice1": "II and III",
+        "choice2": "I, II and III",
+        "choice3": "I and III",
+        "choice4": "I and II",
+        "answerKey": "I, II and III"
+    }
+]
