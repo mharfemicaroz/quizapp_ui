@@ -146,7 +146,7 @@ export default {
         },
         {
           name: 'Specialization',
-          subcategories: [],
+          subcategories: ['Major-English','Major-Home Economics'],
         },
       ],
       lineData: {
@@ -336,6 +336,16 @@ export default {
 
       // Load quiz data based on selected subcategory
       switch (this.selectedSubcategory) {
+        case 'Major-Home Economics':
+          import('./assets/quizData-majtle.json').then((module) => {
+            this.initializeQuiz(module.default);
+          });
+          break;
+        case 'Major-English':
+          import('./assets/quizData-majeng.json').then((module) => {
+            this.initializeQuiz(module.default);
+          });
+          break;
         case 'English':
           import('./assets/quizData-english.json').then((module) => {
             this.initializeQuiz(module.default);
