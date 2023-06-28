@@ -68,6 +68,7 @@
           <div class="result">
             <p>You scored {{ correctAnswers }}/{{ questions.length }}</p>
             <p>Percentage: {{ percentage.toFixed(2) }}%</p>
+            <p>You outperformed {{ getPercentile }}% of the quizzers in {{ selectedSubcategory }}.</p>
             <div class="row justify-content-center" style="margin-bottom: 25px;">
               <div class="col-md-12">
                 <div class="card">
@@ -128,6 +129,7 @@ export default {
       isDone: false,
       loading: false,
       quizzerdata: [],
+      groupdata: [],
       login: {
         username: '',
         password: '',
@@ -195,6 +197,35 @@ export default {
     percentage() {
       return (this.correctAnswers / this.questions.length) * 100;
     },
+    quizzerAverage() {
+      const n = this.quizzerdata.length;
+      const sum = this.quizzerdata.reduce((accumulator, currentValue) => {
+        return accumulator + parseFloat(currentValue.percentage);
+      }, 0);
+      const avg = (sum / n).toFixed(2);
+      return avg;
+    },
+    groupAverage() {
+      const n = this.groupdata.length;
+      const sum = this.groupdata.reduce((accumulator, currentValue) => {
+        return accumulator + parseFloat(currentValue.percentage);
+      }, 0);
+      const avg = (sum / n).toFixed(2);
+      return avg;
+    },
+    groupStdev(){
+      let arr = [];
+      for (const item of this.quizzerdata) {
+        arr.push(parseFloat(item.percentage));
+      }
+      return this.getStandardDeviation(arr);
+    },
+    getZscore(){
+      return (this.quizzerAverage - this.groupAverage) / this.groupStdev;
+    },
+    getPercentile(){
+      return (this.GetZPercent(this.getZscore) * 100).toFixed(2);
+    },
   },
   created() {
     this.userdata = userdata;
@@ -239,8 +270,53 @@ export default {
         .finally(() => {
           this.isDone = true; // Set loading state to false when the request is completed
         });
+      axios
+        .get(`https://api.knp.edu.ph/api/public/api/results?category=${encodeURIComponent(this.selectedCategory.name)}&subcategory=${encodeURIComponent(this.selectedSubcategory)}`)
+        .then((response) => {
+          this.groupdata = response.data.results;
+        })
+        .catch((error) => {
+          console.error('Error loading the data:', error);
+        })
     },
-    processQuizzerData(){
+    getStandardDeviation(array) {
+      const n = array.length
+      const mean = array.reduce((a, b) => a + b) / n
+      return Math.sqrt(array.map(x => Math.pow(x - mean, 2)).reduce((a, b) => a + b) / n)
+    },
+    GetZPercent(z) {
+
+      // z == number of standard deviations from the mean
+
+      // if z is greater than 6.5 standard deviations from the mean the
+      // number of significant digits will be outside of a reasonable range
+
+      if (z < -6.5) {
+        return 0.0;
+      }
+
+      if (z > 6.5) {
+        return 1.0;
+      }
+
+      var factK = 1;
+      var sum = 0;
+      var term = 1;
+      var k = 0;
+      var loopStop = Math.exp(-23);
+
+      while (Math.abs(term) > loopStop) {
+        term = .3989422804 * Math.pow(-1, k) * Math.pow(z, k) / (2 * k + 1) / Math.pow(2, k) * Math.pow(z, k + 1) / factK;
+        sum += term;
+        k++;
+        factK *= k;
+      }
+
+      sum += 0.5;
+
+      return sum;
+    },
+    processQuizzerData() {
       this.quizzerdata.push({
         "id": "final",
         "percentage": this.percentage,
@@ -470,11 +546,11 @@ export default {
 }
 
 .card-header {
-    border: none;
-    background-color: transparent;
+  border: none;
+  background-color: transparent;
 }
 
 .card-body.chart {
-    height: 300px;
+  height: 300px;
 }
 </style>
