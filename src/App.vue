@@ -53,11 +53,10 @@
       <div v-else>
         <div class="card-lg" v-if="!showAnswers">
           <div class="card-body">
-            <h4 class="card-title question" style="margin-bottom: 60px;">{{ currentQuestion.question }}</h4>
+            <h4 class="card-title question" style="margin-bottom: 60px;" v-html="currentQuestion.question"></h4>
             <div class="choices-container">
               <button v-for="choice in shuffledChoices" :key="choice" @click="selectChoice(choice)"
-                class="btn btn-primary" :disabled="quizFinished">
-                {{ choice }}
+                class="btn btn-primary" :disabled="quizFinished" v-html="choice">
               </button>
             </div>
           </div>
@@ -146,7 +145,7 @@ export default {
         },
         {
           name: 'Specialization',
-          subcategories: ['Major-English','Major-Home Economics'],
+          subcategories: ['Major-English', 'Major-Home Economics', 'Major-Mathematics'],
         },
       ],
       lineData: {
@@ -213,22 +212,39 @@ export default {
       const avg = (sum / n).toFixed(2);
       return avg;
     },
-    groupStdev(){
+    groupStdev() {
       let arr = [];
       for (const item of this.quizzerdata) {
         arr.push(parseFloat(item.percentage));
       }
       return this.getStandardDeviation(arr);
     },
-    getZscore(){
+    getZscore() {
       return (this.quizzerAverage - this.groupAverage) / this.groupStdev;
     },
-    getPercentile(){
+    getPercentile() {
       return (this.GetZPercent(this.getZscore) * 100).toFixed(2);
     },
   },
   created() {
     this.userdata = userdata;
+  },
+  watch: {
+    currentQuestion(newQuestion, oldQuestion) {
+      // Perform actions when the currentQuestion changes
+      console.log('Current question changed:', newQuestion);
+      // Add your custom logic here...
+
+      // For example, you can check if the newQuestion is the last question
+      if (this.currentQuestionIndex === this.questions.length - 1) {
+        console.log('Last question reached!');
+        // Perform any specific actions for the last question
+      }
+
+      this.$nextTick(() => {
+        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+      });
+    },
   },
   methods: {
     loginUser() {
@@ -336,6 +352,11 @@ export default {
 
       // Load quiz data based on selected subcategory
       switch (this.selectedSubcategory) {
+        case 'Major-Mathematics':
+          import('./assets/quizData-majmth.json').then((module) => {
+            this.initializeQuiz(module.default);
+          });
+          break;
         case 'Major-Home Economics':
           import('./assets/quizData-majtle.json').then((module) => {
             this.initializeQuiz(module.default);
@@ -349,6 +370,7 @@ export default {
         case 'English':
           import('./assets/quizData-english.json').then((module) => {
             this.initializeQuiz(module.default);
+
           });
           break;
         case 'Filipino':
@@ -446,7 +468,6 @@ export default {
     },
     selectChoice(choice) {
       this.selectedChoices.push(choice);
-
       if (this.currentQuestionIndex < this.questions.length - 1) {
         this.currentQuestionIndex++;
       } else {
@@ -502,6 +523,7 @@ export default {
         this.lineData.datasets[0].data = [];
         this.quizzerdata = [];
         this.isDone = false;
+        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
       } else {
         this.selectedCategory = null;
         this.selectedSubcategory = null;
@@ -513,8 +535,10 @@ export default {
   },
   mounted() {
     this.$nextTick(() => {
-      document.body.addEventListener('contextmenu', this.handleContextMenu);
+      //document.body.addEventListener('contextmenu', this.handleContextMenu);
     });
+
+
   }
 
 };
