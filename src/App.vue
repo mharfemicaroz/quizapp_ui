@@ -64,6 +64,9 @@
                   <th>attempts</th>
                   <th>average</th>
                   <th>index score</th>
+                  <th>percentile</th>
+                  <th>power score</th>
+                  <th>final score</th>
                 </tr>
               </thead>
               <tbody>
@@ -73,6 +76,9 @@
                   <td>{{ item.attempts }}</td>
                   <td>{{ item.avg }}</td>
                   <td>{{ item.indexScore }}</td>
+                  <td>{{ item.zPercent }}</td>
+                  <td>{{ item.powerScore }}</td>
+                  <td>{{ item.finalScore }}</td>
                 </tr>
               </tbody>
             </table>
@@ -250,6 +256,14 @@ export default {
       const maxAttempts = Math.max(...resultArray.map(result => result.attempts));
       const minAttempts = Math.min(...resultArray.map(result => result.attempts));
 
+      const allMean = (resultArray.reduce((sum, item) => sum + parseFloat(item.avg), 0) / resultArray.length).toFixed(2);
+      const allStd = this.getStandardDeviation(resultArray.map(item => parseFloat(item.avg)));
+      resultArray.forEach(result => {
+        const quantity = ((result.avg - allMean) / allStd).toFixed(2);
+        result.zScore = quantity;
+        result.zPercent = (this.GetZPercent(quantity) * 100).toFixed(2);
+      });
+
       resultArray.forEach(result => {
         result.normalizeAttempt = ((result.attempts - minAttempts) / (maxAttempts - minAttempts)) * 100;
       });
@@ -258,7 +272,21 @@ export default {
         result.indexScore = ((0.40 * result.normalizeAttempt) + (0.60 * result.avg)).toFixed(2);
       });
 
-      resultArray.sort((a, b) => b.indexScore - a.indexScore);
+      resultArray.forEach(result => {
+        result.powerScore = (result.avg * result.attempts).toFixed(2);
+      });
+
+      const maxPowerScore = Math.max(...resultArray.map(result => result.powerScore ));
+
+      resultArray.forEach(result => {
+        result.powerScore = (result.powerScore * 100 / maxPowerScore).toFixed(2);
+      });
+
+      resultArray.forEach(result => {
+        result.finalScore = ((0.50 * result.zPercent) + (0.30 * result.powerScore) + (0.20 * result.indexScore)).toFixed(2);
+      });
+
+      resultArray.sort((a, b) => b.finalScore - a.finalScore);
 
       return resultArray;
     },
