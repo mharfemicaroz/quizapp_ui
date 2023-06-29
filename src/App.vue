@@ -84,6 +84,9 @@
         <div v-else>
           <div class="card-lg" v-if="!showAnswers">
             <div class="card-body">
+              <div class="timer text-primary text-center" style="margin-bottom: 60px;">
+                <h5>Time Left: {{ minutes }}:{{ seconds < 10 ? '0' + seconds : seconds }}</h5>
+              </div>
               <h4 class="card-title question" style="margin-bottom: 60px;" v-html="currentQuestion.question"></h4>
               <div class="choices-container">
                 <button v-for="choice in shuffledChoices" :key="choice" @click="selectChoice(choice)"
@@ -157,6 +160,9 @@ export default {
   },
   data() {
     return {
+      timer: null,
+      timeLimit: 900, // 15 minutes in seconds
+      timeElapsed: 0,
       isDone: false,
       loading: false,
       isGroupDataLoading: false,
@@ -202,6 +208,12 @@ export default {
     };
   },
   computed: {
+    minutes() {
+      return Math.floor((this.timeLimit - this.timeElapsed) / 60);
+    },
+    seconds() {
+      return (this.timeLimit - this.timeElapsed) % 60;
+    },
     isAdmin() {
       if (this.loggedIn && this.login.username === 'admin@knp-fc-ep.vercel.app') {
         return true;
@@ -308,6 +320,15 @@ export default {
     },
   },
   methods: {
+    startTimer() {
+      this.timer = setInterval(() => {
+        this.timeElapsed++;
+        if (this.timeElapsed >= this.timeLimit) {
+          clearInterval(this.timer);
+          this.showAnswers = true;
+        }
+      }, 1000);
+    },
     loginUser() {
       const matchedUser = this.userdata.find(
         (user) =>
@@ -559,6 +580,7 @@ export default {
           break;
       }
       this.loaddata();
+      this.startTimer();
     },
     shuffleArray(array) {
       // Fisher-Yates shuffle algorithm
@@ -629,6 +651,8 @@ export default {
         this.isGroupDataLoading = false;
         this.allIsClicked = false;
         this.allSubIsClicked = false;
+        this.timer = null;
+        this.timeElapsed = 0;
         MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
       } else {
         this.selectedCategory = null;
