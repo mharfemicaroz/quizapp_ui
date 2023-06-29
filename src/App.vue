@@ -580,7 +580,6 @@ export default {
           break;
       }
       this.loaddata();
-      this.startTimer();
     },
     shuffleArray(array) {
       // Fisher-Yates shuffle algorithm
@@ -657,6 +656,7 @@ export default {
         clearInterval(this.timer);
         this.timer = null;
         this.timeElapsed = 0;
+        this.startTimer();
         MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
       } else {
         this.selectedCategory = null;
