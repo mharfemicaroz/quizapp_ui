@@ -91,53 +91,53 @@
               </div>
             </div>
           </div>
-        </div>
-        <div v-else>
-          <h1>Congratulations {{ quizzerName }}!</h1>
-          <h2>Quiz Result</h2>
-          <div class="result">
-            <p>You scored {{ correctAnswers }}/{{ questions.length }}</p>
-            <p>Percentage: {{ percentage.toFixed(2) }}%</p>
-            <p>You outperformed {{ getPercentile }}% of the quizzers in {{ selectedSubcategory }}.</p>
-            <div class="row justify-content-center" style="margin-bottom: 25px;">
-              <div class="col-md-12">
-                <div class="card">
-                  <div class="card-header text-dark text-center">
-                    <strong>Attempts</strong>
-                  </div>
-                  <div class="card-body chart">
-                    <line-chart :chartData="lineData" />
+          <div v-else>
+            <h1>Congratulations {{ quizzerName }}!</h1>
+            <h2>Quiz Result</h2>
+            <div class="result">
+              <p>You scored {{ correctAnswers }}/{{ questions.length }}</p>
+              <p>Percentage: {{ percentage.toFixed(2) }}%</p>
+              <p>You outperformed {{ getPercentile }}% of the quizzers in {{ selectedSubcategory }}.</p>
+              <div class="row justify-content-center" style="margin-bottom: 25px;">
+                <div class="col-md-12">
+                  <div class="card">
+                    <div class="card-header text-dark text-center">
+                      <strong>Attempts</strong>
+                    </div>
+                    <div class="card-body chart">
+                      <line-chart :chartData="lineData" />
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
+            <table class="table mt-4">
+              <thead>
+                <tr>
+                  <th>Question</th>
+                  <th>Selected Choice</th>
+                  <th>Correct Answer</th>
+                  <th>Result</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr v-for="(question, index) in questions" :key="index">
+                  <td v-html="question.question"></td>
+                  <td v-html="selectedChoices[index]"></td>
+                  <td v-html="question.answerKey"></td>
+                  <td>
+                    <span v-if="selectedChoices[index] === question.answerKey" class="text-success">
+                      <i class="bi bi-check-circle-fill"></i>
+                    </span>
+                    <span v-else class="text-danger">
+                      <i class="bi bi-x-circle-fill"></i>
+                    </span>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <button @click="initializeQuiz" class="btn btn-primary">Restart Quiz</button>
           </div>
-          <table class="table mt-4">
-            <thead>
-              <tr>
-                <th>Question</th>
-                <th>Selected Choice</th>
-                <th>Correct Answer</th>
-                <th>Result</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr v-for="(question, index) in questions" :key="index">
-                <td v-html="question.question"></td>
-                <td v-html="selectedChoices[index]"></td>
-                <td v-html="question.answerKey"></td>
-                <td>
-                  <span v-if="selectedChoices[index] === question.answerKey" class="text-success">
-                    <i class="bi bi-check-circle-fill"></i>
-                  </span>
-                  <span v-else class="text-danger">
-                    <i class="bi bi-x-circle-fill"></i>
-                  </span>
-                </td>
-              </tr>
-            </tbody>
-          </table>
-          <button @click="initializeQuiz" class="btn btn-primary">Restart Quiz</button>
         </div>
       </div>
     </div>
@@ -218,7 +218,7 @@ export default {
       return '';
     },
     filteredGroupData() {
-      const odata = (this.allIsClicked)? this.alldata:this.groupdata;
+      const odata = (this.allIsClicked) ? this.alldata : this.groupdata;
       const uniqueUsernames = [...new Set(odata.map(item => item.username))];
       const resultArray = [];
 
@@ -335,48 +335,54 @@ export default {
     loaddata() {
       this.isDone = false;
       this.isGroupDataLoading = false;
-      if(!this.allIsClicked){
-      axios
-        .get(`https://api.knp.edu.ph/api/public/api/results?username=${encodeURIComponent(this.login.username)}&category=${encodeURIComponent(this.selectedCategory.name)}&subcategory=${encodeURIComponent(this.selectedSubcategory)}`)
-        .then((response) => {
-          this.quizzerdata = response.data.results;
-        })
-        .catch((error) => {
-          console.error('Error loading the data:', error);
-        })
-        .finally(() => {
-          this.isDone = true; // Set loading state to false when the request is completed
-        });
+      if (!this.allIsClicked) {
         axios
-        .get(`https://api.knp.edu.ph/api/public/api/results?category=${encodeURIComponent(this.selectedCategory.name)}&subcategory=${encodeURIComponent(this.selectedSubcategory)}`)
-        .then((response) => {
-          this.groupdata = response.data.results;
-        })
-        .catch((error) => {
-          console.error('Error loading the data:', error);
-        })
-        .finally(() => {
-          this.isGroupDataLoading = true;
-        });
+          .get(`https://api.knp.edu.ph/api/public/api/results?username=${encodeURIComponent(this.login.username)}&category=${encodeURIComponent(this.selectedCategory.name)}&subcategory=${encodeURIComponent(this.selectedSubcategory)}`)
+          .then((response) => {
+            this.quizzerdata = response.data.results;
+          })
+          .catch((error) => {
+            console.error('Error loading the data:', error);
+          })
+          .finally(() => {
+            this.isDone = true; // Set loading state to false when the request is completed
+          });
+        axios
+          .get(`https://api.knp.edu.ph/api/public/api/results?category=${encodeURIComponent(this.selectedCategory.name)}&subcategory=${encodeURIComponent(this.selectedSubcategory)}`)
+          .then((response) => {
+            this.groupdata = response.data.results;
+          })
+          .catch((error) => {
+            console.error('Error loading the data:', error);
+          })
+          .finally(() => {
+            this.isGroupDataLoading = true;
+          });
       } else {
         axios
-        .get(`https://api.knp.edu.ph/api/public/api/results`)
-        .then((response) => {
-          this.alldata = response.data.results;
-        })
-        .catch((error) => {
-          console.error('Error loading the data:', error);
-        })
-        .finally(() => {
-          this.isGroupDataLoading = true;
-        });
+          .get(`https://api.knp.edu.ph/api/public/api/results`)
+          .then((response) => {
+            this.alldata = response.data.results;
+          })
+          .catch((error) => {
+            console.error('Error loading the data:', error);
+          })
+          .finally(() => {
+            this.isGroupDataLoading = true;
+          });
       }
 
     },
     getStandardDeviation(array) {
-      const n = array.length
-      const mean = array.reduce((a, b) => a + b) / n
-      return Math.sqrt(array.map(x => Math.pow(x - mean, 2)).reduce((a, b) => a + b) / n)
+      const o = array || [];
+      const n = o.length;
+
+      if (n === 0) {
+        return 0; // Return 0 for an empty array
+      }
+
+      const mean = o.reduce((a, b) => a + b, 0) / n;
+      return Math.sqrt(o.map(x => Math.pow(x - mean, 2)).reduce((a, b) => a + b, 0) / n);
     },
     GetZPercent(z) {
 
@@ -426,11 +432,11 @@ export default {
     selectCategory(category) {
       this.selectedCategory = category;
     },
-    selectAll(){
+    selectAll() {
       this.allIsClicked = true;
       this.selectedCategory = {
-          name: 'all',
-          subcategories: [],
+        name: 'all',
+        subcategories: [],
       };
       this.selectedSubcategory = 'all';
       this.loaddata();
@@ -626,7 +632,7 @@ export default {
   },
   mounted() {
     this.$nextTick(() => {
-      document.body.addEventListener('contextmenu', this.handleContextMenu);
+      //document.body.addEventListener('contextmenu', this.handleContextMenu);
     });
 
 
