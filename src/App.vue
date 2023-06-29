@@ -92,9 +92,9 @@
             </thead>
             <tbody>
               <tr v-for="(question, index) in questions" :key="index">
-                <td>{{ question.question }}</td>
-                <td>{{ selectedChoices[index] }}</td>
-                <td>{{ question.answerKey }}</td>
+                <td v-html="question.question"></td>
+                <td v-html="selectedChoices[index]"></td>
+                <td v-html="question.answerKey"></td>
                 <td>
                   <span v-if="selectedChoices[index] === question.answerKey" class="text-success">
                     <i class="bi bi-check-circle-fill"></i>
@@ -343,6 +343,7 @@ export default {
         this.lineData.datasets[0].data.push(parseFloat(item.percentage).toFixed(2));
       }
       this.loaded = Array(0).fill(true);
+      MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
     },
     selectCategory(category) {
       this.selectedCategory = category;
@@ -496,6 +497,7 @@ export default {
             confirmButtonText: 'Ok',
           }).then(() => {
             this.showAnswers = true;
+            MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
             this.processQuizzerData();
           });
         })
