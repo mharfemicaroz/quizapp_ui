@@ -23,6 +23,7 @@
             class="btn btn-primary btn-lg category">
             {{ category.name }}
           </button>
+          <button v-if="isAdmin" @click="selectAll" class="btn btn-primary btn-lg category">All</button>
         </div>
       </div>
       <div v-else-if="!selectedSubcategory">
@@ -51,13 +52,43 @@
           height="600" />
       </div>
       <div v-else>
-        <div class="card-lg" v-if="!showAnswers">
-          <div class="card-body">
-            <h4 class="card-title question" style="margin-bottom: 60px;" v-html="currentQuestion.question"></h4>
-            <div class="choices-container">
-              <button v-for="choice in shuffledChoices" :key="choice" @click="selectChoice(choice)"
-                class="btn btn-primary" :disabled="quizFinished" v-html="choice">
-              </button>
+        <div v-if="isAdmin">
+          <div v-if="isGroupDataLoading">
+            <h2>Summary on {{ selectedCategory.name }} / {{ selectedSubcategory }}</h2>
+            <table class="table mt-4">
+              <thead>
+                <tr>
+                  <th>No.</th>
+                  <th>username</th>
+                  <th>attempts</th>
+                  <th>average</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr v-for="(item, index) in filteredGroupData" :key="index">
+                  <td>{{ index + 1 }}</td>
+                  <td>{{ item.username }}</td>
+                  <td>{{ item.attempts }}</td>
+                  <td>{{ item.avg }}</td>
+                </tr>
+              </tbody>
+            </table>
+            <button @click="initializeQuiz" class="btn btn-primary">Go Back</button>
+          </div>
+          <div v-else class="text-center mt-4">
+            <img src="https://i.pinimg.com/originals/07/24/88/0724884440e8ddd0896ff557b75a222a.gif" width="600"
+              height="600" />
+          </div>
+        </div>
+        <div v-else>
+          <div class="card-lg" v-if="!showAnswers">
+            <div class="card-body">
+              <h4 class="card-title question" style="margin-bottom: 60px;" v-html="currentQuestion.question"></h4>
+              <div class="choices-container">
+                <button v-for="choice in shuffledChoices" :key="choice" @click="selectChoice(choice)"
+                  class="btn btn-primary" :disabled="quizFinished" v-html="choice">
+                </button>
+              </div>
             </div>
           </div>
         </div>
@@ -127,8 +158,11 @@ export default {
     return {
       isDone: false,
       loading: false,
+      isGroupDataLoading: false,
+      allIsClicked: false,
       quizzerdata: [],
       groupdata: [],
+      alldata: [],
       login: {
         username: '',
         password: '',
@@ -166,6 +200,12 @@ export default {
     };
   },
   computed: {
+    isAdmin() {
+      if (this.loggedIn && this.login.username === 'admin@knp-fc-ep.vercel.app') {
+        return true;
+      }
+      return false;
+    },
     quizzerName() {
       const matchedUser = this.userdata.find(
         (user) => user.email === this.login.username && user.password === this.login.password
@@ -176,6 +216,25 @@ export default {
       }
 
       return '';
+    },
+    filteredGroupData() {
+      const odata = (this.allIsClicked)? this.alldata:this.groupdata;
+      const uniqueUsernames = [...new Set(odata.map(item => item.username))];
+      const resultArray = [];
+
+      for (const username of uniqueUsernames) {
+        const filteredData = odata.filter(item => item.username === username);
+        const attempts = filteredData.length;
+        const accumulatedPercentage = filteredData.reduce((sum, item) => sum + parseFloat(item.percentage), 0);
+        const avg = (accumulatedPercentage / attempts).toFixed(2);
+
+        resultArray.push({ username, percentage: accumulatedPercentage, avg, attempts });
+      }
+
+      // Sort the resultArray based on accumulatedPercentage in descending order
+      resultArray.sort((a, b) => b.percentage - a.percentage);
+
+      return resultArray;
     },
     currentQuestion() {
       return this.questions && this.questions[this.currentQuestionIndex] ? this.questions[this.currentQuestionIndex] : [];
@@ -275,6 +334,8 @@ export default {
     },
     loaddata() {
       this.isDone = false;
+      this.isGroupDataLoading = false;
+      if(!this.allIsClicked){
       axios
         .get(`https://api.knp.edu.ph/api/public/api/results?username=${encodeURIComponent(this.login.username)}&category=${encodeURIComponent(this.selectedCategory.name)}&subcategory=${encodeURIComponent(this.selectedSubcategory)}`)
         .then((response) => {
@@ -286,7 +347,7 @@ export default {
         .finally(() => {
           this.isDone = true; // Set loading state to false when the request is completed
         });
-      axios
+        axios
         .get(`https://api.knp.edu.ph/api/public/api/results?category=${encodeURIComponent(this.selectedCategory.name)}&subcategory=${encodeURIComponent(this.selectedSubcategory)}`)
         .then((response) => {
           this.groupdata = response.data.results;
@@ -294,6 +355,23 @@ export default {
         .catch((error) => {
           console.error('Error loading the data:', error);
         })
+        .finally(() => {
+          this.isGroupDataLoading = true;
+        });
+      } else {
+        axios
+        .get(`https://api.knp.edu.ph/api/public/api/results`)
+        .then((response) => {
+          this.alldata = response.data.results;
+        })
+        .catch((error) => {
+          console.error('Error loading the data:', error);
+        })
+        .finally(() => {
+          this.isGroupDataLoading = true;
+        });
+      }
+
     },
     getStandardDeviation(array) {
       const n = array.length
@@ -347,6 +425,15 @@ export default {
     },
     selectCategory(category) {
       this.selectedCategory = category;
+    },
+    selectAll(){
+      this.allIsClicked = true;
+      this.selectedCategory = {
+          name: 'all',
+          subcategories: [],
+      };
+      this.selectedSubcategory = 'all';
+      this.loaddata();
     },
     selectSubcategory(subcategory) {
       this.selectedSubcategory = subcategory;
@@ -525,6 +612,8 @@ export default {
         this.lineData.datasets[0].data = [];
         this.quizzerdata = [];
         this.isDone = false;
+        this.isGroupDataLoading = false;
+        this.isAllDataLoading = true;
         MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
       } else {
         this.selectedCategory = null;
@@ -537,7 +626,7 @@ export default {
   },
   mounted() {
     this.$nextTick(() => {
-      //document.body.addEventListener('contextmenu', this.handleContextMenu);
+      document.body.addEventListener('contextmenu', this.handleContextMenu);
     });
 
 
