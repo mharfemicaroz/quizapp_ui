@@ -66,7 +66,6 @@
                   <th>index score</th>
                   <th>percentile</th>
                   <th>power score</th>
-                  <th>final score</th>
                 </tr>
               </thead>
               <tbody>
@@ -78,7 +77,6 @@
                   <td>{{ item.indexScore }}</td>
                   <td>{{ item.zPercent }}</td>
                   <td>{{ item.powerScore }}</td>
-                  <td>{{ item.finalScore }}</td>
                 </tr>
               </tbody>
             </table>
@@ -286,7 +284,7 @@ export default {
         result.finalScore = ((0.50 * result.zPercent) + (0.30 * result.powerScore) + (0.20 * result.indexScore)).toFixed(2);
       });
 
-      resultArray.sort((a, b) => b.finalScore - a.finalScore);
+      resultArray.sort((a, b) => b.powerScore - a.powerScore);
 
       return resultArray;
     },
