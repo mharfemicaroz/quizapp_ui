@@ -601,6 +601,8 @@ export default {
     showResult() {
       this.loading = true; // Add a loading state
       this.quizFinished = true;
+      this.timer = null;
+      this.timeElapsed = 0;
       const resultData = {
         username: this.login.username,
         datecreated: new Date().toISOString(),
