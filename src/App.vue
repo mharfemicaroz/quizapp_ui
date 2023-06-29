@@ -59,7 +59,7 @@
             <table class="table mt-4">
               <thead>
                 <tr>
-                  <th>No.</th>
+                  <th>Rank No.</th>
                   <th>username</th>
                   <th>attempts</th>
                   <th>average</th>
