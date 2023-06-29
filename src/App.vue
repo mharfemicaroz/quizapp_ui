@@ -601,6 +601,7 @@ export default {
     showResult() {
       this.loading = true; // Add a loading state
       this.quizFinished = true;
+      clearInterval(this.timer);
       this.timer = null;
       this.timeElapsed = 0;
       const resultData = {
@@ -653,6 +654,7 @@ export default {
         this.isGroupDataLoading = false;
         this.allIsClicked = false;
         this.allSubIsClicked = false;
+        clearInterval(this.timer);
         this.timer = null;
         this.timeElapsed = 0;
         MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
