@@ -34,6 +34,7 @@
               @click="selectSubcategory(subcategory)" class="btn btn-primary btn-lg category">
               {{ subcategory }}
             </button>
+            <button v-if="isAdmin" @click="selectSubAll" class="btn btn-primary btn-lg category">All</button>
           </div>
         </div>
         <div v-else>
@@ -160,6 +161,7 @@ export default {
       loading: false,
       isGroupDataLoading: false,
       allIsClicked: false,
+      allSubIsClicked: false,
       quizzerdata: [],
       groupdata: [],
       alldata: [],
@@ -218,7 +220,7 @@ export default {
       return '';
     },
     filteredGroupData() {
-      const odata = (this.allIsClicked) ? this.alldata : this.groupdata;
+      const odata = (this.allIsClicked) ? (!this.allSubIsClicked)? this.alldata: this.alldata.filter(item => item.category === this.selectedCategory.name) : this.groupdata;
       const uniqueUsernames = [...new Set(odata.map(item => item.username))];
       const resultArray = [];
 
@@ -441,6 +443,12 @@ export default {
       this.selectedSubcategory = 'all';
       this.loaddata();
     },
+    selectSubAll() {
+      this.allIsClicked = true;
+      this.allSubIsClicked = true;
+      this.selectedSubcategory = 'all';
+      this.loaddata();
+    },
     selectSubcategory(subcategory) {
       this.selectedSubcategory = subcategory;
 
@@ -619,7 +627,8 @@ export default {
         this.quizzerdata = [];
         this.isDone = false;
         this.isGroupDataLoading = false;
-        this.isAllDataLoading = true;
+        this.allIsClicked = false;
+        this.allSubIsClicked = false;
         MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
       } else {
         this.selectedCategory = null;
