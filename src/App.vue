@@ -59,10 +59,11 @@
             <table class="table mt-4">
               <thead>
                 <tr>
-                  <th>Rank No.</th>
+                  <th>rank</th>
                   <th>username</th>
                   <th>attempts</th>
                   <th>average</th>
+                  <th>index score</th>
                 </tr>
               </thead>
               <tbody>
@@ -71,6 +72,7 @@
                   <td>{{ item.username }}</td>
                   <td>{{ item.attempts }}</td>
                   <td>{{ item.avg }}</td>
+                  <td>{{ item.indexScore }}</td>
                 </tr>
               </tbody>
             </table>
@@ -232,7 +234,7 @@ export default {
       return '';
     },
     filteredGroupData() {
-      const odata = (this.allIsClicked) ? (!this.allSubIsClicked)? this.alldata: this.alldata.filter(item => item.category === this.selectedCategory.name) : this.groupdata;
+      const odata = (this.allIsClicked) ? (!this.allSubIsClicked) ? this.alldata : this.alldata.filter(item => item.category === this.selectedCategory.name) : this.groupdata;
       const uniqueUsernames = [...new Set(odata.map(item => item.username))];
       const resultArray = [];
 
@@ -245,8 +247,18 @@ export default {
         resultArray.push({ username, percentage: accumulatedPercentage, avg, attempts });
       }
 
-      // Sort the resultArray based on accumulatedPercentage in descending order
-      resultArray.sort((a, b) => b.percentage - a.percentage);
+      const maxAttempts = Math.max(...resultArray.map(result => result.attempts));
+      const minAttempts = Math.min(...resultArray.map(result => result.attempts));
+
+      resultArray.forEach(result => {
+        result.normalizeAttempt = ((result.attempts - minAttempts) / (maxAttempts - minAttempts)) * 100;
+      });
+
+      resultArray.forEach(result => {
+        result.indexScore = ((0.40 * result.normalizeAttempt) + (0.60 * result.avg)).toFixed(2);
+      });
+
+      resultArray.sort((a, b) => b.indexScore - a.indexScore);
 
       return resultArray;
     },
