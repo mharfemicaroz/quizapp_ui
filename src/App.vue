@@ -641,7 +641,7 @@ export default {
   },
   mounted() {
     this.$nextTick(() => {
-      //document.body.addEventListener('contextmenu', this.handleContextMenu);
+      document.body.addEventListener('contextmenu', this.handleContextMenu);
     });
 
 
