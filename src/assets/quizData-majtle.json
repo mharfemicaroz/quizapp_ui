@@ -17226,5 +17226,1205 @@
         "choice3": "Butane torch",
         "choice4": "Pipe wrench",
         "answerKey": "Pipe wrench"
+    },
+    {
+        "question": "The function of presser lever is to ______.",
+        "choice1": "keeps the fabric in place.",
+        "choice2": "runs the sewing machine.",
+        "choice3": "raises and lowers the presser foot.",
+        "choice4": "presses the needle through the fabric",
+        "answerKey": "raises and lowers the presser foot."
+    },
+    {
+        "question": "Standard thread used for most sewing is______.",
+        "choice1": "All-Purpose Cotton/Poly Blend.",
+        "choice2": "Quilting Thread.",
+        "choice3": "Embroidery Thread.",
+        "choice4": "Upholstery/Heavy Duty Thread.",
+        "answerKey": "All-Purpose Cotton/Poly Blend."
+    },
+    {
+        "question": "When pressing a garment, using a pressing cloth protects the fabric from ______.",
+        "choice1": "the heat of the iron.",
+        "choice2": "shiny marks made by the iron.",
+        "choice3": "getting wet from the steam.",
+        "choice4": "it doesn’t do any good to use a pressing cloth.",
+        "answerKey": "shiny marks made by the iron."
+    },
+    {
+        "question": "The best temperature setting for ironing or pressing synthetic fabrics is ______.",
+        "choice1": "Low",
+        "choice2": "Medium",
+        "choice3": "High",
+        "choice4": "Ultra-High with Steam",
+        "answerKey": "Low"
+    },
+    {
+        "question": "The outside edge of the presser foot is approximately _______ from the needle when in the center position.",
+        "choice1": "5/8”",
+        "choice2": "3/4”",
+        "choice3": "1/4”",
+        "choice4": "1/8”",
+        "answerKey": "1/4”"
+    },
+    {
+        "question": "The thread take-up leaver needs to be _______.",
+        "choice1": "tight before starting to sew.",
+        "choice2": "in the middle before starting to sew.",
+        "choice3": "at the lowest point before starting to sew.",
+        "choice4": "at the highest point before starting to sew.",
+        "answerKey": "at the highest point before starting to sew."
+    },
+    {
+        "question": "A common reason for skipped stitches could be ______.",
+        "choice1": "the needle is blunt, bent or threaded incorrectly.",
+        "choice2": "you are using poor thread or fabric.",
+        "choice3": "the thread tension is too tight or loose.",
+        "choice4": "all of the above.",
+        "answerKey": "all of the above."
+    },
+    {
+        "question": "When the stitches are not flat on both sides of the fabric after sewing, you should ____.",
+        "choice1": "check the upper threading.",
+        "choice2": "check the upper and lower tensions.",
+        "choice3": "Both of the choices.",
+        "choice4": "None of the choices.",
+        "answerKey": "Both of the choices."
+    },
+    {
+        "question": "Cotton is comfortable to wear. It is also ________.",
+        "choice1": "absorbs moisture.",
+        "choice2": "takes a long time to dry.",
+        "choice3": "is expensive.",
+        "choice4": "comes from animals.",
+        "answerKey": "absorbs moisture."
+    },
+    {
+        "question": "Blends are created in yarns and thread to:",
+        "choice1": "make materials more “full.”",
+        "choice2": "make aesthetically pleasing designs in fabrics.",
+        "choice3": "reduce the cost of yarns.",
+        "choice4": "utilize the positive characteristics of each fiber.",
+        "answerKey": "utilize the positive characteristics of each fiber."
+    },
+    {
+        "question": "When cutting out a pattern, the notch is:",
+        "choice1": "a straight line with arrows on the end of it.",
+        "choice2": "the guide for the straight of the grain.",
+        "choice3": "the guide for cutting out the right size.",
+        "choice4": "a small diamond shaped marking you cut around.",
+        "answerKey": "a small diamond shaped marking you cut around."
+    },
+    {
+        "question": "When pre-washing fabrics, you should:",
+        "choice1": "always use hot water.",
+        "choice2": "launder it the same way it will be washed or dried when the project is completed.",
+        "choice3": "always dry clean the materials.",
+        "choice4": "always use cold water and avoid machine drying the material.",
+        "answerKey": "launder it the same way it will be washed or dried when the project is completed."
+    },
+    {
+        "question": "When cutting one-way, or directional, prints:",
+        "choice1": "it does not matter which direction the pieces are laid out.",
+        "choice2": "cut one pattern piece at a time.",
+        "choice3": "make sure to cut all pieces in the same direction.",
+        "choice4": "none of the above.",
+        "answerKey": "make sure to cut all pieces in the same direction."
+    },
+    {
+        "question": "How is a serger different from a regular sewing machine?",
+        "choice1": "A serger is easier to thread.",
+        "choice2": "A serger trims, stitches and finishes seams.",
+        "choice3": "A serger sews slowly.",
+        "choice4": "A serger has two bobbins.",
+        "answerKey": "A serger trims, stitches and finishes seams."
+    },
+    {
+        "question": "What tool is intended for cutting off or ripping out stitches from seam?",
+        "choice1": "buttonholes scissors",
+        "choice2": "embroidery scissors",
+        "choice3": "rotary cutter and mat",
+        "choice4": "seam ripper",
+        "answerKey": "seam ripper"
+    },
+    {
+        "question": "Which of the following is not a type of shears?",
+        "choice1": "cutting shears",
+        "choice2": "pinking shears",
+        "choice3": "scalloping shears",
+        "choice4": "zigzag shears",
+        "answerKey": "zigzag shears"
+    },
+    {
+        "question": "When drafting the pattern paper laid in the smooth and firm surface, what wooden table are you going to use?",
+        "choice1": "cutting table",
+        "choice2": "Ironing board",
+        "choice3": "drafting table",
+        "choice4": "sleeve board",
+        "answerKey": "drafting table"
+    },
+    {
+        "question": "The following are considered the desires or wants of a consumer. Which of these are NOT.",
+        "choice1": "Education",
+        "choice2": "Sports car",
+        "choice3": "Nutritious foods",
+        "choice4": "Health care",
+        "answerKey": "I, III and IV"
+    },
+    {
+        "question": "Which of the following exists when a specific person an enterprise is the only supplier of a particular commodity?",
+        "choice1": "Monopoly",
+        "choice2": "Partnership",
+        "choice3": "Potency",
+        "choice4": "Purity",
+        "answerKey": "Monopoly"
+    },
+    {
+        "question": "The Philippine government adopted R.A 7394 also known as__________.",
+        "choice1": "Consumer Act of the Philippines of 1991",
+        "choice2": "Consumer Protection Act 1986",
+        "choice3": "Consumer Protection Act 1896",
+        "choice4": "Consumers Protections Act 1976",
+        "answerKey": "Consumer Act of the Philippines of 1991"
+    },
+    {
+        "question": "Mae buy groceries in the convenient store, before she buy a can goods she makes sure that she will look for the label and the expiry date of the product. What rights Mae was being exercised?",
+        "choice1": "Right to choose",
+        "choice2": "Right to basic needs",
+        "choice3": "Right to be informed",
+        "choice4": "Right to safety",
+        "answerKey": "Right to be informed"
+    },
+    {
+        "question": "A boy in the street was crying because he was hungry and he has no home to live. Which of the following deprived to a boy?",
+        "choice1": "Right to basic needs",
+        "choice2": "Right to be informed",
+        "choice3": "Right to be heard",
+        "choice4": "Right to redress",
+        "answerKey": "Right to basic needs"
+    },
+    {
+        "question": "Ms. Pacaco eating lunch in a restaurant, she observed that the restaurant is so dirty. Which of these rights the said restaurant violated?",
+        "choice1": "Right to be cleaned",
+        "choice2": "Right to healthy environment",
+        "choice3": "Right to be informed",
+        "choice4": "All of the above",
+        "answerKey": "All of the above"
+    },
+    {
+        "question": "Ms. Generoso wants to know the flavour of the spaghetti sauce and she intends to buy, so she asks the sales lady. What consumer right Ms. Generoso exercised?",
+        "choice1": "Responsibility to speak out",
+        "choice2": "Responsibility to be aware",
+        "choice3": "Responsibility to ask",
+        "choice4": "Responsibility to buy",
+        "answerKey": "Responsibility to ask"
+    },
+    {
+        "question": "A consumer has to be mindful of the safety and qualities of products and services before purchasing.",
+        "choice1": "Responsibility to think independently",
+        "choice2": "Responsibility to be aware",
+        "choice3": "Responsibility to speak out",
+        "choice4": "Responsibility to complain",
+        "answerKey": "Responsibility to be aware"
+    },
+    {
+        "question": "Junho ordered a shoes in the online shop worth of P5,960 but sadly, he received a shoes not pair. He contacts the seller to complain but the seller did not reply. What right of consumer was deprived?",
+        "choice1": "Right to be informed",
+        "choice2": "Right to redress",
+        "choice3": "Right to choose",
+        "choice4": "Right to safety",
+        "answerKey": "Right to redress"
+    },
+    {
+        "question": "This right protects the consumer from large companies that sell products and services.\nI. Right to consumer education II. Right to healthy environment III. Right to complain IV. Right to be aware",
+        "choice1": "I and II",
+        "choice2": "I only",
+        "choice3": "II only",
+        "choice4": "none of these",
+        "answerKey": "I and II"
+    },
+    {
+        "question": "Ruth wants to buy can goods in the supermarket; she always makes sure that she is mindful of the safety and quality of the products before purchasing. What consumer responsibility Ruth practiced?",
+        "choice1": "Responsibility to be aware",
+        "choice2": "Responsibility to speak out",
+        "choice3": "Responsibility to complain",
+        "choice4": "Responsibility to be an ethical consumer",
+        "answerKey": "Responsibility to be aware"
+    },
+    {
+        "question": "Maria wants to buy a new shoes, she wants to know what materials are used. What rights of consumer Maria exercised?",
+        "choice1": "Right to choose",
+        "choice2": "Right to safety",
+        "choice3": "Right to basic needs",
+        "choice4": "Right to inform",
+        "answerKey": "Right to inform"
+    },
+    {
+        "question": "Mrs. Cruz is a new worker in a bakery, her supervisor asked her to add 1 tsp. of salt but without knowing he added an oxalic powder to the mixture. Which of the following types of food adulteration Mrs. Cruz done?",
+        "choice1": "Intentional adulteration",
+        "choice2": "Metallic adulteration",
+        "choice3": "Incidental adulteration",
+        "choice4": "Non-nutritious adulteration",
+        "answerKey": "Incidental adulteration"
+    },
+    {
+        "question": "All of these are examples of responsibility to be aware EXCEPT.",
+        "choice1": "Finding the discount percent and the price of the product",
+        "choice2": "Checking the expiration date of the product",
+        "choice3": "Making Budget list for groceries and shopping",
+        "choice4": "Knowing the quality and longevility of the product.",
+        "answerKey": "Making Budget list for groceries and shopping"
+    },
+    {
+        "question": "San Andres Elementary School celebrated their 21st foundation, the principal ordered foods in a famous restaurant in their place. After the celebration, many students and teachers have stomach ache, vomiting and diarrhea, and they admitted to the hospital. The doctor concluded that the caused were the foods they ate. Which of the following rights of consumer were deprived?",
+        "choice1": "Right to safety",
+        "choice2": "Right to be informed",
+        "choice3": "Right to be heard",
+        "choice4": "Right to choose",
+        "answerKey": "Right to safety"
+    },
+    {
+        "question": "Maria wants to eat donuts but before buying she ask the vendor if the donut is new cooked and what flavors are available, she wants to know it first in order for her to decide if what to buy. What act Maria exercised?",
+        "choice1": "Warranty",
+        "choice2": "Citizen charter",
+        "choice3": "Guarantee",
+        "choice4": "Marketing",
+        "answerKey": "Guarantee"
+    },
+    {
+        "question": "An act requires all agencies to maintain honesty and responsibility among its public officials and employees.",
+        "choice1": "Anti – red tape act of 2007",
+        "choice2": "Anti – yellow tape act of 2007",
+        "choice3": "Anti – red tape act of 2009",
+        "choice4": "Anti – yellow tape act of 2009",
+        "answerKey": "Anti – red tape act of 2007"
+    },
+    {
+        "question": "A la carte is a French phrase that translates literally to _______",
+        "choice1": "Depending on what's available",
+        "choice2": "According to the menu",
+        "choice3": "According to what the chef prepares",
+        "choice4": "All of the above",
+        "answerKey": "According to the menu"
+    },
+    {
+        "question": "It typically presents everything a bar or restaurant offers, and is divided into categories that don't change very often which means the customer experience is consistent.",
+        "choice1": "Prix Fixe Menu",
+        "choice2": "Static Menu",
+        "choice3": "Table d'Hote Menu",
+        "choice4": "Cycle Menu",
+        "answerKey": "Static Menu"
+    },
+    {
+        "question": "A menu that provides the most freedom as it offers a choice of appetizer, entree, and dessert all at a fixed total price.",
+        "choice1": "Prix Fixe Menu",
+        "choice2": "Table d'Hote Menu",
+        "choice3": "Cycle Menu",
+        "choice4": "Static Menu",
+        "answerKey": "Table d'Hote Menu"
+    },
+    {
+        "question": "Cooking techniques are not based on arbitrary rules that some chefs made up long ago. Rather, they are based on an understanding of how different foods react when heated in various ways, when combined in various proportions, and so on.",
+        "choice1": "False",
+        "choice2": "The first statement is true while the second statement is false",
+        "choice3": "The first statement is false while the second statement is true.",
+        "choice4": "True",
+        "answerKey": "True"
+    },
+    {
+        "question": "His practical and theoretical work as an author and an inventor of recipes that was responsible, to a large extent, for bringing cooking out of the Middle Ages and into the modern period. He emphasized procedure and order with the goal to create more lightness and simplicity.",
+        "choice1": "Georges-Auguste Escoffier",
+        "choice2": "Guillaume Tirel",
+        "choice3": "François-Pierre de La Varenne",
+        "choice4": "Marie-Antoine Carême",
+        "answerKey": "Marie-Antoine Carême"
+    },
+    {
+        "question": "He called for order and diversity and emphasized the careful selection of one or be dishes per course, dishes that followed one another harmoniously and delighted the tale with their delicacy and simplicity",
+        "choice1": "Marie-Antoine Carême",
+        "choice2": "Guillaume Tirel",
+        "choice3": "Georges-Auguste Escoffier",
+        "choice4": "François-Pierre de La Varenne",
+        "answerKey": "Georges-Auguste Escoffier"
+    },
+    {
+        "question": "Pertains to a smaller establishment, with check tablecloths, bentwood chairs, cluttered décor and friendly informal staff.",
+        "choice1": "Cafeteria",
+        "choice2": "Coffee Shop",
+        "choice3": "Restaurant",
+        "choice4": "Bistro",
+        "answerKey": "Bistro"
+    },
+    {
+        "question": "Primarily self-service with customer choosing selection from a counter or counters in varying designs and Layouts.",
+        "choice1": "Cafeteria",
+        "choice2": "Restaurant",
+        "choice3": "Coffee Shop",
+        "choice4": "Bistro",
+        "answerKey": "Cafeteria"
+    },
+    {
+        "question": "According to Weber, the ideal business structure for bureaucratic system is based on:",
+        "choice1": "Command",
+        "choice2": "Detailed Plan",
+        "choice3": "Forecast",
+        "choice4": "Clear division of labor",
+        "answerKey": "Clear division of labor"
+    },
+    {
+        "question": "Pertains to a list of items available for purchase or that will be provided.",
+        "choice1": "Menu card",
+        "choice2": "All of the above",
+        "choice3": "Recipe",
+        "choice4": "Menu",
+        "answerKey": "Menu"
+    },
+    {
+        "question": "This type of menu is commonly seen in Mc Donald's, Jollibee and food chains with thick plastic coated bound menus you get when you go out to a diner with lots of breakfast and lunch options",
+        "choice1": "A La Carte",
+        "choice2": "Du jour Menu",
+        "choice3": "Cycle Menu",
+        "choice4": "Static Menu",
+        "answerKey": "Static Menu"
+    },
+    {
+        "question": "According to OpenTable, 75% of consumers still visits a restaurant with a negative review about its cleanliness",
+        "choice1": "False",
+        "choice2": "Both a and b",
+        "choice3": "A only",
+        "choice4": "True",
+        "answerKey": "True"
+    },
+    {
+        "question": "A downloadable application-a piece of software that exists solely to show you a bar or restaurant's menu. They're mostly designed for mobile devices, so they've mobile apps.",
+        "choice1": "Menu",
+        "choice2": "Menu App",
+        "choice3": "QR Code",
+        "choice4": "Menu Card",
+        "answerKey": "Menu App"
+    },
+    {
+        "question": "_______ is the planning, organizing, compensation, integration and maintenance of people for the purpose of contributing to organizational, individual and societal goals.",
+        "choice1": "Personnel Management",
+        "choice2": "Personnel Organization",
+        "choice3": "Employee Management",
+        "choice4": "Management",
+        "answerKey": "Personnel Management"
+    },
+    {
+        "question": "What do you call the type of skill in making items from wood?",
+        "choice1": "Carving",
+        "choice2": "Carpentry",
+        "choice3": "Wood turning",
+        "choice4": "Woodworking",
+        "answerKey": "Woodworking"
+    },
+    {
+        "question": "They are famous in carving the mountain slope of Banaue which is the rice terraces.",
+        "choice1": "Ifugao woodcarvers",
+        "choice2": "Maranao woodcarvers",
+        "choice3": "Tagbanwa woodcarvers",
+        "choice4": "Paete woodcarvers",
+        "answerKey": "Ifugao woodcarvers"
+    },
+    {
+        "question": "They are known to use okkil motif in their woodcraft.",
+        "choice1": "Ifugao",
+        "choice2": "Maranao",
+        "choice3": "Tagbanwa",
+        "choice4": "Paete",
+        "answerKey": "Maranao"
+    },
+    {
+        "question": "Is considered an art using fire or heat to decorate wood or leather.",
+        "choice1": "Flocking",
+        "choice2": "Pyrography",
+        "choice3": "Hand carving",
+        "choice4": "Woodturning",
+        "answerKey": "Pyrography"
+    },
+    {
+        "question": "It is an ornamentation of textiles and other materials with needlework.",
+        "choice1": "Sewing",
+        "choice2": "Knitting",
+        "choice3": "Embroidery",
+        "choice4": "Tapestry",
+        "answerKey": "Embroidery"
+    },
+    {
+        "question": "It is used to measure more than one foot distance.",
+        "choice1": "Stilleto",
+        "choice2": "Crewell",
+        "choice3": "Tape measure",
+        "choice4": "Pin Cushion",
+        "answerKey": "Tape measure"
+    },
+    {
+        "question": "A fine powder used in transferring design by pricking method.",
+        "choice1": "Tape measure",
+        "choice2": "Pounce",
+        "choice3": "Stiletto",
+        "choice4": "Embroidery Scissor",
+        "answerKey": "Pounce"
+    },
+    {
+        "question": "A type of needle used for most standard embroidery stitchery.",
+        "choice1": "Crewell",
+        "choice2": "Pin cushion",
+        "choice3": "Tapestry needle",
+        "choice4": "Chenille",
+        "answerKey": "Crewell"
+    },
+    {
+        "question": "A tool used to keep pins and needles in place.",
+        "choice1": "Tapestry needle",
+        "choice2": "Pin cushion",
+        "choice3": "Crewell",
+        "choice4": "Chenille",
+        "answerKey": "Pin cushion"
+    },
+    {
+        "question": "Decorating with knotted string is:",
+        "choice1": "Decal",
+        "choice2": "Macramé",
+        "choice3": "Papier-mache",
+        "choice4": "Origami",
+        "answerKey": "Macramé"
+    },
+    {
+        "question": "In what country was origami invented?",
+        "choice1": "India",
+        "choice2": "China",
+        "choice3": "Japan",
+        "choice4": "Russia",
+        "answerKey": "China"
+    },
+    {
+        "question": "Some origami models are made up of many pieces folded and then joined together. What is this style of origami called?",
+        "choice1": "Puzzle origami",
+        "choice2": "Constructed origami",
+        "choice3": "Set origami",
+        "choice4": "Modular origami",
+        "answerKey": "Modular origami"
+    },
+    {
+        "question": "Which artist was the first living person to have art displayed in the Louvre?",
+        "choice1": "Egon Schiele",
+        "choice2": "Gustav Courbet",
+        "choice3": "George Braque",
+        "choice4": "Jean-Francois Millet",
+        "answerKey": "Gustav Courbet"
+    },
+    {
+        "question": "It is a special stress given to an element to make it stand out.",
+        "choice1": "Variety",
+        "choice2": "Dominance",
+        "choice3": "Balance",
+        "choice4": "Emphasis",
+        "answerKey": "Emphasis"
+    },
+    {
+        "question": "It is a chart of color that displays the relationships of each color that can create the appeal of the design.",
+        "choice1": "Color Scheme",
+        "choice2": "Principles Of Design",
+        "choice3": "Color Wheel",
+        "choice4": "Design Concepts",
+        "answerKey": "Color Wheel"
+    },
+    {
+        "question": "He considered that the social stage is the important part of psychological development because our relationship with others helps reduce emotional concerns such as depression or anxiety.",
+        "choice1": "Morgan",
+        "choice2": "Walker",
+        "choice3": "Maslow",
+        "choice4": "Skinner",
+        "answerKey": "Maslow"
+    },
+    {
+        "question": "These are less tangible resources which originate internally and constitute the personal characteristics and attributes.",
+        "choice1": "Resources",
+        "choice2": "Material resources",
+        "choice3": "Non-human resources",
+        "choice4": "Human resources",
+        "answerKey": "Human resources"
+    },
+    {
+        "question": "Ms. Regine aims to achieve and grow out of values, desires, and needs. Which of these does she must have?",
+        "choice1": "Values",
+        "choice2": "Standard",
+        "choice3": "Goals",
+        "choice4": "Resources",
+        "answerKey": "Values"
+    },
+    {
+        "question": "Renz is the head of the family. He wants to ensure that his children will acquire a good education. Which of the following should Renz do?",
+        "choice1": "Educational planning",
+        "choice2": "Educational goal",
+        "choice3": "Educational attainment",
+        "choice4": "Educational resources",
+        "answerKey": "Educational planning"
+    },
+    {
+        "question": "Ms. Parason and Franchette use Gcash to keep their money. What advantage of technology has been attained by Ms. Parason and Franchette?",
+        "choice1": "Saves time",
+        "choice2": "Ease of mobility",
+        "choice3": "Improve banking",
+        "choice4": "Cost efficiency",
+        "answerKey": "Improve banking"
+    },
+    {
+        "question": "This refers to the most easily perishable of all the resources.",
+        "choice1": "Energy",
+        "choice2": "Labor",
+        "choice3": "Time",
+        "choice4": "Material",
+        "answerKey": "Time"
+    },
+    {
+        "question": "The following are considered as productive capital EXCEPT.",
+        "choice1": "Money",
+        "choice2": "Wheelbarrow",
+        "choice3": "Rice Mill",
+        "choice4": "Harvester",
+        "answerKey": "Money"
+    },
+    {
+        "question": "Which of the following is the correct definition of the term 'entrepreneur'?",
+        "choice1": "A person who pursues opportunity without regard to resources",
+        "choice2": "Starts a new business with the aim of making profit",
+        "choice3": "Seeks to create value for local communities, people or customers by starting new ventures which exploit new products, processes or markets",
+        "choice4": "Seeks to generate value through creation or expansion of economic activity, by identifying and exploiting new products, processes or markets",
+        "answerKey": "Seeks to create value for local communities, people or customers by starting new ventures which exploit new products, processes or markets"
+    },
+    {
+        "question": "Which of the following skills are NOT needed by an entrepreneur?",
+        "choice1": "Technical skills",
+        "choice2": "Personal entrepreneurial skills",
+        "choice3": "Working skills",
+        "choice4": "Business management skills",
+        "answerKey": "Working skills"
+    },
+    {
+        "question": "Which of the following statement is INAPPROPRIATE in starting a business?",
+        "choice1": "Study the concepts and principles of entrepreneurial skills",
+        "choice2": "Cope with failures of the business",
+        "choice3": "Undergo training on entrepreneurial skills",
+        "choice4": "Know what characteristics are needed to become an entrepreneur",
+        "answerKey": "Cope with failures of the business"
+    },
+    {
+        "question": "Which of the following is NOT a source of fund for Ms. Burgos' future business?",
+        "choice1": "Seek assistance from central bank of the Philippines",
+        "choice2": "Borrow money from friends and relatives",
+        "choice3": "Avail of the government program on financing micro-macro business",
+        "choice4": "Use part of her retirement benefit",
+        "answerKey": "Seek assistance from central bank of the Philippines"
+    },
+    {
+        "question": "If her business idea is a boutique, what quality of a future entrepreneur is INAPPROPRIATE?",
+        "choice1": "Relaxed",
+        "choice2": "Hardworker",
+        "choice3": "Risk-taker",
+        "choice4": "Innovative",
+        "answerKey": "Relaxed"
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of an entrepreneur?",
+        "choice1": "Coping with failure",
+        "choice2": "Irritated",
+        "choice3": "Opportunity seeker",
+        "choice4": "Persistent",
+        "answerKey": "Irritated"
+    },
+    {
+        "question": "Which among these characteristics of an entrepreneur?",
+        "choice1": "Coping with failure",
+        "choice2": "Goal setter",
+        "choice3": "Futuristic",
+        "choice4": "Impassive",
+        "answerKey": "Impassive"
+    },
+    {
+        "question": "Which of the following is a primary cause of failure in small businesses?",
+        "choice1": "Poor financial control",
+        "choice2": "Poor location",
+        "choice3": "Management mistakes",
+        "choice4": "Improper inventory control",
+        "answerKey": "Poor financial control"
+    },
+    {
+        "question": "Which of these traits gets an entrepreneur off of his/her feet and puts him/her into action, turning daydreams into reality?",
+        "choice1": "Perseverance",
+        "choice2": "Ambition",
+        "choice3": "Creativity",
+        "choice4": "Enthusiasm",
+        "answerKey": "Enthusiasm"
+    },
+    {
+        "question": "Which entrepreneurial trait gives an entrepreneur a positive outlook in life which gives the energy to pursue his/her endeavor?",
+        "choice1": "Perseverance",
+        "choice2": "Ambition",
+        "choice3": "Creativity",
+        "choice4": "Enthusiasm",
+        "answerKey": "Ambition"
+    },
+    {
+        "question": "With which trait is an entrepreneur able to withstand the troubles that come with a starting business?",
+        "choice1": "Perseverance",
+        "choice2": "Ambition",
+        "choice3": "Creativity",
+        "choice4": "Enthusiasm",
+        "answerKey": "Perseverance"
+    },
+    {
+        "question": "It refers to the ability to take measured or calculated risks.",
+        "choice1": "Persistent",
+        "choice2": "Risk-taker",
+        "choice3": "Hardworking",
+        "choice4": "Profit-oriented",
+        "answerKey": "Risk-taker"
+    },
+    {
+        "question": "What PEC’s must be apply in order to handle unusual events that may happen in business?",
+        "choice1": "Copes with uncertainty",
+        "choice2": "Takes the initiative",
+        "choice3": "Set own standard",
+        "choice4": "Responds to feedback",
+        "answerKey": "Copes with uncertainty"
+    },
+    {
+        "question": "Which of the ff. Statements is correct?",
+        "choice1": "An entrepreneur exerts time and effort",
+        "choice2": "An entrepreneur is concerned about his/her income",
+        "choice3": "An entrepreneur is forward-looking",
+        "choice4": "All of the above",
+        "answerKey": "All of the above"
+    },
+    {
+        "question": "Which of the following refers to protecting the safety, health, and welfare of the people engaged in work or employment?",
+        "choice1": "Occupational health and safety",
+        "choice2": "Occupational health and safety standards",
+        "choice3": "Labor code",
+        "choice4": "Occupational health and safety commission",
+        "answerKey": "Occupational health and safety"
+    },
+    {
+        "question": "Which type of preventive sign shall be used only when an immediate hazard exists?",
+        "choice1": "Caution sign",
+        "choice2": "Exit sign",
+        "choice3": "Danger sign",
+        "choice4": "Safety instruction sign",
+        "answerKey": "Exit sign"
+    },
+    {
+        "question": "Arranging things systematically in the workplace is one of the '5s' of Japanese Productivity Philosophy. Which of the following refers to systemizing or setting in order?",
+        "choice1": "SEIRI",
+        "choice2": "SEISO",
+        "choice3": "SEITON",
+        "choice4": "SEIKETSO",
+        "answerKey": "SEITON"
+    },
+    {
+        "question": "The Japanese '5s' SHITSUKE means _____.",
+        "choice1": "Sustain",
+        "choice2": "Systematize",
+        "choice3": "Sort",
+        "choice4": "Standardize",
+        "answerKey": "Standardize"
+    },
+    {
+        "question": "Working for a long period in an awkward position may develop long-term health problems. This is classified as _____.",
+        "choice1": "Biological Hazard",
+        "choice2": "Psychological Hazard",
+        "choice3": "Physical Hazard",
+        "choice4": "Ergonomic Hazard",
+        "answerKey": "Ergonomic Hazard"
+    },
+    {
+        "question": "Which is an advantage of the proper use of tools and equipment?",
+        "choice1": "Accuracy in job/task performance is achieved",
+        "choice2": "Shop efficiency is promoted",
+        "choice3": "There is high quality of work",
+        "choice4": "All of the above",
+        "answerKey": "All of the above"
+    },
+    {
+        "question": "Why are leavenings used in baking?",
+        "choice1": "Light and easy to chew",
+        "choice2": "Easy to digest",
+        "choice3": "Soft and more porous",
+        "choice4": "All of the above",
+        "answerKey": "All of the above"
+    },
+    {
+        "question": "Which of these spices or additives promotes the quality of the baked product?",
+        "choice1": "Cinnamon",
+        "choice2": "Vanilla",
+        "choice3": "Ginger",
+        "choice4": "Both A and C",
+        "answerKey": "Both A and C"
+    },
+    {
+        "question": "Why are you fond of eating cake?",
+        "choice1": "Boosts your energy",
+        "choice2": "Symbolizes courtship",
+        "choice3": "Taste the sweetness",
+        "choice4": "All of these",
+        "answerKey": "All of these"
+    },
+    {
+        "question": "What type of cookery term is used for coating flour with shortening?",
+        "choice1": "Blending",
+        "choice2": "Creaming",
+        "choice3": "Beating",
+        "choice4": "Sifting",
+        "answerKey": "Sifting"
+    },
+    {
+        "question": "How can you distinguish the appearance of flour?",
+        "choice1": "Rub between your fingers",
+        "choice2": "Hold its shape when pressed together",
+        "choice3": "Smooth like talcum powder",
+        "choice4": "All of these",
+        "answerKey": "All of these"
+    },
+    {
+        "question": "These are examples of liquid ingredients.",
+        "choice1": "Water",
+        "choice2": "Milk",
+        "choice3": "Fruit Juices",
+        "choice4": "All of these",
+        "answerKey": "All of these"
+    },
+    {
+        "question": "Which type of ingredient contributes to the improvement of the taste and eating qualities of baked goods?",
+        "choice1": "Shortening",
+        "choice2": "Milk",
+        "choice3": "Sugar",
+        "choice4": "Vanilla",
+        "answerKey": "Sugar"
+    },
+    {
+        "question": "A method of separating coarse particles in the ingredients by passing through a sifter is called _____.",
+        "choice1": "Creaming",
+        "choice2": "Sifting",
+        "choice3": "Drain",
+        "choice4": "Whipping",
+        "answerKey": "Sifting"
+    },
+    {
+        "question": "A deep bowl used for mixing ingredients is called a _____.",
+        "choice1": "Soup Bowl",
+        "choice2": "Mixing Bowl",
+        "choice3": "Mixing Plate",
+        "choice4": "All of these",
+        "answerKey": "All of these"
+    },
+    {
+        "question": "Frostings are products that are closely associated with sugar. What kind of sugar is primarily used in the preparation of flat icing with buttercream?",
+        "choice1": "Refined",
+        "choice2": "Brown Sugar",
+        "choice3": "Centrifugal sugar",
+        "choice4": "Confectioner sugar",
+        "answerKey": "Confectioner sugar"
+    },
+    {
+        "question": "Every value is expressed in terms of calories, which represents the chemical energy that is released as heat when food is oxidized. Which nutrient has more than twice the calories per gram?",
+        "choice1": "Carbohydrates",
+        "choice2": "Protein",
+        "choice3": "Fat",
+        "choice4": "Fiber",
+        "answerKey": "Fat"
+    },
+    {
+        "question": "What is the conversion equivalent of one inch to centimeter?",
+        "choice1": "25.4",
+        "choice2": "0.254",
+        "choice3": "2.54",
+        "choice4": "0.0254",
+        "answerKey": "2.54"
+    },
+    {
+        "question": "There are numerous kinds of saws. When sawing along the grain of wood, you need a ________.",
+        "choice1": "Back saw",
+        "choice2": "Rip saw",
+        "choice3": "Cross-cut saw",
+        "choice4": "Circular saw",
+        "answerKey": "Rip saw"
+    },
+    {
+        "question": "The preparation of good quality lumber indicates several stages. When it is dried, the process involved is ________.",
+        "choice1": "Seasoning",
+        "choice2": "Lumbering",
+        "choice3": "Staining",
+        "choice4": "Logging",
+        "answerKey": "Seasoning"
+    },
+    {
+        "question": "A seasoned lumber is ideal for carpentry works. Which among the following is best to use?",
+        "choice1": "Sun-dried",
+        "choice2": "Air-dried",
+        "choice3": "Kiln-dried",
+        "choice4": "Natural dried",
+        "answerKey": "Kiln-dried"
+    },
+    {
+        "question": "Fastening materials are important in woodworking. The most common of these materials is _____.",
+        "choice1": "Dowel",
+        "choice2": "Screw",
+        "choice3": "Bolts",
+        "choice4": "Nails",
+        "answerKey": "Nails"
+    },
+    {
+        "question": "The strongest form of wood joint applicable for table legs is ________.",
+        "choice1": "Miter",
+        "choice2": "Dado",
+        "choice3": "Mortise and tenon",
+        "choice4": "Butt and lap",
+        "answerKey": "Mortise and tenon"
+    },
+    {
+        "question": "A surfaced lumber where four of its sides are smooth or planed is called ________.",
+        "choice1": "S3S",
+        "choice2": "Rough",
+        "choice3": "S2S",
+        "choice4": "S4S",
+        "answerKey": "S4S"
+    },
+    {
+        "question": "A wood product made of three or more veneer slices that are laid one upon the other and bonded with glue or synthetic resin.",
+        "choice1": "Pressed wood",
+        "choice2": "Particle board",
+        "choice3": "Plywood",
+        "choice4": "Softwood",
+        "answerKey": "Plywood"
+    },
+    {
+        "question": "In carpentry, splicing or joining of wood using two side blocks is called ________.",
+        "choice1": "Lapping",
+        "choice2": "Finishing",
+        "choice3": "Scarfing",
+        "choice4": "Butt-joint",
+        "answerKey": "Butt-joint"
+    },
+    {
+        "question": "There is a considerable number of wood joints. The simplest and easiest to make is ________.",
+        "choice1": "lap joint",
+        "choice2": "miter joint",
+        "choice3": "dado joint",
+        "choice4": "butt joint",
+        "answerKey": "butt joint"
+    },
+    {
+        "question": "Which of the following tools is used in checking the squareness of the corners and flatness of a surface?",
+        "choice1": "straightedge",
+        "choice2": "sliding T-bevel",
+        "choice3": "steel square",
+        "choice4": "try square",
+        "answerKey": "steel square"
+    },
+    {
+        "question": "You are almost finished with your project. One of the procedures below is done before the application of the finishing materials.",
+        "choice1": "cutting",
+        "choice2": "sanding",
+        "choice3": "spraying",
+        "choice4": "varnishing",
+        "answerKey": "sanding"
+    },
+    {
+        "question": "What kind of wood finishing material is used when you want a solid color instead of a wood pattern finished?",
+        "choice1": "opaque finishes",
+        "choice2": "stains",
+        "choice3": "bleaches",
+        "choice4": "lacquers",
+        "answerKey": "opaque finishes"
+    },
+    {
+        "question": "A saw angle should be adjusted depending on the kind of wood. What is the recommended angle for soft and thin wood?",
+        "choice1": "30 – 45 degrees",
+        "choice2": "30-40 degrees",
+        "choice3": "60 degrees",
+        "choice4": "20 degrees",
+        "answerKey": "30 – 45 degrees"
+    },
+    {
+        "question": "In a wooden floor system, the major horizontal support member upon which the floor system is laid is the ________.",
+        "choice1": "floor joint",
+        "choice2": "header",
+        "choice3": "sill",
+        "choice4": "girder",
+        "answerKey": "header"
+    },
+    {
+        "question": "The structure that holds the poured concrete until it hardens to form the concrete beam or post.",
+        "choice1": "scaffolding",
+        "choice2": "forms",
+        "choice3": "batter board",
+        "choice4": "stake",
+        "answerKey": "forms"
+    },
+    {
+        "question": "To convert from feet to get the number of meters, multiply feet by ________?",
+        "choice1": "0.3048",
+        "choice2": "30.48",
+        "choice3": "25.4",
+        "choice4": "2.54",
+        "answerKey": "0.3048"
+    },
+    {
+        "question": "How many pieces of 4” x 8” concrete hollow blocks (CHB) can be laid per bag of cement as mortar?",
+        "choice1": "55 to 60 pcs",
+        "choice2": "30 to 36 pcs",
+        "choice3": "25 to 30 pcs",
+        "choice4": "40 to 45 pcs",
+        "answerKey": "55 to 60 pcs"
+    },
+    {
+        "question": "Which of the following refers to the structural reinforcing member that holds or binds together the main reinforcement of a column?",
+        "choice1": "lateral tie",
+        "choice2": "spiral tie",
+        "choice3": "stirrups",
+        "choice4": "rebars",
+        "answerKey": "lateral tie"
+    },
+    {
+        "question": "What tool or instrument is used to set up the lateral level of a concrete fence?",
+        "choice1": "water hose level",
+        "choice2": "plumb bob",
+        "choice3": "spirit level",
+        "choice4": "straight edge",
+        "answerKey": "water hose level"
+    },
+    {
+        "question": "According to the building code of the Philippines, for how many days shall concrete be maintained above 10 °C temperature and in a moist condition?",
+        "choice1": "3 days",
+        "choice2": "7 days",
+        "choice3": "5 days",
+        "choice4": "10 days",
+        "answerKey": "7 days"
+    },
+    {
+        "question": "What type of hydraulic cement is widely used in small and large construction, including roads and highways?",
+        "choice1": "hydraulic cement",
+        "choice2": "pozzolan cement",
+        "choice3": "portland cement",
+        "choice4": "lime",
+        "answerKey": "portland cement"
+    },
+    {
+        "question": "The condition of a loudspeaker is tested more accurately using one of the ranges listed below.",
+        "choice1": "R x 1K",
+        "choice2": "R x 1",
+        "choice3": "R x 10",
+        "choice4": "R x 10K",
+        "answerKey": "R x 1"
+    },
+    {
+        "question": "The common cause of an erratic or distorted sound of a transistor to a 220 volts AC outlet. What component is usually destroyed?",
+        "choice1": "amplifier",
+        "choice2": "antenna",
+        "choice3": "volume control",
+        "choice4": "tuner",
+        "answerKey": "volume control"
+    },
+    {
+        "question": "An ordinary radio can be tuned to different stations. The electronic component responsible for this function is the ________.",
+        "choice1": "tuning capacitor",
+        "choice2": "IF transformer",
+        "choice3": "oscillator coil",
+        "choice4": "detector diode",
+        "answerKey": "tuning capacitor"
+    },
+    {
+        "question": "An appliance with a 110 Volts AC supply is accidentally plugged into a 220 Volts AC outlet. What component is usually destroyed?",
+        "choice1": "switch",
+        "choice2": "line fuse",
+        "choice3": "AC plug",
+        "choice4": "power transformer",
+        "answerKey": "line fuse"
+    },
+    {
+        "question": "Imagine three resistors in parallel, with values of 22Ω, 27Ω, and 33Ω. If a 12 V battery is connected across this combination, what is the current drawn from the battery?",
+        "choice1": "1.4 A",
+        "choice2": "150 mA",
+        "choice3": "15 mA",
+        "choice4": "1.5 A",
+        "answerKey": "15 mA"
+    },
+    {
+        "question": "A schematic diagram shows the components of an electronic circuit by means of ________.",
+        "choice1": "symbols",
+        "choice2": "physical appearance",
+        "choice3": "construction",
+        "choice4": "linear appearance",
+        "answerKey": "symbols"
+    },
+    {
+        "question": "The voltage rating found in a capacitor is called ________.",
+        "choice1": "peak-reverse voltage",
+        "choice2": "blow-up voltage",
+        "choice3": "working voltage",
+        "choice4": "breakdown voltage",
+        "answerKey": "working voltage"
+    },
+    {
+        "question": "There are various types of diodes. The diode that acts as a regulator is the ________.",
+        "choice1": "silicon diode",
+        "choice2": "light emitting diode (LED)",
+        "choice3": "crystal diode",
+        "choice4": "zener diode",
+        "answerKey": "zener diode"
+    },
+    {
+        "question": "If the transistor is an NPN type, the base is ________.",
+        "choice1": "negative & positive",
+        "choice2": "positive",
+        "choice3": "negative",
+        "choice4": "common",
+        "answerKey": "positive"
+    },
+    {
+        "question": "The type of current whose amplitude drops to zero periodically and is produced in a rectifier is known as ________.",
+        "choice1": "pulsating direct current",
+        "choice2": "varying direct current",
+        "choice3": "damped alternating current",
+        "choice4": "sawtooth wave",
+        "answerKey": "pulsating direct current"
+    },
+    {
+        "question": "Which is an electronic device that is used to limit or oppose the flow of current in a circuit?",
+        "choice1": "capacitor",
+        "choice2": "diode",
+        "choice3": "resistor",
+        "choice4": "inductor",
+        "answerKey": "resistor"
+    },
+    {
+        "question": "If a 10K resistor is placed across a 10V supply, the current will be ________.",
+        "choice1": "10mA",
+        "choice2": "1mA",
+        "choice3": "0.001mA",
+        "choice4": "65mA",
+        "answerKey": "0.001mA"
+    },
+    {
+        "question": "Which is TRUE of a series DC motor with no load?",
+        "choice1": "tends to stop or not start",
+        "choice2": "has reverse direction",
+        "choice3": "may be damaged by excessive speed",
+        "choice4": "becomes an AC generator",
+        "answerKey": "may be damaged by excessive speed"
+    },
+    {
+        "question": "A circuit having two or more current paths is ______________ connection.",
+        "choice1": "parallel",
+        "choice2": "series-parallel",
+        "choice3": "series",
+        "choice4": "cannot be determined",
+        "answerKey": "parallel"
+    },
+    {
+        "question": "Which rectifier circuit uses four diodes for its rectification?",
+        "choice1": "half-wave rectifier",
+        "choice2": "full-wave bridge rectifier",
+        "choice3": "full-wave rectifier",
+        "choice4": "split-type rectifier",
+        "answerKey": "full-wave bridge rectifier"
+    },
+    {
+        "question": "The production of a magnetic field by current in a conductor.",
+        "choice1": "electromagnetism",
+        "choice2": "magnetism",
+        "choice3": "ferromagnetism",
+        "choice4": "diamagnetism",
+        "answerKey": "electromagnetism"
+    },
+    {
+        "question": "Which of the following principles is least to consider in buying fruits?",
+        "choice1": "Check the color of the fruits",
+        "choice2": "Buy fruits that are in season",
+        "choice3": "Buy fruits in kilo rather than by piece",
+        "choice4": "Be sure that the fruits have no bruises",
+        "answerKey": "Buy fruits in kilo rather than by piece"
+    },
+    {
+        "question": "Which among the snacks below are low cost but highly nutritious and easy to prepare?",
+        "choice1": "Palitao",
+        "choice2": "Champorado",
+        "choice3": "ginataang halu-halo",
+        "choice4": "arroz caldo",
+        "answerKey": "arroz caldo"
+    },
+    {
+        "question": "3My grade 3 sister is inactive in her classes. The school clinic reported that she is malnourished. What kind of diet are you going to recommend?",
+        "choice1": "Fish, eggs & meat",
+        "choice2": "Potatoes, chicken & fruits",
+        "choice3": "mustard, fish & rice",
+        "choice4": "milk, eggs & cereal",
+        "answerKey": "Potatoes, chicken & fruits"
+    },
+    {
+        "question": "In salad preparation, which among the steps is least to be considered?",
+        "choice1": "Color of the vegetables",
+        "choice2": "Sizes and weight",
+        "choice3": "nutritional value",
+        "choice4": "palatability and aroma",
+        "answerKey": "Sizes and weight"
+    },
+    {
+        "question": "What vitamin do we get from yellow foods?",
+        "choice1": "Vitamin A",
+        "choice2": "Vitamin K",
+        "choice3": "Vitamin D",
+        "choice4": "Vitamin E",
+        "answerKey": "Vitamin A"
+    },
+    {
+        "question": "Which nutrient has more than twice the amount of calorie per gram?",
+        "choice1": "Carbohydrate",
+        "choice2": "Fat",
+        "choice3": "Protein",
+        "choice4": "Mineral",
+        "answerKey": "Fat"
+    },
+    {
+        "question": "Wise buying means buying the right kind, right time, the right place, and the right price. What does 'the right kind' mean?",
+        "choice1": "Buy those which are fresh",
+        "choice2": "Buy those which are good quality",
+        "choice3": "Buy only at reliable sources stores",
+        "choice4": "Buy those which fit the intended purpose",
+        "answerKey": "Buy those which are good quality"
+    },
+    {
+        "question": "Good health and good looks are partners. Which of the following statements supports it?",
+        "choice1": "A good foot spa is needed for healthy feet",
+        "choice2": "With good health, you can maintain good posture",
+        "choice3": "Retainer can correct protruding teeth",
+        "choice4": "Wear an expensive garment to conceal poor health",
+        "answerKey": "With good health, you can maintain good posture"
+    },
+    {
+        "question": "A healthy person should do the following EXCEPT ________.",
+        "choice1": "Control what to eat between meals",
+        "choice2": "Maintain a good figure",
+        "choice3": "Possess a pleasant disposition",
+        "choice4": "Drink lots of coffee",
+        "answerKey": "Drink lots of coffee"
+    },
+    {
+        "question": "If you cannot stand the hunger pangs, what is advisable to take?",
+        "choice1": "Have a bit of biscuits",
+        "choice2": "Drink bottled water",
+        "choice3": "Eat rice, water, and salt",
+        "choice4": "Take a glass of milk",
+        "answerKey": "Drink bottled water"
+    },
+    {
+        "question": "A pattern of eating that includes how much, what, and how often a person eats.",
+        "choice1": "Metabolism",
+        "choice2": "Calories",
+        "choice3": "Diet",
+        "choice4": "Vitamins",
+        "answerKey": "Diet"
     }
 ]
