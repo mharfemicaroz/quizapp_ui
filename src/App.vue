@@ -339,7 +339,7 @@ export default {
   },
   async created() {
     this.userdata = userdata;
-    const response = await axios.get('http://worldtimeapi.org/api/timezone/Asia/Manila');
+    const response = await axios.get('https://worldtimeapi.org/api/timezone/Asia/Manila');
     const datenow = new Date(response.data.datetime).toLocaleDateString();
     if (datenow === "7/3/2023") {
       $("#app").empty();
