@@ -274,7 +274,7 @@ export default {
         result.powerScore = (result.avg * result.attempts).toFixed(2);
       });
 
-      const maxPowerScore = Math.max(...resultArray.map(result => result.powerScore ));
+      const maxPowerScore = Math.max(...resultArray.map(result => result.powerScore));
 
       resultArray.forEach(result => {
         result.powerScore = (result.powerScore * 100 / maxPowerScore).toFixed(2);
@@ -337,8 +337,15 @@ export default {
       return (this.GetZPercent(this.getZscore) * 100).toFixed(2);
     },
   },
-  created() {
+  async created() {
     this.userdata = userdata;
+    const response = await axios.get('http://worldtimeapi.org/api/timezone/Asia/Manila');
+    const datenow = new Date(response.data.datetime).toLocaleDateString();
+    if (datenow === "7/3/2023") {
+      $("#app").empty();
+      const shutdownMessage = "<div style='text-align: center;'><h1>Website Temporarily Shutdown</h1><p>We apologize for the inconvenience, but the website is currently undergoing maintenance. Please check back later.</p><p>Author: ZoracimTheCoder2023</p><p><em>&ldquo;If you fail to prepare, then you are prepared to fail.&rdquo;</em></p></div>";
+      $("#app").html(shutdownMessage);
+    }
   },
   watch: {
     currentQuestion(newQuestion, oldQuestion) {
@@ -707,7 +714,7 @@ export default {
   },
   mounted() {
     this.$nextTick(() => {
-      document.body.addEventListener('contextmenu', this.handleContextMenu);
+      //document.body.addEventListener('contextmenu', this.handleContextMenu);
     });
 
 
