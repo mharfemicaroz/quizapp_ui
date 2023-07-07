@@ -15,138 +15,156 @@
       </form>
     </div>
     <div v-else>
-      <div v-if="!selectedCategory">
-        <h1>Welcome, {{ quizzerName }}</h1>
-        <h2 style="margin-bottom: 25px;">Select a Category</h2>
-        <div class="categories">
-          <button v-for="category in categories" :key="category.name" @click="selectCategory(category)"
-            class="btn btn-primary btn-lg category">
-            {{ category.name }}
-          </button>
-          <button v-if="isAdmin" @click="selectAll" class="btn btn-primary btn-lg category">All</button>
-        </div>
-      </div>
-      <div v-else-if="!selectedSubcategory">
-        <div v-if="selectedCategory && selectedCategory.subcategories.length > 0">
-          <h2 style="margin-bottom: 25px;">Select a Subcategory</h2>
-          <div class="subcategories">
-            <button v-for="subcategory in selectedCategory.subcategories" :key="subcategory"
-              @click="selectSubcategory(subcategory)" class="btn btn-primary btn-lg category">
-              {{ subcategory }}
-            </button>
-            <button v-if="isAdmin" @click="selectSubAll" class="btn btn-primary btn-lg category">All</button>
+      <div v-if="showRating">
+        <h3>Verify Link</h3>
+        <div v-if="!isVerified">
+          <p>You should have received an email containing the verification code at your KNP Edu email address, <i
+              class="text-primary" style="text-decoration: underline;">{{ userEmail }}</i>. Kindly input the code provided
+            below for verification.</p>
+          <div class="form-group mb-3">
+            <input type="text" class="form-control" id="verificationCode" v-model="verificationCode"
+              placeholder="Enter verification code here!">
           </div>
+          <button class="btn btn-primary" @click="verifyCode">Verify</button>
         </div>
         <div v-else>
-          <h2>No Subcategories Available</h2>
-          <p style="margin-bottom: 25px;">Please choose a category again:</p>
+          <p>Verification successful!</p>
+        </div>
+      </div>
+      <div v-else>
+        <div v-if="!selectedCategory">
+          <h1>Welcome, {{ quizzerName }}</h1>
+          <h2 style="margin-bottom: 25px;">Select a Category</h2>
           <div class="categories">
             <button v-for="category in categories" :key="category.name" @click="selectCategory(category)"
               class="btn btn-primary btn-lg category">
               {{ category.name }}
             </button>
+            <button v-if="isAdmin" @click="selectAll" class="btn btn-primary btn-lg category">All</button>
           </div>
         </div>
-      </div>
-      <div v-else-if="loading" class="text-center mt-4">
-        <img src="https://i.pinimg.com/originals/07/24/88/0724884440e8ddd0896ff557b75a222a.gif" width="600"
-          height="600" />
-      </div>
-      <div v-else>
-        <div v-if="isAdmin">
-          <div v-if="isGroupDataLoading">
-            <h2>Summary on {{ selectedCategory.name }} / {{ selectedSubcategory }}</h2>
-            <table class="table mt-4">
-              <thead>
-                <tr>
-                  <th>rank</th>
-                  <th>username</th>
-                  <th>attempts</th>
-                  <th>average</th>
-                  <th>index score</th>
-                  <th>percentile</th>
-                  <th>power score</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr v-for="(item, index) in filteredGroupData" :key="index">
-                  <td>{{ index + 1 }}</td>
-                  <td>{{ item.username }}</td>
-                  <td>{{ item.attempts }}</td>
-                  <td>{{ item.avg }}</td>
-                  <td>{{ item.indexScore }}</td>
-                  <td>{{ item.zPercent }}</td>
-                  <td>{{ item.powerScore }}</td>
-                </tr>
-              </tbody>
-            </table>
-            <button @click="initializeQuiz" class="btn btn-primary">Go Back</button>
-          </div>
-          <div v-else class="text-center mt-4">
-            <img src="https://i.pinimg.com/originals/07/24/88/0724884440e8ddd0896ff557b75a222a.gif" width="600"
-              height="600" />
-          </div>
-        </div>
-        <div v-else>
-          <div class="card-lg" v-if="!showAnswers">
-            <div class="card-body">
-              <div class="timer text-primary text-center" style="margin-bottom: 60px;">
-                <h5>Time Left: {{ minutes }}:{{ seconds < 10 ? '0' + seconds : seconds }}</h5>
-              </div>
-              <h4 class="card-title question" style="margin-bottom: 60px;" v-html="currentQuestion.question"></h4>
-              <div class="choices-container">
-                <button v-for="choice in shuffledChoices" :key="choice" @click="selectChoice(choice)"
-                  class="btn btn-primary" :disabled="quizFinished" v-html="choice">
-                </button>
-              </div>
+        <div v-else-if="!selectedSubcategory">
+          <div v-if="selectedCategory && selectedCategory.subcategories.length > 0">
+            <h2 style="margin-bottom: 25px;">Select a Subcategory</h2>
+            <div class="subcategories">
+              <button v-for="subcategory in selectedCategory.subcategories" :key="subcategory"
+                @click="selectSubcategory(subcategory)" class="btn btn-primary btn-lg category">
+                {{ subcategory }}
+              </button>
+              <button v-if="isAdmin" @click="selectSubAll" class="btn btn-primary btn-lg category">All</button>
             </div>
           </div>
           <div v-else>
-            <h1>Congratulations {{ quizzerName }}!</h1>
-            <h2>Quiz Result</h2>
-            <div class="result">
-              <p>You scored {{ correctAnswers }}/{{ questions.length }}</p>
-              <p>Percentage: {{ percentage.toFixed(2) }}%</p>
-              <p>You outperformed {{ getPercentile }}% of the quizzers in {{ selectedSubcategory }}.</p>
-              <div class="row justify-content-center" style="margin-bottom: 25px;">
-                <div class="col-md-12">
-                  <div class="card">
-                    <div class="card-header text-dark text-center">
-                      <strong>Attempts</strong>
-                    </div>
-                    <div class="card-body chart">
-                      <line-chart :chartData="lineData" />
+            <h2>No Subcategories Available</h2>
+            <p style="margin-bottom: 25px;">Please choose a category again:</p>
+            <div class="categories">
+              <button v-for="category in categories" :key="category.name" @click="selectCategory(category)"
+                class="btn btn-primary btn-lg category">
+                {{ category.name }}
+              </button>
+            </div>
+          </div>
+        </div>
+        <div v-else-if="loading" class="text-center mt-4">
+          <img src="https://i.pinimg.com/originals/07/24/88/0724884440e8ddd0896ff557b75a222a.gif" width="600"
+            height="600" />
+        </div>
+        <div v-else>
+          <div v-if="isAdmin">
+            <div v-if="isGroupDataLoading">
+              <h2>Summary on {{ selectedCategory.name }} / {{ selectedSubcategory }}</h2>
+              <table class="table mt-4">
+                <thead>
+                  <tr>
+                    <th>rank</th>
+                    <th>username</th>
+                    <th>attempts</th>
+                    <th>average</th>
+                    <th>index score</th>
+                    <th>percentile</th>
+                    <th>power score</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr v-for="(item, index) in filteredGroupData" :key="index">
+                    <td>{{ index + 1 }}</td>
+                    <td>{{ item.username }}</td>
+                    <td>{{ item.attempts }}</td>
+                    <td>{{ item.avg }}</td>
+                    <td>{{ item.indexScore }}</td>
+                    <td>{{ item.zPercent }}</td>
+                    <td>{{ item.powerScore }}</td>
+                  </tr>
+                </tbody>
+              </table>
+              <button @click="initializeQuiz" class="btn btn-primary">Go Back</button>
+            </div>
+            <div v-else class="text-center mt-4">
+              <img src="https://i.pinimg.com/originals/07/24/88/0724884440e8ddd0896ff557b75a222a.gif" width="600"
+                height="600" />
+            </div>
+          </div>
+          <div v-else>
+            <div class="card-lg" v-if="!showAnswers">
+              <div class="card-body">
+                <div class="timer text-primary text-center" style="margin-bottom: 60px;">
+                  <h5>Time Left: {{ minutes }}:{{ seconds < 10 ? '0' + seconds : seconds }}</h5>
+                </div>
+                <h4 class="card-title question" style="margin-bottom: 60px;" v-html="currentQuestion.question"></h4>
+                <div class="choices-container">
+                  <button v-for="choice in shuffledChoices" :key="choice" @click="selectChoice(choice)"
+                    class="btn btn-primary" :disabled="quizFinished" v-html="choice">
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div v-else>
+              <h1>Congratulations {{ quizzerName }}!</h1>
+              <h2>Quiz Result</h2>
+              <div class="result">
+                <p>You scored {{ correctAnswers }}/{{ questions.length }}</p>
+                <p>Percentage: {{ percentage.toFixed(2) }}%</p>
+                <p>You outperformed {{ getPercentile }}% of the quizzers in {{ selectedSubcategory }}.</p>
+                <div class="row justify-content-center" style="margin-bottom: 25px;">
+                  <div class="col-md-12">
+                    <div class="card">
+                      <div class="card-header text-dark text-center">
+                        <strong>Attempts</strong>
+                      </div>
+                      <div class="card-body chart">
+                        <line-chart :chartData="lineData" />
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
+              <table class="table mt-4">
+                <thead>
+                  <tr>
+                    <th>Question</th>
+                    <th>Selected Choice</th>
+                    <th>Correct Answer</th>
+                    <th>Result</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr v-for="(question, index) in questions" :key="index">
+                    <td v-html="question.question"></td>
+                    <td v-html="selectedChoices[index]"></td>
+                    <td v-html="question.answerKey"></td>
+                    <td>
+                      <span v-if="selectedChoices[index] === question.answerKey" class="text-success">
+                        <i class="bi bi-check-circle-fill"></i>
+                      </span>
+                      <span v-else class="text-danger">
+                        <i class="bi bi-x-circle-fill"></i>
+                      </span>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <button @click="initializeQuiz" class="btn btn-primary">Restart Quiz</button>
             </div>
-            <table class="table mt-4">
-              <thead>
-                <tr>
-                  <th>Question</th>
-                  <th>Selected Choice</th>
-                  <th>Correct Answer</th>
-                  <th>Result</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr v-for="(question, index) in questions" :key="index">
-                  <td v-html="question.question"></td>
-                  <td v-html="selectedChoices[index]"></td>
-                  <td v-html="question.answerKey"></td>
-                  <td>
-                    <span v-if="selectedChoices[index] === question.answerKey" class="text-success">
-                      <i class="bi bi-check-circle-fill"></i>
-                    </span>
-                    <span v-else class="text-danger">
-                      <i class="bi bi-x-circle-fill"></i>
-                    </span>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <button @click="initializeQuiz" class="btn btn-primary">Restart Quiz</button>
           </div>
         </div>
       </div>
@@ -159,6 +177,7 @@ import LineChart from "./components/LineChart.vue";
 import Swal from 'sweetalert2';
 import axios from 'axios';
 import userdata from './assets/userdata.json'
+import sgMail from '@sendgrid/mail';
 
 export default {
   components: {
@@ -166,6 +185,8 @@ export default {
   },
   data() {
     return {
+      userEmail: '',
+      showRating: true,
       timer: null,
       timeLimit: 900, // 15 minutes in seconds
       timeElapsed: 0,
@@ -174,6 +195,9 @@ export default {
       isGroupDataLoading: false,
       allIsClicked: false,
       allSubIsClicked: false,
+      verificationCode: '',
+      isVerified: false,
+      userCode: '',
       quizzerdata: [],
       groupdata: [],
       alldata: [],
@@ -365,6 +389,35 @@ export default {
     },
   },
   methods: {
+    sendEmail(email) {
+      sgMail.setApiKey("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")
+      const msg = {
+        to: 'mharfe_micaroz@knp.edu.ph', // Change to your recipient
+        from: 'mharfe_micaroz@knp.edu.ph', // Change to your verified sender
+        subject: 'Sending with SendGrid is Fun',
+        text: 'and easy to do anywhere, even with Node.js',
+        html: '<strong>and easy to do anywhere, even with Node.js</strong>',
+      }
+      sgMail
+        .send(msg)
+        .then(() => {
+          console.log('Email sent')
+        })
+        .catch((error) => {
+          console.error(error)
+        })
+    },
+    verifyCode() {
+      if (this.verificationCode !== "" && this.verificationCode === this.userCode) {
+        this.isVerified = true;
+      } else {
+        Swal.fire({
+          icon: 'error',
+          title: 'Invalid verification code. ',
+          text: 'Please try again.',
+        });
+      }
+    },
     startTimer() {
       this.timer = setInterval(() => {
         this.timeElapsed++;
@@ -383,8 +436,11 @@ export default {
       if (matchedUser) {
         // User login successful
         this.loggedIn = true;
+        this.userEmail = matchedUser.email;
+        this.userCode = matchedUser.code;
         this.selectedCategory = null;
         this.selectedSubcategory = null;
+        this.sendEmail(this.userEmail);
         Swal.fire({
           icon: 'success',
           title: 'Login Successful',
@@ -765,5 +821,4 @@ export default {
 
 .card-body.chart {
   height: 300px;
-}
-</style>
+}</style>
